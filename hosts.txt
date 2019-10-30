@@ -1,10 +1,10 @@
 # Scam Blocklist by DurableNapkin
-# Updated: 2019-10-30
+# Updated: 2019-10-30 15:09:37
 # https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # -
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
-# License: MIT
+# License: MIT (https://mit-license.org/)
 
 # https://www.trustpilot.com/review/ikiha.com
 0.0.0.0 ikiha.com
