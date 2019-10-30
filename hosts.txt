@@ -1,47 +1,11 @@
 # Scam Blocklist by DurableNapkin
-# Updated: 2019-10-30 18:00:01
+# Updated: 2019-10-30 18:38:51
 # https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # -
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
-0.0.0.0 amdestore.com
-0.0.0.0 www.amdestore.com
-0.0.0.0 deforts.com
-0.0.0.0 www.deforts.com
-0.0.0.0 furoshop.com
-0.0.0.0 www.furoshop.com
-0.0.0.0 giftbias.com
-0.0.0.0 www.giftbias.com
-0.0.0.0 gracesector.com
-0.0.0.0 www.gracesector.com
-0.0.0.0 ikiha.com
-0.0.0.0 www.ikiha.com
-0.0.0.0 koouniji.com
-0.0.0.0 www.koouniji.com
-0.0.0.0 loveshop20.com
-0.0.0.0 www.loveshop20.com
-0.0.0.0 lucidtiger.com
-0.0.0.0 www.lucidtiger.com
-0.0.0.0 luckiehomie.com
-0.0.0.0 www.luckiehomie.com
-0.0.0.0 luckyhomie.com
-0.0.0.0 www.luckyhomie.com
-0.0.0.0 mercyzone.com
-0.0.0.0 www.mercyzone.com
-0.0.0.0 nanistores.com
-0.0.0.0 www.nanistores.com
-0.0.0.0 nedistore.com
-0.0.0.0 www.nedistore.com
-0.0.0.0 poravoda.com
-0.0.0.0 www.poravoda.com
-0.0.0.0 tinycutestuffs.com
-0.0.0.0 www.tinycutestuffs.com
-0.0.0.0 ureashi.com
-0.0.0.0 www.ureashi.com
-0.0.0.0 uredaka.com
-0.0.0.0 www.uredaka.com
 0.0.0.0 68blessed.com
 0.0.0.0 www.68blessed.com
 0.0.0.0 amdestore.com
