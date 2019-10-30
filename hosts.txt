@@ -1,0 +1,17 @@
+# Scam Blocklist by DurableNapkin
+# Updated: 2019-10-30
+# https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+# -
+# Home: https://github.com/durablenapkin/scamblocklist
+# Contribute: https://github.com/durablenapkin/scamblocklist/issues
+# License: MIT
+
+# https://www.trustpilot.com/review/ikiha.com
+0.0.0.0 ikiha.com
+0.0.0.0 www.ikiha.com
+0.0.0.0 ureashi.com
+0.0.0.0 www.ureashi.com
+
+# https://www.trustpilot.com/review/luckyhomie.com
+0.0.0.0 luckyhomie.com
+0.0.0.0 www.luckyhomie.com
