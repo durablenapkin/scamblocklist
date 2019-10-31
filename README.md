@@ -2,17 +2,17 @@
 
 A blocklist to protect users against untrustworthy retail sites.
 
-Contribute: https://github.com/durablenapkin/scamblocklist/issues
+Nightly updates with dead/invalid domains removed.
+
+**Scam Blocklist URL: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt**
 
 Special shoutout to `www.ikiha.com` for inspiring the creation of this project (included in this blocklist). All I wanted was the chubby seal plushie.
 
+Contribute: https://github.com/durablenapkin/scamblocklist/issues
+
 ## How to Use
 
-Scam Blocklist URL: `https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt`
-
-In uBlock Origin ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)) you can add the Scam Blocklist URL as a `Custom Filter List`.
-
-Otherwise, the Scam Blocklist is compatible with other adblockers - such as OpenWRT adblock/simple-adblock, Pi-hole - and can easily be added as another list.
+The Scam Blocklist can easily be added as another list in adblockers. In uBlock Origin ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)) you can add it as a `Custom Filter List` under the `Filter lists` tab.
 
 ## Resources
 

@@ -1,11 +1,3 @@
-# Scam Blocklist by DurableNapkin
-# Domains: 82
-# -
-# Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
-# Home: https://github.com/durablenapkin/scamblocklist
-# Contribute: https://github.com/durablenapkin/scamblocklist/issues
-# License: MIT (https://mit-license.org/)
-
 0.0.0.0 68blessed.com
 0.0.0.0 www.68blessed.com
 0.0.0.0 amdestore.com
