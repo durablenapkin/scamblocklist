@@ -42,6 +42,9 @@
 0.0.0.0 aozeala.com
 0.0.0.0 www.aozeala.com
 0.0.0.0 store.aozeala.com
+0.0.0.0 arnoldgloverruss58.myshopify.com
+0.0.0.0 www.arnoldgloverruss58.myshopify.com
+0.0.0.0 store.arnoldgloverruss58.myshopify.com
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
 0.0.0.0 store.atrendsz.com
@@ -150,6 +153,9 @@
 0.0.0.0 familybestgifts.com
 0.0.0.0 www.familybestgifts.com
 0.0.0.0 store.familybestgifts.com
+0.0.0.0 familygiftlove.myshopify.com
+0.0.0.0 www.familygiftlove.myshopify.com
+0.0.0.0 store.familygiftlove.myshopify.com
 0.0.0.0 familylovesgift.com
 0.0.0.0 www.familylovesgift.com
 0.0.0.0 store.familylovesgift.com
@@ -213,6 +219,9 @@
 0.0.0.0 hbofunkoshop.com
 0.0.0.0 www.hbofunkoshop.com
 0.0.0.0 store.hbofunkoshop.com
+0.0.0.0 helpnanacenter.helpscoutdocs.com
+0.0.0.0 www.helpnanacenter.helpscoutdocs.com
+0.0.0.0 store.helpnanacenter.helpscoutdocs.com
 0.0.0.0 himete.com
 0.0.0.0 www.himete.com
 0.0.0.0 store.himete.com
@@ -246,6 +255,9 @@
 0.0.0.0 kisserine.com
 0.0.0.0 www.kisserine.com
 0.0.0.0 store.kisserine.com
+0.0.0.0 kitchendecor.shop
+0.0.0.0 www.kitchendecor.shop
+0.0.0.0 store.kitchendecor.shop
 0.0.0.0 kongpixel.com
 0.0.0.0 www.kongpixel.com
 0.0.0.0 store.kongpixel.com
@@ -552,6 +564,9 @@
 0.0.0.0 thevitic.com
 0.0.0.0 www.thevitic.com
 0.0.0.0 store.thevitic.com
+0.0.0.0 thevitic.onshopbase.com
+0.0.0.0 www.thevitic.onshopbase.com
+0.0.0.0 store.thevitic.onshopbase.com
 0.0.0.0 timebestbuy.com
 0.0.0.0 www.timebestbuy.com
 0.0.0.0 store.timebestbuy.com
@@ -591,6 +606,9 @@
 0.0.0.0 valarstore.com
 0.0.0.0 www.valarstore.com
 0.0.0.0 store.valarstore.com
+0.0.0.0 vikingstore.co
+0.0.0.0 www.vikingstore.co
+0.0.0.0 store.vikingstore.co
 0.0.0.0 wanedo.net
 0.0.0.0 www.wanedo.net
 0.0.0.0 store.wanedo.net
