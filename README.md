@@ -26,4 +26,5 @@ durablenapkin@protonmail.com
 * https://www.bbb.org/
 * https://www.facebook.com/ValarStore/
 * https://www.google.com/search?q="Every+day+we+receive+more+appreciative+emails+from+satisfied+customers+all+over+the+world"&filter=0 (handy query to find scam retailers)
-* https://www.google.ca/search?q="Kindly+keep+in+mind+that+we+produce+on+demand.+We+do+not+stock+items."&filter=0 (handy query to find scam retailers)
+* https://www.google.com/search?q="Kindly+keep+in+mind+that+we+produce+on+demand.+We+do+not+stock+items."&filter=0 (handy query to find scam retailers)
+* https://www.google.com/search?q="Everyday,+we+strive+to+deliver+high+quality+products+with+the+greatest+customer+experience+possible.+"&filter=0 (handy query to find scam retailers)
