@@ -147,6 +147,9 @@
 0.0.0.0 engineracing.net
 0.0.0.0 www.engineracing.net
 0.0.0.0 store.engineracing.net
+0.0.0.0 evangeliostore.com
+0.0.0.0 www.evangeliostore.com
+0.0.0.0 store.evangeliostore.com
 0.0.0.0 eviralstore.com
 0.0.0.0 www.eviralstore.com
 0.0.0.0 store.eviralstore.com
@@ -405,6 +408,9 @@
 0.0.0.0 potterheads.co
 0.0.0.0 www.potterheads.co
 0.0.0.0 store.potterheads.co
+0.0.0.0 premiumqualityblanket.com
+0.0.0.0 www.premiumqualityblanket.com
+0.0.0.0 store.premiumqualityblanket.com
 0.0.0.0 pridesocial.net
 0.0.0.0 www.pridesocial.net
 0.0.0.0 store.pridesocial.net
