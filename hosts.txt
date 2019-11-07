@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 426
+# Domains: 430
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -107,6 +107,8 @@
 0.0.0.0 store.familygiftlove.myshopify.com
 0.0.0.0 familylovesgift.com
 0.0.0.0 www.familylovesgift.com
+0.0.0.0 familyshark.com
+0.0.0.0 www.familyshark.com
 0.0.0.0 fancycentral.com
 0.0.0.0 www.fancycentral.com
 0.0.0.0 store.fancycentral.com
@@ -397,6 +399,8 @@
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 store.trendsharks.com
+0.0.0.0 tritino.net
+0.0.0.0 www.tritino.net
 0.0.0.0 tshop688.com
 0.0.0.0 www.tshop688.com
 0.0.0.0 ultraboxlab.com
