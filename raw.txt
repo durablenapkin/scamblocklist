@@ -21,6 +21,9 @@
 0.0.0.0 abedsetz.com
 0.0.0.0 www.abedsetz.com
 0.0.0.0 store.abedsetz.com
+0.0.0.0 ahenana.com
+0.0.0.0 www.ahenana.com
+0.0.0.0 store.ahenana.com
 0.0.0.0 akatee.com
 0.0.0.0 www.akatee.com
 0.0.0.0 store.akatee.com
@@ -231,6 +234,9 @@
 0.0.0.0 helpnanacenter.helpscoutdocs.com
 0.0.0.0 www.helpnanacenter.helpscoutdocs.com
 0.0.0.0 store.helpnanacenter.helpscoutdocs.com
+0.0.0.0 hermanistore.com
+0.0.0.0 www.hermanistore.com
+0.0.0.0 store.hermanistore.com
 0.0.0.0 himete.com
 0.0.0.0 www.himete.com
 0.0.0.0 store.himete.com
@@ -387,6 +393,9 @@
 0.0.0.0 orderquilt.com
 0.0.0.0 www.orderquilt.com
 0.0.0.0 store.orderquilt.com
+0.0.0.0 pandzee.com
+0.0.0.0 www.pandzee.com
+0.0.0.0 store.pandzee.com
 0.0.0.0 pepatees.com
 0.0.0.0 www.pepatees.com
 0.0.0.0 store.pepatees.com
