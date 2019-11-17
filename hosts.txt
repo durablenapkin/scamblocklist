@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 466
+# Domains: 465
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -134,7 +134,6 @@
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 www.friday99.com
-0.0.0.0 store.friday99.com
 0.0.0.0 friends.nikonovaonline2.club
 0.0.0.0 fshop688.com
 0.0.0.0 www.fshop688.com
