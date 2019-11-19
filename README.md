@@ -1,6 +1,6 @@
 # Scam Blocklist
 
-A blocklist to protect users against untrustworthy retail sites.
+A blocklist to protect users against untrustworthy sites.
 
 Nightly updates with dead/invalid domains removed.
 
@@ -23,7 +23,7 @@ durablenapkin@protonmail.com
 ## Resources
 
 * https://www.trustpilot.com/
-* https://www.bbb.org/
+* https://old.reddit.com/r/Scams/
 * https://www.facebook.com/ValarStore/
 * https://www.google.com/search?q="Every+day+we+receive+more+appreciative+emails+from+satisfied+customers+all+over+the+world"&filter=0 (handy query to find scam retailers)
 * https://www.google.com/search?q="Kindly+keep+in+mind+that+we+produce+on+demand.+We+do+not+stock+items."&filter=0 (handy query to find scam retailers)
