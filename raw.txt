@@ -138,6 +138,9 @@
 0.0.0.0 cookietee.com
 0.0.0.0 www.cookietee.com
 0.0.0.0 store.cookietee.com
+0.0.0.0 coolestpod.com
+0.0.0.0 www.coolestpod.com
+0.0.0.0 store.coolestpod.com
 0.0.0.0 dancewithdream.com
 0.0.0.0 www.dancewithdream.com
 0.0.0.0 store.dancewithdream.com
@@ -195,6 +198,9 @@
 0.0.0.0 foryourdears.com
 0.0.0.0 www.foryourdears.com
 0.0.0.0 store.foryourdears.com
+0.0.0.0 foxzily.xyz
+0.0.0.0 www.foxzily.xyz
+0.0.0.0 store.foxzily.xyz
 0.0.0.0 friday89.com
 0.0.0.0 www.friday89.com
 0.0.0.0 store.friday89.com
@@ -432,6 +438,9 @@
 0.0.0.0 papeetee.com
 0.0.0.0 www.papeetee.com
 0.0.0.0 store.papeetee.com
+0.0.0.0 penguinnow.com
+0.0.0.0 www.penguinnow.com
+0.0.0.0 store.penguinnow.com
 0.0.0.0 pepatees.com
 0.0.0.0 www.pepatees.com
 0.0.0.0 store.pepatees.com
@@ -519,6 +528,9 @@
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
 0.0.0.0 store.sigmaoffers.com
+0.0.0.0 silverlanetrading.com
+0.0.0.0 www.silverlanetrading.com
+0.0.0.0 store.silverlanetrading.com
 0.0.0.0 sligen.com
 0.0.0.0 www.sligen.com
 0.0.0.0 store.sligen.com
@@ -555,6 +567,9 @@
 0.0.0.0 stoeki.com
 0.0.0.0 www.stoeki.com
 0.0.0.0 store.stoeki.com
+0.0.0.0 storeax.com
+0.0.0.0 www.storeax.com
+0.0.0.0 store.storeax.com
 0.0.0.0 stunningstuffs.com
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 store.stunningstuffs.com

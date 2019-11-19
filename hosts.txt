@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 465
+# Domains: 475
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -92,6 +92,8 @@
 0.0.0.0 www.colorandcotton.com
 0.0.0.0 cookietee.com
 0.0.0.0 www.cookietee.com
+0.0.0.0 coolestpod.com
+0.0.0.0 www.coolestpod.com
 0.0.0.0 dancewithdream.com
 0.0.0.0 www.dancewithdream.com
 0.0.0.0 dautee.com
@@ -130,6 +132,8 @@
 0.0.0.0 foryourdears.com
 0.0.0.0 www.foryourdears.com
 0.0.0.0 store.foryourdears.com
+0.0.0.0 foxzily.xyz
+0.0.0.0 www.foxzily.xyz
 0.0.0.0 friday89.com
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
@@ -283,6 +287,8 @@
 0.0.0.0 www.pandzee.com
 0.0.0.0 papeetee.com
 0.0.0.0 www.papeetee.com
+0.0.0.0 penguinnow.com
+0.0.0.0 www.penguinnow.com
 0.0.0.0 pepatees.com
 0.0.0.0 www.pepatees.com
 0.0.0.0 peppatees.com
@@ -341,6 +347,8 @@
 0.0.0.0 store.sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
+0.0.0.0 silverlanetrading.com
+0.0.0.0 www.silverlanetrading.com
 0.0.0.0 sligen.com
 0.0.0.0 www.sligen.com
 0.0.0.0 snarker101.com
@@ -368,6 +376,8 @@
 0.0.0.0 www.stingcool.com
 0.0.0.0 stoeki.com
 0.0.0.0 www.stoeki.com
+0.0.0.0 storeax.com
+0.0.0.0 www.storeax.com
 0.0.0.0 stunningstuffs.com
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 store.stunningstuffs.com
