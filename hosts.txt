@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 564
+# Domains: 563
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -301,7 +301,6 @@
 0.0.0.0 www.montertee.com
 0.0.0.0 muthaafoundation.org
 0.0.0.0 www.muthaafoundation.org
-0.0.0.0 myproudstyle.com
 0.0.0.0 www.myproudstyle.com
 0.0.0.0 mystitich4u.com
 0.0.0.0 www.mystitich4u.com
