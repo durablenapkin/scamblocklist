@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 622
+# Domains: 623
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -502,6 +502,7 @@
 0.0.0.0 www.stingcool.com
 0.0.0.0 stoeki.com
 0.0.0.0 www.stoeki.com
+0.0.0.0 store.stoeki.com
 0.0.0.0 storeax.com
 0.0.0.0 www.storeax.com
 0.0.0.0 storesp.com
