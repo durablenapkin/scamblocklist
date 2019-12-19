@@ -1,5 +1,8 @@
 # IMPORTANT: this list is not for public consumption. Use https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt instead
 
+0.0.0.0 1n.yarrid.com
+0.0.0.0 www.1n.yarrid.com
+0.0.0.0 store.1n.yarrid.com
 0.0.0.0 1stireland.com
 0.0.0.0 www.1stireland.com
 0.0.0.0 store.1stireland.com
@@ -18,6 +21,9 @@
 0.0.0.0 68blessed.com
 0.0.0.0 www.68blessed.com
 0.0.0.0 store.68blessed.com
+0.0.0.0 9to5outlet.com
+0.0.0.0 www.9to5outlet.com
+0.0.0.0 store.9to5outlet.com
 0.0.0.0 abedsetz.com
 0.0.0.0 www.abedsetz.com
 0.0.0.0 store.abedsetz.com
@@ -72,6 +78,9 @@
 0.0.0.0 benecharm.com
 0.0.0.0 www.benecharm.com
 0.0.0.0 store.benecharm.com
+0.0.0.0 bentozi.store
+0.0.0.0 www.bentozi.store
+0.0.0.0 store.bentozi.store
 0.0.0.0 bestmoonshop.com
 0.0.0.0 www.bestmoonshop.com
 0.0.0.0 store.bestmoonshop.com
@@ -192,9 +201,15 @@
 0.0.0.0 designbyus.online
 0.0.0.0 www.designbyus.online
 0.0.0.0 store.designbyus.online
+0.0.0.0 dezpez.com
+0.0.0.0 www.dezpez.com
+0.0.0.0 store.dezpez.com
 0.0.0.0 dreamstees.com
 0.0.0.0 www.dreamstees.com
 0.0.0.0 store.dreamstees.com
+0.0.0.0 dreamteeg.com
+0.0.0.0 www.dreamteeg.com
+0.0.0.0 store.dreamteeg.com
 0.0.0.0 duhaland.com
 0.0.0.0 www.duhaland.com
 0.0.0.0 store.duhaland.com
@@ -207,6 +222,9 @@
 0.0.0.0 eksofy.com
 0.0.0.0 www.eksofy.com
 0.0.0.0 store.eksofy.com
+0.0.0.0 elaka.lk
+0.0.0.0 www.elaka.lk
+0.0.0.0 store.elaka.lk
 0.0.0.0 elitepharmclothing.com
 0.0.0.0 www.elitepharmclothing.com
 0.0.0.0 store.elitepharmclothing.com
@@ -255,6 +273,12 @@
 0.0.0.0 fancycentral.com
 0.0.0.0 www.fancycentral.com
 0.0.0.0 store.fancycentral.com
+0.0.0.0 fapst.com
+0.0.0.0 www.fapst.com
+0.0.0.0 store.fapst.com
+0.0.0.0 fishing01.com
+0.0.0.0 www.fishing01.com
+0.0.0.0 store.fishing01.com
 0.0.0.0 fishinglovely.com
 0.0.0.0 www.fishinglovely.com
 0.0.0.0 store.fishinglovely.com
@@ -357,6 +381,9 @@
 0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
+0.0.0.0 hugetrump.com
+0.0.0.0 www.hugetrump.com
+0.0.0.0 store.hugetrump.com
 0.0.0.0 hunterbeus.com
 0.0.0.0 www.hunterbeus.com
 0.0.0.0 store.hunterbeus.com
@@ -387,6 +414,9 @@
 0.0.0.0 killtee.com
 0.0.0.0 www.killtee.com
 0.0.0.0 store.killtee.com
+0.0.0.0 kindapod.com
+0.0.0.0 www.kindapod.com
+0.0.0.0 store.kindapod.com
 0.0.0.0 kingteestore.com
 0.0.0.0 www.kingteestore.com
 0.0.0.0 store.kingteestore.com
@@ -453,6 +483,9 @@
 0.0.0.0 loveinheart.co.uk
 0.0.0.0 www.loveinheart.co.uk
 0.0.0.0 store.loveinheart.co.uk
+0.0.0.0 loveinsoul.co.uk
+0.0.0.0 www.loveinsoul.co.uk
+0.0.0.0 store.loveinsoul.co.uk
 0.0.0.0 loveshop20.com
 0.0.0.0 www.loveshop20.com
 0.0.0.0 store.loveshop20.com
@@ -477,6 +510,12 @@
 0.0.0.0 luxsgear.com
 0.0.0.0 www.luxsgear.com
 0.0.0.0 store.luxsgear.com
+0.0.0.0 luzyfran.com
+0.0.0.0 www.luzyfran.com
+0.0.0.0 store.luzyfran.com
+0.0.0.0 marleytecnologica.com
+0.0.0.0 www.marleytecnologica.com
+0.0.0.0 store.marleytecnologica.com
 0.0.0.0 memotero.com
 0.0.0.0 www.memotero.com
 0.0.0.0 store.memotero.com
@@ -588,12 +627,18 @@
 0.0.0.0 penguinnow.store
 0.0.0.0 www.penguinnow.store
 0.0.0.0 store.penguinnow.store
+0.0.0.0 penguinnows.us
+0.0.0.0 www.penguinnows.us
+0.0.0.0 store.penguinnows.us
 0.0.0.0 pepatees.com
 0.0.0.0 www.pepatees.com
 0.0.0.0 store.pepatees.com
 0.0.0.0 peppatees.com
 0.0.0.0 www.peppatees.com
 0.0.0.0 store.peppatees.com
+0.0.0.0 petparty.store
+0.0.0.0 www.petparty.store
+0.0.0.0 store.petparty.store
 0.0.0.0 pharaohstore.com
 0.0.0.0 www.pharaohstore.com
 0.0.0.0 store.pharaohstore.com
@@ -606,6 +651,9 @@
 0.0.0.0 plutostars.com
 0.0.0.0 www.plutostars.com
 0.0.0.0 store.plutostars.com
+0.0.0.0 podmart.mobi
+0.0.0.0 www.podmart.mobi
+0.0.0.0 store.podmart.mobi
 0.0.0.0 poppee.online
 0.0.0.0 www.poppee.online
 0.0.0.0 store.poppee.online
@@ -645,6 +693,9 @@
 0.0.0.0 rbpus.net
 0.0.0.0 www.rbpus.net
 0.0.0.0 store.rbpus.net
+0.0.0.0 realteepro.com
+0.0.0.0 www.realteepro.com
+0.0.0.0 store.realteepro.com
 0.0.0.0 reforest-iita.org
 0.0.0.0 www.reforest-iita.org
 0.0.0.0 store.reforest-iita.org
@@ -723,6 +774,9 @@
 0.0.0.0 smartpower4all.org
 0.0.0.0 www.smartpower4all.org
 0.0.0.0 store.smartpower4all.org
+0.0.0.0 snappystoreonline.co.za
+0.0.0.0 www.snappystoreonline.co.za
+0.0.0.0 store.snappystoreonline.co.za
 0.0.0.0 snarker101.com
 0.0.0.0 www.snarker101.com
 0.0.0.0 store.snarker101.com
@@ -771,6 +825,9 @@
 0.0.0.0 stoeki.com
 0.0.0.0 www.stoeki.com
 0.0.0.0 store.stoeki.com
+0.0.0.0 store-aleteia.org
+0.0.0.0 www.store-aleteia.org
+0.0.0.0 store.store-aleteia.org
 0.0.0.0 storeax.com
 0.0.0.0 www.storeax.com
 0.0.0.0 store.storeax.com
@@ -807,6 +864,9 @@
 0.0.0.0 tee24h.com
 0.0.0.0 www.tee24h.com
 0.0.0.0 store.tee24h.com
+0.0.0.0 teearrow.com
+0.0.0.0 www.teearrow.com
+0.0.0.0 store.teearrow.com
 0.0.0.0 teecutcut.co
 0.0.0.0 www.teecutcut.co
 0.0.0.0 store.teecutcut.co
@@ -825,6 +885,9 @@
 0.0.0.0 teeslegendary.com
 0.0.0.0 www.teeslegendary.com
 0.0.0.0 store.teeslegendary.com
+0.0.0.0 teesspeed.com
+0.0.0.0 www.teesspeed.com
+0.0.0.0 store.teesspeed.com
 0.0.0.0 teesunshine.com
 0.0.0.0 www.teesunshine.com
 0.0.0.0 store.teesunshine.com
@@ -915,6 +978,9 @@
 0.0.0.0 usefulnpro.com
 0.0.0.0 www.usefulnpro.com
 0.0.0.0 store.usefulnpro.com
+0.0.0.0 uuc.joyofprogress.com
+0.0.0.0 www.uuc.joyofprogress.com
+0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 valarstore.com
 0.0.0.0 www.valarstore.com
 0.0.0.0 store.valarstore.com
