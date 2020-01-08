@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 734
+# Domains: 744
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -21,6 +21,7 @@
 0.0.0.0 68blessed.com
 0.0.0.0 www.68blessed.com
 0.0.0.0 9to5outlet.com
+0.0.0.0 9uwe.papilliondairyqueen.com
 0.0.0.0 abedsetz.com
 0.0.0.0 www.abedsetz.com
 0.0.0.0 ahenana.com
@@ -215,6 +216,7 @@
 0.0.0.0 fshop688.com
 0.0.0.0 www.fshop688.com
 0.0.0.0 furoshop.com
+0.0.0.0 g1z0.myinstructus.com
 0.0.0.0 gadgetinfinityz.com
 0.0.0.0 www.gadgetinfinityz.com
 0.0.0.0 galickgear.com
@@ -283,6 +285,9 @@
 0.0.0.0 www.ikiha.com
 0.0.0.0 ilpollenza-sorso23.it
 0.0.0.0 www.ilpollenza-sorso23.it
+0.0.0.0 jaimerico.net
+0.0.0.0 www.jaimerico.net
+0.0.0.0 store.jaimerico.net
 0.0.0.0 januashop.com
 0.0.0.0 www.januashop.com
 0.0.0.0 jollyfamilygifts.net
@@ -308,6 +313,7 @@
 0.0.0.0 www.kongpixel.com
 0.0.0.0 ksvitmimay.com
 0.0.0.0 www.ksvitmimay.com
+0.0.0.0 kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
@@ -584,6 +590,7 @@
 0.0.0.0 spreadstores.com
 0.0.0.0 www.spreadstores.com
 0.0.0.0 store.spreadstores.com
+0.0.0.0 sqk9.lubar-tech.com
 0.0.0.0 startuplatte.com
 0.0.0.0 www.startuplatte.com
 0.0.0.0 store.startuplatte.com
@@ -599,6 +606,8 @@
 0.0.0.0 www.store-aleteia.org
 0.0.0.0 storeax.com
 0.0.0.0 www.storeax.com
+0.0.0.0 storedarkness.com
+0.0.0.0 www.storedarkness.com
 0.0.0.0 storesp.com
 0.0.0.0 www.storesp.com
 0.0.0.0 stunningstuffs.com
@@ -720,6 +729,7 @@
 0.0.0.0 warriordecor.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 www.wavetshirt.com
+0.0.0.0 wyj.primajaya-adv.com
 0.0.0.0 xmasbauble.com
 0.0.0.0 www.xmasbauble.com
 0.0.0.0 yeahteesmile.com
