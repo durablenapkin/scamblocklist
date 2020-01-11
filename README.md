@@ -28,3 +28,4 @@ durablenapkin@protonmail.com
 * https://www.google.com/search?q="Every+day+we+receive+more+appreciative+emails+from+satisfied+customers+all+over+the+world"&filter=0 (handy query to find scam retailers)
 * https://www.google.com/search?q="Kindly+keep+in+mind+that+we+produce+on+demand.+We+do+not+stock+items."&filter=0 (handy query to find scam retailers)
 * https://www.google.com/search?q="Everyday,+we+strive+to+deliver+high+quality+products+with+the+greatest+customer+experience+possible.+"&filter=0 (handy query to find scam retailers)
+* https://www.forbrukertilsynet.no/netthandel/falske-nettbutikker (and by extension https://github.com/DandelionSprout/adfilt/blob/master/NorwegianList.txt, which also removes dead domains from the former).
