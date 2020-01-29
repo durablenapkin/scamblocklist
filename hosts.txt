@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 756
+# Domains: 775
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -20,6 +20,7 @@
 0.0.0.0 www.1sttheworld.online
 0.0.0.0 68blessed.com
 0.0.0.0 www.68blessed.com
+0.0.0.0 7.shopsharm.ru
 0.0.0.0 9to5outlet.com
 0.0.0.0 9uwe.papilliondairyqueen.com
 0.0.0.0 abedsetz.com
@@ -113,6 +114,8 @@
 0.0.0.0 www.celebtoysshop.com
 0.0.0.0 chiclife.co.uk
 0.0.0.0 www.chiclife.co.uk
+0.0.0.0 chipteeamz.com
+0.0.0.0 www.chipteeamz.com
 0.0.0.0 cillva.com
 0.0.0.0 www.cillva.com
 0.0.0.0 cinaletlia.com
@@ -125,6 +128,9 @@
 0.0.0.0 www.classicraftdesign.com
 0.0.0.0 clemoa.com
 0.0.0.0 www.clemoa.com
+0.0.0.0 cloverszone.com
+0.0.0.0 www.cloverszone.com
+0.0.0.0 store.cloverszone.com
 0.0.0.0 cmoboy.com
 0.0.0.0 www.cmoboy.com
 0.0.0.0 cofdeal.com
@@ -137,8 +143,12 @@
 0.0.0.0 www.coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 www.coolestpod.com
+0.0.0.0 coollestpod.com
+0.0.0.0 www.coollestpod.com
 0.0.0.0 corg.co
 0.0.0.0 www.corg.co
+0.0.0.0 couponxoo.com
+0.0.0.0 www.couponxoo.com
 0.0.0.0 cryptot.net
 0.0.0.0 www.cryptot.net
 0.0.0.0 csgoproleague.com
@@ -504,6 +514,8 @@
 0.0.0.0 www.rbpus.net
 0.0.0.0 realteepro.com
 0.0.0.0 www.realteepro.com
+0.0.0.0 reanimando.org
+0.0.0.0 www.reanimando.org
 0.0.0.0 reforest-iita.org
 0.0.0.0 www.reforest-iita.org
 0.0.0.0 rickamortyshop.com
@@ -713,6 +725,8 @@
 0.0.0.0 www.tshop688.com
 0.0.0.0 tulumwellnessacademy.com
 0.0.0.0 www.tulumwellnessacademy.com
+0.0.0.0 tycomex.com
+0.0.0.0 www.tycomex.com
 0.0.0.0 ultraboxlab.com
 0.0.0.0 www.ultraboxlab.com
 0.0.0.0 unique3ds.com
@@ -741,6 +755,11 @@
 0.0.0.0 warriordecor.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 www.wavetshirt.com
+0.0.0.0 windbellstore.com
+0.0.0.0 www.windbellstore.com
+0.0.0.0 store.windbellstore.com
+0.0.0.0 wowviral.net
+0.0.0.0 www.wowviral.net
 0.0.0.0 wyj.primajaya-adv.com
 0.0.0.0 xmasbauble.com
 0.0.0.0 www.xmasbauble.com
