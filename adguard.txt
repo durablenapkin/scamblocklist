@@ -1,3 +1,9 @@
+! Scam Blocklist by DurableNapkin
+! Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
+! Home: https://github.com/durablenapkin/scamblocklist
+! Contribute: https://github.com/durablenapkin/scamblocklist/issues
+! License: MIT (https://mit-license.org/)
+
 ||1n.yarrid.com^
 ||1stireland.com^
 ||1sttheglobal.com^
@@ -125,6 +131,7 @@
 ||fishinglovely.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
+||fotballskotilbud.com^
 ||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
