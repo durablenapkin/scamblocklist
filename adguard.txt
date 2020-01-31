@@ -1,4 +1,4 @@
-! Scam Blocklist by DurableNapkin
+! Title: Scam Blocklist by DurableNapkin
 ! Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
 ! Home: https://github.com/durablenapkin/scamblocklist
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
@@ -130,11 +130,10 @@
 ||fishing01.com^
 ||fishinglovely.com^
 ||foryourdears.com^
-||fotballsko-salg.com^
+||fotballskotilbud.com^
 ||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
-||friends.nikonovaonline2.club^
 ||frogspring.life^
 ||fruitstee.com^
 ||fshop688.com^
