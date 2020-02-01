@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 929
+# Domains: 928
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -254,11 +254,9 @@
 0.0.0.0 foryourdears.com
 0.0.0.0 www.foryourdears.com
 0.0.0.0 store.foryourdears.com
+0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
 0.0.0.0 store.fotballsko-salg.com
-0.0.0.0 fotballskotilbud.com
-0.0.0.0 www.fotballskotilbud.com
-0.0.0.0 store.fotballskotilbud.com
 0.0.0.0 foxzily.xyz
 0.0.0.0 www.foxzily.xyz
 0.0.0.0 friday89.com
@@ -817,6 +815,7 @@
 0.0.0.0 teemarko.com
 0.0.0.0 www.teemarko.com
 0.0.0.0 teemax.store
+0.0.0.0 www.teemax.store
 0.0.0.0 teeslegendary.com
 0.0.0.0 teesspeed.com
 0.0.0.0 www.teesspeed.com
