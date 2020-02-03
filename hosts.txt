@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 928
+# Domains: 953
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -40,6 +40,8 @@
 0.0.0.0 store.aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 allergyfl.com
 0.0.0.0 www.allergyfl.com
+0.0.0.0 alltestbanksolutions.com
+0.0.0.0 www.alltestbanksolutions.com
 0.0.0.0 alohazing.com
 0.0.0.0 www.alohazing.com
 0.0.0.0 amznhoodies.com
@@ -254,11 +256,14 @@
 0.0.0.0 fishing01.com
 0.0.0.0 fishinglovely.com
 0.0.0.0 www.fishinglovely.com
+0.0.0.0 fixpub.com
+0.0.0.0 www.fixpub.com
 0.0.0.0 foryourdears.com
 0.0.0.0 www.foryourdears.com
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
+0.0.0.0 store.fotballsko-salg.com
 0.0.0.0 foxzily.xyz
 0.0.0.0 www.foxzily.xyz
 0.0.0.0 friday89.com
@@ -290,6 +295,8 @@
 0.0.0.0 www.gearhuman.com
 0.0.0.0 gearstastic.com
 0.0.0.0 www.gearstastic.com
+0.0.0.0 gearstastic.net
+0.0.0.0 www.gearstastic.net
 0.0.0.0 gearstastics.com
 0.0.0.0 www.gearstastics.com
 0.0.0.0 gearver.com
@@ -307,8 +314,8 @@
 0.0.0.0 www.glanceclock.com
 0.0.0.0 glendaz.com
 0.0.0.0 www.glendaz.com
-0.0.0.0 godeskonettbutikk.com
 0.0.0.0 www.godeskonettbutikk.com
+0.0.0.0 store.godeskonettbutikk.com
 0.0.0.0 gowarehouse.net
 0.0.0.0 www.gowarehouse.net
 0.0.0.0 store.gowarehouse.net
@@ -336,6 +343,8 @@
 0.0.0.0 store.himete.com
 0.0.0.0 hippie-pets.com
 0.0.0.0 www.hippie-pets.com
+0.0.0.0 hmccommerce.com
+0.0.0.0 www.hmccommerce.com
 0.0.0.0 hollisternorge.com
 0.0.0.0 www.hollisternorge.com
 0.0.0.0 store.hollisternorge.com
@@ -559,6 +568,8 @@
 0.0.0.0 www.odinpc.com
 0.0.0.0 oflike.com
 0.0.0.0 www.oflike.com
+0.0.0.0 ogogear.com
+0.0.0.0 www.ogogear.com
 0.0.0.0 oldcube.com
 0.0.0.0 www.oldcube.com
 0.0.0.0 omgrm.com
@@ -623,6 +634,8 @@
 0.0.0.0 www.potterheads.co
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
+0.0.0.0 premiumrosebear.com
+0.0.0.0 www.premiumrosebear.com
 0.0.0.0 premiumtour-don.com
 0.0.0.0 www.premiumtour-don.com
 0.0.0.0 www.pridesocial.net
@@ -698,6 +711,8 @@
 0.0.0.0 www.shirtwide.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 www.shoeaddic.com
+0.0.0.0 shop.headline-journal.com
+0.0.0.0 www.shop.headline-journal.com
 0.0.0.0 sieuto.com
 0.0.0.0 www.sieuto.com
 0.0.0.0 store.sieuto.com
@@ -845,6 +860,8 @@
 0.0.0.0 thevitic.onshopbase.com
 0.0.0.0 www.thevitic.onshopbase.com
 0.0.0.0 store.thevitic.onshopbase.com
+0.0.0.0 ti-yo.com
+0.0.0.0 www.ti-yo.com
 0.0.0.0 timebestbuy.com
 0.0.0.0 www.timebestbuy.com
 0.0.0.0 tinycutestuffs.com
@@ -855,6 +872,8 @@
 0.0.0.0 tobiascelebritymusicevents.com
 0.0.0.0 www.tobiascelebritymusicevents.com
 0.0.0.0 store.tobiascelebritymusicevents.com
+0.0.0.0 tourwaysl.com
+0.0.0.0 www.tourwaysl.com
 0.0.0.0 trade-skins.net
 0.0.0.0 www.trade-skins.net
 0.0.0.0 treasurefan.com
@@ -864,6 +883,8 @@
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 store.trendsharks.com
+0.0.0.0 trendygladys.com
+0.0.0.0 www.trendygladys.com
 0.0.0.0 treverschmelerkris18.myshopify.com
 0.0.0.0 www.treverschmelerkris18.myshopify.com
 0.0.0.0 store.treverschmelerkris18.myshopify.com
@@ -877,6 +898,7 @@
 0.0.0.0 www.tulumwellnessacademy.com
 0.0.0.0 tycomex.com
 0.0.0.0 www.tycomex.com
+0.0.0.0 u.umax-pro.ru
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 www.ultimate-tech-products.myshopify.com
 0.0.0.0 store.ultimate-tech-products.myshopify.com
@@ -908,6 +930,9 @@
 0.0.0.0 warriordecor.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 www.wavetshirt.com
+0.0.0.0 whm.drivetime.com
+0.0.0.0 www.whm.drivetime.com
+0.0.0.0 store.whm.drivetime.com
 0.0.0.0 windbellstore.com
 0.0.0.0 www.windbellstore.com
 0.0.0.0 store.windbellstore.com
