@@ -141,6 +141,7 @@
 ||fruitstee.com^
 ||fshop688.com^
 ||furoshop.com^
+||fveco.com^
 ||g1z0.myinstructus.com^
 ||gadgetinfinityz.com^
 ||galickgear.com^
@@ -231,7 +232,6 @@
 ||lunapresent.com^
 ||luvinstars.com^
 ||luxsgear.com^
-||luzyfran.com^
 ||marleytecnologica.com^
 ||meladermfacts.com^
 ||memotero.com^
@@ -431,7 +431,6 @@
 ||tiskomarket.com^
 ||tlonsey.com^
 ||tobiascelebritymusicevents.com^
-||tourwaysl.com^
 ||trade-skins.net^
 ||treasurefan.com^
 ||trendingtee.org^
