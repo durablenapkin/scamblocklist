@@ -10,17 +10,17 @@ Special shoutout to `www.ikiha.com` for inspiring the creation of this project (
 
 Contribute: https://github.com/durablenapkin/scamblocklist/issues
 
-## How to Use
+## How to Use:
 
 The Scam Blocklist can easily be added as another list in adblockers. In uBlock Origin ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)) you can add it as a `Custom Filter List` under the `Filter lists` tab.
 
-## Using this in your project?
+## Featured in:
 
-Everyone is welcome to integrate this blocklist into their project! If you do, feel free to contact me and I'll list your project here!
+* [dbl.oisd.nl | Internet's #1 domain blocklist](https://old.reddit.com/r/oisd_blocklist/comments/dwxgld/dbloisdnl_internets_1_domain_blocklist/)
 
-durablenapkin@protonmail.com
+Everyone is welcome to integrate this blocklist into their project! If you do, feel free to open an issue or pull request and I'll add your project here!
 
-## Resources
+## Resources:
 
 * https://www.trustpilot.com/
 * https://old.reddit.com/r/Scams/
