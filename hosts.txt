@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 951
+# Domains: 953
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -25,6 +25,8 @@
 0.0.0.0 9uwe.papilliondairyqueen.com
 0.0.0.0 abedsetz.com
 0.0.0.0 www.abedsetz.com
+0.0.0.0 adidasko.com
+0.0.0.0 www.adidasko.com
 0.0.0.0 ahenana.com
 0.0.0.0 www.ahenana.com
 0.0.0.0 airmaxskobillige.com
@@ -262,6 +264,7 @@
 0.0.0.0 www.foryourdears.com
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballsko-salg.com
+0.0.0.0 www.fotballsko-salg.com
 0.0.0.0 store.fotballsko-salg.com
 0.0.0.0 foxzily.xyz
 0.0.0.0 www.foxzily.xyz
@@ -317,6 +320,7 @@
 0.0.0.0 glendaz.com
 0.0.0.0 www.glendaz.com
 0.0.0.0 godeskonettbutikk.com
+0.0.0.0 store.godeskonettbutikk.com
 0.0.0.0 gowarehouse.net
 0.0.0.0 www.gowarehouse.net
 0.0.0.0 store.gowarehouse.net
@@ -422,8 +426,6 @@
 0.0.0.0 www.ligerking.com
 0.0.0.0 lillly.shop
 0.0.0.0 www.lillly.shop
-0.0.0.0 lindseysopticians.com
-0.0.0.0 store.lindseysopticians.com
 0.0.0.0 linkshe.com
 0.0.0.0 www.linkshe.com
 0.0.0.0 linostee.com
