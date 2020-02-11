@@ -264,7 +264,6 @@
 0.0.0.0 www.foryourdears.com
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballsko-salg.com
-0.0.0.0 www.fotballsko-salg.com
 0.0.0.0 store.fotballsko-salg.com
 0.0.0.0 foxzily.xyz
 0.0.0.0 www.foxzily.xyz
@@ -319,6 +318,7 @@
 0.0.0.0 www.glanceclock.com
 0.0.0.0 glendaz.com
 0.0.0.0 www.glendaz.com
+0.0.0.0 godeskonettbutikk.com
 0.0.0.0 www.godeskonettbutikk.com
 0.0.0.0 store.godeskonettbutikk.com
 0.0.0.0 gowarehouse.net
