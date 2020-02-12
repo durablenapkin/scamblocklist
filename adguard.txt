@@ -15,6 +15,7 @@
 ||9to5outlet.com^
 ||9uwe.papilliondairyqueen.com^
 ||abedsetz.com^
+||acquatee.com^
 ||adidasko.com^
 ||ahenana.com^
 ||airmaxskobillige.com^
@@ -25,6 +26,7 @@
 ||allergyfl.com^
 ||alltestbanksolutions.com^
 ||alohazing.com^
+||altruetech.com^
 ||amznhoodies.com^
 ||amznshirts.com^
 ||amzntees.com^
@@ -68,6 +70,7 @@
 ||candlesbymadison.com^
 ||caperforaciones.com^
 ||cartooy.com^
+||catalogodecoracao.leroymerlin.pt^
 ||catchemboxe.com^
 ||celebtoysshop.com^
 ||chiclife.co.uk^
@@ -88,6 +91,7 @@
 ||coollestpod.com^
 ||corg.co^
 ||couponxoo.com^
+||creizeystore.com^
 ||crownedwithlaurels.com^
 ||cryptot.net^
 ||csgoproleague.com^
@@ -105,6 +109,7 @@
 ||dezpez.com^
 ||dkfodboldstore.com^
 ||drakternorge.com^
+||dreamstee.com^
 ||dreamstees.com^
 ||dreamteeg.com^
 ||du-tee.com^
@@ -133,6 +138,7 @@
 ||fishing01.com^
 ||fishinglovely.com^
 ||fixpub.com^
+||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
 ||foxzily.xyz^
@@ -161,12 +167,15 @@
 ||gladiadormalas.com.br^
 ||glanceclock.com^
 ||glendaz.com^
+||glstee.com^
 ||godeskonettbutikk.com^
 ||gowarehouse.net^
 ||goyourheart.com^
 ||gracesector.com^
 ||graciaszone.com^
 ||gsport.com^
+||guccitees.com^
+||gunstee.com^
 ||happylifetee.com^
 ||hbofunkoshop.com^
 ||helpnanacenter.helpscoutdocs.com^
@@ -194,6 +203,7 @@
 ||joseph-holland.com^
 ||justbasicshop.com^
 ||kalugastore.com^
+||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
 ||killercharm.com^
 ||killtee.com^
@@ -217,6 +227,7 @@
 ||linkshe.com^
 ||linostee.com^
 ||litcomplex.com^
+||liverepsae.adeftsolutions.com^
 ||loaloeloaeeo.com^
 ||long.tartanz.co^
 ||look-like-star.myshopify.com^
@@ -298,6 +309,7 @@
 ||parajumpersnettbutikk.com^
 ||parajumpersnorway.com^
 ||parajumperssalg.com^
+||pearstee.com^
 ||peekpok.com^
 ||penguinnow.com^
 ||penguinnow.store^
@@ -348,6 +360,7 @@
 ||sampoline.com^
 ||saveeeee.myshopify.com^
 ||sedark.com^
+||sentees.com^
 ||seryna.co^
 ||sharonup.com^
 ||shinezily.com^
@@ -355,15 +368,18 @@
 ||shirtwide.com^
 ||shoeaddic.com^
 ||shop.headline-journal.com^
+||shopusawarehouse.com^
 ||sieuto.com^
 ||sigmaoffers.com^
 ||sikaripod.com^
 ||silverlanetrading.com^
+||simplewhales.com^
 ||skincheap.com^
 ||skins-store.net^
 ||skinsplanet.net^
 ||skinszone.net^
 ||skonmdnorge.com^
+||skytee3d.com^
 ||sligen.com^
 ||smartpower4all.org^
 ||smartproduct.site^
@@ -411,6 +427,7 @@
 ||teelegendary.com^
 ||teemarko.com^
 ||teemax.store^
+||teepro.life^
 ||teeslegendary.com^
 ||teesspeed.com^
 ||teesunshine.com^
@@ -461,6 +478,7 @@
 ||wanedo.net^
 ||warriordecor.com^
 ||wavetshirt.com^
+||whbinder.com^
 ||windbellstore.com^
 ||wowviral.net^
 ||wyj.primajaya-adv.com^
