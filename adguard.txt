@@ -48,6 +48,7 @@
 ||benecharm.com^
 ||benshermanoslo.com^
 ||bentozi.store^
+||berfumetee.com^
 ||bestbabyyoda.com^
 ||bestmoonshop.com^
 ||bigfamily360.net^
@@ -83,6 +84,7 @@
 ||clemoa.com^
 ||cloverszone.com^
 ||cmoboy.com^
+||cocumbertee.com^
 ||cofdeal.com^
 ||colorandcotton.com^
 ||cookietee.com^
@@ -103,9 +105,11 @@
 ||daradis.com^
 ||dautee.com^
 ||decorwallart.store^
+||defcon7.com.br^
 ||deforts.com^
 ||denningwelldrilling.com^
 ||designbyus.online^
+||devifoodgrains.com^
 ||dezpez.com^
 ||dkfodboldstore.com^
 ||drakternorge.com^
@@ -164,6 +168,7 @@
 ||giftbias.com^
 ||giftyweb.com^
 ||gimboy.com^
+||gizmos.lastchancefishingadventures.com^
 ||gladiadormalas.com.br^
 ||glanceclock.com^
 ||glendaz.com^
@@ -176,6 +181,7 @@
 ||gsport.com^
 ||guccitees.com^
 ||gunstee.com^
+||haowei.me^
 ||happylifetee.com^
 ||hbofunkoshop.com^
 ||helpnanacenter.helpscoutdocs.com^
@@ -264,6 +270,7 @@
 ||mualuondi.com^
 ||museuw.com^
 ||muthaafoundation.org^
+||mv.wiesengrund-sylt.com^
 ||mvptrend.com^
 ||mycraftypad.com^
 ||myproudstyle.com^
@@ -340,13 +347,16 @@
 ||quatangidol.com^
 ||quiltstudiolaren.com^
 ||quintrendy.com^
+||rabamnetee.com^
 ||rbgeg.com^
 ||rbkbb.com^
 ||rbpus.net^
 ||realteepro.com^
 ||reanimando.org^
+||rebeccatees.com^
 ||reforest-iita.org^
 ||retoaudi.com^
+||reviewshirts.com^
 ||rickamortyshop.com^
 ||ringtoperfection.com^
 ||ritavitastore.com^
@@ -411,6 +421,7 @@
 ||storesp.com^
 ||stunningstuffs.com^
 ||sugarandpearl.com^
+||sunleaftravel.com^
 ||sunsetstore.net^
 ||supercutestuff.com^
 ||superitee.com^
@@ -449,10 +460,10 @@
 ||tiskomarket.com^
 ||tlonsey.com^
 ||tobiascelebritymusicevents.com^
+||tomadamsenergy.com^
 ||tourwaysl.com^
 ||trade-skins.net^
 ||treasurefan.com^
-||trendingtee.org^
 ||trendsharks.com^
 ||trendygladys.com^
 ||treverschmelerkris18.myshopify.com^
@@ -464,6 +475,7 @@
 ||u.umax-pro.ru^
 ||ultimate-tech-products.myshopify.com^
 ||ultraboxlab.com^
+||uniaxes.com^
 ||unique3ds.com^
 ||ureashi.com^
 ||uredaka.com^
