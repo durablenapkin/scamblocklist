@@ -71,7 +71,6 @@
 ||candlesbymadison.com^
 ||caperforaciones.com^
 ||cartooy.com^
-||catalogodecoracao.leroymerlin.pt^
 ||catchemboxe.com^
 ||celebtoysshop.com^
 ||chiclife.co.uk^
@@ -145,6 +144,7 @@
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
+||fotballskotilbud.com^
 ||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
@@ -168,7 +168,6 @@
 ||giftbias.com^
 ||giftyweb.com^
 ||gimboy.com^
-||gizmos.lastchancefishingadventures.com^
 ||gladiadormalas.com.br^
 ||glanceclock.com^
 ||glendaz.com^
