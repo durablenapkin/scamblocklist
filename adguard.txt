@@ -144,7 +144,6 @@
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
-||fotballskotilbud.com^
 ||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
@@ -283,6 +282,7 @@
 ||natistore.us^
 ||natistorez.com^
 ||nedistores.com^
+||needlefeltstore.com^
 ||newgstore.com^
 ||newlifetee.com^
 ||nicetee.net^
