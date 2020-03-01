@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1018
+# Domains: 1017
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -275,6 +275,7 @@
 0.0.0.0 foryourdears.com
 0.0.0.0 www.foryourdears.com
 0.0.0.0 store.foryourdears.com
+0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
 0.0.0.0 store.fotballsko-salg.com
 0.0.0.0 foxzily.xyz
@@ -333,8 +334,6 @@
 0.0.0.0 www.glendaz.com
 0.0.0.0 glstee.com
 0.0.0.0 www.glstee.com
-0.0.0.0 godeskonettbutikk.com
-0.0.0.0 www.godeskonettbutikk.com
 0.0.0.0 store.godeskonettbutikk.com
 0.0.0.0 gowarehouse.net
 0.0.0.0 www.gowarehouse.net
@@ -479,6 +478,9 @@
 0.0.0.0 store.loveinsoul.co.uk
 0.0.0.0 loveshop20.com
 0.0.0.0 www.loveshop20.com
+0.0.0.0 lrgst.com
+0.0.0.0 www.lrgst.com
+0.0.0.0 store.lrgst.com
 0.0.0.0 lucatee.com
 0.0.0.0 www.lucatee.com
 0.0.0.0 luckyhomie.com
@@ -921,9 +923,6 @@
 0.0.0.0 timebestbuy.com
 0.0.0.0 www.timebestbuy.com
 0.0.0.0 tinycutestuffs.com
-0.0.0.0 tiranaaquapark-eg.com
-0.0.0.0 www.tiranaaquapark-eg.com
-0.0.0.0 store.tiranaaquapark-eg.com
 0.0.0.0 tiskomarket.com
 0.0.0.0 www.tiskomarket.com
 0.0.0.0 tlonsey.com

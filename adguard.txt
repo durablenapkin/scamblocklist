@@ -239,6 +239,7 @@
 ||loveinheart.co.uk^
 ||loveinsoul.co.uk^
 ||loveshop20.com^
+||lrgst.com^
 ||lucatee.com^
 ||luckyhomie.com^
 ||lucysstyle.com^
@@ -454,7 +455,6 @@
 ||ti-yo.com^
 ||timebestbuy.com^
 ||tinycutestuffs.com^
-||tiranaaquapark-eg.com^
 ||tiskomarket.com^
 ||tlonsey.com^
 ||tobiascelebritymusicevents.com^
