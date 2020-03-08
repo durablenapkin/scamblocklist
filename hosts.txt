@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1013
+# Domains: 1014
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -274,9 +274,10 @@
 0.0.0.0 foryourdears.com
 0.0.0.0 www.foryourdears.com
 0.0.0.0 store.foryourdears.com
+0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
+0.0.0.0 store.fotballsko-salg.com
 0.0.0.0 fotballskotilbud.com
-0.0.0.0 www.fotballskotilbud.com
 0.0.0.0 store.fotballskotilbud.com
 0.0.0.0 foxzily.xyz
 0.0.0.0 www.foxzily.xyz
@@ -334,7 +335,6 @@
 0.0.0.0 www.glendaz.com
 0.0.0.0 glstee.com
 0.0.0.0 www.glstee.com
-0.0.0.0 godeskonettbutikk.com
 0.0.0.0 www.godeskonettbutikk.com
 0.0.0.0 gowarehouse.net
 0.0.0.0 www.gowarehouse.net
@@ -517,6 +517,7 @@
 0.0.0.0 mncprobuild.com
 0.0.0.0 www.mncprobuild.com
 0.0.0.0 moebel-thiems.com
+0.0.0.0 www.moebel-thiems.com
 0.0.0.0 store.moebel-thiems.com
 0.0.0.0 monkstars.co
 0.0.0.0 www.monkstars.co
