@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1015
+# Domains: 1012
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -263,6 +263,8 @@
 0.0.0.0 store.fancycentral.com
 0.0.0.0 fapst.com
 0.0.0.0 www.fapst.com
+0.0.0.0 fatalfailblog.com
+0.0.0.0 www.fatalfailblog.com
 0.0.0.0 festmusikk.com
 0.0.0.0 www.festmusikk.com
 0.0.0.0 fishing01.com
@@ -274,9 +276,6 @@
 0.0.0.0 foryourdears.com
 0.0.0.0 www.foryourdears.com
 0.0.0.0 store.foryourdears.com
-0.0.0.0 fotballsko-salg.com
-0.0.0.0 www.fotballsko-salg.com
-0.0.0.0 store.fotballsko-salg.com
 0.0.0.0 fotballskotilbud.com
 0.0.0.0 www.fotballskotilbud.com
 0.0.0.0 store.fotballskotilbud.com
@@ -336,9 +335,6 @@
 0.0.0.0 www.glendaz.com
 0.0.0.0 glstee.com
 0.0.0.0 www.glstee.com
-0.0.0.0 godeskonettbutikk.com
-0.0.0.0 www.godeskonettbutikk.com
-0.0.0.0 store.godeskonettbutikk.com
 0.0.0.0 gowarehouse.net
 0.0.0.0 www.gowarehouse.net
 0.0.0.0 store.gowarehouse.net
@@ -480,6 +476,7 @@
 0.0.0.0 store.loveinsoul.co.uk
 0.0.0.0 loveshop20.com
 0.0.0.0 www.loveshop20.com
+0.0.0.0 lrgst.com
 0.0.0.0 www.lrgst.com
 0.0.0.0 lucatee.com
 0.0.0.0 www.lucatee.com
