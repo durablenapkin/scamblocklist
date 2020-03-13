@@ -278,7 +278,6 @@
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballskotilbud.com
 0.0.0.0 www.fotballskotilbud.com
-0.0.0.0 store.fotballskotilbud.com
 0.0.0.0 foxzily.xyz
 0.0.0.0 www.foxzily.xyz
 0.0.0.0 friday89.com
@@ -478,6 +477,7 @@
 0.0.0.0 www.loveshop20.com
 0.0.0.0 lrgst.com
 0.0.0.0 www.lrgst.com
+0.0.0.0 store.lrgst.com
 0.0.0.0 lucatee.com
 0.0.0.0 www.lucatee.com
 0.0.0.0 luckyhomie.com
