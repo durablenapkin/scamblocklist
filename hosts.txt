@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1012
+# Domains: 1007
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -265,8 +265,6 @@
 0.0.0.0 www.fapst.com
 0.0.0.0 fatalfailblog.com
 0.0.0.0 www.fatalfailblog.com
-0.0.0.0 festmusikk.com
-0.0.0.0 www.festmusikk.com
 0.0.0.0 fishing01.com
 0.0.0.0 fishinglovely.com
 0.0.0.0 www.fishinglovely.com
@@ -277,7 +275,7 @@
 0.0.0.0 www.foryourdears.com
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballskotilbud.com
-0.0.0.0 www.fotballskotilbud.com
+0.0.0.0 store.fotballskotilbud.com
 0.0.0.0 foxzily.xyz
 0.0.0.0 www.foxzily.xyz
 0.0.0.0 friday89.com
@@ -515,7 +513,6 @@
 0.0.0.0 mncprobuild.com
 0.0.0.0 www.mncprobuild.com
 0.0.0.0 moebel-thiems.com
-0.0.0.0 www.moebel-thiems.com
 0.0.0.0 store.moebel-thiems.com
 0.0.0.0 monkstars.co
 0.0.0.0 www.monkstars.co
@@ -617,8 +614,6 @@
 0.0.0.0 www.orderquilt.com
 0.0.0.0 orderstee.com
 0.0.0.0 www.orderstee.com
-0.0.0.0 organiclife24.info
-0.0.0.0 www.organiclife24.info
 0.0.0.0 pandzee.com
 0.0.0.0 www.pandzee.com
 0.0.0.0 parajumpers-salg.com
