@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1007
+# Domains: 1011
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -446,6 +446,9 @@
 0.0.0.0 www.ligerking.com
 0.0.0.0 lillly.shop
 0.0.0.0 www.lillly.shop
+0.0.0.0 lindseysopticians.com
+0.0.0.0 www.lindseysopticians.com
+0.0.0.0 store.lindseysopticians.com
 0.0.0.0 linkshe.com
 0.0.0.0 www.linkshe.com
 0.0.0.0 linostee.com
@@ -513,6 +516,7 @@
 0.0.0.0 mncprobuild.com
 0.0.0.0 www.mncprobuild.com
 0.0.0.0 moebel-thiems.com
+0.0.0.0 www.moebel-thiems.com
 0.0.0.0 store.moebel-thiems.com
 0.0.0.0 monkstars.co
 0.0.0.0 www.monkstars.co
