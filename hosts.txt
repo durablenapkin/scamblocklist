@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1007
+# Domains: 1008
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -444,6 +444,8 @@
 0.0.0.0 www.ligerking.com
 0.0.0.0 lillly.shop
 0.0.0.0 www.lillly.shop
+0.0.0.0 lindseysopticians.com
+0.0.0.0 www.lindseysopticians.com
 0.0.0.0 store.lindseysopticians.com
 0.0.0.0 linkshe.com
 0.0.0.0 www.linkshe.com
@@ -474,7 +476,6 @@
 0.0.0.0 www.loveshop20.com
 0.0.0.0 lrgst.com
 0.0.0.0 www.lrgst.com
-0.0.0.0 store.lrgst.com
 0.0.0.0 lucatee.com
 0.0.0.0 www.lucatee.com
 0.0.0.0 luckyhomie.com
