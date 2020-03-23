@@ -333,7 +333,6 @@
 ||poravoda.com^
 ||potterheads.co^
 ||premiumqualityblanket.com^
-||premiumrosebear.com^
 ||premiumtour-don.com^
 ||pridesocial.net^
 ||printteestore.com^
@@ -430,7 +429,6 @@
 ||tartanz.co^
 ||tee24h.com^
 ||teearrow.com^
-||teechip.online^
 ||teecutcut.co^
 ||teefoody.com^
 ||teelegendary.com^
