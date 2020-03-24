@@ -143,6 +143,8 @@
 ||fixpub.com^
 ||flattee.com^
 ||foryourdears.com^
+||fotballsko-salg.com^
+||fotballskotilbud.com^
 ||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
@@ -170,6 +172,7 @@
 ||glanceclock.com^
 ||glendaz.com^
 ||glstee.com^
+||godeskonettbutikk.com^
 ||gowarehouse.net^
 ||goyourheart.com^
 ||gracesector.com^
@@ -429,6 +432,7 @@
 ||tartanz.co^
 ||tee24h.com^
 ||teearrow.com^
+||teechip.online^
 ||teecutcut.co^
 ||teefoody.com^
 ||teelegendary.com^
