@@ -144,6 +144,7 @@
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
+||fotballskotilbud.com^
 ||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
@@ -173,7 +174,6 @@
 ||glstee.com^
 ||godeskonettbutikk.com^
 ||gowarehouse.net^
-||goyourheart.com^
 ||gracesector.com^
 ||graciaszone.com^
 ||gsport.com^
@@ -184,7 +184,6 @@
 ||hbofunkoshop.com^
 ||helpnanacenter.helpscoutdocs.com^
 ||hermanistore.com^
-||hernoclothing.com^
 ||himete.com^
 ||hippie-pets.com^
 ||hmccommerce.com^
