@@ -149,7 +149,6 @@
 ||friday99.com^
 ||frogspring.life^
 ||fruitstee.com^
-||fshop688.com^
 ||furoshop.com^
 ||fveco.com^
 ||g1z0.myinstructus.com^
@@ -173,6 +172,7 @@
 ||glstee.com^
 ||godeskonettbutikk.com^
 ||gowarehouse.net^
+||goyourheart.com^
 ||gracesector.com^
 ||graciaszone.com^
 ||gsport.com^
@@ -246,6 +246,7 @@
 ||luvinstars.com^
 ||luxsgear.com^
 ||mayor4london.com^
+||mbtnorge.com^
 ||meladermfacts.com^
 ||memotero.com^
 ||meowpinky.com^
@@ -305,6 +306,7 @@
 ||ontariokitcarbuilders.com^
 ||orderquilt.com^
 ||orderstee.com^
+||organiclife24.info^
 ||pandzee.com^
 ||parajumpers-salg.com^
 ||parajumpersitoutlet.com^
@@ -461,7 +463,6 @@
 ||treverschmelerkris18.myshopify.com^
 ||tritino.net^
 ||tromselementbygg.no^
-||tshop688.com^
 ||tulumwellnessacademy.com^
 ||tycomex.com^
 ||u.umax-pro.ru^

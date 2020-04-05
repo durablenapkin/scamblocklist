@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1004
+# Domains: 1007
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -293,9 +293,6 @@
 0.0.0.0 www.frogspring.life
 0.0.0.0 fruitstee.com
 0.0.0.0 www.fruitstee.com
-0.0.0.0 fshop688.com
-0.0.0.0 www.fshop688.com
-0.0.0.0 store.fshop688.com
 0.0.0.0 furoshop.com
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
@@ -344,6 +341,9 @@
 0.0.0.0 gowarehouse.net
 0.0.0.0 www.gowarehouse.net
 0.0.0.0 store.gowarehouse.net
+0.0.0.0 goyourheart.com
+0.0.0.0 www.goyourheart.com
+0.0.0.0 store.goyourheart.com
 0.0.0.0 gracesector.com
 0.0.0.0 www.gracesector.com
 0.0.0.0 graciaszone.com
@@ -497,6 +497,8 @@
 0.0.0.0 mayor4london.com
 0.0.0.0 www.mayor4london.com
 0.0.0.0 store.mayor4london.com
+0.0.0.0 mbtnorge.com
+0.0.0.0 www.mbtnorge.com
 0.0.0.0 meladermfacts.com
 0.0.0.0 www.meladermfacts.com
 0.0.0.0 memotero.com
@@ -615,6 +617,9 @@
 0.0.0.0 www.orderquilt.com
 0.0.0.0 orderstee.com
 0.0.0.0 www.orderstee.com
+0.0.0.0 organiclife24.info
+0.0.0.0 www.organiclife24.info
+0.0.0.0 store.organiclife24.info
 0.0.0.0 pandzee.com
 0.0.0.0 www.pandzee.com
 0.0.0.0 parajumpers-salg.com
@@ -914,6 +919,7 @@
 0.0.0.0 tinycutestuffs.com
 0.0.0.0 tiskomarket.com
 0.0.0.0 www.tiskomarket.com
+0.0.0.0 tlonsey.com
 0.0.0.0 www.tlonsey.com
 0.0.0.0 tobiascelebritymusicevents.com
 0.0.0.0 www.tobiascelebritymusicevents.com
@@ -939,9 +945,6 @@
 0.0.0.0 www.tritino.net
 0.0.0.0 tromselementbygg.no
 0.0.0.0 www.tromselementbygg.no
-0.0.0.0 tshop688.com
-0.0.0.0 www.tshop688.com
-0.0.0.0 store.tshop688.com
 0.0.0.0 tulumwellnessacademy.com
 0.0.0.0 www.tulumwellnessacademy.com
 0.0.0.0 tycomex.com
