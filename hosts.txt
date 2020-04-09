@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1006
+# Domains: 1009
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -240,6 +240,7 @@
 0.0.0.0 www.elitepharmclothing.com
 0.0.0.0 ellezz.com
 0.0.0.0 www.ellezz.com
+0.0.0.0 store.ellezz.com
 0.0.0.0 enchantestore.myshopify.com
 0.0.0.0 www.enchantestore.myshopify.com
 0.0.0.0 store.enchantestore.myshopify.com
@@ -283,7 +284,7 @@
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
-0.0.0.0 www.fotballskotilbud.com
+0.0.0.0 fotballskotilbud.com
 0.0.0.0 foxzily.xyz
 0.0.0.0 www.foxzily.xyz
 0.0.0.0 friday89.com
@@ -356,6 +357,7 @@
 0.0.0.0 www.guccitees.com
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
+0.0.0.0 haowei.me
 0.0.0.0 www.haowei.me
 0.0.0.0 happylifetee.com
 0.0.0.0 www.happylifetee.com
@@ -854,6 +856,7 @@
 0.0.0.0 www.superitee.com
 0.0.0.0 superofferte.shop
 0.0.0.0 www.superofferte.shop
+0.0.0.0 store.superofferte.shop
 0.0.0.0 surprisesandgifts.com
 0.0.0.0 www.surprisesandgifts.com
 0.0.0.0 survivalcatsupply.com
