@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1006
+# Domains: 1007
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -284,7 +284,8 @@
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
-0.0.0.0 store.fotballskotilbud.com
+0.0.0.0 fotballskotilbud.com
+0.0.0.0 www.fotballskotilbud.com
 0.0.0.0 foxzily.xyz
 0.0.0.0 www.foxzily.xyz
 0.0.0.0 friday89.com
@@ -379,6 +380,9 @@
 0.0.0.0 store.hollisternorge.com
 0.0.0.0 holmedalblikk.no
 0.0.0.0 www.holmedalblikk.no
+0.0.0.0 hookahheroes.com
+0.0.0.0 www.hookahheroes.com
+0.0.0.0 store.hookahheroes.com
 0.0.0.0 horizonbagel.com
 0.0.0.0 www.horizonbagel.com
 0.0.0.0 hugetrump.com
@@ -1009,6 +1013,3 @@
 0.0.0.0 www.zedbubble.com
 0.0.0.0 zgalaxytee.com
 0.0.0.0 www.zgalaxytee.com
-0.0.0.0 zizozuze.com
-0.0.0.0 www.zizozuze.com
-0.0.0.0 store.zizozuze.com

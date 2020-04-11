@@ -189,6 +189,7 @@
 ||hmccommerce.com^
 ||hollisternorge.com^
 ||holmedalblikk.no^
+||hookahheroes.com^
 ||horizonbagel.com^
 ||hugetrump.com^
 ||hunterbeus.com^
@@ -498,4 +499,3 @@
 ||yuynstore.com^
 ||zedbubble.com^
 ||zgalaxytee.com^
-||zizozuze.com^
