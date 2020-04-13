@@ -144,7 +144,6 @@
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
-||fotballskotilbud.com^
 ||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
@@ -351,7 +350,6 @@
 ||realteepro.com^
 ||reanimando.org^
 ||rebeccatees.com^
-||reforest-iita.org^
 ||retoaudi.com^
 ||reviewshirts.com^
 ||rickamortyshop.com^
@@ -456,7 +454,6 @@
 ||tlonsey.com^
 ||tobiascelebritymusicevents.com^
 ||tomadamsenergy.com^
-||tourwaysl.com^
 ||trade-skins.net^
 ||treasurefan.com^
 ||trendsharks.com^
