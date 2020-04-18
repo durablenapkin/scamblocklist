@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1001
+# Domains: 1004
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -382,6 +382,7 @@
 0.0.0.0 www.holmedalblikk.no
 0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
+0.0.0.0 store.hookahheroes.com
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
 0.0.0.0 hunterbeus.com
@@ -707,6 +708,8 @@
 0.0.0.0 www.reanimando.org
 0.0.0.0 rebeccatees.com
 0.0.0.0 www.rebeccatees.com
+0.0.0.0 www.reforest-iita.org
+0.0.0.0 store.reforest-iita.org
 0.0.0.0 retoaudi.com
 0.0.0.0 www.retoaudi.com
 0.0.0.0 reviewshirts.com
