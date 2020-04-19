@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1004
+# Domains: 1006
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -162,6 +162,7 @@
 0.0.0.0 www.cocumbertee.com
 0.0.0.0 cofdeal.com
 0.0.0.0 www.cofdeal.com
+0.0.0.0 store.cofdeal.com
 0.0.0.0 colorandcotton.com
 0.0.0.0 www.colorandcotton.com
 0.0.0.0 cookietee.com
@@ -286,6 +287,7 @@
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
+0.0.0.0 www.fotballskotilbud.com
 0.0.0.0 foxzily.xyz
 0.0.0.0 www.foxzily.xyz
 0.0.0.0 friday89.com
@@ -688,6 +690,7 @@
 0.0.0.0 www.proudofyournation.com
 0.0.0.0 puzzdeal.com
 0.0.0.0 www.puzzdeal.com
+0.0.0.0 store.puzzdeal.com
 0.0.0.0 quatangidol.com
 0.0.0.0 www.quatangidol.com
 0.0.0.0 quiltstudiolaren.com
@@ -708,8 +711,7 @@
 0.0.0.0 www.reanimando.org
 0.0.0.0 rebeccatees.com
 0.0.0.0 www.rebeccatees.com
-0.0.0.0 www.reforest-iita.org
-0.0.0.0 store.reforest-iita.org
+0.0.0.0 reforest-iita.org
 0.0.0.0 retoaudi.com
 0.0.0.0 www.retoaudi.com
 0.0.0.0 reviewshirts.com
