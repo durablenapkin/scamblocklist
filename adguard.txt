@@ -145,6 +145,7 @@
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
+||fotballskotilbud.com^
 ||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
@@ -173,6 +174,7 @@
 ||glstee.com^
 ||godeskonettbutikk.com^
 ||gowarehouse.net^
+||goyourheart.com^
 ||gracesector.com^
 ||graciaszone.com^
 ||gsport.com^
@@ -228,7 +230,6 @@
 ||linkshe.com^
 ||linostee.com^
 ||litcomplex.com^
-||liverepsae.adeftsolutions.com^
 ||loaloeloaeeo.com^
 ||long.tartanz.co^
 ||look-like-star.myshopify.com^

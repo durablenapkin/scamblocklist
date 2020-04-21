@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1004
+# Domains: 1007
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -289,6 +289,8 @@
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
+0.0.0.0 fotballskotilbud.com
+0.0.0.0 www.fotballskotilbud.com
 0.0.0.0 foxzily.xyz
 0.0.0.0 www.foxzily.xyz
 0.0.0.0 friday89.com
@@ -347,6 +349,9 @@
 0.0.0.0 gowarehouse.net
 0.0.0.0 www.gowarehouse.net
 0.0.0.0 store.gowarehouse.net
+0.0.0.0 goyourheart.com
+0.0.0.0 www.goyourheart.com
+0.0.0.0 store.goyourheart.com
 0.0.0.0 gracesector.com
 0.0.0.0 www.gracesector.com
 0.0.0.0 graciaszone.com
@@ -460,8 +465,6 @@
 0.0.0.0 www.linostee.com
 0.0.0.0 litcomplex.com
 0.0.0.0 www.litcomplex.com
-0.0.0.0 liverepsae.adeftsolutions.com
-0.0.0.0 www.liverepsae.adeftsolutions.com
 0.0.0.0 loaloeloaeeo.com
 0.0.0.0 www.loaloeloaeeo.com
 0.0.0.0 long.tartanz.co
@@ -709,7 +712,7 @@
 0.0.0.0 www.reanimando.org
 0.0.0.0 rebeccatees.com
 0.0.0.0 www.rebeccatees.com
-0.0.0.0 www.reforest-iita.org
+0.0.0.0 reforest-iita.org
 0.0.0.0 retoaudi.com
 0.0.0.0 www.retoaudi.com
 0.0.0.0 reviewshirts.com
