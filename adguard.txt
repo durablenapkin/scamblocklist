@@ -115,7 +115,6 @@
 ||dreamstees.com^
 ||dreamteeg.com^
 ||du-tee.com^
-||duhaland.com^
 ||dumanus.com^
 ||dunjakke-no.com^
 ||easyliving4you.com^
@@ -127,7 +126,6 @@
 ||engineracing.net^
 ||envisiongear.com^
 ||esl-gaming.com^
-||eurosko.net^
 ||evangeliostore.com^
 ||eviralstore.com^
 ||ewjt.podologie-kubiak.de^
@@ -145,7 +143,6 @@
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
-||fotballskotilbud.com^
 ||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
@@ -350,7 +347,6 @@
 ||realteepro.com^
 ||reanimando.org^
 ||rebeccatees.com^
-||reforest-iita.org^
 ||retoaudi.com^
 ||reviewshirts.com^
 ||rickamortyshop.com^
