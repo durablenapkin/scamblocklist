@@ -98,7 +98,6 @@
 ||csgoproleague.com^
 ||csmoney.trade^
 ||customurink.com^
-||dailygiftstore.com^
 ||dancewithdream.com^
 ||danylevych.com^
 ||dautee.com^
@@ -143,6 +142,7 @@
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
+||fotballskotilbud.com^
 ||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
@@ -152,7 +152,6 @@
 ||fveco.com^
 ||g1z0.myinstructus.com^
 ||gadgetinfinityz.com^
-||galickgear.com^
 ||gameconsoless.com^
 ||gantoslo.com^
 ||gearathena.com^
@@ -281,7 +280,6 @@
 ||nedistores.com^
 ||newgstore.com^
 ||newlifetee.com^
-||nicetee.net^
 ||niche3d.us^
 ||no.moncleritalien.com^
 ||nofotballshop.com^
@@ -347,7 +345,6 @@
 ||realteepro.com^
 ||reanimando.org^
 ||rebeccatees.com^
-||reforest-iita.org^
 ||retoaudi.com^
 ||reviewshirts.com^
 ||rickamortyshop.com^
@@ -471,6 +468,7 @@
 ||ureashi.com^
 ||uredaka.com^
 ||usasport247.com^
+||usefulnpro.com^
 ||ushiro.org^
 ||uuc.joyofprogress.com^
 ||valarstore.com^
