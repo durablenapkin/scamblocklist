@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 996
+# Domains: 994
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -230,6 +230,8 @@
 0.0.0.0 easyliving4you.com
 0.0.0.0 www.easyliving4you.com
 0.0.0.0 store.easyliving4you.com
+0.0.0.0 easyshoppingus.com
+0.0.0.0 www.easyshoppingus.com
 0.0.0.0 eksofy.com
 0.0.0.0 elaka.lk
 0.0.0.0 www.elaka.lk
@@ -859,8 +861,6 @@
 0.0.0.0 store.tartanz.co
 0.0.0.0 tee24h.com
 0.0.0.0 www.tee24h.com
-0.0.0.0 teearrow.com
-0.0.0.0 www.teearrow.com
 0.0.0.0 teecutcut.co
 0.0.0.0 www.teecutcut.co
 0.0.0.0 store.teecutcut.co
@@ -874,8 +874,6 @@
 0.0.0.0 teepro.life
 0.0.0.0 www.teepro.life
 0.0.0.0 teeslegendary.com
-0.0.0.0 teesspeed.com
-0.0.0.0 www.teesspeed.com
 0.0.0.0 teesunshine.com
 0.0.0.0 www.teesunshine.com
 0.0.0.0 teezill.com

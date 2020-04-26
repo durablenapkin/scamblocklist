@@ -117,6 +117,7 @@
 ||dumanus.com^
 ||dunjakke-no.com^
 ||easyliving4you.com^
+||easyshoppingus.com^
 ||eksofy.com^
 ||elaka.lk^
 ||elitepharmclothing.com^
@@ -420,7 +421,6 @@
 ||tartannewzealand.myshopify.com^
 ||tartanz.co^
 ||tee24h.com^
-||teearrow.com^
 ||teecutcut.co^
 ||teefoody.com^
 ||teelegendary.com^
@@ -428,7 +428,6 @@
 ||teemax.store^
 ||teepro.life^
 ||teeslegendary.com^
-||teesspeed.com^
 ||teesunshine.com^
 ||teezill.com^
 ||thecabinas.com^
