@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 994
+# Domains: 995
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -702,6 +702,7 @@
 0.0.0.0 www.reanimando.org
 0.0.0.0 rebeccatees.com
 0.0.0.0 www.rebeccatees.com
+0.0.0.0 reforest-iita.org
 0.0.0.0 retoaudi.com
 0.0.0.0 www.retoaudi.com
 0.0.0.0 reviewshirts.com
