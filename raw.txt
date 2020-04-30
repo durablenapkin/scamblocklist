@@ -282,9 +282,6 @@
 0.0.0.0 corg.co
 0.0.0.0 www.corg.co
 0.0.0.0 store.corg.co
-0.0.0.0 couponxoo.com
-0.0.0.0 www.couponxoo.com
-0.0.0.0 store.couponxoo.com
 0.0.0.0 creizeystore.com
 0.0.0.0 www.creizeystore.com
 0.0.0.0 store.creizeystore.com
