@@ -327,6 +327,7 @@
 ||poravoda.com^
 ||potterheads.co^
 ||premiumqualityblanket.com^
+||premiumrosebear.com^
 ||premiumtour-don.com^
 ||pridesocial.net^
 ||printteestore.com^
@@ -420,7 +421,6 @@
 ||tartannewzealand.myshopify.com^
 ||tartanz.co^
 ||tee24h.com^
-||teecutcut.co^
 ||teefoody.com^
 ||teelegendary.com^
 ||teemarko.com^

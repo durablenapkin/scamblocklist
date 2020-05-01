@@ -666,6 +666,9 @@
 0.0.0.0 www.potterheads.co
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
+0.0.0.0 premiumrosebear.com
+0.0.0.0 www.premiumrosebear.com
+0.0.0.0 store.premiumrosebear.com
 0.0.0.0 premiumtour-don.com
 0.0.0.0 www.premiumtour-don.com
 0.0.0.0 www.pridesocial.net
@@ -859,9 +862,6 @@
 0.0.0.0 store.tartanz.co
 0.0.0.0 tee24h.com
 0.0.0.0 www.tee24h.com
-0.0.0.0 teecutcut.co
-0.0.0.0 www.teecutcut.co
-0.0.0.0 store.teecutcut.co
 0.0.0.0 teefoody.com
 0.0.0.0 www.teefoody.com
 0.0.0.0 teelegendary.com
