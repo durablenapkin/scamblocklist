@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 999
+# Domains: 997
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -270,7 +270,6 @@
 0.0.0.0 www.fatalfailblog.com
 0.0.0.0 festmusikk.com
 0.0.0.0 www.festmusikk.com
-0.0.0.0 fishing01.com
 0.0.0.0 fishinglovely.com
 0.0.0.0 www.fishinglovely.com
 0.0.0.0 fixpub.com
@@ -283,6 +282,7 @@
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
+0.0.0.0 www.fotballskotilbud.com
 0.0.0.0 foxzily.xyz
 0.0.0.0 www.foxzily.xyz
 0.0.0.0 friday89.com
@@ -365,7 +365,6 @@
 0.0.0.0 www.hermanistore.com
 0.0.0.0 hernoclothing.com
 0.0.0.0 www.hernoclothing.com
-0.0.0.0 store.hernoclothing.com
 0.0.0.0 himete.com
 0.0.0.0 www.himete.com
 0.0.0.0 store.himete.com
@@ -494,7 +493,6 @@
 0.0.0.0 www.luxsgear.com
 0.0.0.0 luzyfran.com
 0.0.0.0 www.luzyfran.com
-0.0.0.0 store.luzyfran.com
 0.0.0.0 mayor4london.com
 0.0.0.0 www.mayor4london.com
 0.0.0.0 store.mayor4london.com
@@ -709,7 +707,7 @@
 0.0.0.0 www.reanimando.org
 0.0.0.0 rebeccatees.com
 0.0.0.0 www.rebeccatees.com
-0.0.0.0 store.reforest-iita.org
+0.0.0.0 www.reforest-iita.org
 0.0.0.0 retoaudi.com
 0.0.0.0 www.retoaudi.com
 0.0.0.0 reviewshirts.com
