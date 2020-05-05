@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 997
+# Domains: 992
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -187,9 +187,6 @@
 0.0.0.0 csgoproleague.com
 0.0.0.0 www.csgoproleague.com
 0.0.0.0 store.csgoproleague.com
-0.0.0.0 csmoney.trade
-0.0.0.0 www.csmoney.trade
-0.0.0.0 store.csmoney.trade
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
 0.0.0.0 dancewithdream.com
@@ -282,7 +279,6 @@
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
-0.0.0.0 www.fotballskotilbud.com
 0.0.0.0 foxzily.xyz
 0.0.0.0 www.foxzily.xyz
 0.0.0.0 friday89.com
@@ -363,8 +359,6 @@
 0.0.0.0 store.helpnanacenter.helpscoutdocs.com
 0.0.0.0 hermanistore.com
 0.0.0.0 www.hermanistore.com
-0.0.0.0 hernoclothing.com
-0.0.0.0 www.hernoclothing.com
 0.0.0.0 himete.com
 0.0.0.0 www.himete.com
 0.0.0.0 store.himete.com
@@ -493,6 +487,7 @@
 0.0.0.0 www.luxsgear.com
 0.0.0.0 luzyfran.com
 0.0.0.0 www.luzyfran.com
+0.0.0.0 store.luzyfran.com
 0.0.0.0 mayor4london.com
 0.0.0.0 www.mayor4london.com
 0.0.0.0 store.mayor4london.com
@@ -707,7 +702,6 @@
 0.0.0.0 www.reanimando.org
 0.0.0.0 rebeccatees.com
 0.0.0.0 www.rebeccatees.com
-0.0.0.0 www.reforest-iita.org
 0.0.0.0 retoaudi.com
 0.0.0.0 www.retoaudi.com
 0.0.0.0 reviewshirts.com
@@ -820,6 +814,7 @@
 0.0.0.0 sqk9.lubar-tech.com
 0.0.0.0 ssrodeolivestock.com
 0.0.0.0 www.ssrodeolivestock.com
+0.0.0.0 store.ssrodeolivestock.com
 0.0.0.0 startuplatte.com
 0.0.0.0 www.startuplatte.com
 0.0.0.0 store.startuplatte.com
