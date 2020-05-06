@@ -96,6 +96,7 @@
 ||cryptot.net^
 ||csgoproleague.com^
 ||customurink.com^
+||dailygiftstore.com^
 ||dancewithdream.com^
 ||danylevych.com^
 ||dautee.com^
@@ -326,7 +327,6 @@
 ||poravoda.com^
 ||potterheads.co^
 ||premiumqualityblanket.com^
-||premiumrosebear.com^
 ||premiumtour-don.com^
 ||pridesocial.net^
 ||printteestore.com^
@@ -423,7 +423,6 @@
 ||teefoody.com^
 ||teelegendary.com^
 ||teemarko.com^
-||teemax.store^
 ||teepro.life^
 ||teeslegendary.com^
 ||teesunshine.com^
