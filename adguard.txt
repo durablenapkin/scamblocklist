@@ -141,6 +141,7 @@
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
+||fotballskotilbud.com^
 ||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
@@ -398,7 +399,6 @@
 ||sportswearfanatics.com^
 ||spreadstores.com^
 ||sqk9.lubar-tech.com^
-||ssrodeolivestock.com^
 ||startuplatte.com^
 ||stingcool-com.myshopify.com^
 ||stingcool.com^
