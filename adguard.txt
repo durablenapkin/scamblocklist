@@ -179,6 +179,7 @@
 ||hbofunkoshop.com^
 ||helpnanacenter.helpscoutdocs.com^
 ||hermanistore.com^
+||hernoclothing.com^
 ||himete.com^
 ||hippie-pets.com^
 ||hmccommerce.com^
@@ -239,7 +240,6 @@
 ||lunapresent.com^
 ||luvinstars.com^
 ||luxsgear.com^
-||luzyfran.com^
 ||mayor4london.com^
 ||mbtnorge.com^
 ||meladermfacts.com^
@@ -343,7 +343,6 @@
 ||realteepro.com^
 ||reanimando.org^
 ||rebeccatees.com^
-||reforest-iita.org^
 ||retoaudi.com^
 ||reviewshirts.com^
 ||rickamortyshop.com^
