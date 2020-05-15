@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 986
+# Domains: 982
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -189,8 +189,6 @@
 0.0.0.0 store.csgoproleague.com
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
-0.0.0.0 dailygiftstore.com
-0.0.0.0 www.dailygiftstore.com
 0.0.0.0 dancewithdream.com
 0.0.0.0 www.dancewithdream.com
 0.0.0.0 danylevych.com
@@ -618,6 +616,7 @@
 0.0.0.0 www.pandzee.com
 0.0.0.0 parajumpers-salg.com
 0.0.0.0 www.parajumpers-salg.com
+0.0.0.0 parajumpersitoutlet.com
 0.0.0.0 www.parajumpersitoutlet.com
 0.0.0.0 parajumpersnettbutikk.com
 0.0.0.0 www.parajumpersnettbutikk.com
@@ -744,8 +743,6 @@
 0.0.0.0 www.shirtwide.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 www.shoeaddic.com
-0.0.0.0 shop.headline-journal.com
-0.0.0.0 www.shop.headline-journal.com
 0.0.0.0 shopusawarehouse.com
 0.0.0.0 www.shopusawarehouse.com
 0.0.0.0 sieuto.com
@@ -755,7 +752,6 @@
 0.0.0.0 www.sigmaoffers.com
 0.0.0.0 sikaripod.com
 0.0.0.0 www.sikaripod.com
-0.0.0.0 silverlanetrading.com
 0.0.0.0 www.silverlanetrading.com
 0.0.0.0 simplewhales.com
 0.0.0.0 www.simplewhales.com
