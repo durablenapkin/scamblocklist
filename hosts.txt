@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 979
+# Domains: 982
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -486,6 +486,7 @@
 0.0.0.0 www.luvinstars.com
 0.0.0.0 luxsgear.com
 0.0.0.0 www.luxsgear.com
+0.0.0.0 store.luzyfran.com
 0.0.0.0 mayor4london.com
 0.0.0.0 www.mayor4london.com
 0.0.0.0 store.mayor4london.com
@@ -958,6 +959,8 @@
 0.0.0.0 wanedo.net
 0.0.0.0 www.wanedo.net
 0.0.0.0 warriordecor.com
+0.0.0.0 www.warriordecor.com
+0.0.0.0 store.warriordecor.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 www.wavetshirt.com
 0.0.0.0 whbinder.com
