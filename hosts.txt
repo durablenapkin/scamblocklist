@@ -486,7 +486,6 @@
 0.0.0.0 www.luvinstars.com
 0.0.0.0 luxsgear.com
 0.0.0.0 www.luxsgear.com
-0.0.0.0 store.luzyfran.com
 0.0.0.0 mayor4london.com
 0.0.0.0 www.mayor4london.com
 0.0.0.0 store.mayor4london.com
@@ -740,6 +739,7 @@
 0.0.0.0 www.shirtwide.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 www.shoeaddic.com
+0.0.0.0 shop.headline-journal.com
 0.0.0.0 shopusawarehouse.com
 0.0.0.0 www.shopusawarehouse.com
 0.0.0.0 sieuto.com

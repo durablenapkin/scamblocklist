@@ -239,7 +239,6 @@
 ||lunapresent.com^
 ||luvinstars.com^
 ||luxsgear.com^
-||luzyfran.com^
 ||mayor4london.com^
 ||mbtnorge.com^
 ||meladermfacts.com^
@@ -364,6 +363,7 @@
 ||shirttest.com^
 ||shirtwide.com^
 ||shoeaddic.com^
+||shop.headline-journal.com^
 ||shopusawarehouse.com^
 ||sieuto.com^
 ||sigmaoffers.com^
