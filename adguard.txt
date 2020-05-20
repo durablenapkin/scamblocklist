@@ -239,6 +239,7 @@
 ||lunapresent.com^
 ||luvinstars.com^
 ||luxsgear.com^
+||luzyfran.com^
 ||mayor4london.com^
 ||mbtnorge.com^
 ||meladermfacts.com^
@@ -341,6 +342,7 @@
 ||realteepro.com^
 ||reanimando.org^
 ||rebeccatees.com^
+||reforest-iita.org^
 ||retoaudi.com^
 ||reviewshirts.com^
 ||rickamortyshop.com^
@@ -363,7 +365,6 @@
 ||shirttest.com^
 ||shirtwide.com^
 ||shoeaddic.com^
-||shop.headline-journal.com^
 ||shopusawarehouse.com^
 ||sieuto.com^
 ||sigmaoffers.com^
