@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 978
+# Domains: 976
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -374,7 +374,6 @@
 0.0.0.0 www.holmedalblikk.no
 0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
-0.0.0.0 store.hookahheroes.com
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
 0.0.0.0 hunterbeus.com
@@ -485,7 +484,8 @@
 0.0.0.0 www.luvinstars.com
 0.0.0.0 luxsgear.com
 0.0.0.0 www.luxsgear.com
-0.0.0.0 store.luzyfran.com
+0.0.0.0 luzyfran.com
+0.0.0.0 www.luzyfran.com
 0.0.0.0 mayor4london.com
 0.0.0.0 www.mayor4london.com
 0.0.0.0 store.mayor4london.com
@@ -514,6 +514,7 @@
 0.0.0.0 www.moebel-thiems.com
 0.0.0.0 monkstars.co
 0.0.0.0 www.monkstars.co
+0.0.0.0 store.monkstars.co
 0.0.0.0 monkstars.com
 0.0.0.0 www.monkstars.com
 0.0.0.0 mononus.com
@@ -708,9 +709,6 @@
 0.0.0.0 www.rjgriffith.com
 0.0.0.0 rockinlives.com
 0.0.0.0 www.rockinlives.com
-0.0.0.0 rovedy.com
-0.0.0.0 www.rovedy.com
-0.0.0.0 store.rovedy.com
 0.0.0.0 royaldecorcollection.com
 0.0.0.0 www.royaldecorcollection.com
 0.0.0.0 store.royaldecorcollection.com
