@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 973
+# Domains: 974
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -485,6 +485,7 @@
 0.0.0.0 www.luvinstars.com
 0.0.0.0 luxsgear.com
 0.0.0.0 www.luxsgear.com
+0.0.0.0 store.luzyfran.com
 0.0.0.0 mayor4london.com
 0.0.0.0 www.mayor4london.com
 0.0.0.0 store.mayor4london.com
@@ -734,6 +735,7 @@
 0.0.0.0 www.shirtwide.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 www.shoeaddic.com
+0.0.0.0 shop.headline-journal.com
 0.0.0.0 shopusawarehouse.com
 0.0.0.0 www.shopusawarehouse.com
 0.0.0.0 sieuto.com
@@ -764,8 +766,6 @@
 0.0.0.0 www.smartpower4all.org
 0.0.0.0 smartproduct.site
 0.0.0.0 www.smartproduct.site
-0.0.0.0 snappystoreonline.co.za
-0.0.0.0 www.snappystoreonline.co.za
 0.0.0.0 snarker101.com
 0.0.0.0 www.snarker101.com
 0.0.0.0 sneakermart.us
@@ -925,6 +925,7 @@
 0.0.0.0 www.uniaxes.com
 0.0.0.0 unique3ds.com
 0.0.0.0 www.unique3ds.com
+0.0.0.0 store.unique3ds.com
 0.0.0.0 ureashi.com
 0.0.0.0 www.ureashi.com
 0.0.0.0 store.ureashi.com
