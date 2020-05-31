@@ -83,7 +83,6 @@
 ||cloverszone.com^
 ||cmoboy.com^
 ||cocumbertee.com^
-||cofdeal.com^
 ||colorandcotton.com^
 ||cookietee.com^
 ||coolest3d.com^
@@ -240,6 +239,7 @@
 ||luvinstars.com^
 ||luxsgear.com^
 ||luzyfran.com^
+||marleytecnologica.com^
 ||mayor4london.com^
 ||mbtnorge.com^
 ||meladermfacts.com^
@@ -330,7 +330,6 @@
 ||projectorprousa.com^
 ||promotebuy.com^
 ||proudofyournation.com^
-||puzzdeal.com^
 ||quatangidol.com^
 ||quiltstudiolaren.com^
 ||quintrendy.com^
