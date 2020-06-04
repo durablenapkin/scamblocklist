@@ -93,7 +93,6 @@
 ||crossfiterada.com^
 ||crownedwithlaurels.com^
 ||cryptot.net^
-||csgoproleague.com^
 ||customurink.com^
 ||dancewithdream.com^
 ||danylevych.com^
@@ -158,7 +157,6 @@
 ||gearstastics.com^
 ||gearver.com^
 ||giftbias.com^
-||giftyweb.com^
 ||gimboy.com^
 ||gladiadormalas.com.br^
 ||glanceclock.com^
@@ -240,6 +238,7 @@
 ||luxsgear.com^
 ||luzyfran.com^
 ||marleytecnologica.com^
+||mayor4london.com^
 ||mbtnorge.com^
 ||meladermfacts.com^
 ||memotero.com^
