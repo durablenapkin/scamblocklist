@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 967
+# Domains: 970
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -282,6 +282,9 @@
 0.0.0.0 www.frogspring.life
 0.0.0.0 fruitstee.com
 0.0.0.0 www.fruitstee.com
+0.0.0.0 furoshop.com
+0.0.0.0 www.furoshop.com
+0.0.0.0 store.furoshop.com
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
