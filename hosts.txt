@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 960
+# Domains: 964
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -105,6 +105,9 @@
 0.0.0.0 www.binfashiontrending.co
 0.0.0.0 blingyy.com
 0.0.0.0 www.blingyy.com
+0.0.0.0 bltskins.com
+0.0.0.0 www.bltskins.com
+0.0.0.0 store.bltskins.com
 0.0.0.0 boobeeshop.com
 0.0.0.0 www.boobeeshop.com
 0.0.0.0 boododa.com
@@ -723,6 +726,7 @@
 0.0.0.0 www.shirtwide.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 www.shoeaddic.com
+0.0.0.0 shop.headline-journal.com
 0.0.0.0 www.shop.headline-journal.com
 0.0.0.0 store.shop.headline-journal.com
 0.0.0.0 shopusawarehouse.com
