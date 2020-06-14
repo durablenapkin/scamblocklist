@@ -218,7 +218,6 @@
 ||linostee.com^
 ||litcomplex.com^
 ||loaloeloaeeo.com^
-||long.tartanz.co^
 ||look-like-star.myshopify.com^
 ||lookinmyheart.com^
 ||lootcrate.com^
@@ -402,7 +401,6 @@
 ||survivalcatsupply.com^
 ||swellsup.com^
 ||tartannewzealand.myshopify.com^
-||tartanz.co^
 ||tee24h.com^
 ||teechip.online^
 ||teefoody.com^
