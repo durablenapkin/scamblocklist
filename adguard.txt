@@ -368,7 +368,6 @@
 ||skytee3d.com^
 ||smartpower4all.org^
 ||smartproduct.site^
-||snarker101.com^
 ||sneakermart.us^
 ||sodipi.com^
 ||soldtee.com^
@@ -400,6 +399,7 @@
 ||survivalcatsupply.com^
 ||swellsup.com^
 ||tartannewzealand.myshopify.com^
+||tartanz.co^
 ||tee24h.com^
 ||teechip.online^
 ||teefoody.com^

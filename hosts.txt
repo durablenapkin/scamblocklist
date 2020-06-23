@@ -750,8 +750,6 @@
 0.0.0.0 www.smartpower4all.org
 0.0.0.0 smartproduct.site
 0.0.0.0 www.smartproduct.site
-0.0.0.0 snarker101.com
-0.0.0.0 www.snarker101.com
 0.0.0.0 sneakermart.us
 0.0.0.0 www.sneakermart.us
 0.0.0.0 sodipi.com
@@ -818,6 +816,8 @@
 0.0.0.0 tartannewzealand.myshopify.com
 0.0.0.0 www.tartannewzealand.myshopify.com
 0.0.0.0 store.tartannewzealand.myshopify.com
+0.0.0.0 tartanz.co
+0.0.0.0 www.tartanz.co
 0.0.0.0 tee24h.com
 0.0.0.0 www.tee24h.com
 0.0.0.0 teechip.online
