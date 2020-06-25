@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 950
+# Domains: 946
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -183,8 +183,6 @@
 0.0.0.0 www.crownedwithlaurels.com
 0.0.0.0 cryptot.net
 0.0.0.0 www.cryptot.net
-0.0.0.0 csmoney.trade
-0.0.0.0 www.csmoney.trade
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
 0.0.0.0 dancewithdream.com
@@ -316,8 +314,6 @@
 0.0.0.0 giftbias.com
 0.0.0.0 www.giftbias.com
 0.0.0.0 gimboy.com
-0.0.0.0 www.gimboy.com
-0.0.0.0 store.gimboy.com
 0.0.0.0 gladiadormalas.com.br
 0.0.0.0 www.gladiadormalas.com.br
 0.0.0.0 glanceclock.com
