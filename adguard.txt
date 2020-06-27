@@ -352,7 +352,6 @@
 ||shirttest.com^
 ||shirtwide.com^
 ||shoeaddic.com^
-||shop.headline-journal.com^
 ||shopusawarehouse.com^
 ||sieuto.com^
 ||sigmaoffers.com^
