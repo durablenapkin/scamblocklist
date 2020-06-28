@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 946
+# Domains: 944
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -928,8 +928,6 @@
 0.0.0.0 store.warriordecor.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 www.wavetshirt.com
-0.0.0.0 whbinder.com
-0.0.0.0 www.whbinder.com
 0.0.0.0 windbellstore.com
 0.0.0.0 www.windbellstore.com
 0.0.0.0 wowviral.net
