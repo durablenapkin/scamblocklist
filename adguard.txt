@@ -195,7 +195,6 @@
 ||joseph-holland.com^
 ||justbasicshop.com^
 ||kalugastore.com^
-||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
 ||killercharm.com^
 ||killtee.com^
@@ -452,8 +451,8 @@
 ||vikingstore.co^
 ||vipticketgiveaway.com^
 ||wanedo.net^
-||warriordecor.com^
 ||wavetshirt.com^
+||whbinder.com^
 ||windbellstore.com^
 ||wowviral.net^
 ||xmasbauble.com^
