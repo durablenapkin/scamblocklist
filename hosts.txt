@@ -744,8 +744,6 @@
 0.0.0.0 www.skytee3d.com
 0.0.0.0 smartpower4all.org
 0.0.0.0 www.smartpower4all.org
-0.0.0.0 smartproduct.site
-0.0.0.0 www.smartproduct.site
 0.0.0.0 sneakermart.us
 0.0.0.0 www.sneakermart.us
 0.0.0.0 sodipi.com
@@ -801,6 +799,8 @@
 0.0.0.0 www.supercutestuff.com
 0.0.0.0 store.supercutestuff.com
 0.0.0.0 superitee.com
+0.0.0.0 superofferte.shop
+0.0.0.0 www.superofferte.shop
 0.0.0.0 surprisesandgifts.com
 0.0.0.0 www.surprisesandgifts.com
 0.0.0.0 survivalcatsupply.com

@@ -365,7 +365,6 @@
 ||skonmdnorge.com^
 ||skytee3d.com^
 ||smartpower4all.org^
-||smartproduct.site^
 ||sneakermart.us^
 ||sodipi.com^
 ||soldtee.com^
@@ -392,6 +391,7 @@
 ||sunsetstore.net^
 ||supercutestuff.com^
 ||superitee.com^
+||superofferte.shop^
 ||surprisesandgifts.com^
 ||survivalcatsupply.com^
 ||swellsup.com^
