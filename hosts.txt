@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 942
+# Domains: 940
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -197,8 +197,6 @@
 0.0.0.0 www.deforts.com
 0.0.0.0 denningwelldrilling.com
 0.0.0.0 www.denningwelldrilling.com
-0.0.0.0 designbyus.online
-0.0.0.0 www.designbyus.online
 0.0.0.0 devifoodgrains.com
 0.0.0.0 www.devifoodgrains.com
 0.0.0.0 dezpez.com
