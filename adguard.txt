@@ -27,7 +27,6 @@
 ||alohazing.com^
 ||altruetech.com^
 ||amznhoodies.com^
-||amznshirts.com^
 ||amzntees.com^
 ||annemus.com^
 ||aoptee.com^
@@ -301,7 +300,6 @@
 ||penguinnow.store^
 ||penguinnows.us^
 ||pepatees.com^
-||peppatees.com^
 ||petparty.store^
 ||pharaohstore.com^
 ||pickablegift.com^
