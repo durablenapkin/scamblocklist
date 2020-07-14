@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 937
+# Domains: 942
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -101,6 +101,9 @@
 0.0.0.0 www.billigesalg.com
 0.0.0.0 binfashiontrending.co
 0.0.0.0 www.binfashiontrending.co
+0.0.0.0 blanketmart.us
+0.0.0.0 www.blanketmart.us
+0.0.0.0 store.blanketmart.us
 0.0.0.0 blingyy.com
 0.0.0.0 www.blingyy.com
 0.0.0.0 bltskins.com
@@ -616,6 +619,7 @@
 0.0.0.0 www.penguinnows.us
 0.0.0.0 pepatees.com
 0.0.0.0 www.pepatees.com
+0.0.0.0 peppatees.com
 0.0.0.0 petparty.store
 0.0.0.0 pharaohstore.com
 0.0.0.0 www.pharaohstore.com
@@ -788,6 +792,7 @@
 0.0.0.0 sugarandpearl.com
 0.0.0.0 www.sugarandpearl.com
 0.0.0.0 sunleaftravel.com
+0.0.0.0 www.sunleaftravel.com
 0.0.0.0 www.sunsetstore.net
 0.0.0.0 supercutestuff.com
 0.0.0.0 www.supercutestuff.com
