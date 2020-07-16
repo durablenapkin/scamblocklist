@@ -141,7 +141,6 @@
 ||friday99.com^
 ||frogspring.life^
 ||fruitstee.com^
-||furoshop.com^
 ||fveco.com^
 ||gadgetinfinityz.com^
 ||gameconsoless.com^
@@ -243,6 +242,7 @@
 ||miuprints.com^
 ||mncprobuild.com^
 ||moebel-thiems.com^
+||monkstars.co^
 ||monkstars.com^
 ||mononus.com^
 ||montertee.com^
@@ -383,6 +383,7 @@
 ||storeax.com^
 ||storedarkness.com^
 ||storesp.com^
+||streamloot.co^
 ||stunningstuffs.com^
 ||sugarandpearl.com^
 ||sunleaftravel.com^
@@ -417,7 +418,6 @@
 ||ti-yo.com^
 ||timebestbuy.com^
 ||tinycutestuffs.com^
-||tiskomarket.com^
 ||tlonsey.com^
 ||tobiascelebritymusicevents.com^
 ||tomadamsenergy.com^

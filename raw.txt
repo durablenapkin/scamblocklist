@@ -1347,6 +1347,9 @@
 0.0.0.0 storesp.com
 0.0.0.0 www.storesp.com
 0.0.0.0 store.storesp.com
+0.0.0.0 streamloot.co
+0.0.0.0 www.streamloot.co
+0.0.0.0 store.streamloot.co
 0.0.0.0 stunningstuffs.com
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 store.stunningstuffs.com
