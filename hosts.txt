@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 940
+# Domains: 945
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -456,6 +456,8 @@
 0.0.0.0 store.loveinsoul.co.uk
 0.0.0.0 loveshop20.com
 0.0.0.0 www.loveshop20.com
+0.0.0.0 lrgst.com
+0.0.0.0 www.lrgst.com
 0.0.0.0 lucatee.com
 0.0.0.0 www.lucatee.com
 0.0.0.0 luckyhomie.com
@@ -854,6 +856,9 @@
 0.0.0.0 timebestbuy.com
 0.0.0.0 www.timebestbuy.com
 0.0.0.0 tinycutestuffs.com
+0.0.0.0 tiskomarket.com
+0.0.0.0 www.tiskomarket.com
+0.0.0.0 store.tiskomarket.com
 0.0.0.0 tlonsey.com
 0.0.0.0 www.tlonsey.com
 0.0.0.0 tobiascelebritymusicevents.com
