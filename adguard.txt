@@ -110,6 +110,7 @@
 ||dreamteeg.com^
 ||du-tee.com^
 ||dumanus.com^
+||dunjakke-no.com^
 ||easyliving4you.com^
 ||easyshoppingus.com^
 ||eksofy.com^
@@ -192,7 +193,6 @@
 ||jorvanda.com^
 ||joseph-holland.com^
 ||justbasicshop.com^
-||kalugastore.com^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
 ||killercharm.com^
