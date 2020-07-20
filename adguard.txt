@@ -93,6 +93,7 @@
 ||crossfiterada.com^
 ||crownedwithlaurels.com^
 ||cryptot.net^
+||csgoproleague.com^
 ||customurink.com^
 ||dancewithdream.com^
 ||danylevych.com^
@@ -281,7 +282,6 @@
 ||norgejakke.com^
 ||norgejakkerbutikk.com^
 ||norgeshoes.com^
-||oataka.com^
 ||odinpc.com^
 ||oflike.com^
 ||ogogear.com^

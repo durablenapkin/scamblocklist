@@ -22,6 +22,7 @@
 0.0.0.0 www.68blessed.com
 0.0.0.0 7.shopsharm.ru
 0.0.0.0 9to5outlet.com
+0.0.0.0 www.9to5outlet.com
 0.0.0.0 abedsetz.com
 0.0.0.0 www.abedsetz.com
 0.0.0.0 store.abedsetz.com
@@ -184,6 +185,8 @@
 0.0.0.0 www.crownedwithlaurels.com
 0.0.0.0 cryptot.net
 0.0.0.0 www.cryptot.net
+0.0.0.0 csgoproleague.com
+0.0.0.0 www.csgoproleague.com
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
 0.0.0.0 dancewithdream.com
@@ -340,7 +343,6 @@
 0.0.0.0 haowei.me
 0.0.0.0 www.haowei.me
 0.0.0.0 happylifetee.com
-0.0.0.0 www.happylifetee.com
 0.0.0.0 hbofunkoshop.com
 0.0.0.0 www.hbofunkoshop.com
 0.0.0.0 helpnanacenter.helpscoutdocs.com
@@ -573,8 +575,6 @@
 0.0.0.0 norgeshoes.com
 0.0.0.0 www.norgeshoes.com
 0.0.0.0 store.norgeshoes.com
-0.0.0.0 oataka.com
-0.0.0.0 www.oataka.com
 0.0.0.0 odinpc.com
 0.0.0.0 www.odinpc.com
 0.0.0.0 oflike.com
