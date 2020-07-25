@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 942
+# Domains: 941
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -422,6 +422,7 @@
 0.0.0.0 legarralazcoz.com
 0.0.0.0 www.legarralazcoz.com
 0.0.0.0 legendofmen.com
+0.0.0.0 www.legendofmen.com
 0.0.0.0 lericettedifrancy74.com
 0.0.0.0 www.lericettedifrancy74.com
 0.0.0.0 letrantrunghieu.com
@@ -489,7 +490,6 @@
 0.0.0.0 www.merchvips.com
 0.0.0.0 mercyzone.com
 0.0.0.0 www.mercyzone.com
-0.0.0.0 miucart.com
 0.0.0.0 miuprints.com
 0.0.0.0 www.miuprints.com
 0.0.0.0 mncprobuild.com
@@ -718,7 +718,6 @@
 0.0.0.0 www.shoeaddic.com
 0.0.0.0 shopusawarehouse.com
 0.0.0.0 www.shopusawarehouse.com
-0.0.0.0 sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
 0.0.0.0 sikaripod.com

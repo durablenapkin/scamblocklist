@@ -240,7 +240,6 @@
 ||merchbeebee.com^
 ||merchvips.com^
 ||mercyzone.com^
-||miucart.com^
 ||miuprints.com^
 ||mncprobuild.com^
 ||moebel-thiems.com^
@@ -352,7 +351,6 @@
 ||shirtwide.com^
 ||shoeaddic.com^
 ||shopusawarehouse.com^
-||sieuto.com^
 ||sigmaoffers.com^
 ||sikaripod.com^
 ||silverlanetrading.com^
