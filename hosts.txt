@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 941
+# Domains: 946
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -487,7 +487,6 @@
 0.0.0.0 merchbeebee.com
 0.0.0.0 www.merchbeebee.com
 0.0.0.0 merchvips.com
-0.0.0.0 www.merchvips.com
 0.0.0.0 mercyzone.com
 0.0.0.0 www.mercyzone.com
 0.0.0.0 miuprints.com
@@ -768,6 +767,12 @@
 0.0.0.0 startuplatte.com
 0.0.0.0 www.startuplatte.com
 0.0.0.0 store.startuplatte.com
+0.0.0.0 steamgateways.com
+0.0.0.0 www.steamgateways.com
+0.0.0.0 steamunlock.gifts
+0.0.0.0 www.steamunlock.gifts
+0.0.0.0 steamunlock.com
+0.0.0.0 www.steamunlock.com
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 www.stingcool-com.myshopify.com
 0.0.0.0 store.stingcool-com.myshopify.com
