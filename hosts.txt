@@ -548,6 +548,8 @@
 0.0.0.0 newgstore.com
 0.0.0.0 newlifetee.com
 0.0.0.0 www.newlifetee.com
+0.0.0.0 nicetee.net
+0.0.0.0 www.nicetee.net
 0.0.0.0 niche3d.us
 0.0.0.0 www.niche3d.us
 0.0.0.0 no.moncleritalien.com
@@ -721,8 +723,6 @@
 0.0.0.0 www.silverlanetrading.com
 0.0.0.0 simplewhales.com
 0.0.0.0 www.simplewhales.com
-0.0.0.0 skincheap.com
-0.0.0.0 www.skincheap.com
 0.0.0.0 skins-store.net
 0.0.0.0 www.skins-store.net
 0.0.0.0 skinsplanet.net
