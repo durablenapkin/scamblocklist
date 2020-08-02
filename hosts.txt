@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 942
+# Domains: 946
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -142,6 +142,7 @@
 0.0.0.0 store.celebtoysshop.com
 0.0.0.0 chiclife.co.uk
 0.0.0.0 www.chiclife.co.uk
+0.0.0.0 store.chiclife.co.uk
 0.0.0.0 chipteeamz.com
 0.0.0.0 www.chipteeamz.com
 0.0.0.0 cillva.com
@@ -686,6 +687,9 @@
 0.0.0.0 www.rjgriffith.com
 0.0.0.0 rockinlives.com
 0.0.0.0 www.rockinlives.com
+0.0.0.0 rovedy.com
+0.0.0.0 www.rovedy.com
+0.0.0.0 store.rovedy.com
 0.0.0.0 royaldecorcollection.com
 0.0.0.0 www.royaldecorcollection.com
 0.0.0.0 store.royaldecorcollection.com
