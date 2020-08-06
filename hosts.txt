@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 945
+# Domains: 946
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -597,6 +597,7 @@
 0.0.0.0 parajumpers-salg.com
 0.0.0.0 www.parajumpers-salg.com
 0.0.0.0 parajumpersitoutlet.com
+0.0.0.0 www.parajumpersitoutlet.com
 0.0.0.0 parajumpersnettbutikk.com
 0.0.0.0 www.parajumpersnettbutikk.com
 0.0.0.0 store.parajumpersnettbutikk.com
