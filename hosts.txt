@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 941
+# Domains: 939
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -101,6 +101,7 @@
 0.0.0.0 store.billigesalg.com
 0.0.0.0 binfashiontrending.co
 0.0.0.0 www.binfashiontrending.co
+0.0.0.0 store.binfashiontrending.co
 0.0.0.0 blanketmart.us
 0.0.0.0 www.blanketmart.us
 0.0.0.0 store.blanketmart.us
@@ -493,9 +494,6 @@
 0.0.0.0 www.mncprobuild.com
 0.0.0.0 moebel-thiems.com
 0.0.0.0 www.moebel-thiems.com
-0.0.0.0 monkstars.co
-0.0.0.0 www.monkstars.co
-0.0.0.0 store.monkstars.co
 0.0.0.0 monkstars.com
 0.0.0.0 www.monkstars.com
 0.0.0.0 mononus.com
