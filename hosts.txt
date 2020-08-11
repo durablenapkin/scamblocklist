@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 933
+# Domains: 937
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -516,6 +516,7 @@
 0.0.0.0 mv.wiesengrund-sylt.com
 0.0.0.0 mvptrend.com
 0.0.0.0 www.mvptrend.com
+0.0.0.0 store.mvptrend.com
 0.0.0.0 mycraftypad.com
 0.0.0.0 www.mycraftypad.com
 0.0.0.0 www.myproudstyle.com
@@ -590,7 +591,7 @@
 0.0.0.0 www.pandzee.com
 0.0.0.0 parajumpers-salg.com
 0.0.0.0 www.parajumpers-salg.com
-0.0.0.0 parajumpersitoutlet.com
+0.0.0.0 www.parajumpersitoutlet.com
 0.0.0.0 parajumpersnettbutikk.com
 0.0.0.0 www.parajumpersnettbutikk.com
 0.0.0.0 store.parajumpersnettbutikk.com
@@ -821,6 +822,7 @@
 0.0.0.0 www.teesunshine.com
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
+0.0.0.0 thecabinas.com
 0.0.0.0 www.thecabinas.com
 0.0.0.0 store.thecabinas.com
 0.0.0.0 thechildhooddream.com
@@ -843,6 +845,8 @@
 0.0.0.0 store.thevitic.onshopbase.com
 0.0.0.0 ti-yo.com
 0.0.0.0 www.ti-yo.com
+0.0.0.0 timebestbuy.com
+0.0.0.0 www.timebestbuy.com
 0.0.0.0 store.timebestbuy.com
 0.0.0.0 tinycutestuffs.com
 0.0.0.0 tiskomarket.com
