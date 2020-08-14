@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 939
+# Domains: 936
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -616,9 +616,6 @@
 0.0.0.0 www.pepatees.com
 0.0.0.0 peppatees.com
 0.0.0.0 petparty.store
-0.0.0.0 pharaohstore.com
-0.0.0.0 www.pharaohstore.com
-0.0.0.0 store.pharaohstore.com
 0.0.0.0 pickablegift.com
 0.0.0.0 www.pickablegift.com
 0.0.0.0 pickcheaptee.com
