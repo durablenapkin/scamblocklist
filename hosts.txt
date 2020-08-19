@@ -595,7 +595,7 @@
 0.0.0.0 parajumpers-salg.com
 0.0.0.0 www.parajumpers-salg.com
 0.0.0.0 store.parajumpers-salg.com
-0.0.0.0 parajumpersitoutlet.com
+0.0.0.0 www.parajumpersitoutlet.com
 0.0.0.0 parajumpersnettbutikk.com
 0.0.0.0 www.parajumpersnettbutikk.com
 0.0.0.0 store.parajumpersnettbutikk.com
