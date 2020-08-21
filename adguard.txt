@@ -263,7 +263,6 @@
 ||natistore.us^
 ||natistorez.com^
 ||nedistores.com^
-||newgstore.com^
 ||newlifetee.com^
 ||nicetee.net^
 ||niche3d.us^
@@ -430,7 +429,6 @@
 ||um-bs.com^
 ||uniaxes.com^
 ||unique3ds.com^
-||ureashi.com^
 ||uredaka.com^
 ||usasport247.com^
 ||usefulnpro.com^
