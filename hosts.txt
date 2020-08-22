@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 934
+# Domains: 931
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -346,7 +346,6 @@
 0.0.0.0 www.gunstee.com
 0.0.0.0 haowei.me
 0.0.0.0 www.haowei.me
-0.0.0.0 happylifetee.com
 0.0.0.0 hbofunkoshop.com
 0.0.0.0 www.hbofunkoshop.com
 0.0.0.0 helpnanacenter.helpscoutdocs.com
@@ -509,12 +508,10 @@
 0.0.0.0 store.moteshoes.com
 0.0.0.0 mrarmstrongsclass.com
 0.0.0.0 www.mrarmstrongsclass.com
+0.0.0.0 store.mrarmstrongsclass.com
 0.0.0.0 mualuondi.com
 0.0.0.0 www.mualuondi.com
 0.0.0.0 store.mualuondi.com
-0.0.0.0 museuw.com
-0.0.0.0 www.museuw.com
-0.0.0.0 store.museuw.com
 0.0.0.0 muthaafoundation.org
 0.0.0.0 www.muthaafoundation.org
 0.0.0.0 mv.wiesengrund-sylt.com
