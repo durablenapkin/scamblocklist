@@ -177,7 +177,6 @@
 ||hollisternorge.com^
 ||holmedalblikk.no^
 ||hookahheroes.com^
-||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
@@ -194,7 +193,6 @@
 ||kalugastore.com^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
-||killercharm.com^
 ||killtee.com^
 ||kindapod.com^
 ||kingteestore.com^
@@ -353,7 +351,6 @@
 ||skonmdnorge.com^
 ||skytee3d.com^
 ||smartpower4all.org^
-||sneakermart.us^
 ||sodipi.com^
 ||soldtee.com^
 ||solepersonal.com^
@@ -446,7 +443,6 @@
 ||xmasbauble.com^
 ||yeahteesmile.com^
 ||yeswevibe.com^
-||yeyvibe.com^
 ||yeyvibes.com^
 ||yomoun.com^
 ||yuynstore.com^
