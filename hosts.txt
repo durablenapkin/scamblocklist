@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 922
+# Domains: 920
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -396,7 +396,6 @@
 0.0.0.0 www.jorvanda.com
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
-0.0.0.0 justbasicshop.com
 0.0.0.0 kalugastore.com
 0.0.0.0 www.kalugastore.com
 0.0.0.0 khoinguyenhanoi.vn
@@ -534,9 +533,6 @@
 0.0.0.0 www.nationaladvancegroup.com
 0.0.0.0 natistore.us
 0.0.0.0 www.natistore.us
-0.0.0.0 natistorez.com
-0.0.0.0 www.natistorez.com
-0.0.0.0 store.natistorez.com
 0.0.0.0 nedistores.com
 0.0.0.0 www.nedistores.com
 0.0.0.0 newlifetee.com
@@ -625,6 +621,7 @@
 0.0.0.0 podmart.mobi
 0.0.0.0 www.podmart.mobi
 0.0.0.0 popeurope.com
+0.0.0.0 www.popeurope.com
 0.0.0.0 store.popeurope.com
 0.0.0.0 poravoda.com
 0.0.0.0 www.poravoda.com
@@ -695,6 +692,7 @@
 0.0.0.0 www.sentees.com
 0.0.0.0 seryna.co
 0.0.0.0 www.seryna.co
+0.0.0.0 store.seryna.co
 0.0.0.0 sharonup.com
 0.0.0.0 www.sharonup.com
 0.0.0.0 shinezily.com
