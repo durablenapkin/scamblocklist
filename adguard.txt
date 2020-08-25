@@ -49,9 +49,7 @@
 ||bestbabyyoda.com^
 ||bestmoonshop.com^
 ||bigfamily360.net^
-||billigesalg.com^
 ||binfashiontrending.co^
-||blanketmart.us^
 ||blingyy.com^
 ||bltskins.com^
 ||boobeeshop.com^
@@ -142,6 +140,7 @@
 ||friday99.com^
 ||frogspring.life^
 ||fruitstee.com^
+||furoshop.com^
 ||fveco.com^
 ||gadgetinfinityz.com^
 ||gameconsoless.com^
@@ -192,6 +191,7 @@
 ||kalugastore.com^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
+||killercharm.com^
 ||killtee.com^
 ||kindapod.com^
 ||kingteestore.com^
@@ -390,7 +390,6 @@
 ||teeslegendary.com^
 ||teesunshine.com^
 ||teezill.com^
-||thecabinas.com^
 ||thechildhooddream.com^
 ||thegeekgifts.com^
 ||thekeilas.com^
@@ -402,7 +401,6 @@
 ||ti-yo.com^
 ||timebestbuy.com^
 ||tinycutestuffs.com^
-||tiskomarket.com^
 ||tlonsey.com^
 ||tobiascelebritymusicevents.com^
 ||tomadamsenergy.com^
@@ -422,6 +420,7 @@
 ||um-bs.com^
 ||uniaxes.com^
 ||unique3ds.com^
+||ureashi.com^
 ||uredaka.com^
 ||usasport247.com^
 ||usefulnpro.com^

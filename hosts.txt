@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 920
+# Domains: 918
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -94,15 +94,9 @@
 0.0.0.0 www.bestmoonshop.com
 0.0.0.0 bigfamily360.net
 0.0.0.0 www.bigfamily360.net
-0.0.0.0 billigesalg.com
-0.0.0.0 www.billigesalg.com
-0.0.0.0 store.billigesalg.com
 0.0.0.0 binfashiontrending.co
 0.0.0.0 www.binfashiontrending.co
 0.0.0.0 store.binfashiontrending.co
-0.0.0.0 blanketmart.us
-0.0.0.0 www.blanketmart.us
-0.0.0.0 store.blanketmart.us
 0.0.0.0 blingyy.com
 0.0.0.0 www.blingyy.com
 0.0.0.0 bltskins.com
@@ -292,6 +286,9 @@
 0.0.0.0 www.frogspring.life
 0.0.0.0 fruitstee.com
 0.0.0.0 www.fruitstee.com
+0.0.0.0 furoshop.com
+0.0.0.0 www.furoshop.com
+0.0.0.0 store.furoshop.com
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
@@ -403,6 +400,9 @@
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
+0.0.0.0 killercharm.com
+0.0.0.0 www.killercharm.com
+0.0.0.0 store.killercharm.com
 0.0.0.0 killtee.com
 0.0.0.0 www.killtee.com
 0.0.0.0 kindapod.com
@@ -696,6 +696,8 @@
 0.0.0.0 sharonup.com
 0.0.0.0 www.sharonup.com
 0.0.0.0 shinezily.com
+0.0.0.0 www.shinezily.com
+0.0.0.0 store.shinezily.com
 0.0.0.0 shirttest.com
 0.0.0.0 www.shirttest.com
 0.0.0.0 shirtwide.com
@@ -810,9 +812,6 @@
 0.0.0.0 www.teesunshine.com
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
-0.0.0.0 thecabinas.com
-0.0.0.0 www.thecabinas.com
-0.0.0.0 store.thecabinas.com
 0.0.0.0 thechildhooddream.com
 0.0.0.0 www.thechildhooddream.com
 0.0.0.0 store.thechildhooddream.com
@@ -837,9 +836,6 @@
 0.0.0.0 www.timebestbuy.com
 0.0.0.0 store.timebestbuy.com
 0.0.0.0 tinycutestuffs.com
-0.0.0.0 tiskomarket.com
-0.0.0.0 www.tiskomarket.com
-0.0.0.0 store.tiskomarket.com
 0.0.0.0 tlonsey.com
 0.0.0.0 www.tlonsey.com
 0.0.0.0 tobiascelebritymusicevents.com
@@ -882,6 +878,8 @@
 0.0.0.0 www.uniaxes.com
 0.0.0.0 unique3ds.com
 0.0.0.0 www.unique3ds.com
+0.0.0.0 ureashi.com
+0.0.0.0 www.ureashi.com
 0.0.0.0 uredaka.com
 0.0.0.0 www.uredaka.com
 0.0.0.0 usasport247.com
