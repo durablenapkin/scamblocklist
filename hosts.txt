@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 918
+# Domains: 914
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -296,8 +296,6 @@
 0.0.0.0 www.gadgetinfinityz.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
-0.0.0.0 gantoslo.com
-0.0.0.0 www.gantoslo.com
 0.0.0.0 gearathena.com
 0.0.0.0 www.gearathena.com
 0.0.0.0 gearclover.com
@@ -661,7 +659,6 @@
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
 0.0.0.0 rickamortyshop.com
-0.0.0.0 www.rickamortyshop.com
 0.0.0.0 ringtoperfection.com
 0.0.0.0 www.ringtoperfection.com
 0.0.0.0 store.ringtoperfection.com
@@ -832,7 +829,6 @@
 0.0.0.0 store.thevitic.onshopbase.com
 0.0.0.0 ti-yo.com
 0.0.0.0 www.ti-yo.com
-0.0.0.0 timebestbuy.com
 0.0.0.0 www.timebestbuy.com
 0.0.0.0 store.timebestbuy.com
 0.0.0.0 tinycutestuffs.com
