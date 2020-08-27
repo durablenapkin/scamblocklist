@@ -134,7 +134,6 @@
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
-||fotballskotilbud.com^
 ||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
@@ -187,6 +186,7 @@
 ||jollyfamilygifts.net^
 ||jorvanda.com^
 ||joseph-holland.com^
+||justbasicshop.com^
 ||kalugastore.com^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
@@ -303,7 +303,6 @@
 ||premiumqualityblanket.com^
 ||premiumtour-don.com^
 ||printteestore.com^
-||projectorprousa.com^
 ||promotebuy.com^
 ||proudofyournation.com^
 ||quatangidol.com^
@@ -348,6 +347,7 @@
 ||skonmdnorge.com^
 ||skytee3d.com^
 ||smartpower4all.org^
+||smartproduct.site^
 ||sodipi.com^
 ||soldtee.com^
 ||solepersonal.com^
