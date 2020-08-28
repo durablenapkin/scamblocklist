@@ -336,6 +336,7 @@
 ||shirttest.com^
 ||shirtwide.com^
 ||shoeaddic.com^
+||shop.headline-journal.com^
 ||shopusawarehouse.com^
 ||sigmaoffers.com^
 ||sikaripod.com^

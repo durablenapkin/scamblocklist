@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 919
+# Domains: 925
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -481,6 +481,8 @@
 0.0.0.0 meowpinky.com
 0.0.0.0 www.meowpinky.com
 0.0.0.0 merchbeebee.com
+0.0.0.0 www.merchbeebee.com
+0.0.0.0 store.merchbeebee.com
 0.0.0.0 merchvips.com
 0.0.0.0 mercyzone.com
 0.0.0.0 www.mercyzone.com
@@ -702,6 +704,7 @@
 0.0.0.0 www.shirtwide.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 www.shoeaddic.com
+0.0.0.0 store.shop.headline-journal.com
 0.0.0.0 shopusawarehouse.com
 0.0.0.0 www.shopusawarehouse.com
 0.0.0.0 sigmaoffers.com
@@ -900,6 +903,7 @@
 0.0.0.0 vikingstore.co
 0.0.0.0 www.vikingstore.co
 0.0.0.0 vipticketgiveaway.com
+0.0.0.0 www.vipticketgiveaway.com
 0.0.0.0 wanedo.net
 0.0.0.0 www.wanedo.net
 0.0.0.0 wavetshirt.com
@@ -921,6 +925,8 @@
 0.0.0.0 yomoun.com
 0.0.0.0 www.yomoun.com
 0.0.0.0 yuynstore.com
+0.0.0.0 www.yuynstore.com
+0.0.0.0 store.yuynstore.com
 0.0.0.0 zedbubble.com
 0.0.0.0 www.zedbubble.com
 0.0.0.0 zgalaxytee.com
