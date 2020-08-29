@@ -139,7 +139,6 @@
 ||friday99.com^
 ||frogspring.life^
 ||fruitstee.com^
-||furoshop.com^
 ||fveco.com^
 ||gadgetinfinityz.com^
 ||gameconsoless.com^
@@ -230,7 +229,6 @@
 ||memotero.com^
 ||meowpinky.com^
 ||merchbeebee.com^
-||merchvips.com^
 ||mercyzone.com^
 ||miuprints.com^
 ||mncprobuild.com^
@@ -315,6 +313,7 @@
 ||realteepro.com^
 ||reanimando.org^
 ||rebeccatees.com^
+||reforest-iita.org^
 ||reviewshirts.com^
 ||rickamortyshop.com^
 ||ringtoperfection.com^
@@ -376,6 +375,7 @@
 ||sugarandpearl.com^
 ||sunleaftravel.com^
 ||sunsetstore.net^
+||supercutestuff.com^
 ||superofferte.shop^
 ||surprisesandgifts.com^
 ||survivalcatsupply.com^
@@ -440,6 +440,7 @@
 ||xmasbauble.com^
 ||yeahteesmile.com^
 ||yeswevibe.com^
+||yeyvibe.com^
 ||yeyvibes.com^
 ||yomoun.com^
 ||yuynstore.com^
