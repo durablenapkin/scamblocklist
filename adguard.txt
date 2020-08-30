@@ -216,7 +216,6 @@
 ||loveinsoul.co.uk^
 ||loveshop20.com^
 ||lrgst.com^
-||lucatee.com^
 ||luckyhomie.com^
 ||lucysstyle.com^
 ||lunapresent.com^
@@ -300,7 +299,9 @@
 ||potterheads.co^
 ||premiumqualityblanket.com^
 ||premiumtour-don.com^
+||primetoday.store^
 ||printteestore.com^
+||projectorprousa.com^
 ||promotebuy.com^
 ||proudofyournation.com^
 ||quatangidol.com^
@@ -399,7 +400,6 @@
 ||thevitic.com^
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
-||timebestbuy.com^
 ||tinycutestuffs.com^
 ||tlonsey.com^
 ||tobiascelebritymusicevents.com^
