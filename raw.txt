@@ -507,6 +507,9 @@
 0.0.0.0 gantoslo.com
 0.0.0.0 www.gantoslo.com
 0.0.0.0 store.gantoslo.com
+0.0.0.0 gearanime.com
+0.0.0.0 www.gearanime.com
+0.0.0.0 store.gearanime.com
 0.0.0.0 gearathena.com
 0.0.0.0 www.gearathena.com
 0.0.0.0 store.gearathena.com
@@ -1563,9 +1566,9 @@
 0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
-0.0.0.0 valarstore.com
-0.0.0.0 www.valarstore.com
-0.0.0.0 store.valarstore.com
+0.0.0.0 valarstore.comgea
+0.0.0.0 www.valarstore.comgea
+0.0.0.0 store.valarstore.comgea
 0.0.0.0 vansnorge.com
 0.0.0.0 www.vansnorge.com
 0.0.0.0 store.vansnorge.com

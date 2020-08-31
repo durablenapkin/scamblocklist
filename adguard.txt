@@ -142,6 +142,7 @@
 ||fveco.com^
 ||gadgetinfinityz.com^
 ||gameconsoless.com^
+||gearanime.com^
 ||gearathena.com^
 ||gearclover.com^
 ||gearhuman.com^
@@ -426,7 +427,6 @@
 ||usefulnpro.com^
 ||ushiro.org^
 ||uuc.joyofprogress.com^
-||valarstore.com^
 ||verfun.com^
 ||vetoro.cc^
 ||viberman.com^

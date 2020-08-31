@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 932
+# Domains: 933
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -291,6 +291,8 @@
 0.0.0.0 www.gadgetinfinityz.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
+0.0.0.0 gearanime.com
+0.0.0.0 www.gearanime.com
 0.0.0.0 gearathena.com
 0.0.0.0 www.gearathena.com
 0.0.0.0 gearclover.com
@@ -822,6 +824,7 @@
 0.0.0.0 www.teeslegendary.com
 0.0.0.0 teesunshine.com
 0.0.0.0 www.teesunshine.com
+0.0.0.0 store.teesunshine.com
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
 0.0.0.0 thechildhooddream.com
@@ -898,8 +901,6 @@
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
 0.0.0.0 uuc.joyofprogress.com
-0.0.0.0 valarstore.com
-0.0.0.0 www.valarstore.com
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 vetoro.cc
