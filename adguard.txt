@@ -68,7 +68,6 @@
 ||cartooy.com^
 ||catchemboxe.com^
 ||celebtoysshop.com^
-||chiclife.co.uk^
 ||chipteeamz.com^
 ||cillva.com^
 ||cinaletlia.com^
@@ -139,6 +138,7 @@
 ||friday99.com^
 ||frogspring.life^
 ||fruitstee.com^
+||furoshop.com^
 ||fveco.com^
 ||gadgetinfinityz.com^
 ||gameconsoless.com^
@@ -214,7 +214,6 @@
 ||lootcrate.com^
 ||loveinbox.co.uk^
 ||loveinheart.co.uk^
-||loveinsoul.co.uk^
 ||loveshop20.com^
 ||lrgst.com^
 ||luckyhomie.com^
@@ -306,7 +305,6 @@
 ||promotebuy.com^
 ||proudofyournation.com^
 ||quatangidol.com^
-||quiltstudiolaren.com^
 ||quintrendy.com^
 ||rabamnetee.com^
 ||rbgeg.com^
@@ -315,7 +313,6 @@
 ||realteepro.com^
 ||reanimando.org^
 ||rebeccatees.com^
-||reforest-iita.org^
 ||reviewshirts.com^
 ||rickamortyshop.com^
 ||ringtoperfection.com^
@@ -337,8 +334,8 @@
 ||shirttest.com^
 ||shirtwide.com^
 ||shoeaddic.com^
-||shop.headline-journal.com^
 ||shopusawarehouse.com^
+||sieuto.com^
 ||sigmaoffers.com^
 ||sikaripod.com^
 ||silverlanetrading.com^
