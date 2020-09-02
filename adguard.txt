@@ -28,6 +28,7 @@
 ||amznhoodies.com^
 ||amznshirts.com^
 ||amzntees.com^
+||animeshoppers.com^
 ||aoptee.com^
 ||aozeala.com^
 ||apvoc-ga.com^
@@ -89,6 +90,7 @@
 ||crownedwithlaurels.com^
 ||cryptot.net^
 ||csgoproleague.com^
+||csmoney.trade^
 ||customurink.com^
 ||dancewithdream.com^
 ||danylevych.com^
@@ -270,7 +272,6 @@
 ||odinpc.com^
 ||oflike.com^
 ||ogogear.com^
-||oldcube.com^
 ||omgrm.com^
 ||onlycooltees.com^
 ||orderquilt.com^

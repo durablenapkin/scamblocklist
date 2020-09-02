@@ -81,6 +81,9 @@
 0.0.0.0 amzntees.com
 0.0.0.0 www.amzntees.com
 0.0.0.0 store.amzntees.com
+0.0.0.0 animeshoppers.com
+0.0.0.0 www.animeshoppers.com
+0.0.0.0 store.animeshoppers.com
 0.0.0.0 annemus.com
 0.0.0.0 www.annemus.com
 0.0.0.0 store.annemus.com
