@@ -224,11 +224,11 @@
 ||luvinstars.com^
 ||luxsgear.com^
 ||marleytecnologica.com^
+||mayor4london.com^
 ||mbtnorge.com^
 ||meladermfacts.com^
 ||memotero.com^
 ||meowpinky.com^
-||merchbeebee.com^
 ||mercyzone.com^
 ||miuprints.com^
 ||mncprobuild.com^
@@ -236,7 +236,6 @@
 ||monkstars.com^
 ||mononus.com^
 ||montertee.com^
-||moslt.com^
 ||moteshoes.com^
 ||mrarmstrongsclass.com^
 ||mualuondi.com^
@@ -271,6 +270,7 @@
 ||odinpc.com^
 ||oflike.com^
 ||ogogear.com^
+||oldcube.com^
 ||omgrm.com^
 ||onlycooltees.com^
 ||orderstee.com^
@@ -304,6 +304,7 @@
 ||promotebuy.com^
 ||proudofyournation.com^
 ||quatangidol.com^
+||quiltstudiolaren.com^
 ||quintrendy.com^
 ||rabamnetee.com^
 ||rbgeg.com^
@@ -312,6 +313,7 @@
 ||realteepro.com^
 ||reanimando.org^
 ||rebeccatees.com^
+||reforest-iita.org^
 ||rickamortyshop.com^
 ||ringtoperfection.com^
 ||ritavitastore.com^
@@ -332,6 +334,7 @@
 ||shirttest.com^
 ||shirtwide.com^
 ||shoeaddic.com^
+||shop.headline-journal.com^
 ||shopusawarehouse.com^
 ||sieuto.com^
 ||sigmaoffers.com^
@@ -379,6 +382,7 @@
 ||tartannewzealand.myshopify.com^
 ||tartanz.co^
 ||tee24h.com^
+||teearrow.com^
 ||teechip.online^
 ||teefoody.com^
 ||teelegendary.com^
@@ -438,6 +442,5 @@
 ||yeyvibe.com^
 ||yeyvibes.com^
 ||yomoun.com^
-||yuynstore.com^
 ||zedbubble.com^
 ||zgalaxytee.com^

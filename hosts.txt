@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 915
+# Domains: 930
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -468,6 +468,9 @@
 0.0.0.0 www.luxsgear.com
 0.0.0.0 marleytecnologica.com
 0.0.0.0 www.marleytecnologica.com
+0.0.0.0 mayor4london.com
+0.0.0.0 www.mayor4london.com
+0.0.0.0 store.mayor4london.com
 0.0.0.0 mbtnorge.com
 0.0.0.0 www.mbtnorge.com
 0.0.0.0 meladermfacts.com
@@ -476,7 +479,6 @@
 0.0.0.0 www.memotero.com
 0.0.0.0 meowpinky.com
 0.0.0.0 www.meowpinky.com
-0.0.0.0 merchbeebee.com
 0.0.0.0 mercyzone.com
 0.0.0.0 www.mercyzone.com
 0.0.0.0 miuprints.com
@@ -491,8 +493,6 @@
 0.0.0.0 www.mononus.com
 0.0.0.0 montertee.com
 0.0.0.0 www.montertee.com
-0.0.0.0 moslt.com
-0.0.0.0 www.moslt.com
 0.0.0.0 moteshoes.com
 0.0.0.0 www.moteshoes.com
 0.0.0.0 store.moteshoes.com
@@ -564,6 +564,9 @@
 0.0.0.0 store.oflike.com
 0.0.0.0 ogogear.com
 0.0.0.0 www.ogogear.com
+0.0.0.0 oldcube.com
+0.0.0.0 www.oldcube.com
+0.0.0.0 store.oldcube.com
 0.0.0.0 omgrm.com
 0.0.0.0 www.omgrm.com
 0.0.0.0 store.omgrm.com
@@ -623,6 +626,8 @@
 0.0.0.0 premiumtour-don.com
 0.0.0.0 www.premiumtour-don.com
 0.0.0.0 primetoday.store
+0.0.0.0 www.primetoday.store
+0.0.0.0 store.primetoday.store
 0.0.0.0 printteestore.com
 0.0.0.0 www.printteestore.com
 0.0.0.0 projectorprousa.com
@@ -634,6 +639,9 @@
 0.0.0.0 www.proudofyournation.com
 0.0.0.0 quatangidol.com
 0.0.0.0 www.quatangidol.com
+0.0.0.0 quiltstudiolaren.com
+0.0.0.0 www.quiltstudiolaren.com
+0.0.0.0 store.quiltstudiolaren.com
 0.0.0.0 quintrendy.com
 0.0.0.0 www.quintrendy.com
 0.0.0.0 rabamnetee.com
@@ -650,6 +658,9 @@
 0.0.0.0 www.reanimando.org
 0.0.0.0 rebeccatees.com
 0.0.0.0 www.rebeccatees.com
+0.0.0.0 reforest-iita.org
+0.0.0.0 www.reforest-iita.org
+0.0.0.0 store.reforest-iita.org
 0.0.0.0 rickamortyshop.com
 0.0.0.0 www.rickamortyshop.com
 0.0.0.0 ringtoperfection.com
@@ -694,6 +705,9 @@
 0.0.0.0 www.shirtwide.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 www.shoeaddic.com
+0.0.0.0 shop.headline-journal.com
+0.0.0.0 www.shop.headline-journal.com
+0.0.0.0 store.shop.headline-journal.com
 0.0.0.0 shopusawarehouse.com
 0.0.0.0 www.shopusawarehouse.com
 0.0.0.0 sieuto.com
@@ -794,6 +808,8 @@
 0.0.0.0 www.tartanz.co
 0.0.0.0 tee24h.com
 0.0.0.0 www.tee24h.com
+0.0.0.0 teearrow.com
+0.0.0.0 store.teearrow.com
 0.0.0.0 teechip.online
 0.0.0.0 www.teechip.online
 0.0.0.0 teefoody.com
@@ -916,7 +932,6 @@
 0.0.0.0 www.yeyvibes.com
 0.0.0.0 yomoun.com
 0.0.0.0 www.yomoun.com
-0.0.0.0 yuynstore.com
 0.0.0.0 zedbubble.com
 0.0.0.0 www.zedbubble.com
 0.0.0.0 zgalaxytee.com
