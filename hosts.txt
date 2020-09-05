@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 930
+# Domains: 931
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -213,8 +213,6 @@
 0.0.0.0 www.dreamteeg.com
 0.0.0.0 du-tee.com
 0.0.0.0 www.du-tee.com
-0.0.0.0 dumanus.com
-0.0.0.0 www.dumanus.com
 0.0.0.0 dunjakke-no.com
 0.0.0.0 www.dunjakke-no.com
 0.0.0.0 easyliving4you.com
@@ -452,6 +450,7 @@
 0.0.0.0 www.loveinbox.co.uk
 0.0.0.0 loveinheart.co.uk
 0.0.0.0 www.loveinheart.co.uk
+0.0.0.0 store.loveinheart.co.uk
 0.0.0.0 loveshop20.com
 0.0.0.0 www.loveshop20.com
 0.0.0.0 lrgst.com
@@ -489,8 +488,6 @@
 0.0.0.0 www.moebel-thiems.com
 0.0.0.0 monkstars.com
 0.0.0.0 www.monkstars.com
-0.0.0.0 mononus.com
-0.0.0.0 www.mononus.com
 0.0.0.0 montertee.com
 0.0.0.0 www.montertee.com
 0.0.0.0 moteshoes.com
@@ -808,8 +805,6 @@
 0.0.0.0 www.tartanz.co
 0.0.0.0 tee24h.com
 0.0.0.0 www.tee24h.com
-0.0.0.0 teearrow.com
-0.0.0.0 store.teearrow.com
 0.0.0.0 teechip.online
 0.0.0.0 www.teechip.online
 0.0.0.0 teefoody.com
@@ -840,6 +835,9 @@
 0.0.0.0 www.theoceanest.com
 0.0.0.0 theonepercentcommunity.com
 0.0.0.0 www.theonepercentcommunity.com
+0.0.0.0 theshiny.store
+0.0.0.0 www.theshiny.store
+0.0.0.0 store.theshiny.store
 0.0.0.0 thevitic.com
 0.0.0.0 www.thevitic.com
 0.0.0.0 thevitic.onshopbase.com
@@ -848,6 +846,9 @@
 0.0.0.0 ti-yo.com
 0.0.0.0 www.ti-yo.com
 0.0.0.0 tinycutestuffs.com
+0.0.0.0 tiranaaquapark-eg.com
+0.0.0.0 www.tiranaaquapark-eg.com
+0.0.0.0 store.tiranaaquapark-eg.com
 0.0.0.0 tlonsey.com
 0.0.0.0 www.tlonsey.com
 0.0.0.0 tobiascelebritymusicevents.com
