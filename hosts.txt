@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 927
+# Domains: 926
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -318,7 +318,6 @@
 0.0.0.0 www.godeskonettbutikk.com
 0.0.0.0 gowarehouse.net
 0.0.0.0 www.gowarehouse.net
-0.0.0.0 store.gowarehouse.net
 0.0.0.0 goyourheart.com
 0.0.0.0 www.goyourheart.com
 0.0.0.0 store.goyourheart.com
@@ -567,6 +566,8 @@
 0.0.0.0 store.omgrm.com
 0.0.0.0 onlycooltees.com
 0.0.0.0 www.onlycooltees.com
+0.0.0.0 orderquilt.com
+0.0.0.0 www.orderquilt.com
 0.0.0.0 orderstee.com
 0.0.0.0 www.orderstee.com
 0.0.0.0 pandzee.com
@@ -665,9 +666,6 @@
 0.0.0.0 www.rjgriffith.com
 0.0.0.0 rockinlives.com
 0.0.0.0 www.rockinlives.com
-0.0.0.0 rovedy.com
-0.0.0.0 www.rovedy.com
-0.0.0.0 store.rovedy.com
 0.0.0.0 royaldecorcollection.com
 0.0.0.0 www.royaldecorcollection.com
 0.0.0.0 store.royaldecorcollection.com
@@ -802,6 +800,7 @@
 0.0.0.0 www.tartanz.co
 0.0.0.0 tee24h.com
 0.0.0.0 www.tee24h.com
+0.0.0.0 teearrow.com
 0.0.0.0 teechip.online
 0.0.0.0 www.teechip.online
 0.0.0.0 teefoody.com
