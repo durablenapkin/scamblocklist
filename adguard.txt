@@ -110,7 +110,6 @@
 ||easyshoppingus.com^
 ||eksofy.com^
 ||elaka.lk^
-||elitepharmclothing.com^
 ||ellezz.com^
 ||enchantestore.myshopify.com^
 ||engineracing.net^
@@ -203,6 +202,7 @@
 ||legarralazcoz.com^
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
+||lifewonderland.com^
 ||ligerking.com^
 ||lillly.shop^
 ||linkshe.com^
@@ -317,6 +317,7 @@
 ||ritavitastore.com^
 ||rjgriffith.com^
 ||rockinlives.com^
+||rovedy.com^
 ||royaldecorcollection.com^
 ||royaldecorhome.store^
 ||rsaonlinenow.com.au^
@@ -379,7 +380,6 @@
 ||tartannewzealand.myshopify.com^
 ||tartanz.co^
 ||tee24h.com^
-||teearrow.com^
 ||teechip.online^
 ||teefoody.com^
 ||teelegendary.com^
@@ -403,7 +403,6 @@
 ||tlonsey.com^
 ||tobiascelebritymusicevents.com^
 ||tomadamsenergy.com^
-||tourwaysl.com^
 ||trade-skins.net^
 ||treasurefan.com^
 ||trendsharks.com^
