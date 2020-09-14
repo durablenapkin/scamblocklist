@@ -1,12 +1,11 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 929
+# Domains: 928
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
-0.0.0.0 1n.yarrid.com
 0.0.0.0 1stireland.com
 0.0.0.0 www.1stireland.com
 0.0.0.0 1sttheglobal.com
@@ -818,6 +817,7 @@
 0.0.0.0 www.teepro.life
 0.0.0.0 teeslegendary.com
 0.0.0.0 www.teeslegendary.com
+0.0.0.0 store.teesspeed.com
 0.0.0.0 teesunshine.com
 0.0.0.0 www.teesunshine.com
 0.0.0.0 store.teesunshine.com
@@ -899,7 +899,6 @@
 0.0.0.0 www.usefulnpro.com
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
-0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 vetoro.cc
