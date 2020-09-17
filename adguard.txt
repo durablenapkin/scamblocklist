@@ -71,7 +71,6 @@
 ||cinaletlia.com^
 ||cipustar.com^
 ||cityofdream.co.uk^
-||classicraftdesign.com^
 ||clemoa.com^
 ||cloverszone.com^
 ||cmoboy.com^
@@ -215,6 +214,7 @@
 ||loveinheart.co.uk^
 ||loveshop20.com^
 ||lrgst.com^
+||lucatee.com^
 ||luckyhomie.com^
 ||lucysstyle.com^
 ||lunapresent.com^
@@ -386,7 +386,6 @@
 ||teemarko.com^
 ||teepro.life^
 ||teeslegendary.com^
-||teesspeed.com^
 ||teesunshine.com^
 ||teezill.com^
 ||thechildhooddream.com^
