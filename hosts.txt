@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 943
+# Domains: 941
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -22,6 +22,7 @@
 0.0.0.0 7.shopsharm.ru
 0.0.0.0 9to5outlet.com
 0.0.0.0 www.9to5outlet.com
+0.0.0.0 store.9to5outlet.com
 0.0.0.0 acquatee.com
 0.0.0.0 www.acquatee.com
 0.0.0.0 adidasko.com
@@ -388,8 +389,6 @@
 0.0.0.0 justbasicshop.com
 0.0.0.0 www.justbasicshop.com
 0.0.0.0 store.justbasicshop.com
-0.0.0.0 kalugastore.com
-0.0.0.0 www.kalugastore.com
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
@@ -514,7 +513,6 @@
 0.0.0.0 www.mytenmerch.com
 0.0.0.0 namemory.co.uk
 0.0.0.0 www.namemory.co.uk
-0.0.0.0 store.namemory.co.uk
 0.0.0.0 nanistores.com
 0.0.0.0 www.nanistores.com
 0.0.0.0 nasajones.com
