@@ -187,6 +187,8 @@
 0.0.0.0 www.dautee.com
 0.0.0.0 store.dautee.com
 0.0.0.0 decorwallart.store
+0.0.0.0 defcon7.com.br
+0.0.0.0 www.defcon7.com.br
 0.0.0.0 deforts.com
 0.0.0.0 www.deforts.com
 0.0.0.0 denningwelldrilling.com
@@ -252,9 +254,6 @@
 0.0.0.0 www.fapst.com
 0.0.0.0 festmusikk.com
 0.0.0.0 www.festmusikk.com
-0.0.0.0 fishing01.com
-0.0.0.0 www.fishing01.com
-0.0.0.0 store.fishing01.com
 0.0.0.0 fishinglovely.com
 0.0.0.0 www.fishinglovely.com
 0.0.0.0 fixpub.com
@@ -384,6 +383,7 @@
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 jorvanda.com
 0.0.0.0 www.jorvanda.com
+0.0.0.0 store.jorvanda.com
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 justbasicshop.com
