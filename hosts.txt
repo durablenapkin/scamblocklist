@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 941
+# Domains: 949
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -81,6 +81,7 @@
 0.0.0.0 www.beaswan.com
 0.0.0.0 beesmeth.com
 0.0.0.0 www.beesmeth.com
+0.0.0.0 store.beesmeth.com
 0.0.0.0 benecharm.com
 0.0.0.0 www.benecharm.com
 0.0.0.0 benshermanoslo.com
@@ -139,6 +140,7 @@
 0.0.0.0 www.cillva.com
 0.0.0.0 cinaletlia.com
 0.0.0.0 www.cinaletlia.com
+0.0.0.0 store.cinaletlia.com
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
 0.0.0.0 cityofdream.co.uk
@@ -172,6 +174,7 @@
 0.0.0.0 store.crossfiterada.com
 0.0.0.0 crownedwithlaurels.com
 0.0.0.0 www.crownedwithlaurels.com
+0.0.0.0 store.crownedwithlaurels.com
 0.0.0.0 cryptot.net
 0.0.0.0 www.cryptot.net
 0.0.0.0 csgoproleague.com
@@ -193,6 +196,7 @@
 0.0.0.0 www.deforts.com
 0.0.0.0 denningwelldrilling.com
 0.0.0.0 www.denningwelldrilling.com
+0.0.0.0 store.denningwelldrilling.com
 0.0.0.0 devifoodgrains.com
 0.0.0.0 www.devifoodgrains.com
 0.0.0.0 dezpez.com
@@ -379,6 +383,7 @@
 0.0.0.0 www.januashop.com
 0.0.0.0 jessicaivory.com
 0.0.0.0 www.jessicaivory.com
+0.0.0.0 store.jessicaivory.com
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 jorvanda.com
@@ -511,12 +516,14 @@
 0.0.0.0 www.mystitich4u.com
 0.0.0.0 mytenmerch.com
 0.0.0.0 www.mytenmerch.com
+0.0.0.0 store.mytenmerch.com
 0.0.0.0 namemory.co.uk
 0.0.0.0 www.namemory.co.uk
 0.0.0.0 nanistores.com
 0.0.0.0 www.nanistores.com
 0.0.0.0 nasajones.com
 0.0.0.0 www.nasajones.com
+0.0.0.0 store.nasajones.com
 0.0.0.0 natilove.com
 0.0.0.0 www.natilove.com
 0.0.0.0 nationaladvancegroup.com
@@ -541,6 +548,7 @@
 0.0.0.0 www.nonofy.com
 0.0.0.0 nordartisan.com
 0.0.0.0 www.nordartisan.com
+0.0.0.0 store.nordartisan.com
 0.0.0.0 norfotball.com
 0.0.0.0 www.norfotball.com
 0.0.0.0 norge.parkaoutdoor.com
