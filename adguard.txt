@@ -28,7 +28,6 @@
 ||amzntees.com^
 ||animeshoppers.com^
 ||aoptee.com^
-||apvoc-ga.com^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
 ||artdecorhome.store^
@@ -82,7 +81,6 @@
 ||corg.co^
 ||creizeystore.com^
 ||crossfiterada.com^
-||crownedwithlaurels.com^
 ||cryptot.net^
 ||csgoproleague.com^
 ||customurink.com^
@@ -92,7 +90,6 @@
 ||decorwallart.store^
 ||defcon7.com.br^
 ||deforts.com^
-||denningwelldrilling.com^
 ||devifoodgrains.com^
 ||dezpez.com^
 ||dkfodboldstore.com^
@@ -176,7 +173,6 @@
 ||jakkesalgs.com^
 ||jakkesnorge.com^
 ||januashop.com^
-||jessicaivory.com^
 ||jollyfamilygifts.net^
 ||jorvanda.com^
 ||joseph-holland.com^
@@ -240,7 +236,6 @@
 ||mytenmerch.com^
 ||namemory.co.uk^
 ||nanistores.com^
-||nasajones.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
 ||natistore.us^
