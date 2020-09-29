@@ -13,6 +13,7 @@
 ||7.shopsharm.ru^
 ||9to5outlet.com^
 ||acquatee.com^
+||adidasko.com^
 ||ahenana.com^
 ||airmaxskobillige.com^
 ||akarosi.com^
@@ -131,6 +132,7 @@
 ||fruitstee.com^
 ||furoshop.com^
 ||fveco.com^
+||gadgetinfinityz.com^
 ||gameconsoless.com^
 ||gearanime.com^
 ||gearathena.com^
@@ -146,7 +148,6 @@
 ||glendaz.com^
 ||glstee.com^
 ||godeskonettbutikk.com^
-||gowarehouse.net^
 ||goyourheart.com^
 ||gracesector.com^
 ||graciaszone.com^
