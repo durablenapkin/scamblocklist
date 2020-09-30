@@ -46,7 +46,6 @@
 ||berfumetee.com^
 ||bestbabyyoda.com^
 ||bestmoonshop.com^
-||bigfamily360.net^
 ||binfashiontrending.co^
 ||blingyy.com^
 ||bltskins.com^
@@ -148,6 +147,7 @@
 ||glendaz.com^
 ||glstee.com^
 ||godeskonettbutikk.com^
+||gowarehouse.net^
 ||goyourheart.com^
 ||gracesector.com^
 ||graciaszone.com^
@@ -206,7 +206,6 @@
 ||lootcrate.com^
 ||loveinbox.co.uk^
 ||loveinheart.co.uk^
-||loveshop20.com^
 ||lrgst.com^
 ||lucatee.com^
 ||luckyhomie.com^

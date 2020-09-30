@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 931
+# Domains: 930
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -91,8 +91,6 @@
 0.0.0.0 www.bestbabyyoda.com
 0.0.0.0 bestmoonshop.com
 0.0.0.0 www.bestmoonshop.com
-0.0.0.0 bigfamily360.net
-0.0.0.0 www.bigfamily360.net
 0.0.0.0 binfashiontrending.co
 0.0.0.0 www.binfashiontrending.co
 0.0.0.0 store.binfashiontrending.co
@@ -311,6 +309,9 @@
 0.0.0.0 www.glstee.com
 0.0.0.0 godeskonettbutikk.com
 0.0.0.0 www.godeskonettbutikk.com
+0.0.0.0 gowarehouse.net
+0.0.0.0 www.gowarehouse.net
+0.0.0.0 store.gowarehouse.net
 0.0.0.0 goyourheart.com
 0.0.0.0 www.goyourheart.com
 0.0.0.0 store.goyourheart.com
@@ -444,8 +445,6 @@
 0.0.0.0 loveinheart.co.uk
 0.0.0.0 www.loveinheart.co.uk
 0.0.0.0 store.loveinheart.co.uk
-0.0.0.0 loveshop20.com
-0.0.0.0 www.loveshop20.com
 0.0.0.0 lrgst.com
 0.0.0.0 www.lrgst.com
 0.0.0.0 lucatee.com
