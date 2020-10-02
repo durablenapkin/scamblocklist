@@ -47,6 +47,7 @@
 ||berfumetee.com^
 ||bestbabyyoda.com^
 ||bestmoonshop.com^
+||billigesalg.com^
 ||binfashiontrending.co^
 ||blingyy.com^
 ||bltskins.com^
@@ -121,7 +122,6 @@
 ||festmusikk.com^
 ||fishinglovely.com^
 ||fixpub.com^
-||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
 ||foxzily.xyz^
@@ -180,7 +180,6 @@
 ||justbasicshop.com^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
-||killercharm.com^
 ||killtee.com^
 ||kindapod.com^
 ||kingteestore.com^
@@ -379,6 +378,7 @@
 ||teesspeed.com^
 ||teesunshine.com^
 ||teezill.com^
+||thecabinas.com^
 ||thechildhooddream.com^
 ||thegeekgifts.com^
 ||thekeilas.com^
