@@ -49,8 +49,12 @@
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
 0.0.0.0 amznhoodies.com
+0.0.0.0 www.amznhoodies.com
+0.0.0.0 store.amznhoodies.com
 0.0.0.0 amznshirts.com
 0.0.0.0 amzntees.com
+0.0.0.0 www.amzntees.com
+0.0.0.0 store.amzntees.com
 0.0.0.0 animeshoppers.com
 0.0.0.0 www.animeshoppers.com
 0.0.0.0 annemus.com
@@ -203,6 +207,7 @@
 0.0.0.0 dreamstees.com
 0.0.0.0 dreamteeg.com
 0.0.0.0 www.dreamteeg.com
+0.0.0.0 store.dreamteeg.com
 0.0.0.0 du-tee.com
 0.0.0.0 www.du-tee.com
 0.0.0.0 dunjakke-no.com
@@ -379,9 +384,6 @@
 0.0.0.0 store.jorvanda.com
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
-0.0.0.0 justbasicshop.com
-0.0.0.0 www.justbasicshop.com
-0.0.0.0 store.justbasicshop.com
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
@@ -610,9 +612,6 @@
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 premiumtour-don.com
 0.0.0.0 www.premiumtour-don.com
-0.0.0.0 primetoday.store
-0.0.0.0 www.primetoday.store
-0.0.0.0 store.primetoday.store
 0.0.0.0 printteestore.com
 0.0.0.0 www.printteestore.com
 0.0.0.0 projectorprousa.com
@@ -834,6 +833,7 @@
 0.0.0.0 www.thekeilas.com
 0.0.0.0 thenationaltrendshop.com
 0.0.0.0 www.thenationaltrendshop.com
+0.0.0.0 store.thenationaltrendshop.com
 0.0.0.0 theoceanest.com
 0.0.0.0 www.theoceanest.com
 0.0.0.0 theonepercentcommunity.com
