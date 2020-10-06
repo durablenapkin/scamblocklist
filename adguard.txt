@@ -270,6 +270,7 @@
 ||pepatees.com^
 ||peppatees.com^
 ||petparty.store^
+||pharaohstore.com^
 ||pickablegift.com^
 ||pickcheaptee.com^
 ||pjs.outlet.com^
@@ -281,7 +282,6 @@
 ||premiumqualityblanket.com^
 ||premiumtour-don.com^
 ||printteestore.com^
-||projectorprousa.com^
 ||promotebuy.com^
 ||proudofyournation.com^
 ||quatangidol.com^
@@ -311,7 +311,6 @@
 ||sentees.com^
 ||seryna.co^
 ||sharonup.com^
-||shinezily.com^
 ||shirttest.com^
 ||shirtwide.com^
 ||shoeaddic.com^
