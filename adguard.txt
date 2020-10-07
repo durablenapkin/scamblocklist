@@ -142,6 +142,7 @@
 ||gearstastics.com^
 ||gearver.com^
 ||giftbias.com^
+||giftyweb.com^
 ||gladiadormalas.com.br^
 ||glanceclock.com^
 ||glendaz.com^
@@ -176,7 +177,6 @@
 ||januashop.com^
 ||jollyfamilygifts.net^
 ||jorvanda.com^
-||joseph-holland.com^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
 ||killtee.com^
