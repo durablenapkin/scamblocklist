@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 914
+# Domains: 910
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -71,7 +71,6 @@
 0.0.0.0 artdecorhome.store
 0.0.0.0 arvetellefsen.no
 0.0.0.0 www.arvetellefsen.no
-0.0.0.0 assassinfitness.com
 0.0.0.0 www.assassinfitness.com
 0.0.0.0 store.assassinfitness.com
 0.0.0.0 atrendsz.com
@@ -441,8 +440,6 @@
 0.0.0.0 www.lootcrate.com
 0.0.0.0 loveinbox.co.uk
 0.0.0.0 www.loveinbox.co.uk
-0.0.0.0 lrgst.com
-0.0.0.0 www.lrgst.com
 0.0.0.0 store.lrgst.com
 0.0.0.0 lucatee.com
 0.0.0.0 www.lucatee.com
@@ -858,8 +855,6 @@
 0.0.0.0 treverschmelerkris18.myshopify.com
 0.0.0.0 www.treverschmelerkris18.myshopify.com
 0.0.0.0 store.treverschmelerkris18.myshopify.com
-0.0.0.0 tritino.net
-0.0.0.0 www.tritino.net
 0.0.0.0 tromselementbygg.no
 0.0.0.0 www.tromselementbygg.no
 0.0.0.0 tulumwellnessacademy.com
@@ -916,6 +911,7 @@
 0.0.0.0 yeyvibes.com
 0.0.0.0 www.yeyvibes.com
 0.0.0.0 yomoun.com
+0.0.0.0 www.yomoun.com
 0.0.0.0 zedbubble.com
 0.0.0.0 www.zedbubble.com
 0.0.0.0 zgalaxytee.com
