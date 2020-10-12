@@ -251,7 +251,6 @@
 ||odinpc.com^
 ||oflike.com^
 ||ogogear.com^
-||oldcube.com^
 ||omgrm.com^
 ||onlycooltees.com^
 ||orderquilt.com^
@@ -368,7 +367,6 @@
 ||teemarko.com^
 ||teepro.life^
 ||teeslegendary.com^
-||teesunshine.com^
 ||teezill.com^
 ||thecabinas.com^
 ||thechildhooddream.com^
