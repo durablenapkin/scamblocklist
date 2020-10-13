@@ -353,6 +353,7 @@
 0.0.0.0 store.hollisternorge.com
 0.0.0.0 holmedalblikk.no
 0.0.0.0 www.holmedalblikk.no
+0.0.0.0 store.holmedalblikk.no
 0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
@@ -490,6 +491,7 @@
 0.0.0.0 mv.wiesengrund-sylt.com
 0.0.0.0 mycraftypad.com
 0.0.0.0 www.mycraftypad.com
+0.0.0.0 myproudstyle.com
 0.0.0.0 www.myproudstyle.com
 0.0.0.0 mystitich4u.com
 0.0.0.0 www.mystitich4u.com
@@ -757,8 +759,6 @@
 0.0.0.0 www.storedarkness.com
 0.0.0.0 storesp.com
 0.0.0.0 www.storesp.com
-0.0.0.0 streamloot.co
-0.0.0.0 www.streamloot.co
 0.0.0.0 stunningstuffs.com
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 sugarandpearl.com
