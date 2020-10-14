@@ -64,7 +64,6 @@
 ||buzzazone.com^
 ||candlesbymadison.com^
 ||caperforaciones.com^
-||catchemboxe.com^
 ||chipteeamz.com^
 ||cillva.com^
 ||cinaletlia.com^
@@ -349,6 +348,7 @@
 ||storeax.com^
 ||storedarkness.com^
 ||storesp.com^
+||streamloot.co^
 ||stunningstuffs.com^
 ||sugarandpearl.com^
 ||sunleaftravel.com^
