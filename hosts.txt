@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 901
+# Domains: 904
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -135,6 +135,9 @@
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 caperforaciones.com
 0.0.0.0 www.caperforaciones.com
+0.0.0.0 catchemboxe.com
+0.0.0.0 www.catchemboxe.com
+0.0.0.0 store.catchemboxe.com
 0.0.0.0 chipteeamz.com
 0.0.0.0 www.chipteeamz.com
 0.0.0.0 cillva.com
