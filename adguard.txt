@@ -70,6 +70,7 @@
 ||cillva.com^
 ||cinaletlia.com^
 ||cipustar.com^
+||classicraftdesign.com^
 ||clemoa.com^
 ||cloverszone.com^
 ||cmoboy.com^
@@ -162,7 +163,6 @@
 ||hmccommerce.com^
 ||hollisternorge.com^
 ||holmedalblikk.no^
-||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
@@ -274,7 +274,6 @@
 ||premiumqualityblanket.com^
 ||premiumtour-don.com^
 ||printteestore.com^
-||promotebuy.com^
 ||proudofyournation.com^
 ||quatangidol.com^
 ||quintrendy.com^
@@ -289,7 +288,6 @@
 ||reviewshirts.com^
 ||rickamortyshop.com^
 ||ringtoperfection.com^
-||ritavitastore.com^
 ||rjgriffith.com^
 ||rockinlives.com^
 ||rovedy.com^
