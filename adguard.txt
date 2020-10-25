@@ -35,7 +35,6 @@
 ||arnoldgloverruss58.myshopify.com^
 ||artdecorhome.store^
 ||arvetellefsen.no^
-||assassinfitness.com^
 ||atrendsz.com^
 ||aussiesportfashion.com^
 ||azitecs.com^
@@ -49,7 +48,6 @@
 ||bestbabyyoda.com^
 ||bestmoonshop.com^
 ||billigesalg.com^
-||binfashiontrending.co^
 ||blingyy.com^
 ||bltskins.com^
 ||boobeeshop.com^
@@ -163,6 +161,7 @@
 ||hmccommerce.com^
 ||hollisternorge.com^
 ||holmedalblikk.no^
+||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
@@ -345,7 +344,6 @@
 ||stunningstuffs.com^
 ||sugarandpearl.com^
 ||sunleaftravel.com^
-||sunsetstore.net^
 ||supercutestuff.com^
 ||superofferte.shop^
 ||surprisesandgifts.com^
