@@ -208,7 +208,6 @@
 ||luxsgear.com^
 ||marleytecnologica.com^
 ||mbtnorge.com^
-||meladermfacts.com^
 ||memotero.com^
 ||meowpinky.com^
 ||mercyzone.com^
@@ -337,7 +336,6 @@
 ||stingcool.com^
 ||stoeki.com^
 ||store-aleteia.org^
-||storeax.com^
 ||storedarkness.com^
 ||storesp.com^
 ||streamloot.co^
