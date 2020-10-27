@@ -59,7 +59,6 @@
 ||breepa.com^
 ||buddhakind.com^
 ||burgershirt.com^
-||buydubuy.com^
 ||buzzazone.com^
 ||candlesbymadison.com^
 ||caperforaciones.com^
@@ -161,7 +160,6 @@
 ||hmccommerce.com^
 ||hollisternorge.com^
 ||holmedalblikk.no^
-||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
@@ -286,6 +284,7 @@
 ||reviewshirts.com^
 ||rickamortyshop.com^
 ||ringtoperfection.com^
+||ritavitastore.com^
 ||rjgriffith.com^
 ||rockinlives.com^
 ||rovedy.com^
