@@ -345,6 +345,9 @@
 0.0.0.0 holmedalblikk.no
 0.0.0.0 www.holmedalblikk.no
 0.0.0.0 store.holmedalblikk.no
+0.0.0.0 hookahheroes.com
+0.0.0.0 www.hookahheroes.com
+0.0.0.0 store.hookahheroes.com
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
 0.0.0.0 hunterbeus.com
@@ -368,9 +371,6 @@
 0.0.0.0 www.januashop.com
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
-0.0.0.0 jorvanda.com
-0.0.0.0 www.jorvanda.com
-0.0.0.0 store.jorvanda.com
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn

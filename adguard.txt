@@ -160,6 +160,7 @@
 ||hmccommerce.com^
 ||hollisternorge.com^
 ||holmedalblikk.no^
+||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
@@ -170,7 +171,6 @@
 ||jakkesnorge.com^
 ||januashop.com^
 ||jollyfamilygifts.net^
-||jorvanda.com^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
 ||killtee.com^
