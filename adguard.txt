@@ -160,7 +160,6 @@
 ||hmccommerce.com^
 ||hollisternorge.com^
 ||holmedalblikk.no^
-||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
@@ -221,7 +220,6 @@
 ||mycraftypad.com^
 ||myproudstyle.com^
 ||mystitich4u.com^
-||mytenmerch.com^
 ||namemory.co.uk^
 ||nanistores.com^
 ||natilove.com^
@@ -333,7 +331,6 @@
 ||steamunlock.com^
 ||stingcool-com.myshopify.com^
 ||stingcool.com^
-||stoeki.com^
 ||store-aleteia.org^
 ||storedarkness.com^
 ||storesp.com^
