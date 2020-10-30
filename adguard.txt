@@ -140,7 +140,6 @@
 ||giftbias.com^
 ||giftyweb.com^
 ||gladiadormalas.com.br^
-||glanceclock.com^
 ||glendaz.com^
 ||glstee.com^
 ||godeskonettbutikk.com^
@@ -155,11 +154,11 @@
 ||helpnanacenter.helpscoutdocs.com^
 ||hermanistore.com^
 ||hernoclothing.com^
-||himete.com^
 ||hippie-pets.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
 ||holmedalblikk.no^
+||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
@@ -182,7 +181,6 @@
 ||lakersfanshoponline.com^
 ||legabitid.com^
 ||legarralazcoz.com^
-||legendofmen.com^
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
 ||lifewonderland.com^
@@ -215,6 +213,7 @@
 ||montertee.com^
 ||moteshoes.com^
 ||mualuondi.com^
+||museuw.com^
 ||muthaafoundation.org^
 ||mv.wiesengrund-sylt.com^
 ||mycraftypad.com^
@@ -224,7 +223,6 @@
 ||nanistores.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
-||natistore.us^
 ||nedistores.com^
 ||nicetee.net^
 ||niche3d.us^
@@ -347,10 +345,8 @@
 ||tee24h.com^
 ||teechip.online^
 ||teefoody.com^
-||teelegendary.com^
 ||teemarko.com^
 ||teepro.life^
-||teeslegendary.com^
 ||teezill.com^
 ||thecabinas.com^
 ||thechildhooddream.com^

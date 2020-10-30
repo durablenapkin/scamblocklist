@@ -549,9 +549,6 @@
 0.0.0.0 gladiadormalas.com.br
 0.0.0.0 www.gladiadormalas.com.br
 0.0.0.0 store.gladiadormalas.com.br
-0.0.0.0 glanceclock.com
-0.0.0.0 www.glanceclock.com
-0.0.0.0 store.glanceclock.com
 0.0.0.0 glendaz.com
 0.0.0.0 www.glendaz.com
 0.0.0.0 store.glendaz.com
