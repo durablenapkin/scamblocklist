@@ -156,7 +156,6 @@
 ||hippie-pets.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
-||holmedalblikk.no^
 ||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
@@ -199,6 +198,7 @@
 ||lunapresent.com^
 ||luvinstars.com^
 ||luxsgear.com^
+||luzyfran.com^
 ||marleytecnologica.com^
 ||mbtnorge.com^
 ||memotero.com^
