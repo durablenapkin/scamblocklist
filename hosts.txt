@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 859
+# Domains: 856
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -148,9 +148,6 @@
 0.0.0.0 classicraftdesign.com
 0.0.0.0 www.classicraftdesign.com
 0.0.0.0 store.classicraftdesign.com
-0.0.0.0 clemoa.com
-0.0.0.0 www.clemoa.com
-0.0.0.0 store.clemoa.com
 0.0.0.0 cloverszone.com
 0.0.0.0 www.cloverszone.com
 0.0.0.0 cmoboy.com
