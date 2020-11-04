@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 856
+# Domains: 847
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -20,9 +20,6 @@
 0.0.0.0 68blessed.com
 0.0.0.0 www.68blessed.com
 0.0.0.0 7.shopsharm.ru
-0.0.0.0 9to5outlet.com
-0.0.0.0 www.9to5outlet.com
-0.0.0.0 store.9to5outlet.com
 0.0.0.0 acquatee.com
 0.0.0.0 www.acquatee.com
 0.0.0.0 adidasko.com
@@ -412,9 +409,6 @@
 0.0.0.0 www.lootcrate.com
 0.0.0.0 loveinbox.co.uk
 0.0.0.0 www.loveinbox.co.uk
-0.0.0.0 lrgst.com
-0.0.0.0 www.lrgst.com
-0.0.0.0 store.lrgst.com
 0.0.0.0 lucatee.com
 0.0.0.0 www.lucatee.com
 0.0.0.0 luckyhomie.com
@@ -670,9 +664,6 @@
 0.0.0.0 smartproduct.site
 0.0.0.0 www.smartproduct.site
 0.0.0.0 store.smartproduct.site
-0.0.0.0 sodipi.com
-0.0.0.0 www.sodipi.com
-0.0.0.0 store.sodipi.com
 0.0.0.0 soldtee.com
 0.0.0.0 www.soldtee.com
 0.0.0.0 store.soldtee.com
