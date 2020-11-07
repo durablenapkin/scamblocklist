@@ -61,6 +61,7 @@
 ||buzzazone.com^
 ||candlesbymadison.com^
 ||caperforaciones.com^
+||cartooy.com^
 ||catchemboxe.com^
 ||chipteeamz.com^
 ||cillva.com^
@@ -95,7 +96,6 @@
 ||dunjakke-no.com^
 ||easyliving4you.com^
 ||easyshoppingus.com^
-||eksofy.com^
 ||elaka.lk^
 ||ellezz.com^
 ||enchantestore.myshopify.com^
@@ -203,7 +203,6 @@
 ||mncprobuild.com^
 ||moebel-thiems.com^
 ||monkstars.com^
-||montertee.com^
 ||moteshoes.com^
 ||mualuondi.com^
 ||museuw.com^
