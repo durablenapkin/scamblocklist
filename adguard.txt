@@ -96,6 +96,7 @@
 ||dunjakke-no.com^
 ||easyliving4you.com^
 ||easyshoppingus.com^
+||eksofy.com^
 ||elaka.lk^
 ||ellezz.com^
 ||enchantestore.myshopify.com^
@@ -152,7 +153,6 @@
 ||hippie-pets.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
-||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
@@ -282,7 +282,6 @@
 ||saveeeee.myshopify.com^
 ||sedark.com^
 ||sentees.com^
-||seryna.co^
 ||sharonup.com^
 ||shirttest.com^
 ||shirtwide.com^
