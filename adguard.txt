@@ -20,7 +20,6 @@
 ||aliripple.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allergyfl.com^
-||alltestbanksolutions.com^
 ||alohazing.com^
 ||altruetech.com^
 ||amznhoodies.com^
@@ -137,7 +136,6 @@
 ||giftyweb.com^
 ||gladiadormalas.com.br^
 ||glendaz.com^
-||glstee.com^
 ||godeskonettbutikk.com^
 ||goyourheart.com^
 ||gracesector.com^
@@ -153,7 +151,6 @@
 ||hippie-pets.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
-||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
@@ -336,6 +333,7 @@
 ||teechip.online^
 ||teefoody.com^
 ||teepro.life^
+||teesspeed.com^
 ||teezill.com^
 ||thecabinas.com^
 ||thechildhooddream.com^
