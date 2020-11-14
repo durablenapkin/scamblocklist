@@ -22,9 +22,7 @@
 ||allergyfl.com^
 ||alohazing.com^
 ||altruetech.com^
-||amznhoodies.com^
 ||amznshirts.com^
-||amzntees.com^
 ||animeshoppers.com^
 ||annemus.com^
 ||aoptee.com^
@@ -90,7 +88,6 @@
 ||drakternorge.com^
 ||dreamstee.com^
 ||dreamstees.com^
-||dreamteeg.com^
 ||du-tee.com^
 ||dunjakke-no.com^
 ||easyliving4you.com^
@@ -213,7 +210,6 @@
 ||nanistores.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
-||natistorez.com^
 ||nedistores.com^
 ||nicetee.net^
 ||niche3d.us^
@@ -339,7 +335,6 @@
 ||thechildhooddream.com^
 ||thegeekgifts.com^
 ||thekeilas.com^
-||thenationaltrendshop.com^
 ||theoceanest.com^
 ||theonepercentcommunity.com^
 ||theshiny.store^
