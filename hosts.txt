@@ -54,7 +54,9 @@
 0.0.0.0 aozeala.com
 0.0.0.0 www.aozeala.com
 0.0.0.0 store.aozeala.com
+0.0.0.0 apvoc-ga.com
 0.0.0.0 www.apvoc-ga.com
+0.0.0.0 store.apvoc-ga.com
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
 0.0.0.0 store.army-shop.onshopbase.com
@@ -323,6 +325,7 @@
 0.0.0.0 store.hookahheroes.com
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
+0.0.0.0 store.hugetrump.com
 0.0.0.0 hunterbeus.com
 0.0.0.0 www.hunterbeus.com
 0.0.0.0 store.hunterbeus.com
@@ -438,8 +441,6 @@
 0.0.0.0 mv.wiesengrund-sylt.com
 0.0.0.0 mycraftypad.com
 0.0.0.0 www.mycraftypad.com
-0.0.0.0 myproudstyle.com
-0.0.0.0 www.myproudstyle.com
 0.0.0.0 mystitich4u.com
 0.0.0.0 www.mystitich4u.com
 0.0.0.0 namemory.co.uk
@@ -567,6 +568,7 @@
 0.0.0.0 www.reviewshirts.com
 0.0.0.0 rickamortyshop.com
 0.0.0.0 www.rickamortyshop.com
+0.0.0.0 store.rickamortyshop.com
 0.0.0.0 ringtoperfection.com
 0.0.0.0 www.ringtoperfection.com
 0.0.0.0 store.ringtoperfection.com
@@ -775,6 +777,7 @@
 0.0.0.0 www.um-bs.com
 0.0.0.0 uniaxes.com
 0.0.0.0 www.uniaxes.com
+0.0.0.0 store.uniaxes.com
 0.0.0.0 unique3ds.com
 0.0.0.0 www.unique3ds.com
 0.0.0.0 ureashi.com
@@ -798,9 +801,6 @@
 0.0.0.0 www.vipticketgiveaway.com
 0.0.0.0 wanedo.net
 0.0.0.0 www.wanedo.net
-0.0.0.0 wavetshirt.com
-0.0.0.0 www.wavetshirt.com
-0.0.0.0 store.wavetshirt.com
 0.0.0.0 whbinder.com
 0.0.0.0 www.whbinder.com
 0.0.0.0 windbellstore.com
