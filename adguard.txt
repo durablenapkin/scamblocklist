@@ -183,6 +183,7 @@
 ||look-like-star.myshopify.com^
 ||lootcrate.com^
 ||loveinbox.co.uk^
+||loveshop20.com^
 ||lucatee.com^
 ||luckyhomie.com^
 ||lucysstyle.com^
@@ -373,7 +374,6 @@
 ||whbinder.com^
 ||windbellstore.com^
 ||wowviral.net^
-||xmasbauble.com^
 ||yeahteesmile.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
