@@ -34,11 +34,9 @@
 ||arvetellefsen.no^
 ||atrendsz.com^
 ||aussiesportfashion.com^
-||azitecs.com^
 ||baroconcept.com^
 ||beaswan.com^
 ||benecharm.com^
-||benshermanoslo.com^
 ||bentozi.store^
 ||berfumetee.com^
 ||bestbabyyoda.com^
@@ -75,7 +73,6 @@
 ||corg.co^
 ||creizeystore.com^
 ||crossfiterada.com^
-||cryptot.net^
 ||csgoproleague.com^
 ||customurink.com^
 ||danylevych.com^
