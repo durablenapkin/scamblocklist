@@ -271,7 +271,6 @@
 ||royaldecorcollection.com^
 ||royaldecorhome.store^
 ||rsaonlinenow.com.au^
-||rudolphfly.com^
 ||sampoline.com^
 ||saveeeee.myshopify.com^
 ||sedark.com^
@@ -363,6 +362,7 @@
 ||usasport247.com^
 ||usefulnpro.com^
 ||ushiro.org^
+||uuc.joyofprogress.com^
 ||verfun.com^
 ||vetoro.cc^
 ||vikingstore.co^

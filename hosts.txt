@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 809
+# Domains: 808
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -56,6 +56,7 @@
 0.0.0.0 store.aozeala.com
 0.0.0.0 apvoc-ga.com
 0.0.0.0 www.apvoc-ga.com
+0.0.0.0 store.apvoc-ga.com
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
 0.0.0.0 store.army-shop.onshopbase.com
@@ -312,7 +313,6 @@
 0.0.0.0 hollisternorge.com
 0.0.0.0 www.hollisternorge.com
 0.0.0.0 store.hollisternorge.com
-0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
 0.0.0.0 hugetrump.com
@@ -581,9 +581,6 @@
 0.0.0.0 royaldecorhome.store
 0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 www.rsaonlinenow.com.au
-0.0.0.0 rudolphfly.com
-0.0.0.0 www.rudolphfly.com
-0.0.0.0 store.rudolphfly.com
 0.0.0.0 sampoline.com
 0.0.0.0 www.sampoline.com
 0.0.0.0 saveeeee.myshopify.com
@@ -780,10 +777,12 @@
 0.0.0.0 www.uredaka.com
 0.0.0.0 usasport247.com
 0.0.0.0 www.usasport247.com
+0.0.0.0 store.usasport247.com
 0.0.0.0 usefulnpro.com
 0.0.0.0 www.usefulnpro.com
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
+0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 vetoro.cc
