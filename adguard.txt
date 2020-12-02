@@ -312,6 +312,7 @@
 ||stingcool-com.myshopify.com^
 ||stingcool.com^
 ||store-aleteia.org^
+||storeax.com^
 ||storedarkness.com^
 ||storesp.com^
 ||streamloot.co^
