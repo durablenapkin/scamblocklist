@@ -32,6 +32,7 @@
 ||arnoldgloverruss58.myshopify.com^
 ||artdecorhome.store^
 ||arvetellefsen.no^
+||assassinfitness.com^
 ||atrendsz.com^
 ||aussiesportfashion.com^
 ||baroconcept.com^
@@ -188,6 +189,7 @@
 ||luzyfran.com^
 ||marleytecnologica.com^
 ||mbtnorge.com^
+||meladermfacts.com^
 ||memotero.com^
 ||meowpinky.com^
 ||mercyzone.com^
@@ -200,13 +202,16 @@
 ||museuw.com^
 ||muthaafoundation.org^
 ||mv.wiesengrund-sylt.com^
+||mvptrend.com^
 ||mycraftypad.com^
 ||mystitich4u.com^
 ||namemory.co.uk^
 ||nanistores.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
+||natistorez.com^
 ||nedistores.com^
+||newgstore.com^
 ||nicetee.net^
 ||niche3d.us^
 ||nofotballshop.com^
@@ -264,7 +269,6 @@
 ||reviewshirts.com^
 ||rickamortyshop.com^
 ||ringtoperfection.com^
-||ritavitastore.com^
 ||rjgriffith.com^
 ||rockinlives.com^
 ||rovedy.com^
