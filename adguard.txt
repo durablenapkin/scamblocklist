@@ -113,11 +113,9 @@
 ||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
-||frogspring.life^
 ||fruitstee.com^
 ||furoshop.com^
 ||fveco.com^
-||gameconsoless.com^
 ||gearanime.com^
 ||gearathena.com^
 ||gearclover.com^
@@ -347,7 +345,6 @@
 ||tinycutestuffs.com^
 ||tiranaaquapark-eg.com^
 ||tlonsey.com^
-||tobiascelebritymusicevents.com^
 ||tomadamsenergy.com^
 ||trade-skins.net^
 ||treasurefan.com^
