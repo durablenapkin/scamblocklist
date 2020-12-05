@@ -30,9 +30,7 @@
 ||apvoc-ga.com^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
-||artdecorhome.store^
 ||arvetellefsen.no^
-||assassinfitness.com^
 ||atrendsz.com^
 ||aussiesportfashion.com^
 ||baroconcept.com^
@@ -110,7 +108,6 @@
 ||fixpub.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
-||foxzily.xyz^
 ||friday89.com^
 ||friday99.com^
 ||fruitstee.com^
@@ -297,7 +294,6 @@
 ||skytee3d.com^
 ||smartpower4all.org^
 ||smartproduct.site^
-||soldtee.com^
 ||solepersonal.com^
 ||somethingapparel.com^
 ||souhoney.com^

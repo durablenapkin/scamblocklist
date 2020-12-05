@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 829
+# Domains: 817
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -63,14 +63,8 @@
 0.0.0.0 arnoldgloverruss58.myshopify.com
 0.0.0.0 www.arnoldgloverruss58.myshopify.com
 0.0.0.0 store.arnoldgloverruss58.myshopify.com
-0.0.0.0 artdecorhome.store
-0.0.0.0 www.artdecorhome.store
-0.0.0.0 store.artdecorhome.store
 0.0.0.0 arvetellefsen.no
 0.0.0.0 www.arvetellefsen.no
-0.0.0.0 assassinfitness.com
-0.0.0.0 www.assassinfitness.com
-0.0.0.0 store.assassinfitness.com
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
 0.0.0.0 aussiesportfashion.com
@@ -239,9 +233,6 @@
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
-0.0.0.0 foxzily.xyz
-0.0.0.0 www.foxzily.xyz
-0.0.0.0 store.foxzily.xyz
 0.0.0.0 friday89.com
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
@@ -654,9 +645,6 @@
 0.0.0.0 smartproduct.site
 0.0.0.0 www.smartproduct.site
 0.0.0.0 store.smartproduct.site
-0.0.0.0 soldtee.com
-0.0.0.0 www.soldtee.com
-0.0.0.0 store.soldtee.com
 0.0.0.0 solepersonal.com
 0.0.0.0 www.solepersonal.com
 0.0.0.0 somethingapparel.com
