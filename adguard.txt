@@ -4,6 +4,7 @@
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
+||1n.yarrid.com^
 ||1stireland.com^
 ||1sttheglobal.com^
 ||1sttheworld.co^
@@ -60,6 +61,7 @@
 ||chipteeamz.com^
 ||cipustar.com^
 ||classicraftdesign.com^
+||clemoa.com^
 ||cloverszone.com^
 ||cmoboy.com^
 ||cocumbertee.com^
@@ -232,7 +234,6 @@
 ||parajumperssalg.com^
 ||pearstee.com^
 ||peekpok.com^
-||penguinnow.com^
 ||penguinnow.store^
 ||penguinnows.us^
 ||pepatees.com^
@@ -281,7 +282,6 @@
 ||shop.headline-journal.com^
 ||shopusawarehouse.com^
 ||sieuto.com^
-||sigmaoffers.com^
 ||sikaripod.com^
 ||silverlanetrading.com^
 ||simplewhales.com^
@@ -362,7 +362,6 @@
 ||ushiro.org^
 ||uuc.joyofprogress.com^
 ||verfun.com^
-||vetoro.cc^
 ||vikingstore.co^
 ||vipticketgiveaway.com^
 ||wanedo.net^

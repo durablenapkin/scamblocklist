@@ -6,6 +6,9 @@
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
+0.0.0.0 1n.yarrid.com
+0.0.0.0 www.1n.yarrid.com
+0.0.0.0 store.1n.yarrid.com
 0.0.0.0 1stireland.com
 0.0.0.0 www.1stireland.com
 0.0.0.0 1sttheglobal.com
@@ -55,6 +58,7 @@
 0.0.0.0 www.aozeala.com
 0.0.0.0 store.aozeala.com
 0.0.0.0 apvoc-ga.com
+0.0.0.0 www.apvoc-ga.com
 0.0.0.0 store.apvoc-ga.com
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
@@ -128,6 +132,9 @@
 0.0.0.0 classicraftdesign.com
 0.0.0.0 www.classicraftdesign.com
 0.0.0.0 store.classicraftdesign.com
+0.0.0.0 clemoa.com
+0.0.0.0 www.clemoa.com
+0.0.0.0 store.clemoa.com
 0.0.0.0 cloverszone.com
 0.0.0.0 www.cloverszone.com
 0.0.0.0 cmoboy.com
@@ -504,8 +511,6 @@
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
 0.0.0.0 store.peekpok.com
-0.0.0.0 penguinnow.com
-0.0.0.0 www.penguinnow.com
 0.0.0.0 penguinnow.store
 0.0.0.0 www.penguinnow.store
 0.0.0.0 penguinnows.us
@@ -617,8 +622,6 @@
 0.0.0.0 sieuto.com
 0.0.0.0 www.sieuto.com
 0.0.0.0 store.sieuto.com
-0.0.0.0 sigmaoffers.com
-0.0.0.0 www.sigmaoffers.com
 0.0.0.0 sikaripod.com
 0.0.0.0 www.sikaripod.com
 0.0.0.0 www.silverlanetrading.com
@@ -791,9 +794,6 @@
 0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
-0.0.0.0 vetoro.cc
-0.0.0.0 www.vetoro.cc
-0.0.0.0 store.vetoro.cc
 0.0.0.0 vikingstore.co
 0.0.0.0 www.vikingstore.co
 0.0.0.0 vipticketgiveaway.com
