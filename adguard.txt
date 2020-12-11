@@ -282,6 +282,7 @@
 ||shop.headline-journal.com^
 ||shopusawarehouse.com^
 ||sieuto.com^
+||sigmaoffers.com^
 ||sikaripod.com^
 ||silverlanetrading.com^
 ||simplewhales.com^

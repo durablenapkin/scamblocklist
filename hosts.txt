@@ -354,8 +354,6 @@
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
 0.0.0.0 www.lakersfanshoponline.com
-0.0.0.0 legarralazcoz.com
-0.0.0.0 www.legarralazcoz.com
 0.0.0.0 store.legarralazcoz.com
 0.0.0.0 lericettedifrancy74.com
 0.0.0.0 www.lericettedifrancy74.com
@@ -622,6 +620,8 @@
 0.0.0.0 sieuto.com
 0.0.0.0 www.sieuto.com
 0.0.0.0 store.sieuto.com
+0.0.0.0 sigmaoffers.com
+0.0.0.0 www.sigmaoffers.com
 0.0.0.0 sikaripod.com
 0.0.0.0 www.sikaripod.com
 0.0.0.0 www.silverlanetrading.com
