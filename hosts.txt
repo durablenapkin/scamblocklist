@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 814
+# Domains: 817
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -57,8 +57,6 @@
 0.0.0.0 aozeala.com
 0.0.0.0 www.aozeala.com
 0.0.0.0 store.aozeala.com
-0.0.0.0 apvoc-ga.com
-0.0.0.0 www.apvoc-ga.com
 0.0.0.0 store.apvoc-ga.com
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
@@ -354,6 +352,8 @@
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
 0.0.0.0 www.lakersfanshoponline.com
+0.0.0.0 legarralazcoz.com
+0.0.0.0 www.legarralazcoz.com
 0.0.0.0 store.legarralazcoz.com
 0.0.0.0 lericettedifrancy74.com
 0.0.0.0 www.lericettedifrancy74.com
@@ -383,6 +383,9 @@
 0.0.0.0 www.loveinbox.co.uk
 0.0.0.0 loveshop20.com
 0.0.0.0 www.loveshop20.com
+0.0.0.0 lrgst.com
+0.0.0.0 www.lrgst.com
+0.0.0.0 store.lrgst.com
 0.0.0.0 lucatee.com
 0.0.0.0 www.lucatee.com
 0.0.0.0 luckyhomie.com
