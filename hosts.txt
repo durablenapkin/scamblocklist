@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 817
+# Domains: 813
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -57,6 +57,7 @@
 0.0.0.0 aozeala.com
 0.0.0.0 www.aozeala.com
 0.0.0.0 store.aozeala.com
+0.0.0.0 apvoc-ga.com
 0.0.0.0 store.apvoc-ga.com
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
@@ -603,9 +604,6 @@
 0.0.0.0 store.sedark.com
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
-0.0.0.0 sharonup.com
-0.0.0.0 www.sharonup.com
-0.0.0.0 store.sharonup.com
 0.0.0.0 shinezily.com
 0.0.0.0 www.shinezily.com
 0.0.0.0 store.shinezily.com
@@ -683,9 +681,7 @@
 0.0.0.0 www.stingcool.com
 0.0.0.0 store-aleteia.org
 0.0.0.0 www.store-aleteia.org
-0.0.0.0 storeax.com
 0.0.0.0 www.storeax.com
-0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 storesp.com
