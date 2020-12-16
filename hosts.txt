@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 813
+# Domains: 815
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -59,7 +59,6 @@
 0.0.0.0 store.aozeala.com
 0.0.0.0 apvoc-ga.com
 0.0.0.0 www.apvoc-ga.com
-0.0.0.0 store.apvoc-ga.com
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
 0.0.0.0 store.army-shop.onshopbase.com
@@ -68,6 +67,8 @@
 0.0.0.0 store.arnoldgloverruss58.myshopify.com
 0.0.0.0 arvetellefsen.no
 0.0.0.0 www.arvetellefsen.no
+0.0.0.0 assassinfitness.com
+0.0.0.0 www.assassinfitness.com
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
 0.0.0.0 aussiesportfashion.com
@@ -308,6 +309,7 @@
 0.0.0.0 www.hollisternorge.com
 0.0.0.0 store.hollisternorge.com
 0.0.0.0 hookahheroes.com
+0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
@@ -413,6 +415,7 @@
 0.0.0.0 www.miuprints.com
 0.0.0.0 mncprobuild.com
 0.0.0.0 www.mncprobuild.com
+0.0.0.0 store.mncprobuild.com
 0.0.0.0 moebel-thiems.com
 0.0.0.0 www.moebel-thiems.com
 0.0.0.0 monkstars.com
@@ -557,7 +560,6 @@
 0.0.0.0 www.quatangidol.com
 0.0.0.0 quintrendy.com
 0.0.0.0 www.quintrendy.com
-0.0.0.0 store.quintrendy.com
 0.0.0.0 rabamnetee.com
 0.0.0.0 www.rabamnetee.com
 0.0.0.0 rbpus.net
