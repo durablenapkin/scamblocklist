@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 815
+# Domains: 814
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -59,6 +59,7 @@
 0.0.0.0 store.aozeala.com
 0.0.0.0 apvoc-ga.com
 0.0.0.0 www.apvoc-ga.com
+0.0.0.0 store.apvoc-ga.com
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
 0.0.0.0 store.army-shop.onshopbase.com
@@ -93,6 +94,7 @@
 0.0.0.0 store.billigesalg.com
 0.0.0.0 blingyy.com
 0.0.0.0 www.blingyy.com
+0.0.0.0 store.blingyy.com
 0.0.0.0 bltskins.com
 0.0.0.0 www.bltskins.com
 0.0.0.0 store.bltskins.com
@@ -171,6 +173,9 @@
 0.0.0.0 www.defcon7.com.br
 0.0.0.0 deforts.com
 0.0.0.0 www.deforts.com
+0.0.0.0 denningwelldrilling.com
+0.0.0.0 www.denningwelldrilling.com
+0.0.0.0 store.denningwelldrilling.com
 0.0.0.0 devifoodgrains.com
 0.0.0.0 www.devifoodgrains.com
 0.0.0.0 dezpez.com
@@ -191,9 +196,6 @@
 0.0.0.0 store.easyliving4you.com
 0.0.0.0 easyshoppingus.com
 0.0.0.0 www.easyshoppingus.com
-0.0.0.0 eksofy.com
-0.0.0.0 www.eksofy.com
-0.0.0.0 store.eksofy.com
 0.0.0.0 elaka.lk
 0.0.0.0 www.elaka.lk
 0.0.0.0 ellezz.com
@@ -402,9 +404,6 @@
 0.0.0.0 www.marleytecnologica.com
 0.0.0.0 mbtnorge.com
 0.0.0.0 www.mbtnorge.com
-0.0.0.0 meladermfacts.com
-0.0.0.0 www.meladermfacts.com
-0.0.0.0 store.meladermfacts.com
 0.0.0.0 memotero.com
 0.0.0.0 www.memotero.com
 0.0.0.0 meowpinky.com

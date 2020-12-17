@@ -79,6 +79,7 @@
 ||decorwallart.store^
 ||defcon7.com.br^
 ||deforts.com^
+||denningwelldrilling.com^
 ||devifoodgrains.com^
 ||dezpez.com^
 ||dkfodboldstore.com^
@@ -89,7 +90,6 @@
 ||dunjakke-no.com^
 ||easyliving4you.com^
 ||easyshoppingus.com^
-||eksofy.com^
 ||elaka.lk^
 ||ellezz.com^
 ||enchantestore.myshopify.com^
@@ -185,7 +185,6 @@
 ||luzyfran.com^
 ||marleytecnologica.com^
 ||mbtnorge.com^
-||meladermfacts.com^
 ||memotero.com^
 ||meowpinky.com^
 ||mercyzone.com^
