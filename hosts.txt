@@ -57,9 +57,6 @@
 0.0.0.0 aozeala.com
 0.0.0.0 www.aozeala.com
 0.0.0.0 store.aozeala.com
-0.0.0.0 apvoc-ga.com
-0.0.0.0 www.apvoc-ga.com
-0.0.0.0 store.apvoc-ga.com
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
 0.0.0.0 store.army-shop.onshopbase.com
@@ -404,6 +401,8 @@
 0.0.0.0 www.marleytecnologica.com
 0.0.0.0 mbtnorge.com
 0.0.0.0 www.mbtnorge.com
+0.0.0.0 meladermfacts.com
+0.0.0.0 www.meladermfacts.com
 0.0.0.0 memotero.com
 0.0.0.0 www.memotero.com
 0.0.0.0 meowpinky.com
@@ -443,6 +442,7 @@
 0.0.0.0 www.nanistores.com
 0.0.0.0 natilove.com
 0.0.0.0 www.natilove.com
+0.0.0.0 store.natilove.com
 0.0.0.0 nationaladvancegroup.com
 0.0.0.0 www.nationaladvancegroup.com
 0.0.0.0 natistorez.com
