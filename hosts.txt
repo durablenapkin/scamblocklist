@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 814
+# Domains: 816
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -57,6 +57,9 @@
 0.0.0.0 aozeala.com
 0.0.0.0 www.aozeala.com
 0.0.0.0 store.aozeala.com
+0.0.0.0 apvoc-ga.com
+0.0.0.0 www.apvoc-ga.com
+0.0.0.0 store.apvoc-ga.com
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
 0.0.0.0 store.army-shop.onshopbase.com
@@ -574,9 +577,6 @@
 0.0.0.0 store.reforest-iita.org
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
-0.0.0.0 rickamortyshop.com
-0.0.0.0 www.rickamortyshop.com
-0.0.0.0 store.rickamortyshop.com
 0.0.0.0 ringtoperfection.com
 0.0.0.0 www.ringtoperfection.com
 0.0.0.0 store.ringtoperfection.com
@@ -792,6 +792,8 @@
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
 0.0.0.0 uuc.joyofprogress.com
+0.0.0.0 www.uuc.joyofprogress.com
+0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 vikingstore.co
