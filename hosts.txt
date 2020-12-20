@@ -624,6 +624,7 @@
 0.0.0.0 www.sigmaoffers.com
 0.0.0.0 sikaripod.com
 0.0.0.0 www.sikaripod.com
+0.0.0.0 store.sikaripod.com
 0.0.0.0 www.silverlanetrading.com
 0.0.0.0 simplewhales.com
 0.0.0.0 www.simplewhales.com
@@ -682,7 +683,6 @@
 0.0.0.0 www.store-aleteia.org
 0.0.0.0 storeax.com
 0.0.0.0 www.storeax.com
-0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 storesp.com
