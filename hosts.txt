@@ -57,6 +57,7 @@
 0.0.0.0 aozeala.com
 0.0.0.0 www.aozeala.com
 0.0.0.0 store.aozeala.com
+0.0.0.0 apvoc-ga.com
 0.0.0.0 www.apvoc-ga.com
 0.0.0.0 store.apvoc-ga.com
 0.0.0.0 army-shop.onshopbase.com
@@ -261,7 +262,6 @@
 0.0.0.0 www.gearhuman.com
 0.0.0.0 gearstastic.com
 0.0.0.0 www.gearstastic.com
-0.0.0.0 store.gearstastic.com
 0.0.0.0 gearstastic.net
 0.0.0.0 www.gearstastic.net
 0.0.0.0 store.gearstastic.net
