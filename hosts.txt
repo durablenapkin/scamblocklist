@@ -104,6 +104,9 @@
 0.0.0.0 www.boododa.com
 0.0.0.0 bossaving.com
 0.0.0.0 www.bossaving.com
+0.0.0.0 bostongrnhsflowers.com
+0.0.0.0 www.bostongrnhsflowers.com
+0.0.0.0 store.bostongrnhsflowers.com
 0.0.0.0 boutiqueondemand.com
 0.0.0.0 bradcroninnapo82.myshopify.com
 0.0.0.0 www.bradcroninnapo82.myshopify.com
@@ -500,7 +503,6 @@
 0.0.0.0 www.parajumpers-salg.com
 0.0.0.0 store.parajumpers-salg.com
 0.0.0.0 parajumpersitoutlet.com
-0.0.0.0 www.parajumpersitoutlet.com
 0.0.0.0 parajumpersnettbutikk.com
 0.0.0.0 www.parajumpersnettbutikk.com
 0.0.0.0 store.parajumpersnettbutikk.com
@@ -514,8 +516,6 @@
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
 0.0.0.0 store.peekpok.com
-0.0.0.0 penguinnow.store
-0.0.0.0 www.penguinnow.store
 0.0.0.0 penguinnows.us
 0.0.0.0 www.penguinnows.us
 0.0.0.0 pepatees.com
@@ -775,9 +775,6 @@
 0.0.0.0 www.ultraboxlab.com
 0.0.0.0 um-bs.com
 0.0.0.0 www.um-bs.com
-0.0.0.0 uniaxes.com
-0.0.0.0 www.uniaxes.com
-0.0.0.0 store.uniaxes.com
 0.0.0.0 unique3ds.com
 0.0.0.0 www.unique3ds.com
 0.0.0.0 ureashi.com
@@ -801,6 +798,9 @@
 0.0.0.0 www.vipticketgiveaway.com
 0.0.0.0 wanedo.net
 0.0.0.0 www.wanedo.net
+0.0.0.0 wavetshirt.com
+0.0.0.0 www.wavetshirt.com
+0.0.0.0 store.wavetshirt.com
 0.0.0.0 whbinder.com
 0.0.0.0 www.whbinder.com
 0.0.0.0 windbellstore.com

@@ -48,6 +48,7 @@
 ||boobeeshop.com^
 ||boododa.com^
 ||bossaving.com^
+||bostongrnhsflowers.com^
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
@@ -233,7 +234,6 @@
 ||parajumperssalg.com^
 ||pearstee.com^
 ||peekpok.com^
-||penguinnow.store^
 ||penguinnows.us^
 ||pepatees.com^
 ||peppatees.com^
@@ -351,7 +351,6 @@
 ||ultimate-tech-products.myshopify.com^
 ||ultraboxlab.com^
 ||um-bs.com^
-||uniaxes.com^
 ||unique3ds.com^
 ||ureashi.com^
 ||uredaka.com^
@@ -363,6 +362,7 @@
 ||vikingstore.co^
 ||vipticketgiveaway.com^
 ||wanedo.net^
+||wavetshirt.com^
 ||whbinder.com^
 ||windbellstore.com^
 ||wowviral.net^
