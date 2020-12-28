@@ -84,6 +84,7 @@
 ||dezpez.com^
 ||dkfodboldstore.com^
 ||drakternorge.com^
+||drcarolyngroff.com^
 ||dreamstee.com^
 ||dreamstees.com^
 ||du-tee.com^
@@ -344,7 +345,6 @@
 ||trendsharks.com^
 ||trendygladys.com^
 ||treverschmelerkris18.myshopify.com^
-||tromselementbygg.no^
 ||tulumwellnessacademy.com^
 ||tycomex.com^
 ||u.umax-pro.ru^
