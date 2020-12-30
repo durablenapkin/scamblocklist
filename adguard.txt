@@ -142,6 +142,7 @@
 ||helpnanacenter.helpscoutdocs.com^
 ||hermanistore.com^
 ||hernoclothing.com^
+||himete.com^
 ||hippie-pets.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
@@ -365,7 +366,6 @@
 ||vikingstore.co^
 ||vipticketgiveaway.com^
 ||wanedo.net^
-||wavetshirt.com^
 ||whbinder.com^
 ||windbellstore.com^
 ||wowviral.net^

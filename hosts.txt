@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 823
+# Domains: 824
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -310,9 +310,12 @@
 0.0.0.0 www.hermanistore.com
 0.0.0.0 hernoclothing.com
 0.0.0.0 www.hernoclothing.com
+0.0.0.0 store.himete.com
 0.0.0.0 hippie-pets.com
+0.0.0.0 store.hippie-pets.com
 0.0.0.0 hmccommerce.com
 0.0.0.0 www.hmccommerce.com
+0.0.0.0 store.hmccommerce.com
 0.0.0.0 hollisternorge.com
 0.0.0.0 www.hollisternorge.com
 0.0.0.0 store.hollisternorge.com
@@ -690,6 +693,7 @@
 0.0.0.0 www.store-aleteia.org
 0.0.0.0 storeax.com
 0.0.0.0 www.storeax.com
+0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 storesp.com
@@ -806,9 +810,6 @@
 0.0.0.0 www.vipticketgiveaway.com
 0.0.0.0 wanedo.net
 0.0.0.0 www.wanedo.net
-0.0.0.0 wavetshirt.com
-0.0.0.0 www.wavetshirt.com
-0.0.0.0 store.wavetshirt.com
 0.0.0.0 whbinder.com
 0.0.0.0 www.whbinder.com
 0.0.0.0 windbellstore.com
