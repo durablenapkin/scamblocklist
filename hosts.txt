@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 818
+# Domains: 816
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -342,6 +342,8 @@
 0.0.0.0 www.januashop.com
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
+0.0.0.0 joseph-holland.com
+0.0.0.0 www.joseph-holland.com
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
@@ -521,8 +523,6 @@
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
 0.0.0.0 store.peekpok.com
-0.0.0.0 penguinnows.us
-0.0.0.0 www.penguinnows.us
 0.0.0.0 pepatees.com
 0.0.0.0 www.pepatees.com
 0.0.0.0 peppatees.com
@@ -629,7 +629,6 @@
 0.0.0.0 store.sikaripod.com
 0.0.0.0 www.silverlanetrading.com
 0.0.0.0 simplewhales.com
-0.0.0.0 www.simplewhales.com
 0.0.0.0 skincheap.com
 0.0.0.0 www.skincheap.com
 0.0.0.0 store.skincheap.com
@@ -768,7 +767,6 @@
 0.0.0.0 treverschmelerkris18.myshopify.com
 0.0.0.0 www.treverschmelerkris18.myshopify.com
 0.0.0.0 store.treverschmelerkris18.myshopify.com
-0.0.0.0 www.tromselementbygg.no
 0.0.0.0 tulumwellnessacademy.com
 0.0.0.0 www.tulumwellnessacademy.com
 0.0.0.0 tycomex.com

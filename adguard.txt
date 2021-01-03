@@ -156,6 +156,7 @@
 ||jakkesnorge.com^
 ||januashop.com^
 ||jollyfamilygifts.net^
+||joseph-holland.com^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
 ||kindapod.com^
@@ -236,7 +237,6 @@
 ||parajumperssalg.com^
 ||pearstee.com^
 ||peekpok.com^
-||penguinnows.us^
 ||pepatees.com^
 ||peppatees.com^
 ||petparty.store^
@@ -346,7 +346,6 @@
 ||trendsharks.com^
 ||trendygladys.com^
 ||treverschmelerkris18.myshopify.com^
-||tromselementbygg.no^
 ||tulumwellnessacademy.com^
 ||tycomex.com^
 ||u.umax-pro.ru^
