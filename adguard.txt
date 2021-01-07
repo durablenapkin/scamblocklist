@@ -118,6 +118,7 @@
 ||fruitstee.com^
 ||furoshop.com^
 ||fveco.com^
+||g1z0.myinstructus.com^
 ||gearanime.com^
 ||gearathena.com^
 ||gearclover.com^
@@ -165,6 +166,7 @@
 ||kisserine.com^
 ||kitchendecor.shop^
 ||ksvitmimay.com^
+||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||legarralazcoz.com^
