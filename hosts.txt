@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 831
+# Domains: 832
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -324,6 +324,9 @@
 0.0.0.0 www.hermanistore.com
 0.0.0.0 hernoclothing.com
 0.0.0.0 www.hernoclothing.com
+0.0.0.0 himete.com
+0.0.0.0 www.himete.com
+0.0.0.0 store.himete.com
 0.0.0.0 hippie-pets.com
 0.0.0.0 hmccommerce.com
 0.0.0.0 www.hmccommerce.com
@@ -379,9 +382,6 @@
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
 0.0.0.0 www.lakersfanshoponline.com
-0.0.0.0 legarralazcoz.com
-0.0.0.0 www.legarralazcoz.com
-0.0.0.0 store.legarralazcoz.com
 0.0.0.0 lericettedifrancy74.com
 0.0.0.0 www.lericettedifrancy74.com
 0.0.0.0 letrantrunghieu.com
@@ -438,6 +438,7 @@
 0.0.0.0 miuprints.com
 0.0.0.0 www.miuprints.com
 0.0.0.0 mncprobuild.com
+0.0.0.0 www.mncprobuild.com
 0.0.0.0 store.mncprobuild.com
 0.0.0.0 moebel-thiems.com
 0.0.0.0 www.moebel-thiems.com

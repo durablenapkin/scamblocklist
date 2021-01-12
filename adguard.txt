@@ -146,6 +146,7 @@
 ||helpnanacenter.helpscoutdocs.com^
 ||hermanistore.com^
 ||hernoclothing.com^
+||himete.com^
 ||hippie-pets.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
@@ -171,7 +172,6 @@
 ||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
-||legarralazcoz.com^
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
 ||lifewonderland.com^
