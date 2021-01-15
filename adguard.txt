@@ -41,7 +41,6 @@
 ||baroconcept.com^
 ||beaswan.com^
 ||benecharm.com^
-||bentozi.store^
 ||berfumetee.com^
 ||bestbabyyoda.com^
 ||bestmoonshop.com^
@@ -268,6 +267,7 @@
 ||rjgriffith.com^
 ||rockinlives.com^
 ||rovedy.com^
+||royaldecorcollection.com^
 ||royaldecorhome.store^
 ||rsaonlinenow.com.au^
 ||sampoline.com^
