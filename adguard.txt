@@ -246,7 +246,6 @@
 ||pickcheaptee.com^
 ||pjs.outlet.com^
 ||plutostars.com^
-||podmart.mobi^
 ||popeurope.com^
 ||poravoda.com^
 ||potterheads.co^
@@ -258,7 +257,6 @@
 ||quatangidol.com^
 ||quintrendy.com^
 ||rabamnetee.com^
-||realteepro.com^
 ||reanimando.org^
 ||rebeccatees.com^
 ||reforest-iita.org^
@@ -293,6 +291,7 @@
 ||skytee3d.com^
 ||smartpower4all.org^
 ||smartproduct.site^
+||snappystoreonline.co.za^
 ||solepersonal.com^
 ||somethingapparel.com^
 ||souhoney.com^
