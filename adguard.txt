@@ -4,7 +4,6 @@
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
-||1n.yarrid.com^
 ||1stireland.com^
 ||1sttheglobal.com^
 ||1sttheworld.co^
@@ -362,6 +361,7 @@
 ||ushiro.org^
 ||uuc.joyofprogress.com^
 ||verfun.com^
+||vetoro.cc^
 ||vikingstore.co^
 ||vipticketgiveaway.com^
 ||wanedo.net^
