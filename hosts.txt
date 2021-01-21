@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 824
+# Domains: 826
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -326,6 +326,7 @@
 0.0.0.0 hollisternorge.com
 0.0.0.0 www.hollisternorge.com
 0.0.0.0 store.hollisternorge.com
+0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
 0.0.0.0 hugetrump.com
@@ -690,6 +691,7 @@
 0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
+0.0.0.0 store.storedarkness.com
 0.0.0.0 storesp.com
 0.0.0.0 www.storesp.com
 0.0.0.0 streamloot.co
