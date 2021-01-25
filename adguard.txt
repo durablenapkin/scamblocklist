@@ -215,7 +215,6 @@
 ||niche3d.us^
 ||nofotballshop.com^
 ||nofotballstore.com^
-||nonofy.com^
 ||norfotball.com^
 ||norgefotball.com^
 ||norgejakke.com^
@@ -259,6 +258,7 @@
 ||rebeccatees.com^
 ||reforest-iita.org^
 ||reviewshirts.com^
+||rickamortyshop.com^
 ||ringtoperfection.com^
 ||rjgriffith.com^
 ||rockinlives.com^
@@ -266,7 +266,6 @@
 ||royaldecorcollection.com^
 ||royaldecorhome.store^
 ||rsaonlinenow.com.au^
-||sampoline.com^
 ||saveeeee.myshopify.com^
 ||sedark.com^
 ||sentees.com^
