@@ -147,7 +147,6 @@
 ||hippie-pets.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
-||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
@@ -195,7 +194,6 @@
 ||meowpinky.com^
 ||mercyzone.com^
 ||miuprints.com^
-||mncprobuild.com^
 ||moebel-thiems.com^
 ||monkstars.com^
 ||moteshoes.com^
@@ -213,6 +211,7 @@
 ||nedistores.com^
 ||nicetee.net^
 ||niche3d.us^
+||no.moncleritalien.com^
 ||nofotballshop.com^
 ||nofotballstore.com^
 ||norfotball.com^
@@ -356,7 +355,6 @@
 ||usasport247.com^
 ||usefulnpro.com^
 ||ushiro.org^
-||uuc.joyofprogress.com^
 ||verfun.com^
 ||vetoro.cc^
 ||vikingstore.co^

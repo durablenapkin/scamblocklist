@@ -20,6 +20,8 @@
 0.0.0.0 68blessed.com
 0.0.0.0 www.68blessed.com
 0.0.0.0 7.shopsharm.ru
+0.0.0.0 www.7.shopsharm.ru
+0.0.0.0 store.7.shopsharm.ru
 0.0.0.0 9uwe.papilliondairyqueen.com
 0.0.0.0 www.9uwe.papilliondairyqueen.com
 0.0.0.0 store.9uwe.papilliondairyqueen.com
@@ -326,8 +328,6 @@
 0.0.0.0 hollisternorge.com
 0.0.0.0 www.hollisternorge.com
 0.0.0.0 store.hollisternorge.com
-0.0.0.0 hookahheroes.com
-0.0.0.0 store.hookahheroes.com
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
 0.0.0.0 hunterbeus.com
@@ -416,7 +416,6 @@
 0.0.0.0 luzyfran.com
 0.0.0.0 www.luzyfran.com
 0.0.0.0 marleytecnologica.com
-0.0.0.0 www.marleytecnologica.com
 0.0.0.0 mbtnorge.com
 0.0.0.0 www.mbtnorge.com
 0.0.0.0 meladermfacts.com
@@ -429,9 +428,6 @@
 0.0.0.0 www.mercyzone.com
 0.0.0.0 miuprints.com
 0.0.0.0 www.miuprints.com
-0.0.0.0 mncprobuild.com
-0.0.0.0 www.mncprobuild.com
-0.0.0.0 store.mncprobuild.com
 0.0.0.0 moebel-thiems.com
 0.0.0.0 www.moebel-thiems.com
 0.0.0.0 monkstars.com
@@ -469,6 +465,9 @@
 0.0.0.0 www.nicetee.net
 0.0.0.0 niche3d.us
 0.0.0.0 www.niche3d.us
+0.0.0.0 no.moncleritalien.com
+0.0.0.0 www.no.moncleritalien.com
+0.0.0.0 store.no.moncleritalien.com
 0.0.0.0 nofotballshop.com
 0.0.0.0 www.nofotballshop.com
 0.0.0.0 nofotballstore.com
@@ -524,6 +523,8 @@
 0.0.0.0 pepatees.com
 0.0.0.0 www.pepatees.com
 0.0.0.0 peppatees.com
+0.0.0.0 www.peppatees.com
+0.0.0.0 store.peppatees.com
 0.0.0.0 pharaohstore.com
 0.0.0.0 www.pharaohstore.com
 0.0.0.0 store.pharaohstore.com
@@ -771,6 +772,8 @@
 0.0.0.0 tycomex.com
 0.0.0.0 www.tycomex.com
 0.0.0.0 u.umax-pro.ru
+0.0.0.0 www.u.umax-pro.ru
+0.0.0.0 store.u.umax-pro.ru
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 www.ultimate-tech-products.myshopify.com
 0.0.0.0 store.ultimate-tech-products.myshopify.com
@@ -790,9 +793,6 @@
 0.0.0.0 www.usefulnpro.com
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
-0.0.0.0 uuc.joyofprogress.com
-0.0.0.0 www.uuc.joyofprogress.com
-0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 vetoro.cc
