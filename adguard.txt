@@ -107,7 +107,6 @@
 ||familyshark.com^
 ||fancycentral.com^
 ||fapst.com^
-||festmusikk.com^
 ||fishinglovely.com^
 ||fixpub.com^
 ||flattee.com^
@@ -147,6 +146,7 @@
 ||hippie-pets.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
+||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
@@ -214,6 +214,7 @@
 ||no.moncleritalien.com^
 ||nofotballshop.com^
 ||nofotballstore.com^
+||nordartisan.com^
 ||norfotball.com^
 ||norgefotball.com^
 ||norgejakke.com^
