@@ -79,6 +79,7 @@
 ||customurink.com^
 ||danylevych.com^
 ||daradis.com^
+||decorwallart.store^
 ||defcon7.com.br^
 ||deforts.com^
 ||denningwelldrilling.com^
@@ -143,9 +144,9 @@
 ||hermanistore.com^
 ||hernoclothing.com^
 ||himete.com^
-||hippie-pets.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
+||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
@@ -305,6 +306,7 @@
 ||stingcool-com.myshopify.com^
 ||stingcool.com^
 ||store-aleteia.org^
+||storeax.com^
 ||storedarkness.com^
 ||storesp.com^
 ||streamloot.co^
