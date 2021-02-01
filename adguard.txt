@@ -94,6 +94,7 @@
 ||dunjakke-no.com^
 ||easyliving4you.com^
 ||easyshoppingus.com^
+||eksofy.com^
 ||elaka.lk^
 ||ellezz.com^
 ||enchantestore.myshopify.com^
@@ -146,7 +147,6 @@
 ||himete.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
-||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
@@ -305,7 +305,6 @@
 ||stingcool-com.myshopify.com^
 ||stingcool.com^
 ||store-aleteia.org^
-||storeax.com^
 ||storedarkness.com^
 ||storesp.com^
 ||streamloot.co^
@@ -321,6 +320,7 @@
 ||tee24h.com^
 ||teechip.online^
 ||teefoody.com^
+||teemarko.com^
 ||teepro.life^
 ||teezill.com^
 ||thecabinas.com^
@@ -339,6 +339,7 @@
 ||tomadamsenergy.com^
 ||trade-skins.net^
 ||treasurefan.com^
+||trendingtee.org^
 ||trendsharks.com^
 ||trendygladys.com^
 ||treverschmelerkris18.myshopify.com^
