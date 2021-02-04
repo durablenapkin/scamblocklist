@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 835
+# Domains: 832
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -188,7 +188,6 @@
 0.0.0.0 www.deforts.com
 0.0.0.0 denningwelldrilling.com
 0.0.0.0 www.denningwelldrilling.com
-0.0.0.0 store.denningwelldrilling.com
 0.0.0.0 devifoodgrains.com
 0.0.0.0 www.devifoodgrains.com
 0.0.0.0 dezpez.com
@@ -557,8 +556,6 @@
 0.0.0.0 www.potterheads.co
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
-0.0.0.0 premiumrosebear.com
-0.0.0.0 www.premiumrosebear.com
 0.0.0.0 premiumtour-don.com
 0.0.0.0 www.premiumtour-don.com
 0.0.0.0 printteestore.com
