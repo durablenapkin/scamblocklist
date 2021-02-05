@@ -58,7 +58,6 @@
 ||burgershirt.com^
 ||buzzazone.com^
 ||candlesbymadison.com^
-||caperforaciones.com^
 ||cartooy.com^
 ||chipteeamz.com^
 ||cipustar.com^
@@ -69,7 +68,6 @@
 ||cocumbertee.com^
 ||colorandcotton.com^
 ||cookietee.com^
-||coolest3d.com^
 ||coolestpod.com^
 ||coollestpod.com^
 ||corg.co^
@@ -148,7 +146,6 @@
 ||hippie-pets.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
-||hookahheroes.com^
 ||hugetrump.com^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
@@ -306,7 +303,6 @@
 ||stingcool-com.myshopify.com^
 ||stingcool.com^
 ||store-aleteia.org^
-||storeax.com^
 ||storedarkness.com^
 ||storesp.com^
 ||streamloot.co^
