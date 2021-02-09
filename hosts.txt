@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 824
+# Domains: 818
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -465,9 +465,6 @@
 0.0.0.0 www.nicetee.net
 0.0.0.0 niche3d.us
 0.0.0.0 www.niche3d.us
-0.0.0.0 no.moncleritalien.com
-0.0.0.0 www.no.moncleritalien.com
-0.0.0.0 store.no.moncleritalien.com
 0.0.0.0 nofotballshop.com
 0.0.0.0 www.nofotballshop.com
 0.0.0.0 nofotballstore.com
@@ -660,9 +657,6 @@
 0.0.0.0 www.sportswearfanatics.com
 0.0.0.0 spreadstores.com
 0.0.0.0 www.spreadstores.com
-0.0.0.0 sqk9.lubar-tech.com
-0.0.0.0 www.sqk9.lubar-tech.com
-0.0.0.0 store.sqk9.lubar-tech.com
 0.0.0.0 startuplatte.com
 0.0.0.0 www.startuplatte.com
 0.0.0.0 store.startuplatte.com
