@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1253
+# Domains: 1252
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -278,12 +278,11 @@
 0.0.0.0 www.dorothy86.store
 0.0.0.0 drakternorge.com
 0.0.0.0 www.drakternorge.com
+0.0.0.0 drcarolyngroff.com
 0.0.0.0 www.drcarolyngroff.com
 0.0.0.0 dreamstee.com
 0.0.0.0 www.dreamstee.com
 0.0.0.0 dreamstees.com
-0.0.0.0 du-tee.com
-0.0.0.0 www.du-tee.com
 0.0.0.0 duckydecor.store
 0.0.0.0 dunjakke-no.com
 0.0.0.0 www.dunjakke-no.com
