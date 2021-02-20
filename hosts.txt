@@ -736,6 +736,7 @@
 0.0.0.0 store.norgejakke.com
 0.0.0.0 norgejakkerbutikk.com
 0.0.0.0 www.norgejakkerbutikk.com
+0.0.0.0 store.norgejakkerbutikk.com
 0.0.0.0 norgeshoes.com
 0.0.0.0 www.norgeshoes.com
 0.0.0.0 store.norgeshoes.com
@@ -944,7 +945,6 @@
 0.0.0.0 www.skonmdnorge.com
 0.0.0.0 store.skonmdnorge.com
 0.0.0.0 skytee3d.com
-0.0.0.0 www.skytee3d.com
 0.0.0.0 store.skytee3d.com
 0.0.0.0 smartgadgettrend.com
 0.0.0.0 www.smartgadgettrend.com
