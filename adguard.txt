@@ -166,7 +166,6 @@
 ||fishingdaily.shop^
 ||fishinglovely.com^
 ||fivent.info^
-||fixpub.com^
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
@@ -367,7 +366,6 @@
 ||personal84.com^
 ||pharaohstore.com^
 ||pickablegift.com^
-||pickcheaptee.com^
 ||pjs.outlet.com^
 ||plutostars.com^
 ||popeurope.com^
