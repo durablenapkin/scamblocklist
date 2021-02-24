@@ -535,7 +535,6 @@
 ||u.umax-pro.ru^
 ||ultimate-tech-products.myshopify.com^
 ||ultraboxlab.com^
-||um-bs.com^
 ||unifully.com^
 ||unique3ds.com^
 ||uniqueetee.com^
@@ -554,6 +553,7 @@
 ||vintageartdecor.store^
 ||violayvonne.com^
 ||vipticketgiveaway.com^
+||wanedo.net^
 ||warm-gifts.com^
 ||wdamp.info^
 ||weheartitstore.com^
