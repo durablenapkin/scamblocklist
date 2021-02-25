@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1244
+# Domains: 1231
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -19,9 +19,6 @@
 0.0.0.0 www.1sttheworld.online
 0.0.0.0 68blessed.com
 0.0.0.0 www.68blessed.com
-0.0.0.0 7.shopsharm.ru
-0.0.0.0 www.7.shopsharm.ru
-0.0.0.0 store.7.shopsharm.ru
 0.0.0.0 acquatee.com
 0.0.0.0 www.acquatee.com
 0.0.0.0 adidasko.com
@@ -202,8 +199,6 @@
 0.0.0.0 cluckergifts.ecwid.com
 0.0.0.0 www.cluckergifts.ecwid.com
 0.0.0.0 store.cluckergifts.ecwid.com
-0.0.0.0 cmoboy.com
-0.0.0.0 www.cmoboy.com
 0.0.0.0 cnmya.store
 0.0.0.0 www.cnmya.store
 0.0.0.0 cocumbertee.com
@@ -491,9 +486,6 @@
 0.0.0.0 hollisternorge.com
 0.0.0.0 www.hollisternorge.com
 0.0.0.0 store.hollisternorge.com
-0.0.0.0 hookahheroes.com
-0.0.0.0 www.hookahheroes.com
-0.0.0.0 store.hookahheroes.com
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
 0.0.0.0 hunden.info
@@ -1020,8 +1012,6 @@
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
-0.0.0.0 storeax.com
-0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 store.storedarkness.com
@@ -1154,9 +1144,6 @@
 0.0.0.0 www.twoter.info
 0.0.0.0 tycomex.com
 0.0.0.0 www.tycomex.com
-0.0.0.0 u.umax-pro.ru
-0.0.0.0 www.u.umax-pro.ru
-0.0.0.0 store.u.umax-pro.ru
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 www.ultimate-tech-products.myshopify.com
 0.0.0.0 store.ultimate-tech-products.myshopify.com

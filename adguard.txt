@@ -10,7 +10,6 @@
 ||1sttheworld.com^
 ||1sttheworld.online^
 ||68blessed.com^
-||7.shopsharm.ru^
 ||acquatee.com^
 ||adidasko.com^
 ||ahenana.com^
@@ -92,7 +91,6 @@
 ||clemoa.com^
 ||cloverszone.com^
 ||cluckergifts.ecwid.com^
-||cmoboy.com^
 ||cnmya.store^
 ||cocumbertee.com^
 ||colorandcotton.com^
@@ -227,7 +225,6 @@
 ||hippie-pets.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
-||hookahheroes.com^
 ||hugetrump.com^
 ||hunden.info^
 ||hunterbeus.com^
@@ -469,7 +466,6 @@
 ||stingcool.com^
 ||store-aleteia.org^
 ||store25848025.company.site^
-||storeax.com^
 ||storedarkness.com^
 ||storeitsafeltd.com^
 ||storesonlineltd.com^
@@ -532,7 +528,6 @@
 ||tulumwellnessacademy.com^
 ||twoter.info^
 ||tycomex.com^
-||u.umax-pro.ru^
 ||ultimate-tech-products.myshopify.com^
 ||ultraboxlab.com^
 ||unifully.com^
