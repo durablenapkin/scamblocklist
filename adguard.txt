@@ -225,6 +225,7 @@
 ||hippie-pets.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
+||hookahheroes.com^
 ||hugetrump.com^
 ||hunden.info^
 ||hunterbeus.com^
@@ -465,6 +466,7 @@
 ||stingcool.com^
 ||store-aleteia.org^
 ||store25848025.company.site^
+||storeax.com^
 ||storedarkness.com^
 ||storeitsafeltd.com^
 ||storesonlineltd.com^
