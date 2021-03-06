@@ -127,7 +127,6 @@
 ||donttreadonmeshop.com^
 ||dorothy86.store^
 ||drakternorge.com^
-||drcarolyngroff.com^
 ||dreamstee.com^
 ||dreamstees.com^
 ||duckydecor.store^
@@ -225,7 +224,6 @@
 ||hippie-pets.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
-||hookahheroes.com^
 ||hugetrump.com^
 ||hunden.info^
 ||hunterbeus.com^
@@ -467,7 +465,6 @@
 ||stingcool.com^
 ||store-aleteia.org^
 ||store25848025.company.site^
-||storeax.com^
 ||storedarkness.com^
 ||storeitsafeltd.com^
 ||storesonlineltd.com^
@@ -541,7 +538,6 @@
 ||usasport247.com^
 ||usefulnpro.com^
 ||ushiro.org^
-||uuc.joyofprogress.com^
 ||vatini.net^
 ||vavaname.com^
 ||vegamartz.com^
