@@ -476,9 +476,6 @@
 0.0.0.0 himete.com
 0.0.0.0 www.himete.com
 0.0.0.0 store.himete.com
-0.0.0.0 hippie-pets.com
-0.0.0.0 www.hippie-pets.com
-0.0.0.0 store.hippie-pets.com
 0.0.0.0 hmccommerce.com
 0.0.0.0 www.hmccommerce.com
 0.0.0.0 hollisternorge.com
@@ -933,6 +930,8 @@
 0.0.0.0 www.skonmdnorge.com
 0.0.0.0 store.skonmdnorge.com
 0.0.0.0 skytee3d.com
+0.0.0.0 www.skytee3d.com
+0.0.0.0 store.skytee3d.com
 0.0.0.0 smartgadgettrend.com
 0.0.0.0 www.smartgadgettrend.com
 0.0.0.0 store.smartgadgettrend.com
@@ -1167,6 +1166,7 @@
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
 0.0.0.0 uuc.joyofprogress.com
+0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 vavaname.com
