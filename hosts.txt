@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1232
+# Domains: 1229
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -483,7 +483,6 @@
 0.0.0.0 store.hollisternorge.com
 0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
-0.0.0.0 store.hookahheroes.com
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
 0.0.0.0 hunden.info
@@ -645,8 +644,6 @@
 0.0.0.0 monetlee.com
 0.0.0.0 monkstars.com
 0.0.0.0 www.monkstars.com
-0.0.0.0 moteshoes.com
-0.0.0.0 www.moteshoes.com
 0.0.0.0 movica.us
 0.0.0.0 www.movica.us
 0.0.0.0 store.movica.us
@@ -931,7 +928,6 @@
 0.0.0.0 store.skonmdnorge.com
 0.0.0.0 skytee3d.com
 0.0.0.0 www.skytee3d.com
-0.0.0.0 store.skytee3d.com
 0.0.0.0 smartgadgettrend.com
 0.0.0.0 www.smartgadgettrend.com
 0.0.0.0 store.smartgadgettrend.com
@@ -1166,6 +1162,7 @@
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
 0.0.0.0 uuc.joyofprogress.com
+0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
