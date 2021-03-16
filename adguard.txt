@@ -36,7 +36,6 @@
 ||arnoldgloverruss58.myshopify.com^
 ||arthoodie.com^
 ||arvetellefsen.no^
-||assassinfitness.com^
 ||atrendsz.com^
 ||attenstyle.com^
 ||aussiesportfashion.com^
@@ -486,6 +485,7 @@
 ||tartanz.co^
 ||tedgee.com^
 ||tee24h.com^
+||teearrow.com^
 ||teeboss.us^
 ||teechip.online^
 ||teefoody.com^
