@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1235
+# Domains: 1230
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -282,9 +282,6 @@
 0.0.0.0 duckydecor.store
 0.0.0.0 dunjakke-no.com
 0.0.0.0 www.dunjakke-no.com
-0.0.0.0 easyliving4you.com
-0.0.0.0 www.easyliving4you.com
-0.0.0.0 store.easyliving4you.com
 0.0.0.0 easynatures.com
 0.0.0.0 www.easynatures.com
 0.0.0.0 easyshoppingus.com
@@ -410,6 +407,7 @@
 0.0.0.0 www.giftbias.com
 0.0.0.0 gifthunt247.com
 0.0.0.0 www.gifthunt247.com
+0.0.0.0 store.gifthunt247.com
 0.0.0.0 giftyweb.com
 0.0.0.0 www.giftyweb.com
 0.0.0.0 gizmopage.com
@@ -528,7 +526,6 @@
 0.0.0.0 store.joseph-holland.com
 0.0.0.0 karukuri.com
 0.0.0.0 khoinguyenhanoi.vn
-0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kidsmama.online
 0.0.0.0 www.kidsmama.online
@@ -936,7 +933,6 @@
 0.0.0.0 store.skonmdnorge.com
 0.0.0.0 smartgadgettrend.com
 0.0.0.0 www.smartgadgettrend.com
-0.0.0.0 store.smartgadgettrend.com
 0.0.0.0 smartpower4all.org
 0.0.0.0 www.smartpower4all.org
 0.0.0.0 smartproduct.site
@@ -1013,7 +1009,6 @@
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
-0.0.0.0 storeax.com
 0.0.0.0 www.storeax.com
 0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
