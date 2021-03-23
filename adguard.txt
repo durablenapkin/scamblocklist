@@ -11,7 +11,6 @@
 ||1sttheworld.online^
 ||68blessed.com^
 ||acquatee.com^
-||adidasko.com^
 ||ahenana.com^
 ||airmaxskobillige.com^
 ||akarosi.com^
@@ -21,7 +20,6 @@
 ||allen86.store^
 ||allergyfl.com^
 ||allstarshirt.com^
-||alltestbanksolutions.com^
 ||alohazing.com^
 ||altruetech.com^
 ||amznshirts.com^
@@ -309,7 +307,6 @@
 ||museuw.com^
 ||muthaafoundation.org^
 ||muzesen.info^
-||mv.wiesengrund-sylt.com^
 ||mvptrend.com^
 ||mycraftypad.com^
 ||myfunfarm.com^
@@ -336,6 +333,7 @@
 ||norfotball.com^
 ||norgefotball.com^
 ||norgejakke.com^
+||norgejakkerbutikk.com^
 ||norgeshoes.com^
 ||ocelotfamily.com^
 ||odinpc.com^
