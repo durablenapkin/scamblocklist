@@ -9,7 +9,6 @@
 ||1sttheworld.co^
 ||1sttheworld.com^
 ||1sttheworld.online^
-||68blessed.com^
 ||acquatee.com^
 ||ahenana.com^
 ||airmaxskobillige.com^
@@ -20,6 +19,7 @@
 ||allen86.store^
 ||allergyfl.com^
 ||allstarshirt.com^
+||alltestbanksolutions.com^
 ||alohazing.com^
 ||altruetech.com^
 ||amznshirts.com^
@@ -112,7 +112,6 @@
 ||decoryourhome.store^
 ||deergift.com^
 ||defcon7.com.br^
-||deforts.com^
 ||denningwelldrilling.com^
 ||devifoodgrains.com^
 ||deytee.com^
@@ -127,6 +126,7 @@
 ||donttreadonmeshop.com^
 ||dorothy86.store^
 ||drakternorge.com^
+||drcarolyngroff.com^
 ||dreamstee.com^
 ||dreamstees.com^
 ||duckydecor.store^
@@ -186,7 +186,6 @@
 ||gearver.com^
 ||gemlis.com^
 ||gibbonfamily.store^
-||giftbias.com^
 ||gifthunt247.com^
 ||giftyweb.com^
 ||gizmopage.com^
@@ -200,7 +199,6 @@
 ||gosusport.store^
 ||gotoperfection.com^
 ||goyourheart.com^
-||gracesector.com^
 ||graciaszone.com^
 ||gsport.com^
 ||guccitees.com^
@@ -280,7 +278,6 @@
 ||loveshop20.com^
 ||lrgst.com^
 ||lucatee.com^
-||luckyhomie.com^
 ||lucysstyle.com^
 ||lunapresent.com^
 ||luxsgear.com^
@@ -294,7 +291,6 @@
 ||meladermfacts.com^
 ||memotero.com^
 ||meowpinky.com^
-||mercyzone.com^
 ||mezlife.com^
 ||miuprints.com^
 ||momchip.com^
@@ -364,7 +360,6 @@
 ||plutostars.com^
 ||popeurope.com^
 ||poppop.online^
-||poravoda.com^
 ||potterheads.co^
 ||preciouscutesy.com^
 ||premiumqualityblanket.com^
@@ -508,7 +503,6 @@
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
 ||tikgeeker.com^
-||tinycutestuffs.com^
 ||tiranaaquapark-eg.com^
 ||tlonsey.com^
 ||tomadamsenergy.com^
