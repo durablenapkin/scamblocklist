@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1230
+# Domains: 1231
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -28,6 +28,9 @@
 0.0.0.0 www.akarosi.com
 0.0.0.0 akatee.com
 0.0.0.0 www.akatee.com
+0.0.0.0 aliripple.com
+0.0.0.0 www.aliripple.com
+0.0.0.0 store.aliripple.com
 0.0.0.0 aliseshop.com
 0.0.0.0 www.aliseshop.com
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
@@ -224,7 +227,6 @@
 0.0.0.0 www.couponxoo.com
 0.0.0.0 creizeystore.com
 0.0.0.0 www.creizeystore.com
-0.0.0.0 crossfiterada.com
 0.0.0.0 www.crossfiterada.com
 0.0.0.0 store.crossfiterada.com
 0.0.0.0 csgoproleague.com
@@ -550,7 +552,6 @@
 0.0.0.0 www.kutehoodie.store
 0.0.0.0 kxu.myinstructus.com
 0.0.0.0 www.kxu.myinstructus.com
-0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lamotee.com
@@ -601,6 +602,7 @@
 0.0.0.0 www.lovelovegifts.com
 0.0.0.0 lovemoregift.com
 0.0.0.0 www.lovemoregift.com
+0.0.0.0 store.lovemoregift.com
 0.0.0.0 loveshop20.com
 0.0.0.0 www.loveshop20.com
 0.0.0.0 store.loveshop20.com
@@ -872,7 +874,6 @@
 0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 www.rsaonlinenow.com.au
 0.0.0.0 saligoo.com
-0.0.0.0 www.saligoo.com
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
