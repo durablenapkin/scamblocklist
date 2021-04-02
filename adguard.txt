@@ -300,7 +300,6 @@
 ||monkstars.com^
 ||movica.us^
 ||mualuondi.com^
-||muddyking.com^
 ||muscleforlive.online^
 ||museuw.com^
 ||muthaafoundation.org^
@@ -315,6 +314,7 @@
 ||nanistores.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
+||natistore.us^
 ||natistorez.com^
 ||nearmetshirt.com^
 ||nedistores.com^
@@ -541,7 +541,6 @@
 ||vintageartdecor.store^
 ||violayvonne.com^
 ||vipticketgiveaway.com^
-||wanedo.net^
 ||warm-gifts.com^
 ||wdamp.info^
 ||weheartitstore.com^
