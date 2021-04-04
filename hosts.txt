@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1229
+# Domains: 1221
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -228,6 +228,7 @@
 0.0.0.0 creizeystore.com
 0.0.0.0 www.creizeystore.com
 0.0.0.0 crossfiterada.com
+0.0.0.0 www.crossfiterada.com
 0.0.0.0 store.crossfiterada.com
 0.0.0.0 csgoproleague.com
 0.0.0.0 www.csgoproleague.com
@@ -387,7 +388,6 @@
 0.0.0.0 store.fveco.com
 0.0.0.0 g1z0.myinstructus.com
 0.0.0.0 www.g1z0.myinstructus.com
-0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 geaapy.com
 0.0.0.0 www.geaapy.com
 0.0.0.0 gearanime.com
@@ -551,7 +551,6 @@
 0.0.0.0 kutehoodie.store
 0.0.0.0 www.kutehoodie.store
 0.0.0.0 kxu.myinstructus.com
-0.0.0.0 www.kxu.myinstructus.com
 0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
@@ -607,9 +606,6 @@
 0.0.0.0 loveshop20.com
 0.0.0.0 www.loveshop20.com
 0.0.0.0 store.loveshop20.com
-0.0.0.0 lrgst.com
-0.0.0.0 www.lrgst.com
-0.0.0.0 store.lrgst.com
 0.0.0.0 lucatee.com
 0.0.0.0 www.lucatee.com
 0.0.0.0 lucysstyle.com
@@ -684,7 +680,6 @@
 0.0.0.0 www.namemory.co.uk
 0.0.0.0 nanistores.com
 0.0.0.0 www.nanistores.com
-0.0.0.0 natilove.com
 0.0.0.0 www.natilove.com
 0.0.0.0 store.natilove.com
 0.0.0.0 nationaladvancegroup.com
@@ -782,6 +777,7 @@
 0.0.0.0 store.peekpok.com
 0.0.0.0 pepatees.com
 0.0.0.0 www.pepatees.com
+0.0.0.0 store.pepatees.com
 0.0.0.0 peppatees.com
 0.0.0.0 www.peppatees.com
 0.0.0.0 store.peppatees.com
@@ -890,7 +886,6 @@
 0.0.0.0 www.seagulltee.com
 0.0.0.0 sedark.com
 0.0.0.0 www.sedark.com
-0.0.0.0 store.sedark.com
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
 0.0.0.0 shinepuzzle.com
@@ -942,9 +937,6 @@
 0.0.0.0 store.smartproduct.site
 0.0.0.0 smartpurchase.website
 0.0.0.0 www.smartpurchase.website
-0.0.0.0 snappystoreonline.co.za
-0.0.0.0 www.snappystoreonline.co.za
-0.0.0.0 store.snappystoreonline.co.za
 0.0.0.0 solepersonal.com
 0.0.0.0 www.solepersonal.com
 0.0.0.0 somethingapparel.com
@@ -975,6 +967,7 @@
 0.0.0.0 www.sportfirestore.com
 0.0.0.0 sportforestland.com
 0.0.0.0 www.sportforestland.com
+0.0.0.0 store.sportforestland.com
 0.0.0.0 sportsapparelmarket.com
 0.0.0.0 www.sportsapparelmarket.com
 0.0.0.0 sportswearfanatics.com
@@ -1009,6 +1002,7 @@
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
 0.0.0.0 storeax.com
+0.0.0.0 www.storeax.com
 0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
@@ -1027,8 +1021,6 @@
 0.0.0.0 www.stylegift.co.uk
 0.0.0.0 sugarandpearl.com
 0.0.0.0 www.sugarandpearl.com
-0.0.0.0 sunleaftravel.com
-0.0.0.0 www.sunleaftravel.com
 0.0.0.0 sununi.us
 0.0.0.0 www.sununi.us
 0.0.0.0 supercutestuff.com
