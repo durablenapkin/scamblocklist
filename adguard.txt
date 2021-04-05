@@ -231,7 +231,6 @@
 ||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||infinityto.com^
-||inusoul.com^
 ||jagkart.com^
 ||jaimerico.net^
 ||jakkesalgs.com^
@@ -287,7 +286,6 @@
 ||makewallperfect.store^
 ||mangacos.com^
 ||marleytecnologica.com^
-||mbtnorge.com^
 ||meaningift.com^
 ||meladermfacts.com^
 ||memotero.com^
@@ -428,6 +426,7 @@
 ||smartpower4all.org^
 ||smartproduct.site^
 ||smartpurchase.website^
+||snappystoreonline.co.za^
 ||solepersonal.com^
 ||somethingapparel.com^
 ||soonet.info^
@@ -467,6 +466,7 @@
 ||stunningstuffs.com^
 ||stylegift.co.uk^
 ||sugarandpearl.com^
+||sunleaftravel.com^
 ||sununi.us^
 ||supercutestuff.com^
 ||superfacehoodie.com^
