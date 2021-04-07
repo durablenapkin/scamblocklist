@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1209
+# Domains: 1210
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -856,7 +856,6 @@
 0.0.0.0 store.rovedy.com
 0.0.0.0 royaldecorcollection.com
 0.0.0.0 www.royaldecorcollection.com
-0.0.0.0 store.royaldecorcollection.com
 0.0.0.0 royaldecorhome.store
 0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 www.rsaonlinenow.com.au
@@ -1012,6 +1011,7 @@
 0.0.0.0 sugarandpearl.com
 0.0.0.0 www.sugarandpearl.com
 0.0.0.0 sunleaftravel.com
+0.0.0.0 www.sunleaftravel.com
 0.0.0.0 sununi.us
 0.0.0.0 www.sununi.us
 0.0.0.0 supercutestuff.com
@@ -1121,6 +1121,7 @@
 0.0.0.0 www.twoter.info
 0.0.0.0 tycomex.com
 0.0.0.0 www.tycomex.com
+0.0.0.0 u.umax-pro.ru
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 www.ultimate-tech-products.myshopify.com
 0.0.0.0 store.ultimate-tech-products.myshopify.com
