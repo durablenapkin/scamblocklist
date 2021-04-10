@@ -328,6 +328,7 @@
 ||nonofy.com^
 ||nordartisan.com^
 ||norfotball.com^
+||norge.parkaoutdoor.com^
 ||norgefotball.com^
 ||norgejakke.com^
 ||norgejakkerbutikk.com^
@@ -382,7 +383,6 @@
 ||rebeccatees.com^
 ||recade.info^
 ||redchristmaswine.com^
-||reforest-iita.org^
 ||reviewshirts.com^
 ||rickamortyshop.com^
 ||rincandy.com^
@@ -542,6 +542,7 @@
 ||violayvonne.com^
 ||vipticketgiveaway.com^
 ||warm-gifts.com^
+||wavetshirt.com^
 ||wdamp.info^
 ||weheartitstore.com^
 ||wezpod.com^
