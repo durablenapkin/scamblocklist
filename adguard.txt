@@ -178,6 +178,7 @@
 ||futhem.info^
 ||fveco.com^
 ||g1z0.myinstructus.com^
+||gameconsoless.com^
 ||geaapy.com^
 ||gearanime.com^
 ||gearathena.com^
@@ -241,6 +242,7 @@
 ||jollyfamilygifts.net^
 ||joseph-holland.com^
 ||karukuri.com^
+||khoinguyenhanoi.vn^
 ||kidsmama.online^
 ||kigurumi-usa.com^
 ||killtee.com^
@@ -467,7 +469,6 @@
 ||strogame.com^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
-||sugarandpearl.com^
 ||sunleaftravel.com^
 ||sununi.us^
 ||supercutestuff.com^
