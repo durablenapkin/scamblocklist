@@ -176,7 +176,6 @@
 ||fulfillgift.com^
 ||furoshop.com^
 ||futhem.info^
-||fveco.com^
 ||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||geaapy.com^
@@ -242,7 +241,6 @@
 ||jollyfamilygifts.net^
 ||joseph-holland.com^
 ||karukuri.com^
-||khoinguyenhanoi.vn^
 ||kidsmama.online^
 ||kigurumi-usa.com^
 ||killtee.com^
@@ -381,6 +379,7 @@
 ||quetzalfamily.store^
 ||quintrendy.com^
 ||rabamnetee.com^
+||rbkbb.com^
 ||reanimando.org^
 ||rebeccatees.com^
 ||recade.info^
@@ -469,6 +468,7 @@
 ||strogame.com^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
+||sugarandpearl.com^
 ||sunleaftravel.com^
 ||sununi.us^
 ||supercutestuff.com^
@@ -489,6 +489,7 @@
 ||teefoody.com^
 ||teemarko.com^
 ||teenimo.com^
+||teesunshine.com^
 ||teezill.com^
 ||thecabinas.com^
 ||thechildhooddream.com^
