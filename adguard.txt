@@ -177,7 +177,6 @@
 ||furoshop.com^
 ||futhem.info^
 ||fveco.com^
-||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||geaapy.com^
 ||gearanime.com^
@@ -242,7 +241,6 @@
 ||jollyfamilygifts.net^
 ||joseph-holland.com^
 ||karukuri.com^
-||khoinguyenhanoi.vn^
 ||kidsmama.online^
 ||kigurumi-usa.com^
 ||killtee.com^
@@ -254,7 +252,6 @@
 ||ksvitmimay.com^
 ||kuteblanket.store^
 ||kutehoodie.store^
-||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lamotee.com^
 ||lemstore.com^
@@ -461,7 +458,6 @@
 ||stingcool.com^
 ||store-aleteia.org^
 ||store25848025.company.site^
-||storeax.com^
 ||storedarkness.com^
 ||storeitsafeltd.com^
 ||storesonlineltd.com^
@@ -535,7 +531,6 @@
 ||usasport247.com^
 ||usefulnpro.com^
 ||ushiro.org^
-||uuc.joyofprogress.com^
 ||vatini.net^
 ||vavaname.com^
 ||vegamartz.com^
