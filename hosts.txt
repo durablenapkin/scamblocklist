@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1228
+# Domains: 1241
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -67,8 +67,6 @@
 0.0.0.0 aozeala.com
 0.0.0.0 www.aozeala.com
 0.0.0.0 store.aozeala.com
-0.0.0.0 approdishop.com
-0.0.0.0 www.approdishop.com
 0.0.0.0 apvoc-ga.com
 0.0.0.0 www.apvoc-ga.com
 0.0.0.0 store.apvoc-ga.com
@@ -231,7 +229,7 @@
 0.0.0.0 creizeystore.com
 0.0.0.0 www.creizeystore.com
 0.0.0.0 crossfiterada.com
-0.0.0.0 www.crossfiterada.com
+0.0.0.0 store.crossfiterada.com
 0.0.0.0 csgoproleague.com
 0.0.0.0 www.csgoproleague.com
 0.0.0.0 customizerbox.com
@@ -388,6 +386,8 @@
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
+0.0.0.0 www.g1z0.myinstructus.com
+0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
 0.0.0.0 store.gameconsoless.com
@@ -528,6 +528,9 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 karukuri.com
+0.0.0.0 khoinguyenhanoi.vn
+0.0.0.0 www.khoinguyenhanoi.vn
+0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kidsmama.online
 0.0.0.0 www.kidsmama.online
 0.0.0.0 store.kidsmama.online
@@ -551,6 +554,9 @@
 0.0.0.0 www.kuteblanket.store
 0.0.0.0 kutehoodie.store
 0.0.0.0 www.kutehoodie.store
+0.0.0.0 kxu.myinstructus.com
+0.0.0.0 www.kxu.myinstructus.com
+0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lamotee.com
@@ -1008,6 +1014,9 @@
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
+0.0.0.0 storeax.com
+0.0.0.0 www.storeax.com
+0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 store.storedarkness.com
@@ -1023,6 +1032,7 @@
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 stylegift.co.uk
 0.0.0.0 www.stylegift.co.uk
+0.0.0.0 www.sugarandpearl.com
 0.0.0.0 store.sugarandpearl.com
 0.0.0.0 sunleaftravel.com
 0.0.0.0 www.sunleaftravel.com
@@ -1161,6 +1171,9 @@
 0.0.0.0 www.usefulnpro.com
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
+0.0.0.0 uuc.joyofprogress.com
+0.0.0.0 www.uuc.joyofprogress.com
+0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 vavaname.com
