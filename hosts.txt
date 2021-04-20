@@ -491,7 +491,6 @@
 0.0.0.0 www.hollisternorge.com
 0.0.0.0 store.hollisternorge.com
 0.0.0.0 hookahheroes.com
-0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
@@ -552,6 +551,7 @@
 0.0.0.0 www.kuteblanket.store
 0.0.0.0 kutehoodie.store
 0.0.0.0 www.kutehoodie.store
+0.0.0.0 kxu.myinstructus.com
 0.0.0.0 www.kxu.myinstructus.com
 0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
@@ -652,6 +652,8 @@
 0.0.0.0 store.movica.us
 0.0.0.0 mualuondi.com
 0.0.0.0 www.mualuondi.com
+0.0.0.0 muddyking.com
+0.0.0.0 www.muddyking.com
 0.0.0.0 muscleforlive.online
 0.0.0.0 www.muscleforlive.online
 0.0.0.0 store.muscleforlive.online
@@ -960,7 +962,6 @@
 0.0.0.0 www.source84.com
 0.0.0.0 southernlife.net
 0.0.0.0 www.southernlife.net
-0.0.0.0 store.southernlife.net
 0.0.0.0 southpark-fan.com
 0.0.0.0 www.southpark-fan.com
 0.0.0.0 sozonest.com
@@ -1013,6 +1014,7 @@
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
 0.0.0.0 storeax.com
+0.0.0.0 www.storeax.com
 0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
@@ -1030,7 +1032,7 @@
 0.0.0.0 stylegift.co.uk
 0.0.0.0 www.stylegift.co.uk
 0.0.0.0 sugarandpearl.com
-0.0.0.0 www.sugarandpearl.com
+0.0.0.0 store.sugarandpearl.com
 0.0.0.0 sunleaftravel.com
 0.0.0.0 www.sunleaftravel.com
 0.0.0.0 sununi.us
@@ -1154,8 +1156,6 @@
 0.0.0.0 unifully.com
 0.0.0.0 unique3ds.com
 0.0.0.0 www.unique3ds.com
-0.0.0.0 uniqueetee.com
-0.0.0.0 www.uniqueetee.com
 0.0.0.0 uniqueshirt.shop
 0.0.0.0 www.uniqueshirt.shop
 0.0.0.0 ureashi.com

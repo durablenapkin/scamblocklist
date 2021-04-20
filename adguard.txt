@@ -298,6 +298,7 @@
 ||monkstars.com^
 ||movica.us^
 ||mualuondi.com^
+||muddyking.com^
 ||muscleforlive.online^
 ||museuw.com^
 ||muthaafoundation.org^
@@ -526,7 +527,6 @@
 ||ultraboxlab.com^
 ||unifully.com^
 ||unique3ds.com^
-||uniqueetee.com^
 ||uniqueshirt.shop^
 ||ureashi.com^
 ||uredaka.com^
