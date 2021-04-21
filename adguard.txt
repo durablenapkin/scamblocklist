@@ -241,6 +241,7 @@
 ||jollyfamilygifts.net^
 ||joseph-holland.com^
 ||karukuri.com^
+||khoinguyenhanoi.vn^
 ||kidsmama.online^
 ||kigurumi-usa.com^
 ||killtee.com^
@@ -248,7 +249,6 @@
 ||kingteestore.com^
 ||kisserine.com^
 ||kitchendecor.shop^
-||kmarttee.com^
 ||ksvitmimay.com^
 ||kuteblanket.store^
 ||kutehoodie.store^
@@ -469,7 +469,6 @@
 ||strogame.com^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
-||sugarandpearl.com^
 ||sunleaftravel.com^
 ||sununi.us^
 ||supercutestuff.com^
