@@ -132,11 +132,11 @@
 ||duckydecor.store^
 ||dunjakke-no.com^
 ||easynatures.com^
-||easyshoppingus.com^
 ||elaka.lk^
 ||ellezz.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
+||engineracing.net^
 ||envisiongear.com^
 ||esl-gaming.com^
 ||eudoraz.com^
@@ -169,7 +169,6 @@
 ||friday89.com^
 ||friday99.com^
 ||fruitstee.com^
-||fuhos.us^
 ||fulfillgift.com^
 ||furoshop.com^
 ||futhem.info^
@@ -467,7 +466,6 @@
 ||strogame.com^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
-||sugarandpearl.com^
 ||sunleaftravel.com^
 ||sununi.us^
 ||supercutestuff.com^
