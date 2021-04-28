@@ -466,6 +466,7 @@
 ||strogame.com^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
+||sugarandpearl.com^
 ||sunleaftravel.com^
 ||sununi.us^
 ||supercutestuff.com^
@@ -528,6 +529,7 @@
 ||ureashi.com^
 ||uredaka.com^
 ||usasport247.com^
+||usefulnpro.com^
 ||ushiro.org^
 ||uuc.joyofprogress.com^
 ||vatini.net^
