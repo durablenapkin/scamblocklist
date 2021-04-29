@@ -9,6 +9,7 @@
 ||1sttheworld.com^
 ||1sttheworld.online^
 ||acquatee.com^
+||adidasko.com^
 ||ahenana.com^
 ||airmaxskobillige.com^
 ||akarosi.com^
@@ -173,7 +174,6 @@
 ||furoshop.com^
 ||futhem.info^
 ||fveco.com^
-||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||geaapy.com^
 ||gearanime.com^
@@ -552,7 +552,6 @@
 ||windbellstore.com^
 ||woadoodles.com^
 ||woochip.com^
-||wowviral.net^
 ||yeahteesmile.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
