@@ -133,6 +133,7 @@
 ||duckydecor.store^
 ||dunjakke-no.com^
 ||easynatures.com^
+||easyshoppingus.com^
 ||elaka.lk^
 ||ellezz.com^
 ||emberio.com^
@@ -186,7 +187,7 @@
 ||gearver.com^
 ||gemlis.com^
 ||gibbonfamily.store^
-||gifthunt247.com^
+||giftbias.com^
 ||giftyweb.com^
 ||gizmopage.com^
 ||gladiadormalas.com.br^
@@ -249,7 +250,6 @@
 ||ksvitmimay.com^
 ||kuteblanket.store^
 ||kutehoodie.store^
-||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lamotee.com^
 ||lemstore.com^
@@ -276,6 +276,7 @@
 ||lovemoregift.com^
 ||loveshop20.com^
 ||lucatee.com^
+||luckyhomie.com^
 ||lucysstyle.com^
 ||lunapresent.com^
 ||luxsgear.com^
@@ -537,6 +538,7 @@
 ||vegamartz.com^
 ||verfun.com^
 ||vetoro.cc^
+||viberman.com^
 ||vikingstore.co^
 ||vintageartdecor.store^
 ||violayvonne.com^
