@@ -282,7 +282,6 @@
 ||luxsgear.com^
 ||luzyfran.com^
 ||magnasat.com^
-||makewallperfect.store^
 ||mangacos.com^
 ||marleytecnologica.com^
 ||meaningift.com^
@@ -362,6 +361,7 @@
 ||plutostars.com^
 ||popeurope.com^
 ||poppop.online^
+||poravoda.com^
 ||potterheads.co^
 ||preciouscutesy.com^
 ||premiumqualityblanket.com^
@@ -505,6 +505,7 @@
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
 ||tikgeeker.com^
+||tinycutestuffs.com^
 ||tiranaaquapark-eg.com^
 ||tlonsey.com^
 ||tomadamsenergy.com^
@@ -540,7 +541,6 @@
 ||vetoro.cc^
 ||viberman.com^
 ||vikingstore.co^
-||vintageartdecor.store^
 ||violayvonne.com^
 ||vipticketgiveaway.com^
 ||warm-gifts.com^

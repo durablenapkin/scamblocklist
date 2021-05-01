@@ -229,6 +229,7 @@
 0.0.0.0 www.couponxoo.com
 0.0.0.0 creizeystore.com
 0.0.0.0 www.creizeystore.com
+0.0.0.0 crossfiterada.com
 0.0.0.0 www.crossfiterada.com
 0.0.0.0 store.crossfiterada.com
 0.0.0.0 csgoproleague.com
@@ -414,6 +415,7 @@
 0.0.0.0 gemlis.com
 0.0.0.0 www.gemlis.com
 0.0.0.0 gibbonfamily.store
+0.0.0.0 giftbias.com
 0.0.0.0 www.giftbias.com
 0.0.0.0 store.giftbias.com
 0.0.0.0 giftyweb.com
@@ -620,9 +622,6 @@
 0.0.0.0 www.luzyfran.com
 0.0.0.0 magnasat.com
 0.0.0.0 www.magnasat.com
-0.0.0.0 makewallperfect.store
-0.0.0.0 www.makewallperfect.store
-0.0.0.0 store.makewallperfect.store
 0.0.0.0 mangacos.com
 0.0.0.0 www.mangacos.com
 0.0.0.0 store.mangacos.com
@@ -809,6 +808,9 @@
 0.0.0.0 store.popeurope.com
 0.0.0.0 poppop.online
 0.0.0.0 www.poppop.online
+0.0.0.0 poravoda.com
+0.0.0.0 www.poravoda.com
+0.0.0.0 store.poravoda.com
 0.0.0.0 potterheads.co
 0.0.0.0 www.potterheads.co
 0.0.0.0 preciouscutesy.com
@@ -1014,7 +1016,7 @@
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
-0.0.0.0 store.storeax.com
+0.0.0.0 storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 store.storedarkness.com
@@ -1030,7 +1032,6 @@
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 stylegift.co.uk
 0.0.0.0 www.stylegift.co.uk
-0.0.0.0 sugarandpearl.com
 0.0.0.0 store.sugarandpearl.com
 0.0.0.0 sunleaftravel.com
 0.0.0.0 www.sunleaftravel.com
@@ -1114,6 +1115,9 @@
 0.0.0.0 tikgeeker.com
 0.0.0.0 www.tikgeeker.com
 0.0.0.0 store.tikgeeker.com
+0.0.0.0 tinycutestuffs.com
+0.0.0.0 www.tinycutestuffs.com
+0.0.0.0 store.tinycutestuffs.com
 0.0.0.0 tiranaaquapark-eg.com
 0.0.0.0 www.tiranaaquapark-eg.com
 0.0.0.0 store.tiranaaquapark-eg.com
@@ -1170,7 +1174,6 @@
 0.0.0.0 store.usefulnpro.com
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
-0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
@@ -1188,9 +1191,6 @@
 0.0.0.0 viberman.com
 0.0.0.0 vikingstore.co
 0.0.0.0 www.vikingstore.co
-0.0.0.0 vintageartdecor.store
-0.0.0.0 www.vintageartdecor.store
-0.0.0.0 store.vintageartdecor.store
 0.0.0.0 violayvonne.com
 0.0.0.0 www.violayvonne.com
 0.0.0.0 vipticketgiveaway.com
