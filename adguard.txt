@@ -103,7 +103,6 @@
 ||costcotee.com^
 ||couponxoo.com^
 ||creizeystore.com^
-||crossfiterada.com^
 ||csgoproleague.com^
 ||customizerbox.com^
 ||customurink.com^
@@ -175,6 +174,7 @@
 ||furoshop.com^
 ||futhem.info^
 ||fveco.com^
+||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||geaapy.com^
 ||gearanime.com^
@@ -250,6 +250,7 @@
 ||ksvitmimay.com^
 ||kuteblanket.store^
 ||kutehoodie.store^
+||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lamotee.com^
 ||lemstore.com^
@@ -274,7 +275,6 @@
 ||loveinbox.co.uk^
 ||lovelovegifts.com^
 ||lovemoregift.com^
-||loveshop20.com^
 ||lucatee.com^
 ||luckyhomie.com^
 ||lucysstyle.com^
@@ -424,6 +424,7 @@
 ||skinsplanet.net^
 ||skinszone.net^
 ||skonmdnorge.com^
+||sligen.com^
 ||smartgadgettrend.com^
 ||smartpower4all.org^
 ||smartproduct.site^
