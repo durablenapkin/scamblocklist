@@ -134,7 +134,6 @@
 0.0.0.0 booliving.com
 0.0.0.0 www.booliving.com
 0.0.0.0 bossaving.com
-0.0.0.0 www.bossaving.com
 0.0.0.0 bostongrnhsflowers.com
 0.0.0.0 www.bostongrnhsflowers.com
 0.0.0.0 store.bostongrnhsflowers.com
@@ -386,6 +385,7 @@
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
 0.0.0.0 g1z0.myinstructus.com
+0.0.0.0 www.g1z0.myinstructus.com
 0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
@@ -412,9 +412,6 @@
 0.0.0.0 gemlis.com
 0.0.0.0 www.gemlis.com
 0.0.0.0 gibbonfamily.store
-0.0.0.0 giftbias.com
-0.0.0.0 www.giftbias.com
-0.0.0.0 store.giftbias.com
 0.0.0.0 giftyweb.com
 0.0.0.0 www.giftyweb.com
 0.0.0.0 gizmopage.com
@@ -551,10 +548,11 @@
 0.0.0.0 kutehoodie.store
 0.0.0.0 www.kutehoodie.store
 0.0.0.0 kxu.myinstructus.com
-0.0.0.0 www.kxu.myinstructus.com
-0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
+0.0.0.0 lakersfanshoponline.com
+0.0.0.0 www.lakersfanshoponline.com
+0.0.0.0 store.lakersfanshoponline.com
 0.0.0.0 lamotee.com
 0.0.0.0 www.lamotee.com
 0.0.0.0 lemstore.com
@@ -1033,7 +1031,9 @@
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 stylegift.co.uk
 0.0.0.0 www.stylegift.co.uk
+0.0.0.0 sugarandpearl.com
 0.0.0.0 www.sugarandpearl.com
+0.0.0.0 store.sugarandpearl.com
 0.0.0.0 sunleaftravel.com
 0.0.0.0 www.sunleaftravel.com
 0.0.0.0 sununi.us
@@ -1176,7 +1176,7 @@
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
 0.0.0.0 uuc.joyofprogress.com
-0.0.0.0 store.uuc.joyofprogress.com
+0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 vavaname.com

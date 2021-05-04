@@ -186,7 +186,6 @@
 ||gearver.com^
 ||gemlis.com^
 ||gibbonfamily.store^
-||giftbias.com^
 ||giftyweb.com^
 ||gizmopage.com^
 ||gladiadormalas.com.br^
@@ -251,6 +250,7 @@
 ||kutehoodie.store^
 ||kxu.myinstructus.com^
 ||ladamustore.com^
+||lakersfanshoponline.com^
 ||lamotee.com^
 ||lemstore.com^
 ||lericettedifrancy74.com^
