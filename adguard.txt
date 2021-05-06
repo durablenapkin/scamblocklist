@@ -308,7 +308,6 @@
 ||nabaza.shop^
 ||namemory.co.uk^
 ||nanistores.com^
-||natilove.com^
 ||nationaladvancegroup.com^
 ||natistore.us^
 ||natistorez.com^
@@ -349,7 +348,6 @@
 ||parajumperssalg.com^
 ||peace-love.us^
 ||pearstee.com^
-||peekpok.com^
 ||pepatees.com^
 ||peppatees.com^
 ||personal84.com^
@@ -401,7 +399,6 @@
 ||sbeat.info^
 ||scanoe.info^
 ||seagulltee.com^
-||sedark.com^
 ||sentees.com^
 ||shinepuzzle.com^
 ||shinezily.com^
@@ -409,7 +406,6 @@
 ||shirttest.com^
 ||shirtwide.com^
 ||shoeaddic.com^
-||shop.headline-journal.com^
 ||shop.spreadshirt.com^
 ||shopafricalimited.com^
 ||shopusawarehouse.com^
@@ -467,7 +463,6 @@
 ||strogame.com^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
-||sugarandpearl.com^
 ||sunleaftravel.com^
 ||sununi.us^
 ||supercutestuff.com^
@@ -505,7 +500,6 @@
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
 ||tikgeeker.com^
-||tinycutestuffs.com^
 ||tiranaaquapark-eg.com^
 ||tlonsey.com^
 ||tomadamsenergy.com^

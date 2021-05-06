@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1243
+# Domains: 1226
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -681,9 +681,6 @@
 0.0.0.0 www.namemory.co.uk
 0.0.0.0 nanistores.com
 0.0.0.0 www.nanistores.com
-0.0.0.0 natilove.com
-0.0.0.0 www.natilove.com
-0.0.0.0 store.natilove.com
 0.0.0.0 nationaladvancegroup.com
 0.0.0.0 www.nationaladvancegroup.com
 0.0.0.0 natistore.us
@@ -777,9 +774,6 @@
 0.0.0.0 store.peace-love.us
 0.0.0.0 pearstee.com
 0.0.0.0 www.pearstee.com
-0.0.0.0 peekpok.com
-0.0.0.0 www.peekpok.com
-0.0.0.0 store.peekpok.com
 0.0.0.0 pepatees.com
 0.0.0.0 www.pepatees.com
 0.0.0.0 store.pepatees.com
@@ -890,9 +884,6 @@
 0.0.0.0 www.scanoe.info
 0.0.0.0 seagulltee.com
 0.0.0.0 www.seagulltee.com
-0.0.0.0 sedark.com
-0.0.0.0 www.sedark.com
-0.0.0.0 store.sedark.com
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
 0.0.0.0 shinepuzzle.com
@@ -907,9 +898,6 @@
 0.0.0.0 www.shirtwide.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 www.shoeaddic.com
-0.0.0.0 shop.headline-journal.com
-0.0.0.0 www.shop.headline-journal.com
-0.0.0.0 store.shop.headline-journal.com
 0.0.0.0 shop.spreadshirt.com
 0.0.0.0 shopafricalimited.com
 0.0.0.0 shopusawarehouse.com
@@ -953,6 +941,7 @@
 0.0.0.0 www.solepersonal.com
 0.0.0.0 somethingapparel.com
 0.0.0.0 www.somethingapparel.com
+0.0.0.0 store.somethingapparel.com
 0.0.0.0 soonet.info
 0.0.0.0 www.soonet.info
 0.0.0.0 souhoney.com
@@ -1015,7 +1004,6 @@
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
 0.0.0.0 storeax.com
-0.0.0.0 www.storeax.com
 0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
@@ -1032,8 +1020,6 @@
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 stylegift.co.uk
 0.0.0.0 www.stylegift.co.uk
-0.0.0.0 www.sugarandpearl.com
-0.0.0.0 store.sugarandpearl.com
 0.0.0.0 sunleaftravel.com
 0.0.0.0 www.sunleaftravel.com
 0.0.0.0 sununi.us
@@ -1116,9 +1102,6 @@
 0.0.0.0 tikgeeker.com
 0.0.0.0 www.tikgeeker.com
 0.0.0.0 store.tikgeeker.com
-0.0.0.0 tinycutestuffs.com
-0.0.0.0 www.tinycutestuffs.com
-0.0.0.0 store.tinycutestuffs.com
 0.0.0.0 tiranaaquapark-eg.com
 0.0.0.0 www.tiranaaquapark-eg.com
 0.0.0.0 store.tiranaaquapark-eg.com
