@@ -36,9 +36,6 @@
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 www.aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 store.aliyaoberbrunnergreg21.myshopify.com
-0.0.0.0 allen86.store
-0.0.0.0 www.allen86.store
-0.0.0.0 store.allen86.store
 0.0.0.0 allergyfl.com
 0.0.0.0 www.allergyfl.com
 0.0.0.0 store.allergyfl.com
@@ -270,9 +267,6 @@
 0.0.0.0 dolystore.com
 0.0.0.0 www.dolystore.com
 0.0.0.0 donttreadonmeshop.com
-0.0.0.0 dorothy86.store
-0.0.0.0 www.dorothy86.store
-0.0.0.0 store.dorothy86.store
 0.0.0.0 drakternorge.com
 0.0.0.0 www.drakternorge.com
 0.0.0.0 drcarolyngroff.com
@@ -384,9 +378,6 @@
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
-0.0.0.0 g1z0.myinstructus.com
-0.0.0.0 www.g1z0.myinstructus.com
-0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
 0.0.0.0 store.gameconsoless.com
@@ -547,9 +538,6 @@
 0.0.0.0 www.kuteblanket.store
 0.0.0.0 kutehoodie.store
 0.0.0.0 www.kutehoodie.store
-0.0.0.0 kxu.myinstructus.com
-0.0.0.0 www.kxu.myinstructus.com
-0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
@@ -613,6 +601,8 @@
 0.0.0.0 www.lucysstyle.com
 0.0.0.0 lunapresent.com
 0.0.0.0 www.lunapresent.com
+0.0.0.0 luvinstars.com
+0.0.0.0 www.luvinstars.com
 0.0.0.0 luxsgear.com
 0.0.0.0 www.luxsgear.com
 0.0.0.0 luzyfran.com
@@ -681,6 +671,9 @@
 0.0.0.0 www.namemory.co.uk
 0.0.0.0 nanistores.com
 0.0.0.0 www.nanistores.com
+0.0.0.0 natilove.com
+0.0.0.0 www.natilove.com
+0.0.0.0 store.natilove.com
 0.0.0.0 nationaladvancegroup.com
 0.0.0.0 www.nationaladvancegroup.com
 0.0.0.0 natistore.us
@@ -774,6 +767,9 @@
 0.0.0.0 store.peace-love.us
 0.0.0.0 pearstee.com
 0.0.0.0 www.pearstee.com
+0.0.0.0 peekpok.com
+0.0.0.0 www.peekpok.com
+0.0.0.0 store.peekpok.com
 0.0.0.0 pepatees.com
 0.0.0.0 www.pepatees.com
 0.0.0.0 store.pepatees.com
@@ -884,6 +880,9 @@
 0.0.0.0 www.scanoe.info
 0.0.0.0 seagulltee.com
 0.0.0.0 www.seagulltee.com
+0.0.0.0 sedark.com
+0.0.0.0 www.sedark.com
+0.0.0.0 store.sedark.com
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
 0.0.0.0 shinepuzzle.com
@@ -898,6 +897,9 @@
 0.0.0.0 www.shirtwide.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 www.shoeaddic.com
+0.0.0.0 shop.headline-journal.com
+0.0.0.0 www.shop.headline-journal.com
+0.0.0.0 store.shop.headline-journal.com
 0.0.0.0 shop.spreadshirt.com
 0.0.0.0 shopafricalimited.com
 0.0.0.0 shopusawarehouse.com
@@ -1003,8 +1005,6 @@
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
-0.0.0.0 storeax.com
-0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 store.storedarkness.com
@@ -1020,6 +1020,9 @@
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 stylegift.co.uk
 0.0.0.0 www.stylegift.co.uk
+0.0.0.0 sugarandpearl.com
+0.0.0.0 www.sugarandpearl.com
+0.0.0.0 store.sugarandpearl.com
 0.0.0.0 sunleaftravel.com
 0.0.0.0 www.sunleaftravel.com
 0.0.0.0 sununi.us
@@ -1161,9 +1164,6 @@
 0.0.0.0 store.usefulnpro.com
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
-0.0.0.0 uuc.joyofprogress.com
-0.0.0.0 www.uuc.joyofprogress.com
-0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 vavaname.com
