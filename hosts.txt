@@ -61,6 +61,7 @@
 0.0.0.0 store.annemus.com
 0.0.0.0 aoptee.com
 0.0.0.0 www.aoptee.com
+0.0.0.0 store.aoptee.com
 0.0.0.0 aozeala.com
 0.0.0.0 www.aozeala.com
 0.0.0.0 store.aozeala.com
@@ -673,8 +674,6 @@
 0.0.0.0 www.nabaza.shop
 0.0.0.0 namemory.co.uk
 0.0.0.0 www.namemory.co.uk
-0.0.0.0 nanistores.com
-0.0.0.0 www.nanistores.com
 0.0.0.0 natilove.com
 0.0.0.0 www.natilove.com
 0.0.0.0 store.natilove.com
@@ -1009,6 +1008,7 @@
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
+0.0.0.0 storeax.com
 0.0.0.0 www.storeax.com
 0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
