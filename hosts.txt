@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1232
+# Domains: 1230
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -519,7 +519,6 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 karukuri.com
-0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kidsmama.online
@@ -1008,7 +1007,6 @@
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
-0.0.0.0 storeax.com
 0.0.0.0 www.storeax.com
 0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
@@ -1168,7 +1166,7 @@
 0.0.0.0 store.usefulnpro.com
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
-0.0.0.0 uuc.joyofprogress.com
+0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
