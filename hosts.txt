@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1229
+# Domains: 1228
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -620,6 +620,7 @@
 0.0.0.0 www.meaningift.com
 0.0.0.0 store.meaningift.com
 0.0.0.0 meladermfacts.com
+0.0.0.0 www.meladermfacts.com
 0.0.0.0 memotero.com
 0.0.0.0 www.memotero.com
 0.0.0.0 meowpinky.com
@@ -861,8 +862,6 @@
 0.0.0.0 rovedy.com
 0.0.0.0 www.rovedy.com
 0.0.0.0 store.rovedy.com
-0.0.0.0 royaldecorcollection.com
-0.0.0.0 www.royaldecorcollection.com
 0.0.0.0 royaldecorhome.store
 0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 www.rsaonlinenow.com.au
