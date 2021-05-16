@@ -171,6 +171,7 @@
 ||furoshop.com^
 ||futhem.info^
 ||fveco.com^
+||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||geaapy.com^
 ||gearanime.com^
@@ -244,6 +245,7 @@
 ||ksvitmimay.com^
 ||kuteblanket.store^
 ||kutehoodie.store^
+||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||lamotee.com^
@@ -343,7 +345,6 @@
 ||peace-love.us^
 ||pearstee.com^
 ||peekpok.com^
-||pepatees.com^
 ||peppatees.com^
 ||personal84.com^
 ||pharaohstore.com^
@@ -374,6 +375,7 @@
 ||rebeccatees.com^
 ||recade.info^
 ||redchristmaswine.com^
+||reforest-iita.org^
 ||reviewshirts.com^
 ||rickamortyshop.com^
 ||rincandy.com^
@@ -433,7 +435,6 @@
 ||sportfanlab.com^
 ||sportfanvoice.com^
 ||sportfirestore.com^
-||sportforestland.com^
 ||sportsapparelmarket.com^
 ||sportswearfanatics.com^
 ||sportswearforfans.com^
@@ -523,6 +524,7 @@
 ||usasport247.com^
 ||usefulnpro.com^
 ||ushiro.org^
+||uuc.joyofprogress.com^
 ||vatini.net^
 ||vavaname.com^
 ||vegamartz.com^

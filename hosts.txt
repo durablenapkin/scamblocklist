@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1210
+# Domains: 1218
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -379,6 +379,9 @@
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
+0.0.0.0 g1z0.myinstructus.com
+0.0.0.0 www.g1z0.myinstructus.com
+0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
 0.0.0.0 store.gameconsoless.com
@@ -477,7 +480,9 @@
 0.0.0.0 hollisternorge.com
 0.0.0.0 www.hollisternorge.com
 0.0.0.0 store.hollisternorge.com
+0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
+0.0.0.0 store.hookahheroes.com
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
 0.0.0.0 hunden.info
@@ -534,6 +539,8 @@
 0.0.0.0 www.kuteblanket.store
 0.0.0.0 kutehoodie.store
 0.0.0.0 www.kutehoodie.store
+0.0.0.0 kxu.myinstructus.com
+0.0.0.0 www.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
@@ -759,9 +766,6 @@
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
 0.0.0.0 store.peekpok.com
-0.0.0.0 pepatees.com
-0.0.0.0 www.pepatees.com
-0.0.0.0 store.pepatees.com
 0.0.0.0 peppatees.com
 0.0.0.0 www.peppatees.com
 0.0.0.0 store.peppatees.com
@@ -826,6 +830,8 @@
 0.0.0.0 www.recade.info
 0.0.0.0 redchristmaswine.com
 0.0.0.0 www.redchristmaswine.com
+0.0.0.0 reforest-iita.org
+0.0.0.0 www.reforest-iita.org
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
 0.0.0.0 rickamortyshop.com
@@ -954,9 +960,6 @@
 0.0.0.0 store.sportfanvoice.com
 0.0.0.0 sportfirestore.com
 0.0.0.0 www.sportfirestore.com
-0.0.0.0 sportforestland.com
-0.0.0.0 www.sportforestland.com
-0.0.0.0 store.sportforestland.com
 0.0.0.0 sportsapparelmarket.com
 0.0.0.0 www.sportsapparelmarket.com
 0.0.0.0 sportswearfanatics.com
@@ -990,7 +993,9 @@
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
+0.0.0.0 storeax.com
 0.0.0.0 www.storeax.com
+0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 store.storedarkness.com
@@ -1148,6 +1153,9 @@
 0.0.0.0 store.usefulnpro.com
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
+0.0.0.0 uuc.joyofprogress.com
+0.0.0.0 www.uuc.joyofprogress.com
+0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 vavaname.com
