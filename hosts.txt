@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1215
+# Domains: 1216
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -76,6 +76,8 @@
 0.0.0.0 store.arnoldgloverruss58.myshopify.com
 0.0.0.0 arthoodie.com
 0.0.0.0 www.arthoodie.com
+0.0.0.0 arvetellefsen.no
+0.0.0.0 www.arvetellefsen.no
 0.0.0.0 assassinfitness.com
 0.0.0.0 www.assassinfitness.com
 0.0.0.0 atrendsz.com
@@ -379,6 +381,8 @@
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
 0.0.0.0 g1z0.myinstructus.com
+0.0.0.0 www.g1z0.myinstructus.com
+0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
 0.0.0.0 store.gameconsoless.com
@@ -1008,9 +1012,6 @@
 0.0.0.0 www.stylegift.co.uk
 0.0.0.0 sunleaftravel.com
 0.0.0.0 www.sunleaftravel.com
-0.0.0.0 sununi.us
-0.0.0.0 www.sununi.us
-0.0.0.0 store.sununi.us
 0.0.0.0 supercutestuff.com
 0.0.0.0 www.supercutestuff.com
 0.0.0.0 superfacehoodie.com

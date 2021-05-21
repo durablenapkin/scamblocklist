@@ -33,6 +33,7 @@
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
 ||arthoodie.com^
+||arvetellefsen.no^
 ||assassinfitness.com^
 ||atrendsz.com^
 ||attenstyle.com^
@@ -459,7 +460,6 @@
 ||stunningstuffs.com^
 ||stylegift.co.uk^
 ||sunleaftravel.com^
-||sununi.us^
 ||supercutestuff.com^
 ||superfacehoodie.com^
 ||superofferte.shop^
