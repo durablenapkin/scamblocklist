@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1215
+# Domains: 1216
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -1151,6 +1151,7 @@
 0.0.0.0 store.usefulnpro.com
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
+0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
