@@ -173,7 +173,6 @@
 ||futhem.info^
 ||fveco.com^
 ||gameconsoless.com^
-||geaapy.com^
 ||gearanime.com^
 ||gearathena.com^
 ||gearclover.com^
@@ -258,6 +257,7 @@
 ||lifewonderland.com^
 ||ligerking.com^
 ||lillly.shop^
+||lindseysopticians.com^
 ||linkshe.com^
 ||linostee.com^
 ||lisabuddy.com^
