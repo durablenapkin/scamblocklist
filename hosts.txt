@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1211
+# Domains: 1215
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -49,6 +49,8 @@
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
 0.0.0.0 amznshirts.com
+0.0.0.0 www.amznshirts.com
+0.0.0.0 store.amznshirts.com
 0.0.0.0 anclice.com
 0.0.0.0 www.anclice.com
 0.0.0.0 animals-love.us
@@ -154,6 +156,7 @@
 0.0.0.0 www.burgershirt.com
 0.0.0.0 buzzazone.com
 0.0.0.0 www.buzzazone.com
+0.0.0.0 store.buzzazone.com
 0.0.0.0 candlesbymadison.com
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 canjaume.com
@@ -536,6 +539,7 @@
 0.0.0.0 kutehoodie.store
 0.0.0.0 www.kutehoodie.store
 0.0.0.0 kxu.myinstructus.com
+0.0.0.0 www.kxu.myinstructus.com
 0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
