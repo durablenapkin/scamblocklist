@@ -92,6 +92,7 @@
 ||clemoa.com^
 ||cloverszone.com^
 ||cluckergifts.ecwid.com^
+||cmoboy.com^
 ||cocumbertee.com^
 ||colorandcotton.com^
 ||cookietee.com^
@@ -172,6 +173,7 @@
 ||furoshop.com^
 ||futhem.info^
 ||fveco.com^
+||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
 ||gearathena.com^
@@ -228,7 +230,6 @@
 ||jakkesalgs.com^
 ||jakkesnorge.com^
 ||januashop.com^
-||jellystores.com^
 ||jollyfamilygifts.net^
 ||joseph-holland.com^
 ||karukuri.com^
@@ -243,6 +244,7 @@
 ||ksvitmimay.com^
 ||kuteblanket.store^
 ||kutehoodie.store^
+||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||lamotee.com^
@@ -251,7 +253,6 @@
 ||letrantrunghieu.com^
 ||letteringift.com^
 ||levastyle.com^
-||levath.com^
 ||levelupstore.xyz^
 ||lifewonderland.com^
 ||ligerking.com^
@@ -446,6 +447,7 @@
 ||stingcool.com^
 ||store-aleteia.org^
 ||store25848025.company.site^
+||storeax.com^
 ||storedarkness.com^
 ||storeitsafeltd.com^
 ||storesonlineltd.com^
@@ -518,6 +520,7 @@
 ||usasport247.com^
 ||usefulnpro.com^
 ||ushiro.org^
+||uuc.joyofprogress.com^
 ||vatini.net^
 ||vavaname.com^
 ||vegamartz.com^
