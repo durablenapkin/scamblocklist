@@ -116,7 +116,6 @@
 ||devifoodgrains.com^
 ||deytee.com^
 ||dezpez.com^
-||dixlitle.com^
 ||dkfodboldstore.com^
 ||dogparadiseshop.com^
 ||dogparadisestore.com^
@@ -422,7 +421,6 @@
 ||sozonest.com^
 ||spnation.net^
 ||sportfamily.us^
-||sportfanlab.com^
 ||sportfanvoice.com^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
