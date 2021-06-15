@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1189
+# Domains: 1187
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -84,7 +84,6 @@
 0.0.0.0 www.arthoodie.com
 0.0.0.0 arvetellefsen.no
 0.0.0.0 www.arvetellefsen.no
-0.0.0.0 assassinfitness.com
 0.0.0.0 www.assassinfitness.com
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
@@ -1158,7 +1157,6 @@
 0.0.0.0 wichky.info
 0.0.0.0 www.wichky.info
 0.0.0.0 wikeb.com
-0.0.0.0 www.wikeb.com
 0.0.0.0 windbellstore.com
 0.0.0.0 www.windbellstore.com
 0.0.0.0 woadoodles.com
