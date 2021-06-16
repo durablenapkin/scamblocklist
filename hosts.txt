@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1187
+# Domains: 1190
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -84,6 +84,7 @@
 0.0.0.0 www.arthoodie.com
 0.0.0.0 arvetellefsen.no
 0.0.0.0 www.arvetellefsen.no
+0.0.0.0 assassinfitness.com
 0.0.0.0 www.assassinfitness.com
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
@@ -481,6 +482,8 @@
 0.0.0.0 www.ilpollenza-sorso23.it
 0.0.0.0 infinityto.com
 0.0.0.0 www.infinityto.com
+0.0.0.0 inusoul.com
+0.0.0.0 www.inusoul.com
 0.0.0.0 jagkart.com
 0.0.0.0 www.jagkart.com
 0.0.0.0 jaimerico.net
