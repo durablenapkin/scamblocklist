@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1190
+# Domains: 1198
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -137,6 +137,7 @@
 0.0.0.0 booliving.com
 0.0.0.0 www.booliving.com
 0.0.0.0 bossaving.com
+0.0.0.0 www.bossaving.com
 0.0.0.0 bostongrnhsflowers.com
 0.0.0.0 www.bostongrnhsflowers.com
 0.0.0.0 store.bostongrnhsflowers.com
@@ -296,9 +297,6 @@
 0.0.0.0 www.envisiongear.com
 0.0.0.0 esl-gaming.com
 0.0.0.0 www.esl-gaming.com
-0.0.0.0 eudoraz.com
-0.0.0.0 www.eudoraz.com
-0.0.0.0 store.eudoraz.com
 0.0.0.0 evangeliostore.com
 0.0.0.0 www.evangeliostore.com
 0.0.0.0 eviralstore.com
@@ -372,6 +370,9 @@
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
+0.0.0.0 g1z0.myinstructus.com
+0.0.0.0 www.g1z0.myinstructus.com
+0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
 0.0.0.0 store.gameconsoless.com
@@ -525,6 +526,9 @@
 0.0.0.0 kutehoodie.store
 0.0.0.0 www.kutehoodie.store
 0.0.0.0 store.kutehoodie.store
+0.0.0.0 kxu.myinstructus.com
+0.0.0.0 www.kxu.myinstructus.com
+0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
@@ -597,6 +601,8 @@
 0.0.0.0 store.mangacos.com
 0.0.0.0 marleytecnologica.com
 0.0.0.0 www.marleytecnologica.com
+0.0.0.0 mbtnorge.com
+0.0.0.0 www.mbtnorge.com
 0.0.0.0 meaningift.com
 0.0.0.0 www.meaningift.com
 0.0.0.0 store.meaningift.com
@@ -911,9 +917,6 @@
 0.0.0.0 store.snappystoreonline.co.za
 0.0.0.0 solepersonal.com
 0.0.0.0 www.solepersonal.com
-0.0.0.0 somethingapparel.com
-0.0.0.0 www.somethingapparel.com
-0.0.0.0 store.somethingapparel.com
 0.0.0.0 soonet.info
 0.0.0.0 www.soonet.info
 0.0.0.0 souhoney.com
@@ -969,6 +972,9 @@
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
+0.0.0.0 storeax.com
+0.0.0.0 www.storeax.com
+0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 store.storedarkness.com
@@ -1126,6 +1132,9 @@
 0.0.0.0 www.usasport247.com
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
+0.0.0.0 uuc.joyofprogress.com
+0.0.0.0 www.uuc.joyofprogress.com
+0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 vavaname.com
@@ -1168,7 +1177,6 @@
 0.0.0.0 www.woochip.com
 0.0.0.0 wowviral.net
 0.0.0.0 www.wowviral.net
-0.0.0.0 store.wowviral.net
 0.0.0.0 yeahteesmile.com
 0.0.0.0 www.yeahteesmile.com
 0.0.0.0 yeswevibe.com
