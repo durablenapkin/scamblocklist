@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1189
+# Domains: 1191
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -317,6 +317,7 @@
 0.0.0.0 www.familylovesgift.com
 0.0.0.0 familyshark.com
 0.0.0.0 www.familyshark.com
+0.0.0.0 store.familyshark.com
 0.0.0.0 familystore.com
 0.0.0.0 www.familystore.com
 0.0.0.0 famoury.com
@@ -498,7 +499,6 @@
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 karukuri.com
 0.0.0.0 khoinguyenhanoi.vn
-0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kidsmama.online
 0.0.0.0 www.kidsmama.online
@@ -652,6 +652,7 @@
 0.0.0.0 www.mystitich4u.com
 0.0.0.0 nabaza.shop
 0.0.0.0 www.nabaza.shop
+0.0.0.0 store.nabaza.shop
 0.0.0.0 namemory.co.uk
 0.0.0.0 www.namemory.co.uk
 0.0.0.0 natilove.com
@@ -790,6 +791,7 @@
 0.0.0.0 www.printteestore.com
 0.0.0.0 printzent.com
 0.0.0.0 www.printzent.com
+0.0.0.0 store.printzent.com
 0.0.0.0 promotebuy.com
 0.0.0.0 www.promotebuy.com
 0.0.0.0 store.promotebuy.com
