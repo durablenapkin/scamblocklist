@@ -208,6 +208,8 @@
 0.0.0.0 www.cluckergifts.ecwid.com
 0.0.0.0 store.cluckergifts.ecwid.com
 0.0.0.0 cmoboy.com
+0.0.0.0 www.cmoboy.com
+0.0.0.0 store.cmoboy.com
 0.0.0.0 cocumbertee.com
 0.0.0.0 www.cocumbertee.com
 0.0.0.0 colorandcotton.com
@@ -317,7 +319,6 @@
 0.0.0.0 www.familylovesgift.com
 0.0.0.0 familyshark.com
 0.0.0.0 www.familyshark.com
-0.0.0.0 store.familyshark.com
 0.0.0.0 familystore.com
 0.0.0.0 www.familystore.com
 0.0.0.0 famoury.com
@@ -499,6 +500,7 @@
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 karukuri.com
 0.0.0.0 khoinguyenhanoi.vn
+0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kidsmama.online
 0.0.0.0 www.kidsmama.online
@@ -1126,8 +1128,6 @@
 0.0.0.0 www.uredaka.com
 0.0.0.0 usasport247.com
 0.0.0.0 www.usasport247.com
-0.0.0.0 ushiro.org
-0.0.0.0 www.ushiro.org
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 vavaname.com
