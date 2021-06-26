@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1191
+# Domains: 1193
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -1128,6 +1128,8 @@
 0.0.0.0 www.uredaka.com
 0.0.0.0 usasport247.com
 0.0.0.0 www.usasport247.com
+0.0.0.0 ushiro.org
+0.0.0.0 www.ushiro.org
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 vavaname.com
