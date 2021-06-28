@@ -57,7 +57,6 @@
 ||bknstore.com^
 ||blingyy.com^
 ||boobeeshop.com^
-||boododa.com^
 ||booliving.com^
 ||bossaving.com^
 ||bostongrnhsflowers.com^
@@ -167,6 +166,7 @@
 ||furoshop.com^
 ||futhem.info^
 ||fveco.com^
+||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
 ||gearathena.com^
@@ -231,11 +231,11 @@
 ||killtee.com^
 ||kindapod.com^
 ||kingteestore.com^
-||kisserine.com^
 ||kitchendecor.shop^
 ||ksvitmimay.com^
 ||kuteblanket.store^
 ||kutehoodie.store^
+||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||lamotee.com^
@@ -435,6 +435,7 @@
 ||stingcool.com^
 ||store-aleteia.org^
 ||store25848025.company.site^
+||storeax.com^
 ||storedarkness.com^
 ||storeitsafeltd.com^
 ||storesonlineltd.com^
@@ -448,7 +449,6 @@
 ||supercutestuff.com^
 ||superfacehoodie.com^
 ||superofferte.shop^
-||supersloth.club^
 ||supperbrand.company.site^
 ||surprisesandgifts.com^
 ||survivalcatsupply.com^
@@ -507,6 +507,7 @@
 ||uredaka.com^
 ||usasport247.com^
 ||ushiro.org^
+||uuc.joyofprogress.com^
 ||vatini.net^
 ||vavaname.com^
 ||vegamartz.com^
