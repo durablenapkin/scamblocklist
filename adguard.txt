@@ -166,7 +166,6 @@
 ||furoshop.com^
 ||futhem.info^
 ||fveco.com^
-||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
 ||gearathena.com^
@@ -235,7 +234,6 @@
 ||ksvitmimay.com^
 ||kuteblanket.store^
 ||kutehoodie.store^
-||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||lamotee.com^
@@ -435,7 +433,6 @@
 ||stingcool.com^
 ||store-aleteia.org^
 ||store25848025.company.site^
-||storeax.com^
 ||storedarkness.com^
 ||storeitsafeltd.com^
 ||storesonlineltd.com^
@@ -507,7 +504,6 @@
 ||uredaka.com^
 ||usasport247.com^
 ||ushiro.org^
-||uuc.joyofprogress.com^
 ||vatini.net^
 ||vavaname.com^
 ||vegamartz.com^
