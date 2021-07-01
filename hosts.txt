@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1191
+# Domains: 1201
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -95,6 +95,7 @@
 0.0.0.0 store.azitecs.com
 0.0.0.0 bapzy.com
 0.0.0.0 www.bapzy.com
+0.0.0.0 store.bapzy.com
 0.0.0.0 baroconcept.com
 0.0.0.0 www.baroconcept.com
 0.0.0.0 beartees.pubninja.com
@@ -280,6 +281,9 @@
 0.0.0.0 www.dreamstee.com
 0.0.0.0 dreamstees.com
 0.0.0.0 duckydecor.store
+0.0.0.0 dumanus.com
+0.0.0.0 www.dumanus.com
+0.0.0.0 store.dumanus.com
 0.0.0.0 dunjakke-no.com
 0.0.0.0 www.dunjakke-no.com
 0.0.0.0 easynatures.com
@@ -462,6 +466,9 @@
 0.0.0.0 hollisternorge.com
 0.0.0.0 www.hollisternorge.com
 0.0.0.0 store.hollisternorge.com
+0.0.0.0 hookahheroes.com
+0.0.0.0 www.hookahheroes.com
+0.0.0.0 store.hookahheroes.com
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
 0.0.0.0 hunden.info
@@ -616,6 +623,9 @@
 0.0.0.0 www.monetlee.com
 0.0.0.0 monkstars.com
 0.0.0.0 www.monkstars.com
+0.0.0.0 mononus.com
+0.0.0.0 www.mononus.com
+0.0.0.0 store.mononus.com
 0.0.0.0 moteshoes.com
 0.0.0.0 www.moteshoes.com
 0.0.0.0 store.moteshoes.com
