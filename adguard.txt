@@ -167,6 +167,7 @@
 ||furoshop.com^
 ||futhem.info^
 ||fveco.com^
+||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
 ||gearathena.com^
@@ -180,11 +181,9 @@
 ||gibbonfamily.store^
 ||giftyweb.com^
 ||gizmopage.com^
-||gladiadormalas.com.br^
 ||glendaz.com^
 ||gload.info^
 ||glstee.com^
-||godeskonettbutikk.com^
 ||gogiworld.com^
 ||gossvibe.com^
 ||gosusport.store^
@@ -236,6 +235,7 @@
 ||ksvitmimay.com^
 ||kuteblanket.store^
 ||kutehoodie.store^
+||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||lamotee.com^
@@ -244,6 +244,7 @@
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
 ||letteringift.com^
+||levelupstore.xyz^
 ||lifewonderland.com^
 ||ligerking.com^
 ||lillly.shop^
