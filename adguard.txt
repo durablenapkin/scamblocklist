@@ -144,7 +144,6 @@
 ||familylovesgift.com^
 ||familyshark.com^
 ||familystore.com^
-||famoury.com^
 ||fancycentral.com^
 ||farmer-love.us^
 ||fasinal.com^
@@ -237,6 +236,7 @@
 ||ksvitmimay.com^
 ||kuteblanket.store^
 ||kutehoodie.store^
+||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||lamotee.com^
@@ -245,6 +245,7 @@
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
 ||letteringift.com^
+||levelupstore.xyz^
 ||lifewonderland.com^
 ||ligerking.com^
 ||lillly.shop^
