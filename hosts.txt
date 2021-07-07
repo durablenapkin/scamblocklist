@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1215
+# Domains: 1207
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -506,6 +506,7 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 karukuri.com
+0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kidsmama.online
@@ -550,9 +551,6 @@
 0.0.0.0 letteringift.com
 0.0.0.0 www.letteringift.com
 0.0.0.0 store.letteringift.com
-0.0.0.0 levelupstore.xyz
-0.0.0.0 www.levelupstore.xyz
-0.0.0.0 store.levelupstore.xyz
 0.0.0.0 lifewonderland.com
 0.0.0.0 www.lifewonderland.com
 0.0.0.0 store.lifewonderland.com
@@ -766,9 +764,6 @@
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
 0.0.0.0 store.peekpok.com
-0.0.0.0 peppatees.com
-0.0.0.0 www.peppatees.com
-0.0.0.0 store.peppatees.com
 0.0.0.0 personal84.com
 0.0.0.0 www.personal84.com
 0.0.0.0 pharaohstore.com
@@ -1132,9 +1127,6 @@
 0.0.0.0 www.um-bs.com
 0.0.0.0 store.um-bs.com
 0.0.0.0 unifully.com
-0.0.0.0 unique3ds.com
-0.0.0.0 www.unique3ds.com
-0.0.0.0 store.unique3ds.com
 0.0.0.0 uniqueetee.com
 0.0.0.0 www.uniqueetee.com
 0.0.0.0 uniqueshirt.shop
