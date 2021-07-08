@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1207
+# Domains: 1208
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -474,6 +474,7 @@
 0.0.0.0 www.hugetrump.com
 0.0.0.0 hunden.info
 0.0.0.0 www.hunden.info
+0.0.0.0 store.hunden.info
 0.0.0.0 hunterbeus.com
 0.0.0.0 www.hunterbeus.com
 0.0.0.0 store.hunterbeus.com
