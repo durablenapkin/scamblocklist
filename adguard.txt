@@ -23,7 +23,6 @@
 ||alltestbanksolutions.com^
 ||alohazing.com^
 ||altruetech.com^
-||amznshirts.com^
 ||anclice.com^
 ||animals-love.us^
 ||animeshoppers.com^
@@ -245,6 +244,7 @@
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
 ||letteringift.com^
+||levelupstore.xyz^
 ||lifewonderland.com^
 ||ligerking.com^
 ||lillly.shop^
