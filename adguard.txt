@@ -179,7 +179,6 @@
 ||gibbonfamily.store^
 ||giftyweb.com^
 ||gizmopage.com^
-||gladiadormalas.com.br^
 ||glendaz.com^
 ||gload.info^
 ||glstee.com^
@@ -345,7 +344,6 @@
 ||poppop.online^
 ||poravoda.com^
 ||potterheads.co^
-||preciouscutesy.com^
 ||premiumqualityblanket.com^
 ||premiumtour-don.com^
 ||printazest.com^
