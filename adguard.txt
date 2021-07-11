@@ -132,6 +132,7 @@
 ||ellezz.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
+||engineracing.net^
 ||envisiongear.com^
 ||esl-gaming.com^
 ||evangeliostore.com^
@@ -179,6 +180,7 @@
 ||gibbonfamily.store^
 ||giftyweb.com^
 ||gizmopage.com^
+||gladiadormalas.com.br^
 ||glendaz.com^
 ||gload.info^
 ||glstee.com^
@@ -344,6 +346,7 @@
 ||poppop.online^
 ||poravoda.com^
 ||potterheads.co^
+||preciouscutesy.com^
 ||premiumqualityblanket.com^
 ||premiumtour-don.com^
 ||printazest.com^
@@ -478,7 +481,6 @@
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
 ||tikgeeker.com^
-||tiranaaquapark-eg.com^
 ||tlonsey.com^
 ||tomadamsenergy.com^
 ||topsdiy.com^
