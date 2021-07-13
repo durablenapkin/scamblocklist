@@ -145,6 +145,7 @@
 ||familyshark.com^
 ||familystore.com^
 ||fancycentral.com^
+||fapst.com^
 ||farmer-love.us^
 ||fasinal.com^
 ||feddiy.com^
@@ -296,6 +297,7 @@
 ||mystitich4u.com^
 ||nabaza.shop^
 ||namemory.co.uk^
+||nanistores.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
 ||natistore.us^
@@ -405,7 +407,6 @@
 ||skins-store.net^
 ||skinsplanet.net^
 ||skinszone.net^
-||skonmdnorge.com^
 ||sligen.com^
 ||smartgadgettrend.com^
 ||smartpower4all.org^
