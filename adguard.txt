@@ -236,7 +236,6 @@
 ||kitchendecor.shop^
 ||ksvitmimay.com^
 ||kuteblanket.store^
-||kutehoodie.store^
 ||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
@@ -246,7 +245,6 @@
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
 ||letteringift.com^
-||levelupstore.xyz^
 ||lifewonderland.com^
 ||ligerking.com^
 ||lillly.shop^
@@ -261,7 +259,6 @@
 ||look-like-star.myshopify.com^
 ||lookinmylove.com^
 ||lootcrate.com^
-||loveinbox.co.uk^
 ||lovelovegifts.com^
 ||lucatee.com^
 ||luckyhomie.com^
@@ -407,6 +404,7 @@
 ||skins-store.net^
 ||skinsplanet.net^
 ||skinszone.net^
+||skonmdnorge.com^
 ||sligen.com^
 ||smartgadgettrend.com^
 ||smartpower4all.org^
