@@ -75,7 +75,6 @@
 ||carvemyname.com^
 ||castim.info^
 ||charmbean.com^
-||charmingmonica.com^
 ||charmsection.com^
 ||charpente-ramel.com^
 ||chikepod.com^
@@ -245,6 +244,7 @@
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
 ||letteringift.com^
+||levelupstore.xyz^
 ||lifewonderland.com^
 ||ligerking.com^
 ||lillly.shop^
