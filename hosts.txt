@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1228
+# Domains: 1224
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -308,9 +308,6 @@
 0.0.0.0 www.evangeliostore.com
 0.0.0.0 eviralstore.com
 0.0.0.0 www.eviralstore.com
-0.0.0.0 faithmim.online
-0.0.0.0 www.faithmim.online
-0.0.0.0 store.faithmim.online
 0.0.0.0 familybestgifts.com
 0.0.0.0 www.familybestgifts.com
 0.0.0.0 familygiftlove.myshopify.com
@@ -520,7 +517,6 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 karukuri.com
-0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kidsmama.online
