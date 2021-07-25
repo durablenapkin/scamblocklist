@@ -38,7 +38,6 @@
 ||attenstyle.com^
 ||aussiesportfashion.com^
 ||azfancy.com^
-||azitecs.com^
 ||bapzy.com^
 ||baroconcept.com^
 ||beartees.pubninja.com^
@@ -83,7 +82,6 @@
 ||cinela.us^
 ||cipustar.com^
 ||cition.info^
-||classicraftdesign.com^
 ||clemoa.com^
 ||cloverszone.com^
 ||cluckergifts.ecwid.com^
@@ -163,7 +161,6 @@
 ||fulfillgift.com^
 ||furoshop.com^
 ||futhem.info^
-||fveco.com^
 ||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
@@ -235,7 +232,6 @@
 ||kuteblanket.store^
 ||kxu.myinstructus.com^
 ||ladamustore.com^
-||lakersfanshoponline.com^
 ||lamotee.com^
 ||legarralazcoz.com^
 ||lemstore.com^
@@ -407,6 +403,7 @@
 ||smartpurchase.website^
 ||snappystoreonline.co.za^
 ||solepersonal.com^
+||somethingapparel.com^
 ||soonet.info^
 ||souhoney.com^
 ||source84.com^
