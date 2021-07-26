@@ -38,6 +38,7 @@
 ||attenstyle.com^
 ||aussiesportfashion.com^
 ||azfancy.com^
+||azitecs.com^
 ||bapzy.com^
 ||baroconcept.com^
 ||beartees.pubninja.com^
@@ -82,6 +83,7 @@
 ||cinela.us^
 ||cipustar.com^
 ||cition.info^
+||classicraftdesign.com^
 ||clemoa.com^
 ||cloverszone.com^
 ||cluckergifts.ecwid.com^
@@ -161,6 +163,7 @@
 ||fulfillgift.com^
 ||furoshop.com^
 ||futhem.info^
+||fveco.com^
 ||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
@@ -172,7 +175,6 @@
 ||gearstastics.com^
 ||gearver.com^
 ||gemlis.com^
-||gibbonfamily.store^
 ||giftyweb.com^
 ||gizmopage.com^
 ||gladiadormalas.com.br^
@@ -230,8 +232,8 @@
 ||kitchendecor.shop^
 ||ksvitmimay.com^
 ||kuteblanket.store^
-||kxu.myinstructus.com^
 ||ladamustore.com^
+||lakersfanshoponline.com^
 ||lamotee.com^
 ||legarralazcoz.com^
 ||lemstore.com^
@@ -429,7 +431,6 @@
 ||stingcool.com^
 ||store-aleteia.org^
 ||store25848025.company.site^
-||storeax.com^
 ||storedarkness.com^
 ||storeitsafeltd.com^
 ||storesonlineltd.com^
@@ -438,7 +439,6 @@
 ||strogame.com^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
-||sunleaftravel.com^
 ||sunsetstore.net^
 ||supercutestuff.com^
 ||superfacehoodie.com^
