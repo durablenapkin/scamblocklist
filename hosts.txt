@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1213
+# Domains: 1215
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -55,8 +55,6 @@
 0.0.0.0 anclice.com
 0.0.0.0 www.anclice.com
 0.0.0.0 animals-love.us
-0.0.0.0 www.animals-love.us
-0.0.0.0 store.animals-love.us
 0.0.0.0 animeshoppers.com
 0.0.0.0 www.animeshoppers.com
 0.0.0.0 annemus.com
@@ -183,8 +181,6 @@
 0.0.0.0 www.chipcy.com
 0.0.0.0 chipteeamz.com
 0.0.0.0 www.chipteeamz.com
-0.0.0.0 cinela.us
-0.0.0.0 www.cinela.us
 0.0.0.0 store.cinela.us
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
@@ -329,8 +325,6 @@
 0.0.0.0 www.fapst.com
 0.0.0.0 store.fapst.com
 0.0.0.0 farmer-love.us
-0.0.0.0 www.farmer-love.us
-0.0.0.0 store.farmer-love.us
 0.0.0.0 feddiy.com
 0.0.0.0 www.feddiy.com
 0.0.0.0 fement.info
@@ -380,6 +374,7 @@
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
 0.0.0.0 g1z0.myinstructus.com
+0.0.0.0 www.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
 0.0.0.0 store.gameconsoless.com
@@ -452,6 +447,9 @@
 0.0.0.0 heates.info
 0.0.0.0 www.heates.info
 0.0.0.0 store.heates.info
+0.0.0.0 helgaz.com
+0.0.0.0 www.helgaz.com
+0.0.0.0 store.helgaz.com
 0.0.0.0 helpnanacenter.helpscoutdocs.com
 0.0.0.0 www.helpnanacenter.helpscoutdocs.com
 0.0.0.0 store.helpnanacenter.helpscoutdocs.com
@@ -531,6 +529,9 @@
 0.0.0.0 store.ksvitmimay.com
 0.0.0.0 kuteblanket.store
 0.0.0.0 www.kuteblanket.store
+0.0.0.0 kxu.myinstructus.com
+0.0.0.0 www.kxu.myinstructus.com
+0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
@@ -631,7 +632,6 @@
 0.0.0.0 www.moteshoes.com
 0.0.0.0 store.moteshoes.com
 0.0.0.0 movica.us
-0.0.0.0 www.movica.us
 0.0.0.0 store.movica.us
 0.0.0.0 mualuondi.com
 0.0.0.0 www.mualuondi.com
@@ -994,6 +994,9 @@
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
+0.0.0.0 storeax.com
+0.0.0.0 www.storeax.com
+0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 store.storedarkness.com
@@ -1009,6 +1012,8 @@
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 stylegift.co.uk
 0.0.0.0 www.stylegift.co.uk
+0.0.0.0 sunleaftravel.com
+0.0.0.0 www.sunleaftravel.com
 0.0.0.0 sunsetstore.net
 0.0.0.0 www.sunsetstore.net
 0.0.0.0 supercutestuff.com
@@ -1144,6 +1149,7 @@
 0.0.0.0 www.usasport247.com
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
+0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
@@ -1207,12 +1213,8 @@
 0.0.0.0 store.youchocho.com
 0.0.0.0 youngtee.us
 0.0.0.0 www.youngtee.us
-0.0.0.0 store.youngtee.us
 0.0.0.0 zedbubble.com
 0.0.0.0 www.zedbubble.com
-0.0.0.0 zerdaliz.com
-0.0.0.0 www.zerdaliz.com
-0.0.0.0 store.zerdaliz.com
 0.0.0.0 zerowasteinitiative.com
 0.0.0.0 www.zerowasteinitiative.com
 0.0.0.0 store.zerowasteinitiative.com
