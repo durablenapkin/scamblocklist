@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1215
+# Domains: 1228
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -55,6 +55,8 @@
 0.0.0.0 anclice.com
 0.0.0.0 www.anclice.com
 0.0.0.0 animals-love.us
+0.0.0.0 www.animals-love.us
+0.0.0.0 store.animals-love.us
 0.0.0.0 animeshoppers.com
 0.0.0.0 www.animeshoppers.com
 0.0.0.0 annemus.com
@@ -157,6 +159,7 @@
 0.0.0.0 www.canjaume.com
 0.0.0.0 caperforaciones.com
 0.0.0.0 www.caperforaciones.com
+0.0.0.0 store.caperforaciones.com
 0.0.0.0 carmenfloral.com
 0.0.0.0 www.carmenfloral.com
 0.0.0.0 cartooy.com
@@ -181,6 +184,8 @@
 0.0.0.0 www.chipcy.com
 0.0.0.0 chipteeamz.com
 0.0.0.0 www.chipteeamz.com
+0.0.0.0 cinela.us
+0.0.0.0 www.cinela.us
 0.0.0.0 store.cinela.us
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
@@ -325,6 +330,8 @@
 0.0.0.0 www.fapst.com
 0.0.0.0 store.fapst.com
 0.0.0.0 farmer-love.us
+0.0.0.0 www.farmer-love.us
+0.0.0.0 store.farmer-love.us
 0.0.0.0 feddiy.com
 0.0.0.0 www.feddiy.com
 0.0.0.0 fement.info
@@ -375,6 +382,7 @@
 0.0.0.0 store.fveco.com
 0.0.0.0 g1z0.myinstructus.com
 0.0.0.0 www.g1z0.myinstructus.com
+0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
 0.0.0.0 store.gameconsoless.com
@@ -632,6 +640,7 @@
 0.0.0.0 www.moteshoes.com
 0.0.0.0 store.moteshoes.com
 0.0.0.0 movica.us
+0.0.0.0 www.movica.us
 0.0.0.0 store.movica.us
 0.0.0.0 mualuondi.com
 0.0.0.0 www.mualuondi.com
@@ -661,9 +670,6 @@
 0.0.0.0 store.myhandshops.myshopify.com
 0.0.0.0 mystitich4u.com
 0.0.0.0 www.mystitich4u.com
-0.0.0.0 nabaza.shop
-0.0.0.0 www.nabaza.shop
-0.0.0.0 store.nabaza.shop
 0.0.0.0 namemory.co.uk
 0.0.0.0 www.namemory.co.uk
 0.0.0.0 nanistores.com
@@ -687,6 +693,9 @@
 0.0.0.0 www.neozor.com
 0.0.0.0 nevaon.com
 0.0.0.0 www.nevaon.com
+0.0.0.0 newgstore.com
+0.0.0.0 www.newgstore.com
+0.0.0.0 store.newgstore.com
 0.0.0.0 nicetee.net
 0.0.0.0 www.nicetee.net
 0.0.0.0 niche3d.us
@@ -1213,8 +1222,12 @@
 0.0.0.0 store.youchocho.com
 0.0.0.0 youngtee.us
 0.0.0.0 www.youngtee.us
+0.0.0.0 store.youngtee.us
 0.0.0.0 zedbubble.com
 0.0.0.0 www.zedbubble.com
+0.0.0.0 zerdaliz.com
+0.0.0.0 www.zerdaliz.com
+0.0.0.0 store.zerdaliz.com
 0.0.0.0 zerowasteinitiative.com
 0.0.0.0 www.zerowasteinitiative.com
 0.0.0.0 store.zerowasteinitiative.com

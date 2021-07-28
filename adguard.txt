@@ -289,7 +289,6 @@
 ||myfunfarm.com^
 ||myhandshops.myshopify.com^
 ||mystitich4u.com^
-||nabaza.shop^
 ||namemory.co.uk^
 ||nanistores.com^
 ||natilove.com^
@@ -300,6 +299,7 @@
 ||nedistores.com^
 ||neozor.com^
 ||nevaon.com^
+||newgstore.com^
 ||nicetee.net^
 ||niche3d.us^
 ||nldstore.com^
@@ -533,5 +533,6 @@
 ||youchocho.com^
 ||youngtee.us^
 ||zedbubble.com^
+||zerdaliz.com^
 ||zerowasteinitiative.com^
 ||zgalaxytee.com^
