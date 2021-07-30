@@ -99,7 +99,6 @@
 ||couponxoo.com^
 ||creizeystore.com^
 ||csgoproleague.com^
-||csmoney.trade^
 ||customizerbox.com^
 ||customurink.com^
 ||dailygiftstore.com^
@@ -109,6 +108,7 @@
 ||decoryourhome.store^
 ||deergift.com^
 ||defcon7.com.br^
+||deluxdoll.com^
 ||denningwelldrilling.com^
 ||devifoodgrains.com^
 ||deytee.com^
