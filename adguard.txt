@@ -416,7 +416,6 @@
 ||sozonest.com^
 ||spnation.net^
 ||sportfamily.us^
-||sportfanvoice.com^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
 ||sportswearfanatics.com^
@@ -442,7 +441,6 @@
 ||strogame.com^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
-||sunleaftravel.com^
 ||sunsetstore.net^
 ||supercutestuff.com^
 ||superfacehoodie.com^
