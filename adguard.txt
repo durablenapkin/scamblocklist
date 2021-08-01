@@ -87,9 +87,7 @@
 ||clemoa.com^
 ||cloverszone.com^
 ||cluckergifts.ecwid.com^
-||cmoboy.com^
 ||cocumbertee.com^
-||colorandcotton.com^
 ||cookietee.com^
 ||coolestpod.com^
 ||coolztz.com^
@@ -134,6 +132,7 @@
 ||engineracing.net^
 ||envisiongear.com^
 ||esl-gaming.com^
+||eudoraz.com^
 ||evangeliostore.com^
 ||eviralstore.com^
 ||familybestgifts.com^
@@ -275,7 +274,6 @@
 ||momchip.com^
 ||monetlee.com^
 ||monkstars.com^
-||mononus.com^
 ||moteshoes.com^
 ||movica.us^
 ||mualuondi.com^
@@ -416,6 +414,7 @@
 ||sozonest.com^
 ||spnation.net^
 ||sportfamily.us^
+||sportfanvoice.com^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
 ||sportswearfanatics.com^
@@ -441,6 +440,7 @@
 ||strogame.com^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
+||sunleaftravel.com^
 ||sunsetstore.net^
 ||supercutestuff.com^
 ||superfacehoodie.com^
@@ -456,7 +456,6 @@
 ||teeboss.us^
 ||teefoody.com^
 ||teemarko.com^
-||teemax.store^
 ||teenimo.com^
 ||teesunshine.com^
 ||teezill.com^
