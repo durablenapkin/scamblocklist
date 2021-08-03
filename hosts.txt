@@ -227,6 +227,7 @@
 0.0.0.0 store.csgoproleague.com
 0.0.0.0 customizerbox.com
 0.0.0.0 www.customizerbox.com
+0.0.0.0 store.customizerbox.com
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
 0.0.0.0 dailygiftstore.com
@@ -513,8 +514,7 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 karukuri.com
-0.0.0.0 www.khoinguyenhanoi.vn
-0.0.0.0 store.khoinguyenhanoi.vn
+0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 kidsmama.online
 0.0.0.0 www.kidsmama.online
 0.0.0.0 store.kidsmama.online
