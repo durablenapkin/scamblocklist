@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1214
+# Domains: 1206
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -384,8 +384,6 @@
 0.0.0.0 www.gearathena.com
 0.0.0.0 gearclover.com
 0.0.0.0 www.gearclover.com
-0.0.0.0 gearhomies.com
-0.0.0.0 www.gearhomies.com
 0.0.0.0 gearhuman.com
 0.0.0.0 www.gearhuman.com
 0.0.0.0 gearstastic.com
@@ -431,9 +429,6 @@
 0.0.0.0 www.guccitees.com
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
-0.0.0.0 guus.store
-0.0.0.0 www.guus.store
-0.0.0.0 store.guus.store
 0.0.0.0 hairyfy.com
 0.0.0.0 www.hairyfy.com
 0.0.0.0 haowei.me
@@ -804,9 +799,6 @@
 0.0.0.0 www.printkay.com
 0.0.0.0 printteestore.com
 0.0.0.0 www.printteestore.com
-0.0.0.0 printzent.com
-0.0.0.0 www.printzent.com
-0.0.0.0 store.printzent.com
 0.0.0.0 promotebuy.com
 0.0.0.0 www.promotebuy.com
 0.0.0.0 store.promotebuy.com

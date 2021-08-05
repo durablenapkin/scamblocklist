@@ -166,7 +166,6 @@
 ||gearanime.com^
 ||gearathena.com^
 ||gearclover.com^
-||gearhomies.com^
 ||gearhuman.com^
 ||gearstastic.com^
 ||gearstastics.com^
@@ -187,7 +186,6 @@
 ||gsport.com^
 ||guccitees.com^
 ||gunstee.com^
-||guus.store^
 ||hairyfy.com^
 ||haowei.me^
 ||haruko.store^
@@ -345,7 +343,6 @@
 ||printazest.com^
 ||printkay.com^
 ||printteestore.com^
-||printzent.com^
 ||promotebuy.com^
 ||puzzlekd.com^
 ||quatangidol.com^
