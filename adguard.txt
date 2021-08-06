@@ -166,6 +166,7 @@
 ||gearanime.com^
 ||gearathena.com^
 ||gearclover.com^
+||gearhomies.com^
 ||gearhuman.com^
 ||gearstastic.com^
 ||gearstastics.com^
@@ -490,7 +491,6 @@
 ||um-bs.com^
 ||unifully.com^
 ||uniqueetee.com^
-||uniqueshirt.shop^
 ||ureashi.com^
 ||uredaka.com^
 ||usasport247.com^

@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1206
+# Domains: 1204
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -384,6 +384,8 @@
 0.0.0.0 www.gearathena.com
 0.0.0.0 gearclover.com
 0.0.0.0 www.gearclover.com
+0.0.0.0 gearhomies.com
+0.0.0.0 www.gearhomies.com
 0.0.0.0 gearhuman.com
 0.0.0.0 www.gearhuman.com
 0.0.0.0 gearstastic.com
@@ -506,7 +508,6 @@
 0.0.0.0 www.karukuri.com
 0.0.0.0 store.karukuri.com
 0.0.0.0 khoinguyenhanoi.vn
-0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kidsmama.online
 0.0.0.0 www.kidsmama.online
@@ -1126,9 +1127,6 @@
 0.0.0.0 unifully.com
 0.0.0.0 uniqueetee.com
 0.0.0.0 www.uniqueetee.com
-0.0.0.0 uniqueshirt.shop
-0.0.0.0 www.uniqueshirt.shop
-0.0.0.0 store.uniqueshirt.shop
 0.0.0.0 ureashi.com
 0.0.0.0 www.ureashi.com
 0.0.0.0 uredaka.com
