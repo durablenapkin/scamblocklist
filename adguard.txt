@@ -271,6 +271,7 @@
 ||momchip.com^
 ||monetlee.com^
 ||monkstars.com^
+||mononus.com^
 ||moteshoes.com^
 ||movica.us^
 ||mualuondi.com^
@@ -470,7 +471,6 @@
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
 ||tikgeeker.com^
-||tiranaaquapark-eg.com^
 ||tlonsey.com^
 ||tomadamsenergy.com^
 ||topsdiy.com^
