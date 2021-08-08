@@ -123,6 +123,7 @@
 ||duckydecor.store^
 ||dunjakke-no.com^
 ||easynatures.com^
+||easyshoppingus.com^
 ||elaka.lk^
 ||ellezz.com^
 ||emberio.com^
@@ -180,7 +181,6 @@
 ||glstee.com^
 ||gogiworld.com^
 ||gossvibe.com^
-||gosusport.store^
 ||gotoperfection.com^
 ||goyourheart.com^
 ||graciaszone.com^
@@ -238,7 +238,6 @@
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
 ||letteringift.com^
-||levelupstore.xyz^
 ||lifewonderland.com^
 ||ligerking.com^
 ||lillly.shop^
@@ -295,7 +294,6 @@
 ||nedistores.com^
 ||neozor.com^
 ||nevaon.com^
-||newgstore.com^
 ||nicetee.net^
 ||niche3d.us^
 ||nldstore.com^
@@ -471,6 +469,7 @@
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
 ||tikgeeker.com^
+||tiranaaquapark-eg.com^
 ||tlonsey.com^
 ||tomadamsenergy.com^
 ||topsdiy.com^
@@ -519,7 +518,6 @@
 ||wowviral.net^
 ||yeswevibe.com^
 ||yeyvibe.com^
-||yeyvibes.com^
 ||yhdshop.com^
 ||yomoun.com^
 ||youchocho.com^
