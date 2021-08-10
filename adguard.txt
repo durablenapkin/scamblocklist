@@ -16,6 +16,7 @@
 ||akarosi.com^
 ||akatee.com^
 ||aliripple.com^
+||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allergyfl.com^
 ||allstarshirt.com^
@@ -139,6 +140,7 @@
 ||familylovesgift.com^
 ||familyshark.com^
 ||familystore.com^
+||fancycentral.com^
 ||fapst.com^
 ||farmer-love.us^
 ||feddiy.com^
@@ -303,11 +305,13 @@
 ||norfotball.com^
 ||norgefotball.com^
 ||norgejakke.com^
+||norgejakkerbutikk.com^
 ||norgeshoes.com^
 ||ocelotfamily.com^
 ||odinpc.com^
 ||oflike.com^
 ||ogogear.com^
+||oldcube.com^
 ||orderquilt.com^
 ||orderstee.com^
 ||orinblanket.com^
@@ -457,13 +461,13 @@
 ||thegeekgifts.com^
 ||thehappywood.com^
 ||thekeilas.com^
-||theoceanest.com^
 ||theonepercentcommunity.com^
 ||theshiny.store^
 ||theshirtyouneed.com^
 ||thevitic.com^
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
+||tikgeeker.com^
 ||tiranaaquapark-eg.com^
 ||tlonsey.com^
 ||tomadamsenergy.com^
