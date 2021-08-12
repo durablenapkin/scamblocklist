@@ -39,7 +39,6 @@
 ||aussiesportfashion.com^
 ||azfancy.com^
 ||azitecs.com^
-||bapzy.com^
 ||baroconcept.com^
 ||beartees.pubninja.com^
 ||beaswan.com^
@@ -396,7 +395,6 @@
 ||smartgadgettrend.com^
 ||smartpower4all.org^
 ||smartproduct.site^
-||smartpurchase.website^
 ||snappystoreonline.co.za^
 ||solepersonal.com^
 ||somethingapparel.com^
