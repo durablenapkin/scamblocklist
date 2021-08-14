@@ -122,7 +122,6 @@
 ||duckydecor.store^
 ||dunjakke-no.com^
 ||easynatures.com^
-||easyshoppingus.com^
 ||elaka.lk^
 ||ellezz.com^
 ||emberio.com^
@@ -202,6 +201,7 @@
 ||hmccommerce.com^
 ||hollisternorge.com^
 ||hookahheroes.com^
+||horizonbagel.com^
 ||hugetrump.com^
 ||hunden.info^
 ||hunterbeus.com^
@@ -344,7 +344,6 @@
 ||promotebuy.com^
 ||puzzlekd.com^
 ||quatangidol.com^
-||quetzalfamily.store^
 ||quintrendy.com^
 ||rabamnetee.com^
 ||rbkbb.com^
