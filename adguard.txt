@@ -122,6 +122,7 @@
 ||duckydecor.store^
 ||dunjakke-no.com^
 ||easynatures.com^
+||easyshoppingus.com^
 ||elaka.lk^
 ||ellezz.com^
 ||emberio.com^
@@ -307,7 +308,6 @@
 ||norgejakkerbutikk.com^
 ||norgeshoes.com^
 ||odinpc.com^
-||oflike.com^
 ||ogogear.com^
 ||oldcube.com^
 ||orderquilt.com^
