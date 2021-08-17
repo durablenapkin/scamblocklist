@@ -122,7 +122,6 @@
 ||duckydecor.store^
 ||dunjakke-no.com^
 ||easynatures.com^
-||easyshoppingus.com^
 ||elaka.lk^
 ||ellezz.com^
 ||emberio.com^
@@ -488,7 +487,6 @@
 ||ureashi.com^
 ||uredaka.com^
 ||usasport247.com^
-||ushiro.org^
 ||uuc.joyofprogress.com^
 ||vatini.net^
 ||vavaname.com^
@@ -499,7 +497,6 @@
 ||vikingstore.co^
 ||violayvonne.com^
 ||vipticketgiveaway.com^
-||warm-gifts.com^
 ||wavetshirt.com^
 ||wdamp.info^
 ||weheartitstore.com^
