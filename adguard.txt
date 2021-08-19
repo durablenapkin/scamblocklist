@@ -203,7 +203,6 @@
 ||hookahheroes.com^
 ||horizonbagel.com^
 ||hugetrump.com^
-||hunden.info^
 ||hunterbeus.com^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
@@ -343,6 +342,7 @@
 ||printteestore.com^
 ||promotebuy.com^
 ||puzzlekd.com^
+||qooraa.com^
 ||quatangidol.com^
 ||quintrendy.com^
 ||rabamnetee.com^
