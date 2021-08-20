@@ -62,7 +62,6 @@
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
 ||breepa.com^
-||buckeyesstore.online^
 ||buddhakind.com^
 ||burgershirt.com^
 ||buzzazone.com^
@@ -145,15 +144,12 @@
 ||feddiy.com^
 ||fement.info^
 ||findglocal.com^
-||firest.info^
 ||fishingdaily.shop^
 ||fishinglovely.com^
-||fivent.info^
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
 ||freser.info^
-||frest.info^
 ||friday89.com^
 ||friday99.com^
 ||fruitstee.com^
@@ -190,7 +186,6 @@
 ||haruko.store^
 ||hazayla.com^
 ||hbofunkoshop.com^
-||heates.info^
 ||helgaz.com^
 ||helpnanacenter.helpscoutdocs.com^
 ||hermanistore.com^
@@ -219,7 +214,6 @@
 ||joseph-holland.com^
 ||karukuri.com^
 ||khoinguyenhanoi.vn^
-||kidsmama.online^
 ||kigurumi-usa.com^
 ||killtee.com^
 ||kindapod.com^
@@ -273,7 +267,6 @@
 ||movica.us^
 ||mualuondi.com^
 ||muddyking.com^
-||muscleforlive.online^
 ||museuw.com^
 ||muthaafoundation.org^
 ||muzesen.info^
@@ -331,7 +324,6 @@
 ||pjs.outlet.com^
 ||plutostars.com^
 ||popeurope.com^
-||poppop.online^
 ||poravoda.com^
 ||potterheads.co^
 ||preciouscutesy.com^
@@ -363,7 +355,6 @@
 ||rosateeshop.com^
 ||rovedy.com^
 ||royaldecorhome.store^
-||rsaonlinenow.com.au^
 ||saligoo.com^
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
@@ -477,7 +468,6 @@
 ||treverschmelerkris18.myshopify.com^
 ||tromselementbygg.no^
 ||tulumwellnessacademy.com^
-||twoter.info^
 ||tycomex.com^
 ||u.umax-pro.ru^
 ||ultimate-tech-products.myshopify.com^
@@ -500,11 +490,9 @@
 ||violayvonne.com^
 ||vipticketgiveaway.com^
 ||wavetshirt.com^
-||wdamp.info^
 ||weheartitstore.com^
 ||wezpod.com^
 ||whbinder.com^
-||wichky.info^
 ||wikeb.com^
 ||windbellstore.com^
 ||woadoodles.com^
@@ -514,9 +502,7 @@
 ||yeyvibe.com^
 ||yhdshop.com^
 ||yomoun.com^
-||youchocho.com^
 ||youngtee.us^
 ||zedbubble.com^
-||zerdaliz.com^
 ||zerowasteinitiative.com^
 ||zgalaxytee.com^
