@@ -79,7 +79,6 @@
 ||chipteeamz.com^
 ||cinela.us^
 ||cipustar.com^
-||cition.info^
 ||classicraftdesign.com^
 ||clemoa.com^
 ||cloverszone.com^
@@ -210,6 +209,7 @@
 ||jakkesalgs.com^
 ||jakkesnorge.com^
 ||januashop.com^
+||jellystores.com^
 ||jollyfamilygifts.net^
 ||joseph-holland.com^
 ||karukuri.com^
@@ -229,7 +229,6 @@
 ||lemstore.com^
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
-||letteringift.com^
 ||lifewonderland.com^
 ||ligerking.com^
 ||lillly.shop^
@@ -358,8 +357,6 @@
 ||saligoo.com^
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
-||sbeat.info^
-||scanoe.info^
 ||seagulltee.com^
 ||sedark.com^
 ||sentees.com^
