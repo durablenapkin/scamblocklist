@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1135
+# Domains: 1102
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -117,9 +117,6 @@
 0.0.0.0 billigesalg.com
 0.0.0.0 www.billigesalg.com
 0.0.0.0 store.billigesalg.com
-0.0.0.0 bioty.info
-0.0.0.0 www.bioty.info
-0.0.0.0 store.bioty.info
 0.0.0.0 bknstore.com
 0.0.0.0 www.bknstore.com
 0.0.0.0 blingyy.com
@@ -200,9 +197,6 @@
 0.0.0.0 www.coolestpod.com
 0.0.0.0 coolztz.com
 0.0.0.0 www.coolztz.com
-0.0.0.0 cordou.info
-0.0.0.0 www.cordou.info
-0.0.0.0 store.cordou.info
 0.0.0.0 corg.co
 0.0.0.0 www.corg.co
 0.0.0.0 costcotee.com
@@ -252,9 +246,6 @@
 0.0.0.0 www.dogparadiseshop.com
 0.0.0.0 dogparadisestore.com
 0.0.0.0 www.dogparadisestore.com
-0.0.0.0 doint.info
-0.0.0.0 www.doint.info
-0.0.0.0 store.doint.info
 0.0.0.0 dolystore.com
 0.0.0.0 www.dolystore.com
 0.0.0.0 donttreadonmeshop.com
@@ -320,16 +311,10 @@
 0.0.0.0 store.farmer-love.us
 0.0.0.0 feddiy.com
 0.0.0.0 www.feddiy.com
-0.0.0.0 fement.info
-0.0.0.0 www.fement.info
-0.0.0.0 store.fement.info
 0.0.0.0 findglocal.com
 0.0.0.0 www.findglocal.com
 0.0.0.0 fishingdaily.shop
 0.0.0.0 www.fishingdaily.shop
-0.0.0.0 fishinglovely.com
-0.0.0.0 www.fishinglovely.com
-0.0.0.0 store.fishinglovely.com
 0.0.0.0 flattee.com
 0.0.0.0 www.flattee.com
 0.0.0.0 foryourdears.com
@@ -337,9 +322,6 @@
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
-0.0.0.0 freser.info
-0.0.0.0 www.freser.info
-0.0.0.0 store.freser.info
 0.0.0.0 friday89.com
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
@@ -351,9 +333,6 @@
 0.0.0.0 furoshop.com
 0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
-0.0.0.0 futhem.info
-0.0.0.0 www.futhem.info
-0.0.0.0 store.futhem.info
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
@@ -387,9 +366,6 @@
 0.0.0.0 www.gizmopage.com
 0.0.0.0 gladiadormalas.com.br
 0.0.0.0 www.gladiadormalas.com.br
-0.0.0.0 gload.info
-0.0.0.0 www.gload.info
-0.0.0.0 store.gload.info
 0.0.0.0 glstee.com
 0.0.0.0 www.glstee.com
 0.0.0.0 gogiworld.com
@@ -781,9 +757,6 @@
 0.0.0.0 www.reanimando.org
 0.0.0.0 rebeccatees.com
 0.0.0.0 www.rebeccatees.com
-0.0.0.0 recade.info
-0.0.0.0 www.recade.info
-0.0.0.0 store.recade.info
 0.0.0.0 redchristmaswine.com
 0.0.0.0 www.redchristmaswine.com
 0.0.0.0 reforest-iita.org
@@ -882,9 +855,6 @@
 0.0.0.0 somethingapparel.com
 0.0.0.0 www.somethingapparel.com
 0.0.0.0 store.somethingapparel.com
-0.0.0.0 soonet.info
-0.0.0.0 www.soonet.info
-0.0.0.0 store.soonet.info
 0.0.0.0 souhoney.com
 0.0.0.0 www.souhoney.com
 0.0.0.0 store.souhoney.com
@@ -916,9 +886,6 @@
 0.0.0.0 www.sportyprinty.com
 0.0.0.0 spreadstores.com
 0.0.0.0 www.spreadstores.com
-0.0.0.0 squest.info
-0.0.0.0 www.squest.info
-0.0.0.0 store.squest.info
 0.0.0.0 startjacket.com
 0.0.0.0 www.startjacket.com
 0.0.0.0 startuplatte.com
