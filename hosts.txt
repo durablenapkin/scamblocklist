@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1102
+# Domains: 1100
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -141,8 +141,6 @@
 0.0.0.0 www.breepa.com
 0.0.0.0 store.breepa.com
 0.0.0.0 buddhakind.com
-0.0.0.0 burgershirt.com
-0.0.0.0 www.burgershirt.com
 0.0.0.0 buzzazone.com
 0.0.0.0 www.buzzazone.com
 0.0.0.0 candlesbymadison.com
