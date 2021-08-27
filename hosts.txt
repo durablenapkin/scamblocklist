@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1100
+# Domains: 1082
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -31,9 +31,6 @@
 0.0.0.0 www.akarosi.com
 0.0.0.0 akatee.com
 0.0.0.0 www.akatee.com
-0.0.0.0 aliripple.com
-0.0.0.0 www.aliripple.com
-0.0.0.0 store.aliripple.com
 0.0.0.0 aliseshop.com
 0.0.0.0 www.aliseshop.com
 0.0.0.0 store.aliseshop.com
@@ -131,9 +128,6 @@
 0.0.0.0 www.booliving.com
 0.0.0.0 bossaving.com
 0.0.0.0 www.bossaving.com
-0.0.0.0 bostongrnhsflowers.com
-0.0.0.0 www.bostongrnhsflowers.com
-0.0.0.0 store.bostongrnhsflowers.com
 0.0.0.0 boutiqueondemand.com
 0.0.0.0 bradcroninnapo82.myshopify.com
 0.0.0.0 www.bradcroninnapo82.myshopify.com
@@ -151,8 +145,6 @@
 0.0.0.0 canjaume.com
 0.0.0.0 www.canjaume.com
 0.0.0.0 caperforaciones.com
-0.0.0.0 www.caperforaciones.com
-0.0.0.0 store.caperforaciones.com
 0.0.0.0 carmenfloral.com
 0.0.0.0 www.carmenfloral.com
 0.0.0.0 cartooy.com
@@ -310,6 +302,9 @@
 0.0.0.0 farmer-love.us
 0.0.0.0 www.farmer-love.us
 0.0.0.0 store.farmer-love.us
+0.0.0.0 fasinal.com
+0.0.0.0 www.fasinal.com
+0.0.0.0 store.fasinal.com
 0.0.0.0 feddiy.com
 0.0.0.0 www.feddiy.com
 0.0.0.0 findglocal.com
@@ -337,8 +332,6 @@
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
-0.0.0.0 g1z0.myinstructus.com
-0.0.0.0 www.g1z0.myinstructus.com
 0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
@@ -480,8 +473,6 @@
 0.0.0.0 kuteblanket.store
 0.0.0.0 www.kuteblanket.store
 0.0.0.0 kxu.myinstructus.com
-0.0.0.0 www.kxu.myinstructus.com
-0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
@@ -677,9 +668,6 @@
 0.0.0.0 www.owlala.com
 0.0.0.0 pandzee.com
 0.0.0.0 www.pandzee.com
-0.0.0.0 parajumpers-salg.com
-0.0.0.0 www.parajumpers-salg.com
-0.0.0.0 store.parajumpers-salg.com
 0.0.0.0 parajumpersitoutlet.com
 0.0.0.0 www.parajumpersitoutlet.com
 0.0.0.0 parajumpersnettbutikk.com
@@ -718,9 +706,6 @@
 0.0.0.0 popeurope.com
 0.0.0.0 www.popeurope.com
 0.0.0.0 store.popeurope.com
-0.0.0.0 poravoda.com
-0.0.0.0 www.poravoda.com
-0.0.0.0 store.poravoda.com
 0.0.0.0 potterheads.co
 0.0.0.0 www.potterheads.co
 0.0.0.0 store.potterheads.co
@@ -868,9 +853,6 @@
 0.0.0.0 sportfamily.us
 0.0.0.0 www.sportfamily.us
 0.0.0.0 store.sportfamily.us
-0.0.0.0 sportfanvoice.com
-0.0.0.0 www.sportfanvoice.com
-0.0.0.0 store.sportfanvoice.com
 0.0.0.0 sportfirestore.com
 0.0.0.0 www.sportfirestore.com
 0.0.0.0 sportsapparelmarket.com
