@@ -27,7 +27,6 @@
 ||animals-love.us^
 ||animeshoppers.com^
 ||annemus.com^
-||aozeala.com^
 ||apvoc-ga.com^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -55,7 +54,6 @@
 ||blingyy.com^
 ||bltskins.com^
 ||boobeeshop.com^
-||booliving.com^
 ||bossaving.com^
 ||bostongrnhsflowers.com^
 ||boutiqueondemand.com^
@@ -100,7 +98,6 @@
 ||decoryourhome.store^
 ||deergift.com^
 ||defcon7.com.br^
-||deluxdoll.com^
 ||denningwelldrilling.com^
 ||devifoodgrains.com^
 ||deytee.com^
@@ -125,7 +122,6 @@
 ||engineracing.net^
 ||envisiongear.com^
 ||esl-gaming.com^
-||eudoraz.com^
 ||evangeliostore.com^
 ||eviralstore.com^
 ||familybestgifts.com^
@@ -380,7 +376,6 @@
 ||southpark-fan.com^
 ||sozonest.com^
 ||spnation.net^
-||sportfamily.us^
 ||sportfanvoice.com^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
