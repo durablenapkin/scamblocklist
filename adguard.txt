@@ -27,6 +27,7 @@
 ||animals-love.us^
 ||animeshoppers.com^
 ||annemus.com^
+||aozeala.com^
 ||apvoc-ga.com^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -98,6 +99,7 @@
 ||decoryourhome.store^
 ||deergift.com^
 ||defcon7.com.br^
+||deluxdoll.com^
 ||denningwelldrilling.com^
 ||devifoodgrains.com^
 ||deytee.com^
@@ -116,12 +118,12 @@
 ||easynatures.com^
 ||easyshoppingus.com^
 ||elaka.lk^
-||ellezz.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
 ||engineracing.net^
 ||envisiongear.com^
 ||esl-gaming.com^
+||eudoraz.com^
 ||evangeliostore.com^
 ||eviralstore.com^
 ||familybestgifts.com^
@@ -285,9 +287,7 @@
 ||norgejakkerbutikk.com^
 ||norgeshoes.com^
 ||odinpc.com^
-||oflike.com^
 ||ogogear.com^
-||oldcube.com^
 ||orderquilt.com^
 ||orderstee.com^
 ||orinblanket.com^

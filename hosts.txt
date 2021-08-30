@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1075
+# Domains: 1074
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -34,9 +34,7 @@
 0.0.0.0 aliripple.com
 0.0.0.0 www.aliripple.com
 0.0.0.0 store.aliripple.com
-0.0.0.0 aliseshop.com
 0.0.0.0 www.aliseshop.com
-0.0.0.0 store.aliseshop.com
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 www.aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 store.aliyaoberbrunnergreg21.myshopify.com
@@ -62,6 +60,9 @@
 0.0.0.0 annemus.com
 0.0.0.0 www.annemus.com
 0.0.0.0 store.annemus.com
+0.0.0.0 aozeala.com
+0.0.0.0 www.aozeala.com
+0.0.0.0 store.aozeala.com
 0.0.0.0 apvoc-ga.com
 0.0.0.0 www.apvoc-ga.com
 0.0.0.0 store.apvoc-ga.com
@@ -86,7 +87,9 @@
 0.0.0.0 www.aussiesportfashion.com
 0.0.0.0 azfancy.com
 0.0.0.0 www.azfancy.com
+0.0.0.0 azitecs.com
 0.0.0.0 www.azitecs.com
+0.0.0.0 store.azitecs.com
 0.0.0.0 baroconcept.com
 0.0.0.0 www.baroconcept.com
 0.0.0.0 beartees.pubninja.com
@@ -134,6 +137,8 @@
 0.0.0.0 breakshirts.com
 0.0.0.0 www.breakshirts.com
 0.0.0.0 breepa.com
+0.0.0.0 www.breepa.com
+0.0.0.0 store.breepa.com
 0.0.0.0 buddhakind.com
 0.0.0.0 buzzazone.com
 0.0.0.0 www.buzzazone.com
@@ -172,6 +177,7 @@
 0.0.0.0 www.cipustar.com
 0.0.0.0 classicraftdesign.com
 0.0.0.0 www.classicraftdesign.com
+0.0.0.0 store.classicraftdesign.com
 0.0.0.0 clemoa.com
 0.0.0.0 www.clemoa.com
 0.0.0.0 store.clemoa.com
@@ -219,6 +225,9 @@
 0.0.0.0 www.deergift.com
 0.0.0.0 defcon7.com.br
 0.0.0.0 www.defcon7.com.br
+0.0.0.0 deluxdoll.com
+0.0.0.0 www.deluxdoll.com
+0.0.0.0 store.deluxdoll.com
 0.0.0.0 denningwelldrilling.com
 0.0.0.0 www.denningwelldrilling.com
 0.0.0.0 store.denningwelldrilling.com
@@ -253,9 +262,6 @@
 0.0.0.0 www.easyshoppingus.com
 0.0.0.0 elaka.lk
 0.0.0.0 www.elaka.lk
-0.0.0.0 ellezz.com
-0.0.0.0 www.ellezz.com
-0.0.0.0 store.ellezz.com
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 store.emberio.com
@@ -268,6 +274,9 @@
 0.0.0.0 www.envisiongear.com
 0.0.0.0 esl-gaming.com
 0.0.0.0 www.esl-gaming.com
+0.0.0.0 eudoraz.com
+0.0.0.0 www.eudoraz.com
+0.0.0.0 store.eudoraz.com
 0.0.0.0 evangeliostore.com
 0.0.0.0 www.evangeliostore.com
 0.0.0.0 eviralstore.com
@@ -285,8 +294,6 @@
 0.0.0.0 www.familyshark.com
 0.0.0.0 familystore.com
 0.0.0.0 www.familystore.com
-0.0.0.0 fancycentral.com
-0.0.0.0 www.fancycentral.com
 0.0.0.0 store.fancycentral.com
 0.0.0.0 fapst.com
 0.0.0.0 www.fapst.com
@@ -321,6 +328,8 @@
 0.0.0.0 furoshop.com
 0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
+0.0.0.0 fveco.com
+0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
 0.0.0.0 g1z0.myinstructus.com
 0.0.0.0 www.g1z0.myinstructus.com
@@ -362,8 +371,6 @@
 0.0.0.0 gotoperfection.com
 0.0.0.0 www.gotoperfection.com
 0.0.0.0 goyourheart.com
-0.0.0.0 www.goyourheart.com
-0.0.0.0 store.goyourheart.com
 0.0.0.0 graciaszone.com
 0.0.0.0 www.graciaszone.com
 0.0.0.0 gsport.com
@@ -404,6 +411,8 @@
 0.0.0.0 www.hollisternorge.com
 0.0.0.0 store.hollisternorge.com
 0.0.0.0 hookahheroes.com
+0.0.0.0 www.hookahheroes.com
+0.0.0.0 store.hookahheroes.com
 0.0.0.0 horizonbagel.com
 0.0.0.0 www.horizonbagel.com
 0.0.0.0 hugetrump.com
@@ -434,7 +443,6 @@
 0.0.0.0 www.januashop.com
 0.0.0.0 jellystores.com
 0.0.0.0 www.jellystores.com
-0.0.0.0 store.jellystores.com
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 joseph-holland.com
@@ -466,6 +474,7 @@
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
 0.0.0.0 www.lakersfanshoponline.com
+0.0.0.0 store.lakersfanshoponline.com
 0.0.0.0 lamotee.com
 0.0.0.0 www.lamotee.com
 0.0.0.0 legarralazcoz.com
@@ -635,14 +644,8 @@
 0.0.0.0 store.norgeshoes.com
 0.0.0.0 odinpc.com
 0.0.0.0 www.odinpc.com
-0.0.0.0 oflike.com
-0.0.0.0 www.oflike.com
-0.0.0.0 store.oflike.com
 0.0.0.0 ogogear.com
 0.0.0.0 www.ogogear.com
-0.0.0.0 oldcube.com
-0.0.0.0 www.oldcube.com
-0.0.0.0 store.oldcube.com
 0.0.0.0 orderquilt.com
 0.0.0.0 www.orderquilt.com
 0.0.0.0 orderstee.com
@@ -885,8 +888,6 @@
 0.0.0.0 www.storeax.com
 0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
-0.0.0.0 www.storedarkness.com
-0.0.0.0 store.storedarkness.com
 0.0.0.0 storeitsafeltd.com
 0.0.0.0 storesonlineltd.com
 0.0.0.0 storesp.com
@@ -972,8 +973,6 @@
 0.0.0.0 ti-yo.com
 0.0.0.0 www.ti-yo.com
 0.0.0.0 tikgeeker.com
-0.0.0.0 www.tikgeeker.com
-0.0.0.0 store.tikgeeker.com
 0.0.0.0 tiranaaquapark-eg.com
 0.0.0.0 www.tiranaaquapark-eg.com
 0.0.0.0 store.tiranaaquapark-eg.com
