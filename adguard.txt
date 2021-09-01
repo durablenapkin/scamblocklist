@@ -76,7 +76,6 @@
 ||chipteeamz.com^
 ||cinela.us^
 ||cipustar.com^
-||classicraftdesign.com^
 ||clemoa.com^
 ||cloverszone.com^
 ||cluckergifts.ecwid.com^
@@ -121,6 +120,7 @@
 ||engineracing.net^
 ||envisiongear.com^
 ||esl-gaming.com^
+||eudoraz.com^
 ||evangeliostore.com^
 ||eviralstore.com^
 ||familybestgifts.com^
@@ -132,7 +132,6 @@
 ||fancycentral.com^
 ||fapst.com^
 ||farmer-love.us^
-||fasinal.com^
 ||feddiy.com^
 ||findglocal.com^
 ||fishingdaily.shop^
@@ -144,7 +143,6 @@
 ||fruitstee.com^
 ||fulfillgift.com^
 ||furoshop.com^
-||fveco.com^
 ||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
@@ -259,6 +257,7 @@
 ||myfunfarm.com^
 ||myhandshops.myshopify.com^
 ||mystitich4u.com^
+||nabaza.shop^
 ||namemory.co.uk^
 ||nanistores.com^
 ||natilove.com^
@@ -294,6 +293,7 @@
 ||pandzee.com^
 ||parajumpers-salg.com^
 ||parajumpersitoutlet.com^
+||parajumpersnettbutikk.com^
 ||parajumpersnorway.com^
 ||parajumperssalg.com^
 ||peace-love.us^
@@ -327,6 +327,7 @@
 ||redchristmaswine.com^
 ||reforest-iita.org^
 ||reviewshirts.com^
+||rickamortyshop.com^
 ||rincandy.com^
 ||ringtoperfection.com^
 ||rjgriffith.com^
@@ -349,7 +350,6 @@
 ||shop.spreadshirt.com^
 ||shopafricalimited.com^
 ||shopusawarehouse.com^
-||sieuto.com^
 ||sigmaoffers.com^
 ||signpify.com^
 ||silverlanetrading.com^
@@ -404,6 +404,7 @@
 ||supperbrand.company.site^
 ||surprisesandgifts.com^
 ||survivalcatsupply.com^
+||swellsup.com^
 ||tadarick.com^
 ||tartannewzealand.myshopify.com^
 ||tartanz.co^
@@ -412,6 +413,7 @@
 ||teearrow.com^
 ||teeboss.us^
 ||teefoody.com^
+||teemarko.com^
 ||teenimo.com^
 ||teesunshine.com^
 ||teezill.com^
@@ -445,7 +447,6 @@
 ||tycomex.com^
 ||u.umax-pro.ru^
 ||ultimate-tech-products.myshopify.com^
-||ultraboxlab.com^
 ||um-bs.com^
 ||unifully.com^
 ||uniqueetee.com^
