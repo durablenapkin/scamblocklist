@@ -27,7 +27,7 @@
 ||animals-love.us^
 ||animeshoppers.com^
 ||annemus.com^
-||aozeala.com^
+||aoptee.com^
 ||apvoc-ga.com^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -38,7 +38,6 @@
 ||attenstyle.com^
 ||aussiesportfashion.com^
 ||azfancy.com^
-||azitecs.com^
 ||baroconcept.com^
 ||beartees.pubninja.com^
 ||beaswan.com^
@@ -71,11 +70,13 @@
 ||charmbean.com^
 ||charmsection.com^
 ||charpente-ramel.com^
+||cherryzones.com^
 ||chikepod.com^
 ||chipcy.com^
 ||chipteeamz.com^
 ||cinela.us^
 ||cipustar.com^
+||classicraftdesign.com^
 ||clemoa.com^
 ||cloverszone.com^
 ||cluckergifts.ecwid.com^
@@ -120,7 +121,6 @@
 ||engineracing.net^
 ||envisiongear.com^
 ||esl-gaming.com^
-||eudoraz.com^
 ||evangeliostore.com^
 ||eviralstore.com^
 ||familybestgifts.com^
@@ -143,6 +143,7 @@
 ||fruitstee.com^
 ||fulfillgift.com^
 ||furoshop.com^
+||fveco.com^
 ||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
@@ -343,6 +344,7 @@
 ||sedark.com^
 ||sentees.com^
 ||shinepuzzle.com^
+||shinezily.com^
 ||shirtforfan.com^
 ||shirttest.com^
 ||shirtwide.com^
@@ -354,7 +356,6 @@
 ||signpify.com^
 ||silverlanetrading.com^
 ||skincheap.com^
-||skins-store.net^
 ||skinsplanet.net^
 ||skinszone.net^
 ||skonmdnorge.com^
@@ -431,7 +432,6 @@
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
 ||tikgeeker.com^
-||tiranaaquapark-eg.com^
 ||tlonsey.com^
 ||tomadamsenergy.com^
 ||topsdiy.com^
@@ -447,6 +447,7 @@
 ||tycomex.com^
 ||u.umax-pro.ru^
 ||ultimate-tech-products.myshopify.com^
+||ultraboxlab.com^
 ||um-bs.com^
 ||unifully.com^
 ||uniqueetee.com^
