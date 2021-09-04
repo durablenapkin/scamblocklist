@@ -229,7 +229,6 @@
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
 0.0.0.0 defcon7.com.br
-0.0.0.0 www.defcon7.com.br
 0.0.0.0 deluxdoll.com
 0.0.0.0 www.deluxdoll.com
 0.0.0.0 store.deluxdoll.com
@@ -944,7 +943,6 @@
 0.0.0.0 teearrow.com
 0.0.0.0 www.teearrow.com
 0.0.0.0 teeboss.us
-0.0.0.0 www.teeboss.us
 0.0.0.0 teefoody.com
 0.0.0.0 www.teefoody.com
 0.0.0.0 teemarko.com
@@ -1039,6 +1037,8 @@
 0.0.0.0 www.uredaka.com
 0.0.0.0 usasport247.com
 0.0.0.0 www.usasport247.com
+0.0.0.0 ushiro.org
+0.0.0.0 www.ushiro.org
 0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
