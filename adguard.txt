@@ -254,7 +254,6 @@
 ||mononus.com^
 ||moteshoes.com^
 ||movica.us^
-||mualuondi.com^
 ||muddyking.com^
 ||museuw.com^
 ||muthaafoundation.org^
@@ -416,7 +415,6 @@
 ||tee24h.com^
 ||teearrow.com^
 ||teefoody.com^
-||teemarko.com^
 ||teenimo.com^
 ||teesunshine.com^
 ||teezill.com^
@@ -450,7 +448,6 @@
 ||tycomex.com^
 ||u.umax-pro.ru^
 ||ultimate-tech-products.myshopify.com^
-||ultraboxlab.com^
 ||um-bs.com^
 ||unifully.com^
 ||uniqueetee.com^

@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1088
+# Domains: 1081
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -484,6 +484,7 @@
 0.0.0.0 store.lakersfanshoponline.com
 0.0.0.0 lamotee.com
 0.0.0.0 www.lamotee.com
+0.0.0.0 store.lamotee.com
 0.0.0.0 legarralazcoz.com
 0.0.0.0 www.legarralazcoz.com
 0.0.0.0 store.legarralazcoz.com
@@ -573,9 +574,6 @@
 0.0.0.0 movica.us
 0.0.0.0 www.movica.us
 0.0.0.0 store.movica.us
-0.0.0.0 mualuondi.com
-0.0.0.0 www.mualuondi.com
-0.0.0.0 store.mualuondi.com
 0.0.0.0 muddyking.com
 0.0.0.0 www.muddyking.com
 0.0.0.0 museuw.com
@@ -599,6 +597,7 @@
 0.0.0.0 www.nabaza.shop
 0.0.0.0 namemory.co.uk
 0.0.0.0 www.namemory.co.uk
+0.0.0.0 store.namemory.co.uk
 0.0.0.0 nanistores.com
 0.0.0.0 www.nanistores.com
 0.0.0.0 natilove.com
@@ -943,9 +942,6 @@
 0.0.0.0 www.teearrow.com
 0.0.0.0 teefoody.com
 0.0.0.0 www.teefoody.com
-0.0.0.0 teemarko.com
-0.0.0.0 www.teemarko.com
-0.0.0.0 store.teemarko.com
 0.0.0.0 teenimo.com
 0.0.0.0 www.teenimo.com
 0.0.0.0 teesunshine.com
@@ -1020,9 +1016,6 @@
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 www.ultimate-tech-products.myshopify.com
 0.0.0.0 store.ultimate-tech-products.myshopify.com
-0.0.0.0 ultraboxlab.com
-0.0.0.0 www.ultraboxlab.com
-0.0.0.0 store.ultraboxlab.com
 0.0.0.0 um-bs.com
 0.0.0.0 www.um-bs.com
 0.0.0.0 store.um-bs.com
