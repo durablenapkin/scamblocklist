@@ -27,7 +27,6 @@
 ||animals-love.us^
 ||animeshoppers.com^
 ||annemus.com^
-||aoptee.com^
 ||aozeala.com^
 ||apvoc-ga.com^
 ||army-shop.onshopbase.com^
@@ -66,7 +65,6 @@
 ||buzzazone.com^
 ||candlesbymadison.com^
 ||canjaume.com^
-||caperforaciones.com^
 ||carmenfloral.com^
 ||cartooy.com^
 ||carvemyname.com^
@@ -83,6 +81,7 @@
 ||clemoa.com^
 ||cloverszone.com^
 ||cluckergifts.ecwid.com^
+||cmoboy.com^
 ||cocumbertee.com^
 ||cookietee.com^
 ||coolestpod.com^
@@ -149,7 +148,6 @@
 ||fulfillgift.com^
 ||furoshop.com^
 ||fveco.com^
-||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
 ||gearathena.com^
@@ -211,7 +209,6 @@
 ||kitchendecor.shop^
 ||ksvitmimay.com^
 ||kuteblanket.store^
-||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||lamotee.com^
@@ -240,7 +237,6 @@
 ||luxsgear.com^
 ||luzyfran.com^
 ||magnasat.com^
-||mangacos.com^
 ||marleytecnologica.com^
 ||mbtnorge.com^
 ||meaningift.com^
@@ -415,6 +411,7 @@
 ||tee24h.com^
 ||teearrow.com^
 ||teefoody.com^
+||teemarko.com^
 ||teenimo.com^
 ||teesunshine.com^
 ||teezill.com^
@@ -448,6 +445,7 @@
 ||tycomex.com^
 ||u.umax-pro.ru^
 ||ultimate-tech-products.myshopify.com^
+||ultraboxlab.com^
 ||um-bs.com^
 ||unifully.com^
 ||uniqueetee.com^
@@ -455,7 +453,6 @@
 ||uredaka.com^
 ||usasport247.com^
 ||ushiro.org^
-||uuc.joyofprogress.com^
 ||vatini.net^
 ||vavaname.com^
 ||vegamartz.com^

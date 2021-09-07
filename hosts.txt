@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1081
+# Domains: 1070
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -62,9 +62,6 @@
 0.0.0.0 annemus.com
 0.0.0.0 www.annemus.com
 0.0.0.0 store.annemus.com
-0.0.0.0 aoptee.com
-0.0.0.0 www.aoptee.com
-0.0.0.0 store.aoptee.com
 0.0.0.0 aozeala.com
 0.0.0.0 www.aozeala.com
 0.0.0.0 store.aozeala.com
@@ -151,9 +148,6 @@
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 canjaume.com
 0.0.0.0 www.canjaume.com
-0.0.0.0 caperforaciones.com
-0.0.0.0 www.caperforaciones.com
-0.0.0.0 store.caperforaciones.com
 0.0.0.0 carmenfloral.com
 0.0.0.0 www.carmenfloral.com
 0.0.0.0 cartooy.com
@@ -194,6 +188,9 @@
 0.0.0.0 cluckergifts.ecwid.com
 0.0.0.0 www.cluckergifts.ecwid.com
 0.0.0.0 store.cluckergifts.ecwid.com
+0.0.0.0 cmoboy.com
+0.0.0.0 www.cmoboy.com
+0.0.0.0 store.cmoboy.com
 0.0.0.0 cocumbertee.com
 0.0.0.0 www.cocumbertee.com
 0.0.0.0 cookietee.com
@@ -338,9 +335,6 @@
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
-0.0.0.0 g1z0.myinstructus.com
-0.0.0.0 www.g1z0.myinstructus.com
-0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
 0.0.0.0 store.gameconsoless.com
@@ -474,9 +468,6 @@
 0.0.0.0 store.ksvitmimay.com
 0.0.0.0 kuteblanket.store
 0.0.0.0 www.kuteblanket.store
-0.0.0.0 kxu.myinstructus.com
-0.0.0.0 www.kxu.myinstructus.com
-0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
@@ -540,9 +531,6 @@
 0.0.0.0 www.luzyfran.com
 0.0.0.0 magnasat.com
 0.0.0.0 www.magnasat.com
-0.0.0.0 mangacos.com
-0.0.0.0 www.mangacos.com
-0.0.0.0 store.mangacos.com
 0.0.0.0 marleytecnologica.com
 0.0.0.0 www.marleytecnologica.com
 0.0.0.0 mbtnorge.com
@@ -890,8 +878,6 @@
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
-0.0.0.0 storeax.com
-0.0.0.0 www.storeax.com
 0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
@@ -942,6 +928,9 @@
 0.0.0.0 www.teearrow.com
 0.0.0.0 teefoody.com
 0.0.0.0 www.teefoody.com
+0.0.0.0 teemarko.com
+0.0.0.0 www.teemarko.com
+0.0.0.0 store.teemarko.com
 0.0.0.0 teenimo.com
 0.0.0.0 www.teenimo.com
 0.0.0.0 teesunshine.com
@@ -1016,6 +1005,9 @@
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 www.ultimate-tech-products.myshopify.com
 0.0.0.0 store.ultimate-tech-products.myshopify.com
+0.0.0.0 ultraboxlab.com
+0.0.0.0 www.ultraboxlab.com
+0.0.0.0 store.ultraboxlab.com
 0.0.0.0 um-bs.com
 0.0.0.0 www.um-bs.com
 0.0.0.0 store.um-bs.com
@@ -1030,9 +1022,6 @@
 0.0.0.0 www.usasport247.com
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
-0.0.0.0 uuc.joyofprogress.com
-0.0.0.0 www.uuc.joyofprogress.com
-0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 vavaname.com
