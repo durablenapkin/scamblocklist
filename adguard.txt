@@ -170,6 +170,7 @@
 ||gsport.com^
 ||guccitees.com^
 ||gunstee.com^
+||guus.store^
 ||hairyfy.com^
 ||haowei.me^
 ||haruko.store^
@@ -227,7 +228,6 @@
 ||lisabuddy.com^
 ||litcomplex.com^
 ||lomipod.com^
-||long.tartanz.co^
 ||look-like-star.myshopify.com^
 ||lookinmylove.com^
 ||lootcrate.com^
@@ -295,6 +295,7 @@
 ||owlala.com^
 ||pandzee.com^
 ||parajumpers-salg.com^
+||parajumpersitoutlet.com^
 ||parajumpersnettbutikk.com^
 ||parajumpersnorway.com^
 ||parajumperssalg.com^
@@ -408,7 +409,6 @@
 ||swellsup.com^
 ||tadarick.com^
 ||tartannewzealand.myshopify.com^
-||tartanz.co^
 ||tedgee.com^
 ||tee24h.com^
 ||teearrow.com^
@@ -454,7 +454,6 @@
 ||ureashi.com^
 ||uredaka.com^
 ||usasport247.com^
-||ushiro.org^
 ||uuc.joyofprogress.com^
 ||vatini.net^
 ||vavaname.com^
