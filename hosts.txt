@@ -907,8 +907,6 @@
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 stylegift.co.uk
 0.0.0.0 www.stylegift.co.uk
-0.0.0.0 sunleaftravel.com
-0.0.0.0 www.sunleaftravel.com
 0.0.0.0 sunsetstore.net
 0.0.0.0 www.sunsetstore.net
 0.0.0.0 supercutestuff.com
@@ -1030,6 +1028,8 @@
 0.0.0.0 www.uredaka.com
 0.0.0.0 usasport247.com
 0.0.0.0 www.usasport247.com
+0.0.0.0 ushiro.org
+0.0.0.0 www.ushiro.org
 0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
