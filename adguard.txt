@@ -114,6 +114,7 @@
 ||dreamstee.com^
 ||dreamstees.com^
 ||duckydecor.store^
+||dumanus.com^
 ||dunjakke-no.com^
 ||easynatures.com^
 ||easyshoppingus.com^
@@ -336,7 +337,6 @@
 ||robinmooreband.com^
 ||rockchief.com^
 ||rosateeshop.com^
-||rovedy.com^
 ||royaldecorhome.store^
 ||saligoo.com^
 ||saveeeee.myshopify.com^
@@ -399,6 +399,7 @@
 ||strogame.com^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
+||sunleaftravel.com^
 ||sunsetstore.net^
 ||supercutestuff.com^
 ||superfacehoodie.com^
