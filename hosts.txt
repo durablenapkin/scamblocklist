@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1084
+# Domains: 1080
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -207,9 +207,6 @@
 0.0.0.0 www.couponxoo.com
 0.0.0.0 creizeystore.com
 0.0.0.0 www.creizeystore.com
-0.0.0.0 customizerbox.com
-0.0.0.0 www.customizerbox.com
-0.0.0.0 store.customizerbox.com
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
 0.0.0.0 dailygiftstore.com
@@ -461,7 +458,6 @@
 0.0.0.0 www.karukuri.com
 0.0.0.0 store.karukuri.com
 0.0.0.0 khoinguyenhanoi.vn
-0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
