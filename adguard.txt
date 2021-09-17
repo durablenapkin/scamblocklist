@@ -240,7 +240,6 @@
 ||magnasat.com^
 ||marleytecnologica.com^
 ||mbtnorge.com^
-||meaningift.com^
 ||meladermfacts.com^
 ||meowpinky.com^
 ||mezlife.com^
@@ -425,7 +424,6 @@
 ||theonepercentcommunity.com^
 ||theshiny.store^
 ||theshirtyouneed.com^
-||thevitic.com^
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
 ||tikgeeker.com^
@@ -452,6 +450,7 @@
 ||ureashi.com^
 ||uredaka.com^
 ||usasport247.com^
+||ushiro.org^
 ||uuc.joyofprogress.com^
 ||vatini.net^
 ||vegamartz.com^
