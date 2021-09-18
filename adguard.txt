@@ -163,6 +163,7 @@
 ||gizmopage.com^
 ||gladiadormalas.com.br^
 ||glstee.com^
+||godeskonettbutikk.com^
 ||gossvibe.com^
 ||gotoperfection.com^
 ||goyourheart.com^
@@ -230,6 +231,7 @@
 ||look-like-star.myshopify.com^
 ||lookinmylove.com^
 ||lootcrate.com^
+||loveinbox.co.uk^
 ||lovelovegifts.com^
 ||lucatee.com^
 ||luckyhomie.com^
@@ -309,7 +311,6 @@
 ||plutostars.com^
 ||popeurope.com^
 ||poravoda.com^
-||potterheads.co^
 ||preciouscutesy.com^
 ||premiumqualityblanket.com^
 ||premiumtour-don.com^
@@ -457,7 +458,6 @@
 ||verfun.com^
 ||vetoro.cc^
 ||viberman.com^
-||vikingstore.co^
 ||violayvonne.com^
 ||vipticketgiveaway.com^
 ||wavetshirt.com^
