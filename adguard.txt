@@ -310,6 +310,7 @@
 ||plutostars.com^
 ||popeurope.com^
 ||poravoda.com^
+||potterheads.co^
 ||preciouscutesy.com^
 ||premiumqualityblanket.com^
 ||premiumtour-don.com^
@@ -360,7 +361,6 @@
 ||sligen.com^
 ||smartgadgettrend.com^
 ||smartpower4all.org^
-||smartproduct.site^
 ||snappystoreonline.co.za^
 ||sodipi.com^
 ||solepersonal.com^
