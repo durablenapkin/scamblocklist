@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1068
+# Domains: 1071
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -456,6 +456,7 @@
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
+0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
@@ -1024,7 +1025,6 @@
 0.0.0.0 ushiro.org
 0.0.0.0 www.ushiro.org
 0.0.0.0 uuc.joyofprogress.com
-0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
@@ -1036,6 +1036,9 @@
 0.0.0.0 www.vetoro.cc
 0.0.0.0 store.vetoro.cc
 0.0.0.0 viberman.com
+0.0.0.0 vikingstore.co
+0.0.0.0 www.vikingstore.co
+0.0.0.0 store.vikingstore.co
 0.0.0.0 violayvonne.com
 0.0.0.0 www.violayvonne.com
 0.0.0.0 vipticketgiveaway.com
