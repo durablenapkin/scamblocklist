@@ -23,6 +23,7 @@
 ||alltestbanksolutions.com^
 ||alohazing.com^
 ||altruetech.com^
+||amdestore.com^
 ||anclice.com^
 ||animals-love.us^
 ||animeshoppers.com^
@@ -154,7 +155,6 @@
 ||gearathena.com^
 ||gearclover.com^
 ||gearhomies.com^
-||gearhuman.com^
 ||gearstastic.com^
 ||gearstastics.com^
 ||gearver.com^
@@ -297,7 +297,6 @@
 ||parajumpersitoutlet.com^
 ||parajumpersnettbutikk.com^
 ||parajumpersnorway.com^
-||parajumperssalg.com^
 ||peace-love.us^
 ||pearstee.com^
 ||peekpok.com^
