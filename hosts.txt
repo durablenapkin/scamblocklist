@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1066
+# Domains: 1071
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -473,6 +473,8 @@
 0.0.0.0 kuteblanket.store
 0.0.0.0 www.kuteblanket.store
 0.0.0.0 kxu.myinstructus.com
+0.0.0.0 www.kxu.myinstructus.com
+0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
@@ -675,6 +677,9 @@
 0.0.0.0 parajumpersnorway.com
 0.0.0.0 www.parajumpersnorway.com
 0.0.0.0 store.parajumpersnorway.com
+0.0.0.0 parajumperssalg.com
+0.0.0.0 www.parajumperssalg.com
+0.0.0.0 store.parajumperssalg.com
 0.0.0.0 peace-love.us
 0.0.0.0 www.peace-love.us
 0.0.0.0 store.peace-love.us
