@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1068
+# Domains: 1063
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -407,8 +407,6 @@
 0.0.0.0 www.hernoclothing.com
 0.0.0.0 highty.co
 0.0.0.0 www.highty.co
-0.0.0.0 hihigoso.store
-0.0.0.0 www.hihigoso.store
 0.0.0.0 himete.com
 0.0.0.0 www.himete.com
 0.0.0.0 store.himete.com
@@ -869,9 +867,6 @@
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 www.stingcool-com.myshopify.com
 0.0.0.0 store.stingcool-com.myshopify.com
-0.0.0.0 stingcool.com
-0.0.0.0 www.stingcool.com
-0.0.0.0 store.stingcool.com
 0.0.0.0 store-aleteia.org
 0.0.0.0 www.store-aleteia.org
 0.0.0.0 store25848025.company.site

@@ -182,7 +182,6 @@
 ||hermanistore.com^
 ||hernoclothing.com^
 ||highty.co^
-||hihigoso.store^
 ||himete.com^
 ||hmccommerce.com^
 ||hollisternorge.com^
@@ -383,7 +382,6 @@
 ||steamunlock.com^
 ||steamunlock.gifts^
 ||stingcool-com.myshopify.com^
-||stingcool.com^
 ||store-aleteia.org^
 ||store25848025.company.site^
 ||storeax.com^
