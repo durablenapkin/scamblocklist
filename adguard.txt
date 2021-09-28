@@ -140,6 +140,7 @@
 ||feddiy.com^
 ||findglocal.com^
 ||fishingdaily.shop^
+||fishinglovely.com^
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
@@ -419,7 +420,6 @@
 ||thehappywood.com^
 ||thekeilas.com^
 ||theonepercentcommunity.com^
-||theshiny.store^
 ||theshirtyouneed.com^
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
