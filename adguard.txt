@@ -20,7 +20,6 @@
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allergyfl.com^
 ||allstarshirt.com^
-||alltestbanksolutions.com^
 ||alohazing.com^
 ||altruetech.com^
 ||amdestore.com^
@@ -34,7 +33,6 @@
 ||arnoldgloverruss58.myshopify.com^
 ||arthoodie.com^
 ||arvetellefsen.no^
-||assassinfitness.com^
 ||atrendsz.com^
 ||attenstyle.com^
 ||aussiesportfashion.com^
@@ -63,6 +61,7 @@
 ||breakshirts.com^
 ||breepa.com^
 ||buddhakind.com^
+||burgershirt.com^
 ||buzzazone.com^
 ||candlesbymadison.com^
 ||canjaume.com^
