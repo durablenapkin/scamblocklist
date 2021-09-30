@@ -76,6 +76,8 @@
 0.0.0.0 www.arthoodie.com
 0.0.0.0 arvetellefsen.no
 0.0.0.0 www.arvetellefsen.no
+0.0.0.0 assassinfitness.com
+0.0.0.0 www.assassinfitness.com
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
 0.0.0.0 attenstyle.com
@@ -875,8 +877,6 @@
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
 0.0.0.0 storeax.com
-0.0.0.0 www.storeax.com
-0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 store.storedarkness.com
