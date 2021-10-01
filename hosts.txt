@@ -689,7 +689,6 @@
 0.0.0.0 www.pearstee.com
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
-0.0.0.0 store.peekpok.com
 0.0.0.0 peppatees.com
 0.0.0.0 personal84.com
 0.0.0.0 www.personal84.com
@@ -877,6 +876,8 @@
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
 0.0.0.0 storeax.com
+0.0.0.0 www.storeax.com
+0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 store.storedarkness.com
@@ -1017,7 +1018,6 @@
 0.0.0.0 www.ushiro.org
 0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
-0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 vegamartz.com
