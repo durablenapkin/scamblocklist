@@ -26,7 +26,6 @@
 ||anclice.com^
 ||animals-love.us^
 ||animeshoppers.com^
-||annemus.com^
 ||aozeala.com^
 ||apvoc-ga.com^
 ||army-shop.onshopbase.com^
@@ -35,7 +34,6 @@
 ||arvetellefsen.no^
 ||assassinfitness.com^
 ||atrendsz.com^
-||attenstyle.com^
 ||aussiesportfashion.com^
 ||azfancy.com^
 ||azitecs.com^
@@ -412,7 +410,6 @@
 ||teenimo.com^
 ||teesunshine.com^
 ||teezill.com^
-||thecabinas.com^
 ||thechildhooddream.com^
 ||thecoincollections.store^
 ||thecustomee.com^
