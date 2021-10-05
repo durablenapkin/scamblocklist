@@ -26,6 +26,7 @@
 ||anclice.com^
 ||animals-love.us^
 ||animeshoppers.com^
+||annemus.com^
 ||aozeala.com^
 ||apvoc-ga.com^
 ||army-shop.onshopbase.com^
@@ -53,6 +54,7 @@
 ||blingyy.com^
 ||bltskins.com^
 ||boobeeshop.com^
+||booliving.com^
 ||bossaving.com^
 ||bostongrnhsflowers.com^
 ||boutiqueondemand.com^
@@ -293,7 +295,6 @@
 ||owlala.com^
 ||pandzee.com^
 ||parajumpers-salg.com^
-||parajumpersitoutlet.com^
 ||parajumpersnettbutikk.com^
 ||parajumpersnorway.com^
 ||parajumperssalg.com^
