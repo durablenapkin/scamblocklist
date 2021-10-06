@@ -262,7 +262,6 @@
 ||myhandshops.myshopify.com^
 ||mystitich4u.com^
 ||nabaza.shop^
-||namemory.co.uk^
 ||nanistores.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
@@ -419,7 +418,6 @@
 ||thegeekgifts.com^
 ||thehappywood.com^
 ||thekeilas.com^
-||theonepercentcommunity.com^
 ||theshirtyouneed.com^
 ||thevitic.onshopbase.com^
 ||ti-yo.com^

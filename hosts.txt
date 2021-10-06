@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1061
+# Domains: 1055
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -479,7 +479,6 @@
 0.0.0.0 www.kuteblanket.store
 0.0.0.0 kxu.myinstructus.com
 0.0.0.0 www.kxu.myinstructus.com
-0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
@@ -596,9 +595,6 @@
 0.0.0.0 www.mystitich4u.com
 0.0.0.0 nabaza.shop
 0.0.0.0 www.nabaza.shop
-0.0.0.0 namemory.co.uk
-0.0.0.0 www.namemory.co.uk
-0.0.0.0 store.namemory.co.uk
 0.0.0.0 nanistores.com
 0.0.0.0 www.nanistores.com
 0.0.0.0 natilove.com
@@ -947,9 +943,6 @@
 0.0.0.0 www.thehappywood.com
 0.0.0.0 thekeilas.com
 0.0.0.0 www.thekeilas.com
-0.0.0.0 theonepercentcommunity.com
-0.0.0.0 www.theonepercentcommunity.com
-0.0.0.0 store.theonepercentcommunity.com
 0.0.0.0 theshirtyouneed.com
 0.0.0.0 www.theshirtyouneed.com
 0.0.0.0 thevitic.onshopbase.com
@@ -1013,6 +1006,7 @@
 0.0.0.0 usasport247.com
 0.0.0.0 www.usasport247.com
 0.0.0.0 ushiro.org
+0.0.0.0 www.ushiro.org
 0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
