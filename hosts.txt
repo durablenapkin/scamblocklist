@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1064
+# Domains: 1063
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -468,6 +468,7 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 khoinguyenhanoi.vn
+0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
@@ -699,9 +700,7 @@
 0.0.0.0 peppatees.com
 0.0.0.0 personal84.com
 0.0.0.0 www.personal84.com
-0.0.0.0 pharaohstore.com
 0.0.0.0 www.pharaohstore.com
-0.0.0.0 store.pharaohstore.com
 0.0.0.0 pickablegift.com
 0.0.0.0 www.pickablegift.com
 0.0.0.0 store.pickablegift.com
@@ -800,6 +799,9 @@
 0.0.0.0 shopafricalimited.com
 0.0.0.0 shopusawarehouse.com
 0.0.0.0 www.shopusawarehouse.com
+0.0.0.0 sieuto.com
+0.0.0.0 www.sieuto.com
+0.0.0.0 store.sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
 0.0.0.0 signpify.com
@@ -978,9 +980,6 @@
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 store.trendsharks.com
-0.0.0.0 trendvibesa.online
-0.0.0.0 www.trendvibesa.online
-0.0.0.0 store.trendvibesa.online
 0.0.0.0 trendybuddystore.com
 0.0.0.0 www.trendybuddystore.com
 0.0.0.0 store.trendybuddystore.com

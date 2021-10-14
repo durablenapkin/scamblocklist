@@ -351,6 +351,7 @@
 ||shop.spreadshirt.com^
 ||shopafricalimited.com^
 ||shopusawarehouse.com^
+||sieuto.com^
 ||sigmaoffers.com^
 ||signpify.com^
 ||silverlanetrading.com^
@@ -431,7 +432,6 @@
 ||trade-skins.net^
 ||treasurefan.com^
 ||trendsharks.com^
-||trendvibesa.online^
 ||trendybuddystore.com^
 ||trendygladys.com^
 ||treverschmelerkris18.myshopify.com^
