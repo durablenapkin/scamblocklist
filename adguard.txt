@@ -221,7 +221,6 @@
 ||lemstore.com^
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
-||lifewonderland.com^
 ||ligerking.com^
 ||lillly.shop^
 ||lindseysopticians.com^
@@ -356,6 +355,7 @@
 ||signpify.com^
 ||silverlanetrading.com^
 ||skincheap.com^
+||skins-store.net^
 ||skinsplanet.net^
 ||skinszone.net^
 ||skonmdnorge.com^
