@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1059
+# Domains: 1049
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -232,6 +232,7 @@
 0.0.0.0 defcon7.com.br
 0.0.0.0 www.defcon7.com.br
 0.0.0.0 deluxdoll.com
+0.0.0.0 www.deluxdoll.com
 0.0.0.0 store.deluxdoll.com
 0.0.0.0 denningwelldrilling.com
 0.0.0.0 www.denningwelldrilling.com
@@ -286,6 +287,8 @@
 0.0.0.0 esl-gaming.com
 0.0.0.0 www.esl-gaming.com
 0.0.0.0 eudoraz.com
+0.0.0.0 www.eudoraz.com
+0.0.0.0 store.eudoraz.com
 0.0.0.0 evangeliostore.com
 0.0.0.0 www.evangeliostore.com
 0.0.0.0 eviralstore.com
@@ -341,9 +344,6 @@
 0.0.0.0 www.fulfillgift.com
 0.0.0.0 furoshop.com
 0.0.0.0 www.furoshop.com
-0.0.0.0 store.furoshop.com
-0.0.0.0 fveco.com
-0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
 0.0.0.0 g1z0.myinstructus.com
 0.0.0.0 www.g1z0.myinstructus.com
@@ -395,8 +395,6 @@
 0.0.0.0 www.guccitees.com
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
-0.0.0.0 guus.store
-0.0.0.0 www.guus.store
 0.0.0.0 store.guus.store
 0.0.0.0 hairyfy.com
 0.0.0.0 www.hairyfy.com
@@ -467,6 +465,7 @@
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
+0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 killtee.com
@@ -487,8 +486,6 @@
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
-0.0.0.0 www.lakersfanshoponline.com
-0.0.0.0 store.lakersfanshoponline.com
 0.0.0.0 legarralazcoz.com
 0.0.0.0 www.legarralazcoz.com
 0.0.0.0 store.legarralazcoz.com
@@ -519,7 +516,6 @@
 0.0.0.0 www.litcomplex.com
 0.0.0.0 lomipod.com
 0.0.0.0 www.lomipod.com
-0.0.0.0 store.lomipod.com
 0.0.0.0 look-like-star.myshopify.com
 0.0.0.0 www.look-like-star.myshopify.com
 0.0.0.0 store.look-like-star.myshopify.com
@@ -619,9 +615,6 @@
 0.0.0.0 www.neozor.com
 0.0.0.0 nevaon.com
 0.0.0.0 www.nevaon.com
-0.0.0.0 nicetee.net
-0.0.0.0 www.nicetee.net
-0.0.0.0 store.nicetee.net
 0.0.0.0 niche3d.us
 0.0.0.0 www.niche3d.us
 0.0.0.0 nldstore.com
@@ -773,8 +766,6 @@
 0.0.0.0 sayhellorugs.com
 0.0.0.0 www.sayhellorugs.com
 0.0.0.0 store.sayhellorugs.com
-0.0.0.0 seagulltee.com
-0.0.0.0 www.seagulltee.com
 0.0.0.0 sedark.com
 0.0.0.0 www.sedark.com
 0.0.0.0 sentees.com
@@ -793,6 +784,7 @@
 0.0.0.0 www.shoeaddic.com
 0.0.0.0 shop.spreadshirt.com
 0.0.0.0 shopafricalimited.com
+0.0.0.0 www.shopafricalimited.com
 0.0.0.0 shopusawarehouse.com
 0.0.0.0 www.shopusawarehouse.com
 0.0.0.0 sieuto.com
@@ -826,9 +818,6 @@
 0.0.0.0 sodipi.com
 0.0.0.0 www.sodipi.com
 0.0.0.0 store.sodipi.com
-0.0.0.0 solepersonal.com
-0.0.0.0 www.solepersonal.com
-0.0.0.0 store.solepersonal.com
 0.0.0.0 somethingapparel.com
 0.0.0.0 www.somethingapparel.com
 0.0.0.0 store.somethingapparel.com
@@ -1054,6 +1043,7 @@
 0.0.0.0 www.yhdshop.com
 0.0.0.0 yomoun.com
 0.0.0.0 www.yomoun.com
+0.0.0.0 store.yomoun.com
 0.0.0.0 youngtee.us
 0.0.0.0 www.youngtee.us
 0.0.0.0 store.youngtee.us
