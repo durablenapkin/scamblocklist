@@ -92,6 +92,7 @@
 ||costcotee.com^
 ||couponxoo.com^
 ||creizeystore.com^
+||customizerbox.com^
 ||customurink.com^
 ||dailygiftstore.com^
 ||danylevych.com^
@@ -272,6 +273,7 @@
 ||nearmetshirt.com^
 ||neozor.com^
 ||nevaon.com^
+||nicetee.net^
 ||niche3d.us^
 ||nldstore.com^
 ||noatopdesign.com^
@@ -446,6 +448,7 @@
 ||usasport247.com^
 ||uuc.joyofprogress.com^
 ||vatini.net^
+||vavaname.com^
 ||vegamartz.com^
 ||verfun.com^
 ||vetoro.cc^
@@ -465,7 +468,6 @@
 ||yeyvibe.com^
 ||yhdshop.com^
 ||yomoun.com^
-||youngtee.us^
 ||zedbubble.com^
 ||zerowasteinitiative.com^
 ||zgalaxytee.com^
