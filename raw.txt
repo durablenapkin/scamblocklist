@@ -1,5 +1,8 @@
 # IMPORTANT: this list is not for public consumption. Use https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt instead
 
+0.0.0.0 dizcord.gift
+0.0.0.0 www.dizcord.gift
+0.0.0.0 store.dizcord.gift
 0.0.0.0 1n.yarrid.com
 0.0.0.0 www.1n.yarrid.com
 0.0.0.0 store.1n.yarrid.com

@@ -1,11 +1,13 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1060
+# Domains: 1062
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
+0.0.0.0 dizcord.gift
+0.0.0.0 www.dizcord.gift
 0.0.0.0 1n.yarrid.com
 0.0.0.0 www.1n.yarrid.com
 0.0.0.0 store.1n.yarrid.com
@@ -157,6 +159,7 @@
 0.0.0.0 www.canjaume.com
 0.0.0.0 carmenfloral.com
 0.0.0.0 www.carmenfloral.com
+0.0.0.0 store.carmenfloral.com
 0.0.0.0 cartooy.com
 0.0.0.0 www.cartooy.com
 0.0.0.0 store.cartooy.com
@@ -472,7 +475,6 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 khoinguyenhanoi.vn
-0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com

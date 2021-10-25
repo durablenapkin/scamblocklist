@@ -4,6 +4,7 @@
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
+||dizcord.gift^
 ||1n.yarrid.com^
 ||1stireland.com^
 ||1sttheglobal.com^
