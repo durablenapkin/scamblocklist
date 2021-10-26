@@ -1,13 +1,11 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1062
+# Domains: 1053
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
-0.0.0.0 dizcord.gift
-0.0.0.0 www.dizcord.gift
 0.0.0.0 1n.yarrid.com
 0.0.0.0 www.1n.yarrid.com
 0.0.0.0 store.1n.yarrid.com
@@ -354,9 +352,6 @@
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
-0.0.0.0 g1z0.myinstructus.com
-0.0.0.0 www.g1z0.myinstructus.com
-0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
 0.0.0.0 store.gameconsoless.com
@@ -475,6 +470,7 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 khoinguyenhanoi.vn
+0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
@@ -490,9 +486,6 @@
 0.0.0.0 store.ksvitmimay.com
 0.0.0.0 kuteblanket.store
 0.0.0.0 www.kuteblanket.store
-0.0.0.0 kxu.myinstructus.com
-0.0.0.0 www.kxu.myinstructus.com
-0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
@@ -560,6 +553,9 @@
 0.0.0.0 www.marleytecnologica.com
 0.0.0.0 mbtnorge.com
 0.0.0.0 www.mbtnorge.com
+0.0.0.0 meaningift.com
+0.0.0.0 www.meaningift.com
+0.0.0.0 store.meaningift.com
 0.0.0.0 meladermfacts.com
 0.0.0.0 www.meladermfacts.com
 0.0.0.0 meowpinky.com
@@ -718,9 +714,6 @@
 0.0.0.0 poravoda.com
 0.0.0.0 www.poravoda.com
 0.0.0.0 store.poravoda.com
-0.0.0.0 potterheads.co
-0.0.0.0 www.potterheads.co
-0.0.0.0 store.potterheads.co
 0.0.0.0 preciouscutesy.com
 0.0.0.0 www.preciouscutesy.com
 0.0.0.0 premiumqualityblanket.com
@@ -881,7 +874,6 @@
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
 0.0.0.0 storeax.com
-0.0.0.0 www.storeax.com
 0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
@@ -1014,7 +1006,6 @@
 0.0.0.0 www.usasport247.com
 0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
-0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 vavaname.com

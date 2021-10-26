@@ -4,7 +4,6 @@
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
-||dizcord.gift^
 ||1n.yarrid.com^
 ||1stireland.com^
 ||1sttheglobal.com^
@@ -154,7 +153,6 @@
 ||fulfillgift.com^
 ||furoshop.com^
 ||fveco.com^
-||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
 ||gearathena.com^
@@ -216,7 +214,6 @@
 ||kitchendecor.shop^
 ||ksvitmimay.com^
 ||kuteblanket.store^
-||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||legarralazcoz.com^
@@ -246,6 +243,7 @@
 ||mangacos.com^
 ||marleytecnologica.com^
 ||mbtnorge.com^
+||meaningift.com^
 ||meladermfacts.com^
 ||meowpinky.com^
 ||mezlife.com^
@@ -312,7 +310,6 @@
 ||plutostars.com^
 ||popeurope.com^
 ||poravoda.com^
-||potterheads.co^
 ||preciouscutesy.com^
 ||premiumqualityblanket.com^
 ||premiumtour-don.com^
