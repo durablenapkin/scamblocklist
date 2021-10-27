@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1053
+# Domains: 1060
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -352,6 +352,9 @@
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
+0.0.0.0 g1z0.myinstructus.com
+0.0.0.0 www.g1z0.myinstructus.com
+0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
 0.0.0.0 store.gameconsoless.com
@@ -458,6 +461,7 @@
 0.0.0.0 store.jaimerico.net
 0.0.0.0 jakkesalgs.com
 0.0.0.0 www.jakkesalgs.com
+0.0.0.0 store.jakkesalgs.com
 0.0.0.0 jakkesnorge.com
 0.0.0.0 www.jakkesnorge.com
 0.0.0.0 januashop.com
@@ -471,7 +475,6 @@
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
-0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 killtee.com
@@ -486,6 +489,9 @@
 0.0.0.0 store.ksvitmimay.com
 0.0.0.0 kuteblanket.store
 0.0.0.0 www.kuteblanket.store
+0.0.0.0 kxu.myinstructus.com
+0.0.0.0 www.kxu.myinstructus.com
+0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
@@ -501,6 +507,9 @@
 0.0.0.0 www.lericettedifrancy74.com
 0.0.0.0 letrantrunghieu.com
 0.0.0.0 www.letrantrunghieu.com
+0.0.0.0 letteringift.com
+0.0.0.0 www.letteringift.com
+0.0.0.0 store.letteringift.com
 0.0.0.0 ligerking.com
 0.0.0.0 www.ligerking.com
 0.0.0.0 lindseysopticians.com
@@ -682,9 +691,6 @@
 0.0.0.0 parajumpersnorway.com
 0.0.0.0 www.parajumpersnorway.com
 0.0.0.0 store.parajumpersnorway.com
-0.0.0.0 parajumperssalg.com
-0.0.0.0 www.parajumperssalg.com
-0.0.0.0 store.parajumperssalg.com
 0.0.0.0 peace-love.us
 0.0.0.0 www.peace-love.us
 0.0.0.0 store.peace-love.us
@@ -874,6 +880,7 @@
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
 0.0.0.0 storeax.com
+0.0.0.0 www.storeax.com
 0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
@@ -1006,6 +1013,7 @@
 0.0.0.0 www.usasport247.com
 0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
+0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 vavaname.com
@@ -1050,7 +1058,6 @@
 0.0.0.0 www.yhdshop.com
 0.0.0.0 yomoun.com
 0.0.0.0 www.yomoun.com
-0.0.0.0 store.yomoun.com
 0.0.0.0 zedbubble.com
 0.0.0.0 www.zedbubble.com
 0.0.0.0 zerowasteinitiative.com
