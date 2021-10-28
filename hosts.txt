@@ -1,14 +1,11 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1060
+# Domains: 1046
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
-0.0.0.0 1n.yarrid.com
-0.0.0.0 www.1n.yarrid.com
-0.0.0.0 store.1n.yarrid.com
 0.0.0.0 1stireland.com
 0.0.0.0 www.1stireland.com
 0.0.0.0 1sttheglobal.com
@@ -335,6 +332,8 @@
 0.0.0.0 store.foryourdears.com
 0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
+0.0.0.0 frest.info
+0.0.0.0 www.frest.info
 0.0.0.0 friday89.com
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
@@ -352,9 +351,6 @@
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
-0.0.0.0 g1z0.myinstructus.com
-0.0.0.0 www.g1z0.myinstructus.com
-0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
 0.0.0.0 store.gameconsoless.com
@@ -461,7 +457,6 @@
 0.0.0.0 store.jaimerico.net
 0.0.0.0 jakkesalgs.com
 0.0.0.0 www.jakkesalgs.com
-0.0.0.0 store.jakkesalgs.com
 0.0.0.0 jakkesnorge.com
 0.0.0.0 www.jakkesnorge.com
 0.0.0.0 januashop.com
@@ -475,6 +470,7 @@
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
+0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 killtee.com
@@ -490,8 +486,6 @@
 0.0.0.0 kuteblanket.store
 0.0.0.0 www.kuteblanket.store
 0.0.0.0 kxu.myinstructus.com
-0.0.0.0 www.kxu.myinstructus.com
-0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
@@ -800,6 +794,7 @@
 0.0.0.0 www.shopusawarehouse.com
 0.0.0.0 sieuto.com
 0.0.0.0 www.sieuto.com
+0.0.0.0 store.sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
 0.0.0.0 signpify.com
@@ -879,9 +874,6 @@
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
-0.0.0.0 storeax.com
-0.0.0.0 www.storeax.com
-0.0.0.0 store.storeax.com
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 store.storedarkness.com
@@ -895,9 +887,6 @@
 0.0.0.0 www.strogame.com
 0.0.0.0 stunningstuffs.com
 0.0.0.0 www.stunningstuffs.com
-0.0.0.0 stylegift.co.uk
-0.0.0.0 www.stylegift.co.uk
-0.0.0.0 store.stylegift.co.uk
 0.0.0.0 sunleaftravel.com
 0.0.0.0 www.sunleaftravel.com
 0.0.0.0 sunsetstore.net
@@ -1011,9 +1000,6 @@
 0.0.0.0 www.uredaka.com
 0.0.0.0 usasport247.com
 0.0.0.0 www.usasport247.com
-0.0.0.0 uuc.joyofprogress.com
-0.0.0.0 www.uuc.joyofprogress.com
-0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 vavaname.com
