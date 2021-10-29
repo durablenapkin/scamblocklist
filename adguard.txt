@@ -153,6 +153,7 @@
 ||fulfillgift.com^
 ||furoshop.com^
 ||fveco.com^
+||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
 ||gearathena.com^
@@ -273,6 +274,7 @@
 ||nearmetshirt.com^
 ||neozor.com^
 ||nevaon.com^
+||newgstore.com^
 ||nicetee.net^
 ||niche3d.us^
 ||nldstore.com^
@@ -384,6 +386,7 @@
 ||stingcool-com.myshopify.com^
 ||store-aleteia.org^
 ||store25848025.company.site^
+||storeax.com^
 ||storedarkness.com^
 ||storeitsafeltd.com^
 ||storesonlineltd.com^
@@ -442,6 +445,7 @@
 ||ureashi.com^
 ||uredaka.com^
 ||usasport247.com^
+||uuc.joyofprogress.com^
 ||vatini.net^
 ||vavaname.com^
 ||vegamartz.com^
