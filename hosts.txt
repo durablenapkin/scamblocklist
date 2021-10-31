@@ -57,6 +57,7 @@
 0.0.0.0 annemus.com
 0.0.0.0 www.annemus.com
 0.0.0.0 store.annemus.com
+0.0.0.0 aozeala.com
 0.0.0.0 www.aozeala.com
 0.0.0.0 store.aozeala.com
 0.0.0.0 apvoc-ga.com
@@ -213,8 +214,6 @@
 0.0.0.0 www.creizeystore.com
 0.0.0.0 customizerbox.com
 0.0.0.0 www.customizerbox.com
-0.0.0.0 customurink.com
-0.0.0.0 www.customurink.com
 0.0.0.0 dailygiftstore.com
 0.0.0.0 www.dailygiftstore.com
 0.0.0.0 danylevych.com
@@ -230,6 +229,7 @@
 0.0.0.0 www.deergift.com
 0.0.0.0 defcon7.com.br
 0.0.0.0 www.defcon7.com.br
+0.0.0.0 deluxdoll.com
 0.0.0.0 www.deluxdoll.com
 0.0.0.0 store.deluxdoll.com
 0.0.0.0 denningwelldrilling.com
