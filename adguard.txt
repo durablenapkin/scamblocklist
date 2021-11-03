@@ -16,6 +16,7 @@
 ||akarosi.com^
 ||akatee.com^
 ||aliripple.com^
+||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allergyfl.com^
 ||allstarshirt.com^
@@ -25,7 +26,6 @@
 ||animals-love.us^
 ||annemus.com^
 ||aozeala.com^
-||apvoc-ga.com^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
 ||arthoodie.com^
@@ -60,6 +60,7 @@
 ||breakshirts.com^
 ||breepa.com^
 ||buddhakind.com^
+||burgershirt.com^
 ||buzzazone.com^
 ||candlesbymadison.com^
 ||canjaume.com^
@@ -114,6 +115,7 @@
 ||dumanus.com^
 ||dunjakke-no.com^
 ||easynatures.com^
+||easyshoppingus.com^
 ||elaka.lk^
 ||ellezz.com^
 ||emberio.com^
@@ -130,11 +132,13 @@
 ||familylovesgift.com^
 ||familyshark.com^
 ||familystore.com^
+||fancycentral.com^
 ||fapst.com^
 ||farmer-love.us^
 ||feddiy.com^
 ||findglocal.com^
 ||fishingdaily.shop^
+||fishinglovely.com^
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
@@ -164,6 +168,7 @@
 ||gogiworld.com^
 ||gossvibe.com^
 ||gotoperfection.com^
+||goyourheart.com^
 ||graciaszone.com^
 ||gsport.com^
 ||guccitees.com^
@@ -214,6 +219,7 @@
 ||lemstore.com^
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
+||letteringift.com^
 ||ligerking.com^
 ||lindseysopticians.com^
 ||linkshe.com^
@@ -280,6 +286,7 @@
 ||odinpc.com^
 ||oflike.com^
 ||ogogear.com^
+||oldcube.com^
 ||orderquilt.com^
 ||orderstee.com^
 ||orinblanket.com^
@@ -375,6 +382,7 @@
 ||store-aleteia.org^
 ||store25848025.company.site^
 ||storeax.com^
+||storedarkness.com^
 ||storeitsafeltd.com^
 ||storesonlineltd.com^
 ||storesp.com^
@@ -409,6 +417,7 @@
 ||theshirtyouneed.com^
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
+||tikgeeker.com^
 ||tiranaaquapark-eg.com^
 ||tlonsey.com^
 ||tomadamsenergy.com^
