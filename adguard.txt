@@ -40,7 +40,6 @@
 ||beaswan.com^
 ||beecrave.com^
 ||benecharm.com^
-||beobirds.com^
 ||berfumetee.com^
 ||berrycats.com^
 ||bestamztee.com^
@@ -233,6 +232,7 @@
 ||loveinbox.co.uk^
 ||lovelovegifts.com^
 ||lucatee.com^
+||lucidtiger.com^
 ||luckyhomie.com^
 ||lucysstyle.com^
 ||luvinstars.com^
@@ -269,7 +269,6 @@
 ||nearmetshirt.com^
 ||neozor.com^
 ||nevaon.com^
-||newgstore.com^
 ||nicetee.net^
 ||niche3d.us^
 ||nldstore.com^
