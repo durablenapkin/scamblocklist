@@ -23,7 +23,6 @@
 ||alohazing.com^
 ||altruetech.com^
 ||anclice.com^
-||animals-love.us^
 ||annemus.com^
 ||aozeala.com^
 ||army-shop.onshopbase.com^
@@ -65,7 +64,6 @@
 ||canjaume.com^
 ||carmenfloral.com^
 ||cartooy.com^
-||carvemyname.com^
 ||charmbean.com^
 ||charmsection.com^
 ||charpente-ramel.com^
@@ -114,6 +112,7 @@
 ||dumanus.com^
 ||dunjakke-no.com^
 ||easynatures.com^
+||easyshoppingus.com^
 ||elaka.lk^
 ||ellezz.com^
 ||emberio.com^
@@ -132,7 +131,6 @@
 ||familystore.com^
 ||fancycentral.com^
 ||fapst.com^
-||farmer-love.us^
 ||feddiy.com^
 ||findglocal.com^
 ||fishingdaily.shop^
@@ -294,7 +292,6 @@
 ||parajumpers-salg.com^
 ||parajumpersnettbutikk.com^
 ||parajumpersnorway.com^
-||peace-love.us^
 ||pearstee.com^
 ||peekpok.com^
 ||peppatees.com^
