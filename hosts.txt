@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1031
+# Domains: 1029
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -143,7 +143,6 @@
 0.0.0.0 canjaume.com
 0.0.0.0 www.canjaume.com
 0.0.0.0 carmenfloral.com
-0.0.0.0 www.carmenfloral.com
 0.0.0.0 store.carmenfloral.com
 0.0.0.0 cartooy.com
 0.0.0.0 www.cartooy.com
@@ -452,8 +451,6 @@
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
-0.0.0.0 khoinguyenhanoi.vn
-0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
@@ -866,6 +863,7 @@
 0.0.0.0 streamloot.co
 0.0.0.0 www.streamloot.co
 0.0.0.0 strogame.com
+0.0.0.0 www.strogame.com
 0.0.0.0 store.strogame.com
 0.0.0.0 stunningstuffs.com
 0.0.0.0 www.stunningstuffs.com
