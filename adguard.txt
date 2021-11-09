@@ -41,7 +41,6 @@
 ||benecharm.com^
 ||berfumetee.com^
 ||berrycats.com^
-||bestamztee.com^
 ||bestbabyyoda.com^
 ||bestmoonshop.com^
 ||billigesalg.com^
@@ -348,7 +347,6 @@
 ||skins-store.net^
 ||skinsplanet.net^
 ||skinszone.net^
-||skonmdnorge.com^
 ||sligen.com^
 ||smartgadgettrend.com^
 ||smartpower4all.org^
