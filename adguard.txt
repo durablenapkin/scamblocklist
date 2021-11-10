@@ -151,6 +151,7 @@
 ||gearathena.com^
 ||gearclover.com^
 ||gearhomies.com^
+||gearhuman.com^
 ||gearstastic.com^
 ||gearstastics.com^
 ||gearver.com^
