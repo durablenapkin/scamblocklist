@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1025
+# Domains: 1024
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -717,8 +717,6 @@
 0.0.0.0 rebeccatees.com
 0.0.0.0 www.rebeccatees.com
 0.0.0.0 redchristmaswine.com
-0.0.0.0 www.redchristmaswine.com
-0.0.0.0 store.redchristmaswine.com
 0.0.0.0 reforest-iita.org
 0.0.0.0 www.reforest-iita.org
 0.0.0.0 reviewshirts.com
@@ -998,6 +996,7 @@
 0.0.0.0 store.vikingstore.co
 0.0.0.0 violayvonne.com
 0.0.0.0 www.violayvonne.com
+0.0.0.0 store.violayvonne.com
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 www.vipticketgiveaway.com
 0.0.0.0 wavetshirt.com
