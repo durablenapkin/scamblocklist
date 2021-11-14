@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1026
+# Domains: 1022
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -213,7 +213,6 @@
 0.0.0.0 denningwelldrilling.com
 0.0.0.0 www.denningwelldrilling.com
 0.0.0.0 store.denningwelldrilling.com
-0.0.0.0 devifoodgrains.com
 0.0.0.0 www.devifoodgrains.com
 0.0.0.0 deytee.com
 0.0.0.0 www.deytee.com
@@ -244,7 +243,6 @@
 0.0.0.0 easynatures.com
 0.0.0.0 www.easynatures.com
 0.0.0.0 easyshoppingus.com
-0.0.0.0 www.easyshoppingus.com
 0.0.0.0 elaka.lk
 0.0.0.0 www.elaka.lk
 0.0.0.0 ellezz.com
@@ -686,8 +684,6 @@
 0.0.0.0 poravoda.com
 0.0.0.0 www.poravoda.com
 0.0.0.0 store.poravoda.com
-0.0.0.0 preciouscutesy.com
-0.0.0.0 www.preciouscutesy.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 premiumtour-don.com
@@ -979,7 +975,6 @@
 0.0.0.0 usasport247.com
 0.0.0.0 www.usasport247.com
 0.0.0.0 uuc.joyofprogress.com
-0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
@@ -998,6 +993,7 @@
 0.0.0.0 www.vikingstore.co
 0.0.0.0 store.vikingstore.co
 0.0.0.0 violayvonne.com
+0.0.0.0 www.violayvonne.com
 0.0.0.0 store.violayvonne.com
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 www.vipticketgiveaway.com
