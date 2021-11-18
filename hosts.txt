@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1024
+# Domains: 1023
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -244,6 +244,7 @@
 0.0.0.0 easynatures.com
 0.0.0.0 www.easynatures.com
 0.0.0.0 easyshoppingus.com
+0.0.0.0 www.easyshoppingus.com
 0.0.0.0 elaka.lk
 0.0.0.0 www.elaka.lk
 0.0.0.0 ellezz.com
@@ -463,6 +464,7 @@
 0.0.0.0 www.kuteblanket.store
 0.0.0.0 kxu.myinstructus.com
 0.0.0.0 www.kxu.myinstructus.com
+0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
@@ -645,6 +647,7 @@
 0.0.0.0 www.orderstee.com
 0.0.0.0 orinblanket.com
 0.0.0.0 www.orinblanket.com
+0.0.0.0 store.orinblanket.com
 0.0.0.0 otakupuzzle.com
 0.0.0.0 www.otakupuzzle.com
 0.0.0.0 store.otakupuzzle.com
@@ -964,9 +967,6 @@
 0.0.0.0 www.um-bs.com
 0.0.0.0 store.um-bs.com
 0.0.0.0 unifully.com
-0.0.0.0 unique3ds.com
-0.0.0.0 www.unique3ds.com
-0.0.0.0 store.unique3ds.com
 0.0.0.0 uniqueetee.com
 0.0.0.0 www.uniqueetee.com
 0.0.0.0 ureashi.com
@@ -994,7 +994,6 @@
 0.0.0.0 vikingstore.co
 0.0.0.0 www.vikingstore.co
 0.0.0.0 store.vikingstore.co
-0.0.0.0 violayvonne.com
 0.0.0.0 www.violayvonne.com
 0.0.0.0 store.violayvonne.com
 0.0.0.0 vipticketgiveaway.com
