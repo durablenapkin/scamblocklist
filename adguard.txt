@@ -68,7 +68,6 @@
 ||chikepod.com^
 ||chipcy.com^
 ||chipteeamz.com^
-||cinela.us^
 ||cipustar.com^
 ||classicraftdesign.com^
 ||clemoa.com^
@@ -109,6 +108,7 @@
 ||dumanus.com^
 ||dunjakke-no.com^
 ||easynatures.com^
+||easyshoppingus.com^
 ||elaka.lk^
 ||ellezz.com^
 ||emberio.com^
@@ -247,7 +247,6 @@
 ||monkstars.com^
 ||mononus.com^
 ||moteshoes.com^
-||movica.us^
 ||muddyking.com^
 ||muthaafoundation.org^
 ||mvptrend.com^

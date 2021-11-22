@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1020
+# Domains: 1019
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -155,9 +155,6 @@
 0.0.0.0 www.chipcy.com
 0.0.0.0 chipteeamz.com
 0.0.0.0 www.chipteeamz.com
-0.0.0.0 cinela.us
-0.0.0.0 www.cinela.us
-0.0.0.0 store.cinela.us
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
 0.0.0.0 classicraftdesign.com
@@ -243,6 +240,8 @@
 0.0.0.0 www.dunjakke-no.com
 0.0.0.0 easynatures.com
 0.0.0.0 www.easynatures.com
+0.0.0.0 easyshoppingus.com
+0.0.0.0 www.easyshoppingus.com
 0.0.0.0 elaka.lk
 0.0.0.0 www.elaka.lk
 0.0.0.0 ellezz.com
@@ -493,6 +492,7 @@
 0.0.0.0 www.linostee.com
 0.0.0.0 lisabuddy.com
 0.0.0.0 lisianstore.com
+0.0.0.0 www.lisianstore.com
 0.0.0.0 store.lisianstore.com
 0.0.0.0 litcomplex.com
 0.0.0.0 www.litcomplex.com
@@ -559,9 +559,6 @@
 0.0.0.0 moteshoes.com
 0.0.0.0 www.moteshoes.com
 0.0.0.0 store.moteshoes.com
-0.0.0.0 movica.us
-0.0.0.0 www.movica.us
-0.0.0.0 store.movica.us
 0.0.0.0 muddyking.com
 0.0.0.0 www.muddyking.com
 0.0.0.0 muthaafoundation.org
@@ -712,7 +709,6 @@
 0.0.0.0 rebeccatees.com
 0.0.0.0 www.rebeccatees.com
 0.0.0.0 redchristmaswine.com
-0.0.0.0 www.redchristmaswine.com
 0.0.0.0 store.redchristmaswine.com
 0.0.0.0 reforest-iita.org
 0.0.0.0 www.reforest-iita.org
@@ -973,6 +969,8 @@
 0.0.0.0 www.uredaka.com
 0.0.0.0 usasport247.com
 0.0.0.0 www.usasport247.com
+0.0.0.0 store.usasport247.com
+0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
@@ -992,6 +990,7 @@
 0.0.0.0 www.vikingstore.co
 0.0.0.0 store.vikingstore.co
 0.0.0.0 violayvonne.com
+0.0.0.0 www.violayvonne.com
 0.0.0.0 store.violayvonne.com
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 www.vipticketgiveaway.com
