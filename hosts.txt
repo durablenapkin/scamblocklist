@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1010
+# Domains: 1014
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -200,6 +200,7 @@
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
+0.0.0.0 store.deergift.com
 0.0.0.0 defcon7.com.br
 0.0.0.0 www.defcon7.com.br
 0.0.0.0 deluxdoll.com
@@ -238,6 +239,7 @@
 0.0.0.0 www.dunjakke-no.com
 0.0.0.0 easynatures.com
 0.0.0.0 www.easynatures.com
+0.0.0.0 easyshoppingus.com
 0.0.0.0 elaka.lk
 0.0.0.0 www.elaka.lk
 0.0.0.0 ellezz.com
@@ -439,6 +441,7 @@
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
+0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
@@ -655,6 +658,7 @@
 0.0.0.0 www.pearstee.com
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
+0.0.0.0 store.peekpok.com
 0.0.0.0 peppatees.com
 0.0.0.0 personal84.com
 0.0.0.0 www.personal84.com
