@@ -42,7 +42,6 @@
 ||berrycats.com^
 ||bestbabyyoda.com^
 ||bestmoonshop.com^
-||bknstore.com^
 ||blingyy.com^
 ||bloomingvibe.com^
 ||bltskins.com^
@@ -310,7 +309,6 @@
 ||rabamnetee.com^
 ||reanimando.org^
 ||rebeccatees.com^
-||redchristmaswine.com^
 ||reforest-iita.org^
 ||reviewshirts.com^
 ||rickamortyshop.com^
@@ -374,7 +372,6 @@
 ||storesonlineltd.com^
 ||storesp.com^
 ||streamloot.co^
-||strogame.com^
 ||stunningstuffs.com^
 ||sunleaftravel.com^
 ||sunsetstore.net^
@@ -433,8 +430,6 @@
 ||verfun.com^
 ||vetoro.cc^
 ||viberman.com^
-||vikingstore.co^
-||violayvonne.com^
 ||vipticketgiveaway.com^
 ||wavetshirt.com^
 ||weheartitstore.com^
