@@ -23,6 +23,7 @@
 ||alohazing.com^
 ||altruetech.com^
 ||anclice.com^
+||animeshoppers.com^
 ||aozeala.com^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -44,7 +45,6 @@
 ||bestmoonshop.com^
 ||blingyy.com^
 ||bloomingvibe.com^
-||bltskins.com^
 ||boobeeshop.com^
 ||booliving.com^
 ||bossaving.com^
@@ -228,6 +228,7 @@
 ||lucidtiger.com^
 ||luckyhomie.com^
 ||lucysstyle.com^
+||lunapresent.com^
 ||luvinstars.com^
 ||luxsgear.com^
 ||luzyfran.com^
@@ -300,7 +301,6 @@
 ||premiumtour-don.com^
 ||printkay.com^
 ||printteestore.com^
-||promotebuy.com^
 ||puzzlekd.com^
 ||qooraa.com^
 ||quatangidol.com^
@@ -401,6 +401,7 @@
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
 ||tikgeeker.com^
+||tiranaaquapark-eg.com^
 ||tlonsey.com^
 ||tomadamsenergy.com^
 ||topsdiy.com^
@@ -435,7 +436,6 @@
 ||weheartitstore.com^
 ||wezpod.com^
 ||whbinder.com^
-||wikeb.com^
 ||windbellstore.com^
 ||woadoodles.com^
 ||woochip.com^
