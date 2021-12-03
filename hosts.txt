@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1006
+# Domains: 1003
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -69,6 +69,7 @@
 0.0.0.0 www.arvetellefsen.no
 0.0.0.0 assassinfitness.com
 0.0.0.0 www.assassinfitness.com
+0.0.0.0 store.assassinfitness.com
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
 0.0.0.0 aussiesportfashion.com
@@ -153,9 +154,6 @@
 0.0.0.0 www.chipteeamz.com
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
-0.0.0.0 classicraftdesign.com
-0.0.0.0 www.classicraftdesign.com
-0.0.0.0 store.classicraftdesign.com
 0.0.0.0 clemoa.com
 0.0.0.0 www.clemoa.com
 0.0.0.0 store.clemoa.com
@@ -238,7 +236,6 @@
 0.0.0.0 easynatures.com
 0.0.0.0 www.easynatures.com
 0.0.0.0 easyshoppingus.com
-0.0.0.0 www.easyshoppingus.com
 0.0.0.0 elaka.lk
 0.0.0.0 www.elaka.lk
 0.0.0.0 ellezz.com
