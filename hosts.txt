@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1003
+# Domains: 1007
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -154,6 +154,8 @@
 0.0.0.0 www.chipteeamz.com
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
+0.0.0.0 cityofdream.co.uk
+0.0.0.0 www.cityofdream.co.uk
 0.0.0.0 clemoa.com
 0.0.0.0 www.clemoa.com
 0.0.0.0 store.clemoa.com
@@ -181,6 +183,7 @@
 0.0.0.0 www.couponxoo.com
 0.0.0.0 creizeystore.com
 0.0.0.0 www.creizeystore.com
+0.0.0.0 store.creizeystore.com
 0.0.0.0 customizerbox.com
 0.0.0.0 www.customizerbox.com
 0.0.0.0 dailygiftstore.com
@@ -856,6 +859,7 @@
 0.0.0.0 www.supercutestuff.com
 0.0.0.0 superfacehoodie.com
 0.0.0.0 www.superfacehoodie.com
+0.0.0.0 store.superfacehoodie.com
 0.0.0.0 supperbrand.company.site
 0.0.0.0 www.supperbrand.company.site
 0.0.0.0 store.supperbrand.company.site
