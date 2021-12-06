@@ -1,11 +1,13 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1011
+# Domains: 1010
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
+0.0.0.0 21spacex.net
+0.0.0.0 www.21spacex.net
 0.0.0.0 1stireland.com
 0.0.0.0 www.1stireland.com
 0.0.0.0 1sttheglobal.com
@@ -54,9 +56,6 @@
 0.0.0.0 animeshoppers.com
 0.0.0.0 www.animeshoppers.com
 0.0.0.0 store.animeshoppers.com
-0.0.0.0 aozeala.com
-0.0.0.0 www.aozeala.com
-0.0.0.0 store.aozeala.com
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
 0.0.0.0 store.army-shop.onshopbase.com
