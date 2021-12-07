@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1010
+# Domains: 1011
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -187,6 +187,7 @@
 0.0.0.0 www.customizerbox.com
 0.0.0.0 dailygiftstore.com
 0.0.0.0 www.dailygiftstore.com
+0.0.0.0 store.dailygiftstore.com
 0.0.0.0 danylevych.com
 0.0.0.0 www.danylevych.com
 0.0.0.0 daradis.com
