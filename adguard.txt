@@ -141,6 +141,7 @@
 ||fulfillgift.com^
 ||furoshop.com^
 ||fveco.com^
+||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
 ||gearathena.com^
@@ -202,6 +203,7 @@
 ||kitchendecor.shop^
 ||ksvitmimay.com^
 ||kuteblanket.store^
+||kxu.myinstructus.com^
 ||lakersfanshoponline.com^
 ||legarralazcoz.com^
 ||lemstore.com^
@@ -244,6 +246,7 @@
 ||mononus.com^
 ||moteshoes.com^
 ||muddyking.com^
+||museuw.com^
 ||muthaafoundation.org^
 ||mvptrend.com^
 ||mycraftypad.com^
@@ -340,6 +343,7 @@
 ||sligen.com^
 ||smartgadgettrend.com^
 ||smartpower4all.org^
+||smartproduct.site^
 ||snappystoreonline.co.za^
 ||sodipi.com^
 ||somethingapparel.com^
@@ -395,6 +399,7 @@
 ||thecustomee.com^
 ||thegeekgifts.com^
 ||thehappywood.com^
+||theshiny.store^
 ||theshirtyouneed.com^
 ||thevitic.onshopbase.com^
 ||ti-yo.com^
@@ -421,6 +426,7 @@
 ||ureashi.com^
 ||uredaka.com^
 ||usasport247.com^
+||uuc.joyofprogress.com^
 ||vatini.net^
 ||vavaname.com^
 ||vegamartz.com^
