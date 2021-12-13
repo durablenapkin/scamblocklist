@@ -53,7 +53,6 @@
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
-||breepa.com^
 ||buddhakind.com^
 ||burgershirt.com^
 ||buzzazone.com^
@@ -290,7 +289,6 @@
 ||parajumpersnorway.com^
 ||peace-love.us^
 ||pearstee.com^
-||peekpok.com^
 ||peppatees.com^
 ||personal84.com^
 ||pickablegift.com^
@@ -306,7 +304,6 @@
 ||printteestore.com^
 ||puzzlekd.com^
 ||qooraa.com^
-||quatangidol.com^
 ||quintrendy.com^
 ||rabamnetee.com^
 ||reanimando.org^
