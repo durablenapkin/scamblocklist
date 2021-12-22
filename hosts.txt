@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1011
+# Domains: 1008
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -918,9 +918,6 @@
 0.0.0.0 tiranaaquapark-eg.com
 0.0.0.0 www.tiranaaquapark-eg.com
 0.0.0.0 store.tiranaaquapark-eg.com
-0.0.0.0 tlonsey.com
-0.0.0.0 www.tlonsey.com
-0.0.0.0 store.tlonsey.com
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 www.tomadamsenergy.com
 0.0.0.0 store.tomadamsenergy.com
