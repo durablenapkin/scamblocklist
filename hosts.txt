@@ -231,6 +231,7 @@
 0.0.0.0 store.dumanus.com
 0.0.0.0 easynatures.com
 0.0.0.0 www.easynatures.com
+0.0.0.0 easyshoppingus.com
 0.0.0.0 www.easyshoppingus.com
 0.0.0.0 elaka.lk
 0.0.0.0 www.elaka.lk
@@ -432,7 +433,6 @@
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
-0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 killtee.com
@@ -498,7 +498,6 @@
 0.0.0.0 www.lovelovegifts.com
 0.0.0.0 loveshop20.com
 0.0.0.0 www.loveshop20.com
-0.0.0.0 store.loveshop20.com
 0.0.0.0 lucatee.com
 0.0.0.0 www.lucatee.com
 0.0.0.0 luckyhomie.com
@@ -1001,6 +1000,7 @@
 0.0.0.0 www.yeswevibe.com
 0.0.0.0 yeyvibe.com
 0.0.0.0 www.yeyvibe.com
+0.0.0.0 yhdshop.com
 0.0.0.0 www.yhdshop.com
 0.0.0.0 store.yhdshop.com
 0.0.0.0 yomoun.com
