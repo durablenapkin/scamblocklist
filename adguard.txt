@@ -299,7 +299,6 @@
 ||printteestore.com^
 ||puzzlekd.com^
 ||qooraa.com^
-||quatangidol.com^
 ||quintrendy.com^
 ||rabamnetee.com^
 ||reanimando.org^
@@ -419,7 +418,6 @@
 ||uredaka.com^
 ||usasport247.com^
 ||uuc.joyofprogress.com^
-||vatini.net^
 ||vavaname.com^
 ||vegamartz.com^
 ||verfun.com^
