@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 996
+# Domains: 993
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -947,9 +947,6 @@
 0.0.0.0 usasport247.com
 0.0.0.0 www.usasport247.com
 0.0.0.0 store.usasport247.com
-0.0.0.0 uuc.joyofprogress.com
-0.0.0.0 www.uuc.joyofprogress.com
-0.0.0.0 store.uuc.joyofprogress.com
 0.0.0.0 vatini.net
 0.0.0.0 www.vatini.net
 0.0.0.0 store.vatini.net
