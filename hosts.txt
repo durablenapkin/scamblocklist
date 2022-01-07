@@ -95,6 +95,8 @@
 0.0.0.0 www.bestbabyyoda.com
 0.0.0.0 bestmoonshop.com
 0.0.0.0 www.bestmoonshop.com
+0.0.0.0 bknstore.com
+0.0.0.0 www.bknstore.com
 0.0.0.0 blingyy.com
 0.0.0.0 www.blingyy.com
 0.0.0.0 store.blingyy.com
@@ -902,8 +904,6 @@
 0.0.0.0 thevitic.onshopbase.com
 0.0.0.0 www.thevitic.onshopbase.com
 0.0.0.0 store.thevitic.onshopbase.com
-0.0.0.0 ti-yo.com
-0.0.0.0 www.ti-yo.com
 0.0.0.0 tikgeeker.com
 0.0.0.0 www.tikgeeker.com
 0.0.0.0 store.tikgeeker.com

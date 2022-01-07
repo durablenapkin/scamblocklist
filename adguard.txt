@@ -42,6 +42,7 @@
 ||berrycats.com^
 ||bestbabyyoda.com^
 ||bestmoonshop.com^
+||bknstore.com^
 ||blingyy.com^
 ||bloomingvibe.com^
 ||bltskins.com^
@@ -393,7 +394,6 @@
 ||theshiny.store^
 ||theshirtyouneed.com^
 ||thevitic.onshopbase.com^
-||ti-yo.com^
 ||tikgeeker.com^
 ||tiranaaquapark-eg.com^
 ||tomadamsenergy.com^
