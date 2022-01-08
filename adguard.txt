@@ -59,7 +59,6 @@
 ||candlesbymadison.com^
 ||canjaume.com^
 ||carmenfloral.com^
-||charmbean.com^
 ||charmsection.com^
 ||charpente-ramel.com^
 ||cherryzones.com^
@@ -242,7 +241,6 @@
 ||muddyking.com^
 ||museuw.com^
 ||muthaafoundation.org^
-||mvptrend.com^
 ||mycraftypad.com^
 ||myfunfarm.com^
 ||myhandshops.myshopify.com^
@@ -251,7 +249,6 @@
 ||nanistores.com^
 ||nationaladvancegroup.com^
 ||natistore.us^
-||natistorez.com^
 ||nearmetshirt.com^
 ||neozor.com^
 ||nevaon.com^
@@ -282,7 +279,6 @@
 ||parajumpersnorway.com^
 ||peace-love.us^
 ||pearstee.com^
-||peekpok.com^
 ||peppatees.com^
 ||personal84.com^
 ||pharaohstore.com^
