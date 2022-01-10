@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 997
+# Domains: 995
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -441,6 +441,7 @@
 0.0.0.0 www.kindapod.com
 0.0.0.0 kingteestore.com
 0.0.0.0 www.kingteestore.com
+0.0.0.0 store.kingteestore.com
 0.0.0.0 kitchendecor.shop
 0.0.0.0 ksvitmimay.com
 0.0.0.0 www.ksvitmimay.com
@@ -840,9 +841,6 @@
 0.0.0.0 www.sunsetstore.net
 0.0.0.0 supercutestuff.com
 0.0.0.0 www.supercutestuff.com
-0.0.0.0 superfacehoodie.com
-0.0.0.0 www.superfacehoodie.com
-0.0.0.0 store.superfacehoodie.com
 0.0.0.0 supperbrand.company.site
 0.0.0.0 www.supperbrand.company.site
 0.0.0.0 store.supperbrand.company.site
