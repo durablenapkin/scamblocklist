@@ -79,7 +79,6 @@
 ||corg.co^
 ||costcotee.com^
 ||couponxoo.com^
-||creizeystore.com^
 ||customizerbox.com^
 ||dailygiftstore.com^
 ||danylevych.com^
@@ -287,7 +286,6 @@
 ||plutostars.com^
 ||popeurope.com^
 ||poravoda.com^
-||preciouscutesy.com^
 ||premiumqualityblanket.com^
 ||premiumtour-don.com^
 ||printkay.com^
@@ -354,7 +352,6 @@
 ||stingcool-com.myshopify.com^
 ||store-aleteia.org^
 ||store25848025.company.site^
-||storeax.com^
 ||storedarkness.com^
 ||storeitsafeltd.com^
 ||storesonlineltd.com^
