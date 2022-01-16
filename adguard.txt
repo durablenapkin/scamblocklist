@@ -53,7 +53,6 @@
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
-||buddhakind.com^
 ||burgershirt.com^
 ||buzzazone.com^
 ||candlesbymadison.com^
@@ -310,7 +309,6 @@
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
 ||sentees.com^
-||shinepuzzle.com^
 ||shinezily.com^
 ||shirttest.com^
 ||shirtwide.com^

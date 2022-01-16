@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 975
+# Domains: 971
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -122,7 +122,6 @@
 0.0.0.0 store.bradcroninnapo82.myshopify.com
 0.0.0.0 breakshirts.com
 0.0.0.0 www.breakshirts.com
-0.0.0.0 buddhakind.com
 0.0.0.0 burgershirt.com
 0.0.0.0 www.burgershirt.com
 0.0.0.0 store.burgershirt.com
@@ -710,9 +709,6 @@
 0.0.0.0 store.sayhellorugs.com
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
-0.0.0.0 shinepuzzle.com
-0.0.0.0 www.shinepuzzle.com
-0.0.0.0 store.shinepuzzle.com
 0.0.0.0 shinezily.com
 0.0.0.0 www.shinezily.com
 0.0.0.0 store.shinezily.com
