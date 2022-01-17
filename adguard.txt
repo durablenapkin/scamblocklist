@@ -231,7 +231,6 @@
 ||meowpinky.com^
 ||mezlife.com^
 ||miuprints.com^
-||momchip.com^
 ||monetlee.com^
 ||monkstars.com^
 ||mononus.com^
@@ -250,7 +249,6 @@
 ||nearmetshirt.com^
 ||neozor.com^
 ||nevaon.com^
-||newgstore.com^
 ||nicetee.net^
 ||niche3d.us^
 ||nldstore.com^
@@ -289,9 +287,7 @@
 ||premiumtour-don.com^
 ||printkay.com^
 ||printteestore.com^
-||puzzlekd.com^
 ||qooraa.com^
-||quintrendy.com^
 ||rabamnetee.com^
 ||reanimando.org^
 ||rebeccatees.com^
@@ -403,7 +399,6 @@
 ||uniqueetee.com^
 ||ureashi.com^
 ||usasport247.com^
-||uuc.joyofprogress.com^
 ||vatini.net^
 ||vavaname.com^
 ||vegamartz.com^
