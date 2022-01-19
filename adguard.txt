@@ -53,6 +53,7 @@
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
+||buddhakind.com^
 ||burgershirt.com^
 ||buzzazone.com^
 ||candlesbymadison.com^
@@ -79,7 +80,6 @@
 ||costcotee.com^
 ||couponxoo.com^
 ||customizerbox.com^
-||dailygiftstore.com^
 ||danylevych.com^
 ||daradis.com^
 ||decorwallart.store^
@@ -231,6 +231,7 @@
 ||meowpinky.com^
 ||mezlife.com^
 ||miuprints.com^
+||momchip.com^
 ||monetlee.com^
 ||monkstars.com^
 ||mononus.com^
@@ -249,6 +250,7 @@
 ||nearmetshirt.com^
 ||neozor.com^
 ||nevaon.com^
+||newgstore.com^
 ||nicetee.net^
 ||niche3d.us^
 ||nldstore.com^
@@ -399,6 +401,7 @@
 ||uniqueetee.com^
 ||ureashi.com^
 ||usasport247.com^
+||uuc.joyofprogress.com^
 ||vatini.net^
 ||vavaname.com^
 ||vegamartz.com^
