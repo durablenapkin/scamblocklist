@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 964
+# Domains: 974
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -462,6 +462,9 @@
 0.0.0.0 letteringift.com
 0.0.0.0 www.letteringift.com
 0.0.0.0 store.letteringift.com
+0.0.0.0 levastyle.com
+0.0.0.0 www.levastyle.com
+0.0.0.0 store.levastyle.com
 0.0.0.0 levath.com
 0.0.0.0 www.levath.com
 0.0.0.0 store.levath.com
@@ -497,6 +500,8 @@
 0.0.0.0 store.loveshop20.com
 0.0.0.0 lucatee.com
 0.0.0.0 www.lucatee.com
+0.0.0.0 lucidtiger.com
+0.0.0.0 www.lucidtiger.com
 0.0.0.0 luckyhomie.com
 0.0.0.0 www.luckyhomie.com
 0.0.0.0 store.luckyhomie.com
@@ -561,6 +566,9 @@
 0.0.0.0 www.nabaza.shop
 0.0.0.0 nanistores.com
 0.0.0.0 www.nanistores.com
+0.0.0.0 natilove.com
+0.0.0.0 www.natilove.com
+0.0.0.0 store.natilove.com
 0.0.0.0 nationaladvancegroup.com
 0.0.0.0 www.nationaladvancegroup.com
 0.0.0.0 natistore.us
@@ -745,9 +753,6 @@
 0.0.0.0 smartproduct.site
 0.0.0.0 www.smartproduct.site
 0.0.0.0 store.smartproduct.site
-0.0.0.0 snappystoreonline.co.za
-0.0.0.0 www.snappystoreonline.co.za
-0.0.0.0 store.snappystoreonline.co.za
 0.0.0.0 sodipi.com
 0.0.0.0 www.sodipi.com
 0.0.0.0 store.sodipi.com
@@ -922,6 +927,9 @@
 0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
+0.0.0.0 vatini.net
+0.0.0.0 www.vatini.net
+0.0.0.0 store.vatini.net
 0.0.0.0 vavaname.com
 0.0.0.0 www.vavaname.com
 0.0.0.0 store.vavaname.com
@@ -959,6 +967,8 @@
 0.0.0.0 www.yeswevibe.com
 0.0.0.0 yeyvibe.com
 0.0.0.0 www.yeyvibe.com
+0.0.0.0 yhdshop.com
+0.0.0.0 www.yhdshop.com
 0.0.0.0 store.yhdshop.com
 0.0.0.0 yomoun.com
 0.0.0.0 www.yomoun.com
