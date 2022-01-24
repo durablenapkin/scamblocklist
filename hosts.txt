@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 968
+# Domains: 966
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -466,7 +466,7 @@
 0.0.0.0 ligerking.com
 0.0.0.0 www.ligerking.com
 0.0.0.0 lindseysopticians.com
-0.0.0.0 www.lindseysopticians.com
+0.0.0.0 store.lindseysopticians.com
 0.0.0.0 linkshe.com
 0.0.0.0 www.linkshe.com
 0.0.0.0 linostee.com
@@ -889,8 +889,6 @@
 0.0.0.0 trendybuddystore.com
 0.0.0.0 www.trendybuddystore.com
 0.0.0.0 store.trendybuddystore.com
-0.0.0.0 trendygladys.com
-0.0.0.0 www.trendygladys.com
 0.0.0.0 treverschmelerkris18.myshopify.com
 0.0.0.0 www.treverschmelerkris18.myshopify.com
 0.0.0.0 store.treverschmelerkris18.myshopify.com
