@@ -370,10 +370,8 @@
 ||teefoody.com^
 ||teemarko.com^
 ||teenimo.com^
-||teesunshine.com^
 ||teezill.com^
 ||thechildhooddream.com^
-||thecoincollections.store^
 ||thecustomee.com^
 ||thegeekgifts.com^
 ||thehappywood.com^
@@ -421,7 +419,6 @@
 ||wyj.primajaya-adv.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
-||yhdshop.com^
 ||yomoun.com^
 ||zedbubble.com^
 ||zerowasteinitiative.com^
