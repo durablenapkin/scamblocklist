@@ -21,6 +21,7 @@
 ||allergyfl.com^
 ||allstarshirt.com^
 ||alltestbanksolutions.com^
+||alohazing.com^
 ||altruetech.com^
 ||anclice.com^
 ||animeshoppers.com^
@@ -42,7 +43,6 @@
 ||bestbabyyoda.com^
 ||bestmoonshop.com^
 ||bknstore.com^
-||blingyy.com^
 ||bloomingvibe.com^
 ||bltskins.com^
 ||boobeeshop.com^
@@ -378,6 +378,7 @@
 ||thevitic.onshopbase.com^
 ||tikgeeker.com^
 ||tiranaaquapark-eg.com^
+||tlonsey.com^
 ||tomadamsenergy.com^
 ||topsdiy.com^
 ||trade-skins.net^
@@ -397,7 +398,6 @@
 ||ureashi.com^
 ||usasport247.com^
 ||uuc.joyofprogress.com^
-||vatini.net^
 ||vavaname.com^
 ||vegamartz.com^
 ||verfun.com^

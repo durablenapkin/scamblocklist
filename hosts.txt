@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 953
+# Domains: 952
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -48,6 +48,8 @@
 0.0.0.0 alltestbanksolutions.com
 0.0.0.0 www.alltestbanksolutions.com
 0.0.0.0 store.alltestbanksolutions.com
+0.0.0.0 alohazing.com
+0.0.0.0 www.alohazing.com
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
 0.0.0.0 anclice.com
@@ -95,9 +97,6 @@
 0.0.0.0 www.bestmoonshop.com
 0.0.0.0 bknstore.com
 0.0.0.0 www.bknstore.com
-0.0.0.0 blingyy.com
-0.0.0.0 www.blingyy.com
-0.0.0.0 store.blingyy.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 www.bloomingvibe.com
 0.0.0.0 store.bloomingvibe.com
@@ -865,6 +864,9 @@
 0.0.0.0 tiranaaquapark-eg.com
 0.0.0.0 www.tiranaaquapark-eg.com
 0.0.0.0 store.tiranaaquapark-eg.com
+0.0.0.0 tlonsey.com
+0.0.0.0 www.tlonsey.com
+0.0.0.0 store.tlonsey.com
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 www.tomadamsenergy.com
 0.0.0.0 store.tomadamsenergy.com
@@ -909,9 +911,6 @@
 0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
-0.0.0.0 vatini.net
-0.0.0.0 www.vatini.net
-0.0.0.0 store.vatini.net
 0.0.0.0 vavaname.com
 0.0.0.0 www.vavaname.com
 0.0.0.0 store.vavaname.com
