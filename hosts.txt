@@ -420,6 +420,7 @@
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 khoinguyenhanoi.vn
+0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
@@ -799,7 +800,6 @@
 0.0.0.0 www.storesp.com
 0.0.0.0 streamloot.co
 0.0.0.0 www.streamloot.co
-0.0.0.0 store.streamloot.co
 0.0.0.0 stunningstuffs.com
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 sunleaftravel.com
