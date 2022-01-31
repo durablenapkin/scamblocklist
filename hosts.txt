@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 951
+# Domains: 947
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -420,7 +420,6 @@
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 khoinguyenhanoi.vn
-0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
@@ -470,8 +469,6 @@
 0.0.0.0 www.linostee.com
 0.0.0.0 lisabuddy.com
 0.0.0.0 lisianstore.com
-0.0.0.0 www.lisianstore.com
-0.0.0.0 store.lisianstore.com
 0.0.0.0 litcomplex.com
 0.0.0.0 www.litcomplex.com
 0.0.0.0 lomipod.com
@@ -572,7 +569,6 @@
 0.0.0.0 newgstore.com
 0.0.0.0 www.newgstore.com
 0.0.0.0 store.newgstore.com
-0.0.0.0 nicetee.net
 0.0.0.0 www.nicetee.net
 0.0.0.0 store.nicetee.net
 0.0.0.0 niche3d.us
