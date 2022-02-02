@@ -101,7 +101,6 @@
 ||dumanus.com^
 ||easynatures.com^
 ||easyshoppingus.com^
-||elaka.lk^
 ||ellezz.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
@@ -366,7 +365,6 @@
 ||tee24h.com^
 ||teearrow.com^
 ||teefoody.com^
-||teemarko.com^
 ||teenimo.com^
 ||teezill.com^
 ||thechildhooddream.com^
