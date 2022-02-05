@@ -73,6 +73,7 @@
 ||cmoboy.com^
 ||cocumbertee.com^
 ||cookietee.com^
+||coolest3d.com^
 ||coolestpod.com^
 ||coolztz.com^
 ||corg.co^
@@ -248,7 +249,6 @@
 ||nearmetshirt.com^
 ||neozor.com^
 ||nevaon.com^
-||newgstore.com^
 ||nicetee.net^
 ||niche3d.us^
 ||nldstore.com^
@@ -361,10 +361,10 @@
 ||swellsup.com^
 ||tadarick.com^
 ||tartannewzealand.myshopify.com^
-||tedgee.com^
 ||tee24h.com^
 ||teearrow.com^
 ||teefoody.com^
+||teemarko.com^
 ||teenimo.com^
 ||teezill.com^
 ||thechildhooddream.com^
