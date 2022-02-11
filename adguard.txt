@@ -308,6 +308,7 @@
 ||shirtwide.com^
 ||shoeaddic.com^
 ||shop.spreadshirt.com^
+||shopusawarehouse.com^
 ||sieuto.com^
 ||sigmaoffers.com^
 ||signpify.com^
