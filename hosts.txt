@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 943
+# Domains: 948
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -302,6 +302,8 @@
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
 0.0.0.0 g1z0.myinstructus.com
+0.0.0.0 www.g1z0.myinstructus.com
+0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
 0.0.0.0 store.gameconsoless.com
@@ -432,6 +434,9 @@
 0.0.0.0 store.ksvitmimay.com
 0.0.0.0 kuteblanket.store
 0.0.0.0 www.kuteblanket.store
+0.0.0.0 kxu.myinstructus.com
+0.0.0.0 www.kxu.myinstructus.com
+0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 store.ladamustore.com
