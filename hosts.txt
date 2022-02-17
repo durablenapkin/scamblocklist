@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 942
+# Domains: 946
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -862,6 +862,9 @@
 0.0.0.0 www.topsdiy.com
 0.0.0.0 trade-skins.net
 0.0.0.0 www.trade-skins.net
+0.0.0.0 treasurefan.com
+0.0.0.0 www.treasurefan.com
+0.0.0.0 store.treasurefan.com
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 store.trendsharks.com
@@ -884,6 +887,7 @@
 0.0.0.0 ultraboxlab.com
 0.0.0.0 www.ultraboxlab.com
 0.0.0.0 store.ultraboxlab.com
+0.0.0.0 um-bs.com
 0.0.0.0 www.um-bs.com
 0.0.0.0 store.um-bs.com
 0.0.0.0 unifully.com
