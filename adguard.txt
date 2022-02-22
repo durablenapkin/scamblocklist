@@ -6,7 +6,6 @@
 
 ||1stireland.com^
 ||1sttheglobal.com^
-||1sttheworld.co^
 ||1sttheworld.com^
 ||1sttheworld.online^
 ||acquatee.com^
@@ -132,6 +131,7 @@
 ||fulfillgift.com^
 ||furoshop.com^
 ||fveco.com^
+||g1z0.myinstructus.com^
 ||gameconsoless.com^
 ||gearanime.com^
 ||gearathena.com^
@@ -190,6 +190,7 @@
 ||kitchendecor.shop^
 ||ksvitmimay.com^
 ||kuteblanket.store^
+||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||legarralazcoz.com^
@@ -300,6 +301,7 @@
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
 ||sentees.com^
+||shinepuzzle.com^
 ||shinezily.com^
 ||shirttest.com^
 ||shirtwide.com^
@@ -391,6 +393,7 @@
 ||uniqueetee.com^
 ||ureashi.com^
 ||usasport247.com^
+||uuc.joyofprogress.com^
 ||vavaname.com^
 ||vegamartz.com^
 ||verfun.com^
