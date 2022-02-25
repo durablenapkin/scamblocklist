@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 953
+# Domains: 954
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -705,6 +705,7 @@
 0.0.0.0 store.shirttest.com
 0.0.0.0 shirtwide.com
 0.0.0.0 www.shirtwide.com
+0.0.0.0 store.shirtwide.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 www.shoeaddic.com
 0.0.0.0 shop.spreadshirt.com
