@@ -50,7 +50,6 @@
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
-||buddhakind.com^
 ||burgershirt.com^
 ||buzzazone.com^
 ||candlesbymadison.com^
@@ -168,7 +167,6 @@
 ||hernoclothing.com^
 ||highty.co^
 ||himete.com^
-||hmccommerce.com^
 ||hookahheroes.com^
 ||horizonbagel.com^
 ||icelandclothing.myshopify.com^
