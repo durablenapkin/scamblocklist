@@ -50,6 +50,7 @@
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
+||buddhakind.com^
 ||burgershirt.com^
 ||buzzazone.com^
 ||candlesbymadison.com^
@@ -189,7 +190,6 @@
 ||kitchendecor.shop^
 ||ksvitmimay.com^
 ||kuteblanket.store^
-||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||legarralazcoz.com^
@@ -393,7 +393,6 @@
 ||uniqueetee.com^
 ||ureashi.com^
 ||usasport247.com^
-||uuc.joyofprogress.com^
 ||vavaname.com^
 ||vegamartz.com^
 ||verfun.com^
