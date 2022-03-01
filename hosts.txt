@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 949
+# Domains: 956
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -340,6 +340,9 @@
 0.0.0.0 goyourheart.com
 0.0.0.0 www.goyourheart.com
 0.0.0.0 store.goyourheart.com
+0.0.0.0 gracesector.com
+0.0.0.0 www.gracesector.com
+0.0.0.0 store.gracesector.com
 0.0.0.0 graciaszone.com
 0.0.0.0 www.graciaszone.com
 0.0.0.0 store.graciaszone.com
@@ -411,7 +414,6 @@
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 khoinguyenhanoi.vn
-0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
@@ -419,6 +421,8 @@
 0.0.0.0 www.killtee.com
 0.0.0.0 kindapod.com
 0.0.0.0 www.kindapod.com
+0.0.0.0 kisserine.com
+0.0.0.0 www.kisserine.com
 0.0.0.0 kitchendecor.shop
 0.0.0.0 ksvitmimay.com
 0.0.0.0 www.ksvitmimay.com
@@ -689,6 +693,9 @@
 0.0.0.0 store.sayhellorugs.com
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
+0.0.0.0 sharonup.com
+0.0.0.0 www.sharonup.com
+0.0.0.0 store.sharonup.com
 0.0.0.0 shinepuzzle.com
 0.0.0.0 www.shinepuzzle.com
 0.0.0.0 store.shinepuzzle.com
