@@ -255,7 +255,6 @@
 ||nofotballshop.com^
 ||nofotballstore.com^
 ||nonofy.com^
-||nordartisan.com^
 ||norfotball.com^
 ||norgefotball.com^
 ||norgejakke.com^
@@ -293,7 +292,6 @@
 ||reforest-iita.org^
 ||reviewshirts.com^
 ||rickamortyshop.com^
-||rincandy.com^
 ||ringtoperfection.com^
 ||rjgriffith.com^
 ||robinmooreband.com^

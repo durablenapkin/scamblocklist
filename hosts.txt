@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 956
+# Domains: 951
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -414,7 +414,7 @@
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 khoinguyenhanoi.vn
-0.0.0.0 store.khoinguyenhanoi.vn
+0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 killtee.com
@@ -580,8 +580,6 @@
 0.0.0.0 nonofy.com
 0.0.0.0 www.nonofy.com
 0.0.0.0 store.nonofy.com
-0.0.0.0 nordartisan.com
-0.0.0.0 www.nordartisan.com
 0.0.0.0 norfotball.com
 0.0.0.0 www.norfotball.com
 0.0.0.0 norgefotball.com
@@ -670,9 +668,6 @@
 0.0.0.0 rickamortyshop.com
 0.0.0.0 www.rickamortyshop.com
 0.0.0.0 store.rickamortyshop.com
-0.0.0.0 rincandy.com
-0.0.0.0 www.rincandy.com
-0.0.0.0 store.rincandy.com
 0.0.0.0 ringtoperfection.com
 0.0.0.0 www.ringtoperfection.com
 0.0.0.0 store.ringtoperfection.com
