@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 951
+# Domains: 953
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -262,6 +262,7 @@
 0.0.0.0 fapst.com
 0.0.0.0 www.fapst.com
 0.0.0.0 store.fapst.com
+0.0.0.0 farmer-love.us
 0.0.0.0 feddiy.com
 0.0.0.0 www.feddiy.com
 0.0.0.0 findglocal.com
@@ -415,6 +416,7 @@
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
+0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 killtee.com
