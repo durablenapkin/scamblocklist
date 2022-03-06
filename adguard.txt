@@ -153,7 +153,6 @@
 ||gossvibe.com^
 ||gotoperfection.com^
 ||goyourheart.com^
-||gracesector.com^
 ||graciaszone.com^
 ||gsport.com^
 ||guccitees.com^
@@ -272,6 +271,7 @@
 ||parajumpersnorway.com^
 ||peace-love.us^
 ||pearstee.com^
+||penguinnow.com^
 ||peppatees.com^
 ||personal84.com^
 ||pharaohstore.com^

@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 953
+# Domains: 952
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -342,9 +342,6 @@
 0.0.0.0 goyourheart.com
 0.0.0.0 www.goyourheart.com
 0.0.0.0 store.goyourheart.com
-0.0.0.0 gracesector.com
-0.0.0.0 www.gracesector.com
-0.0.0.0 store.gracesector.com
 0.0.0.0 graciaszone.com
 0.0.0.0 www.graciaszone.com
 0.0.0.0 store.graciaszone.com
@@ -622,6 +619,8 @@
 0.0.0.0 store.peace-love.us
 0.0.0.0 pearstee.com
 0.0.0.0 www.pearstee.com
+0.0.0.0 penguinnow.com
+0.0.0.0 www.penguinnow.com
 0.0.0.0 peppatees.com
 0.0.0.0 personal84.com
 0.0.0.0 www.personal84.com
