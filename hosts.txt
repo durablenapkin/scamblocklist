@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 954
+# Domains: 952
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -25,7 +25,6 @@
 0.0.0.0 store.adidasko.com
 0.0.0.0 ahenana.com
 0.0.0.0 www.ahenana.com
-0.0.0.0 store.ahenana.com
 0.0.0.0 airmaxskobillige.com
 0.0.0.0 www.airmaxskobillige.com
 0.0.0.0 akarosi.com
@@ -179,6 +178,7 @@
 0.0.0.0 www.corg.co
 0.0.0.0 costcotee.com
 0.0.0.0 www.costcotee.com
+0.0.0.0 store.costcotee.com
 0.0.0.0 couponxoo.com
 0.0.0.0 www.couponxoo.com
 0.0.0.0 customizerbox.com
@@ -415,6 +415,7 @@
 0.0.0.0 store.jellystores.com
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
+0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
@@ -666,9 +667,6 @@
 0.0.0.0 www.reforest-iita.org
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
-0.0.0.0 rickamortyshop.com
-0.0.0.0 www.rickamortyshop.com
-0.0.0.0 store.rickamortyshop.com
 0.0.0.0 ringtoperfection.com
 0.0.0.0 www.ringtoperfection.com
 0.0.0.0 store.ringtoperfection.com
