@@ -36,7 +36,6 @@
 0.0.0.0 store.aliripple.com
 0.0.0.0 aliseshop.com
 0.0.0.0 www.aliseshop.com
-0.0.0.0 store.aliseshop.com
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 www.aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 store.aliyaoberbrunnergreg21.myshopify.com
@@ -119,7 +118,6 @@
 0.0.0.0 www.breakshirts.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
-0.0.0.0 store.buddhakind.com
 0.0.0.0 burgershirt.com
 0.0.0.0 www.burgershirt.com
 0.0.0.0 store.burgershirt.com
@@ -138,7 +136,6 @@
 0.0.0.0 www.charmbean.com
 0.0.0.0 charmsection.com
 0.0.0.0 www.charmsection.com
-0.0.0.0 store.charmsection.com
 0.0.0.0 charpente-ramel.com
 0.0.0.0 www.charpente-ramel.com
 0.0.0.0 store.charpente-ramel.com
@@ -213,6 +210,9 @@
 0.0.0.0 donttreadonmeshop.com
 0.0.0.0 drakternorge.com
 0.0.0.0 www.drakternorge.com
+0.0.0.0 drcarolyngroff.com
+0.0.0.0 www.drcarolyngroff.com
+0.0.0.0 store.drcarolyngroff.com
 0.0.0.0 dreamstee.com
 0.0.0.0 www.dreamstee.com
 0.0.0.0 dreamstees.com
@@ -391,6 +391,7 @@
 0.0.0.0 store.icelandclothing.myshopify.com
 0.0.0.0 ikiha.com
 0.0.0.0 www.ikiha.com
+0.0.0.0 store.ikiha.com
 0.0.0.0 ikoee.com
 0.0.0.0 www.ikoee.com
 0.0.0.0 ilpollenza-sorso23.it
@@ -417,7 +418,6 @@
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
-0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 killtee.com
