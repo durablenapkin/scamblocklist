@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 955
+# Domains: 960
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -36,6 +36,7 @@
 0.0.0.0 store.aliripple.com
 0.0.0.0 aliseshop.com
 0.0.0.0 www.aliseshop.com
+0.0.0.0 store.aliseshop.com
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 www.aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 store.aliyaoberbrunnergreg21.myshopify.com
@@ -172,6 +173,9 @@
 0.0.0.0 www.coolestpod.com
 0.0.0.0 coolztz.com
 0.0.0.0 www.coolztz.com
+0.0.0.0 coralls.com
+0.0.0.0 www.coralls.com
+0.0.0.0 store.coralls.com
 0.0.0.0 corg.co
 0.0.0.0 www.corg.co
 0.0.0.0 costcotee.com
@@ -418,6 +422,7 @@
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
+0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 killtee.com
