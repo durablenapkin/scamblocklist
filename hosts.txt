@@ -570,6 +570,9 @@
 0.0.0.0 www.neozor.com
 0.0.0.0 nevaon.com
 0.0.0.0 www.nevaon.com
+0.0.0.0 newgstore.com
+0.0.0.0 www.newgstore.com
+0.0.0.0 store.newgstore.com
 0.0.0.0 nicetee.net
 0.0.0.0 www.nicetee.net
 0.0.0.0 store.nicetee.net
@@ -836,9 +839,6 @@
 0.0.0.0 www.teearrow.com
 0.0.0.0 teefoody.com
 0.0.0.0 www.teefoody.com
-0.0.0.0 teemarko.com
-0.0.0.0 www.teemarko.com
-0.0.0.0 store.teemarko.com
 0.0.0.0 teenimo.com
 0.0.0.0 www.teenimo.com
 0.0.0.0 teezill.com

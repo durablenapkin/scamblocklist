@@ -249,6 +249,7 @@
 ||nearmetshirt.com^
 ||neozor.com^
 ||nevaon.com^
+||newgstore.com^
 ||nicetee.net^
 ||niche3d.us^
 ||nldstore.com^
@@ -364,7 +365,6 @@
 ||tee24h.com^
 ||teearrow.com^
 ||teefoody.com^
-||teemarko.com^
 ||teenimo.com^
 ||teezill.com^
 ||thechildhooddream.com^
