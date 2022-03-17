@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 952
+# Domains: 956
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -601,6 +601,7 @@
 0.0.0.0 odinpc.com
 0.0.0.0 www.odinpc.com
 0.0.0.0 oflike.com
+0.0.0.0 www.oflike.com
 0.0.0.0 store.oflike.com
 0.0.0.0 ogogear.com
 0.0.0.0 www.ogogear.com
@@ -633,6 +634,7 @@
 0.0.0.0 www.personal84.com
 0.0.0.0 pharaohstore.com
 0.0.0.0 www.pharaohstore.com
+0.0.0.0 store.pharaohstore.com
 0.0.0.0 pickablegift.com
 0.0.0.0 www.pickablegift.com
 0.0.0.0 store.pickablegift.com
@@ -771,6 +773,7 @@
 0.0.0.0 www.sportyprinty.com
 0.0.0.0 spreadstores.com
 0.0.0.0 www.spreadstores.com
+0.0.0.0 startjacket.com
 0.0.0.0 www.startjacket.com
 0.0.0.0 store.startjacket.com
 0.0.0.0 startuplatte.com
@@ -905,6 +908,7 @@
 0.0.0.0 www.ureashi.com
 0.0.0.0 usasport247.com
 0.0.0.0 www.usasport247.com
+0.0.0.0 store.usasport247.com
 0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
