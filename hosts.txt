@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 956
+# Domains: 955
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -516,7 +516,6 @@
 0.0.0.0 store.meaningift.com
 0.0.0.0 meowpinky.com
 0.0.0.0 www.meowpinky.com
-0.0.0.0 mezlife.com
 0.0.0.0 www.mezlife.com
 0.0.0.0 store.mezlife.com
 0.0.0.0 miucart.com
