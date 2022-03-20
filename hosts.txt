@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 952
+# Domains: 950
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -371,8 +371,6 @@
 0.0.0.0 www.hazayla.com
 0.0.0.0 hbofunkoshop.com
 0.0.0.0 www.hbofunkoshop.com
-0.0.0.0 helgaz.com
-0.0.0.0 www.helgaz.com
 0.0.0.0 helpnanacenter.helpscoutdocs.com
 0.0.0.0 www.helpnanacenter.helpscoutdocs.com
 0.0.0.0 store.helpnanacenter.helpscoutdocs.com
@@ -459,7 +457,6 @@
 0.0.0.0 ligerking.com
 0.0.0.0 www.ligerking.com
 0.0.0.0 lindseysopticians.com
-0.0.0.0 www.lindseysopticians.com
 0.0.0.0 store.lindseysopticians.com
 0.0.0.0 linkshe.com
 0.0.0.0 www.linkshe.com
@@ -517,6 +514,7 @@
 0.0.0.0 meowpinky.com
 0.0.0.0 www.meowpinky.com
 0.0.0.0 mezlife.com
+0.0.0.0 www.mezlife.com
 0.0.0.0 store.mezlife.com
 0.0.0.0 miucart.com
 0.0.0.0 www.miucart.com
