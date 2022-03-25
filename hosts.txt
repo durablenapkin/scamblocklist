@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 954
+# Domains: 945
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -40,9 +40,6 @@
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 www.aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 store.aliyaoberbrunnergreg21.myshopify.com
-0.0.0.0 allergyfl.com
-0.0.0.0 www.allergyfl.com
-0.0.0.0 store.allergyfl.com
 0.0.0.0 allstarshirt.com
 0.0.0.0 www.allstarshirt.com
 0.0.0.0 alohazing.com
@@ -520,9 +517,6 @@
 0.0.0.0 store.meaningift.com
 0.0.0.0 meowpinky.com
 0.0.0.0 www.meowpinky.com
-0.0.0.0 mezlife.com
-0.0.0.0 www.mezlife.com
-0.0.0.0 store.mezlife.com
 0.0.0.0 miucart.com
 0.0.0.0 www.miucart.com
 0.0.0.0 miuprints.com
@@ -957,6 +951,3 @@
 0.0.0.0 zerowasteinitiative.com
 0.0.0.0 www.zerowasteinitiative.com
 0.0.0.0 store.zerowasteinitiative.com
-0.0.0.0 zgalaxytee.com
-0.0.0.0 www.zgalaxytee.com
-0.0.0.0 store.zgalaxytee.com
