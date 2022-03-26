@@ -18,7 +18,9 @@
 ||aliripple.com^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
+||allergyfl.com^
 ||allstarshirt.com^
+||alltestbanksolutions.com^
 ||alohazing.com^
 ||altruetech.com^
 ||anclice.com^
@@ -228,6 +230,7 @@
 ||mbtnorge.com^
 ||meaningift.com^
 ||meowpinky.com^
+||mezlife.com^
 ||miucart.com^
 ||miuprints.com^
 ||monkstars.com^
@@ -415,3 +418,4 @@
 ||yomoun.com^
 ||zedbubble.com^
 ||zerowasteinitiative.com^
+||zgalaxytee.com^
