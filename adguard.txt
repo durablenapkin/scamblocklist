@@ -150,7 +150,6 @@
 ||giftyweb.com^
 ||gizmopage.com^
 ||gladiadormalas.com.br^
-||glendaz.com^
 ||glstee.com^
 ||godeskonettbutikk.com^
 ||gogiworld.com^
@@ -318,7 +317,6 @@
 ||silverlanetrading.com^
 ||skincheap.com^
 ||skins-store.net^
-||skinsplanet.net^
 ||skinszone.net^
 ||sligen.com^
 ||smartgadgettrend.com^
@@ -382,7 +380,6 @@
 ||tomadamsenergy.com^
 ||topsdiy.com^
 ||trade-skins.net^
-||treasurefan.com^
 ||trendsharks.com^
 ||trendybuddystore.com^
 ||treverschmelerkris18.myshopify.com^

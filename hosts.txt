@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 957
+# Domains: 947
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -336,9 +336,6 @@
 0.0.0.0 www.gizmopage.com
 0.0.0.0 gladiadormalas.com.br
 0.0.0.0 www.gladiadormalas.com.br
-0.0.0.0 glendaz.com
-0.0.0.0 www.glendaz.com
-0.0.0.0 store.glendaz.com
 0.0.0.0 glstee.com
 0.0.0.0 www.glstee.com
 0.0.0.0 godeskonettbutikk.com
@@ -426,7 +423,6 @@
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
-0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 killtee.com
@@ -729,9 +725,6 @@
 0.0.0.0 store.skincheap.com
 0.0.0.0 skins-store.net
 0.0.0.0 www.skins-store.net
-0.0.0.0 skinsplanet.net
-0.0.0.0 www.skinsplanet.net
-0.0.0.0 store.skinsplanet.net
 0.0.0.0 skinszone.net
 0.0.0.0 www.skinszone.net
 0.0.0.0 sligen.com
@@ -877,9 +870,6 @@
 0.0.0.0 www.topsdiy.com
 0.0.0.0 trade-skins.net
 0.0.0.0 www.trade-skins.net
-0.0.0.0 treasurefan.com
-0.0.0.0 www.treasurefan.com
-0.0.0.0 store.treasurefan.com
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 store.trendsharks.com
