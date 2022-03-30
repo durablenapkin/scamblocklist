@@ -311,7 +311,6 @@
 ||shirtwide.com^
 ||shoeaddic.com^
 ||shop.spreadshirt.com^
-||shopusawarehouse.com^
 ||sieuto.com^
 ||sigmaoffers.com^
 ||signpify.com^
@@ -374,6 +373,7 @@
 ||thekeilas.com^
 ||theshiny.store^
 ||theshirtyouneed.com^
+||thevitic.com^
 ||thevitic.onshopbase.com^
 ||tikgeeker.com^
 ||tiranaaquapark-eg.com^
