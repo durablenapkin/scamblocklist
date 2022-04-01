@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 955
+# Domains: 960
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -69,6 +69,7 @@
 0.0.0.0 www.arvetellefsen.no
 0.0.0.0 assassinfitness.com
 0.0.0.0 www.assassinfitness.com
+0.0.0.0 store.assassinfitness.com
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
 0.0.0.0 attenstyle.com
@@ -100,6 +101,9 @@
 0.0.0.0 www.bestmoonshop.com
 0.0.0.0 bknstore.com
 0.0.0.0 www.bknstore.com
+0.0.0.0 blingyy.com
+0.0.0.0 www.blingyy.com
+0.0.0.0 store.blingyy.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 www.bloomingvibe.com
 0.0.0.0 store.bloomingvibe.com
@@ -188,11 +192,13 @@
 0.0.0.0 www.couponxoo.com
 0.0.0.0 customizerbox.com
 0.0.0.0 www.customizerbox.com
+0.0.0.0 store.customizerbox.com
 0.0.0.0 danylevych.com
 0.0.0.0 www.danylevych.com
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
+0.0.0.0 store.deergift.com
 0.0.0.0 defcon7.com.br
 0.0.0.0 www.defcon7.com.br
 0.0.0.0 deluxdoll.com
@@ -361,7 +367,6 @@
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
 0.0.0.0 guus.store
-0.0.0.0 www.guus.store
 0.0.0.0 store.guus.store
 0.0.0.0 hairyfy.com
 0.0.0.0 www.hairyfy.com
@@ -495,6 +500,7 @@
 0.0.0.0 www.lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 www.lucidtiger.com
+0.0.0.0 store.lucidtiger.com
 0.0.0.0 luckyhomie.com
 0.0.0.0 www.luckyhomie.com
 0.0.0.0 store.luckyhomie.com
@@ -524,8 +530,6 @@
 0.0.0.0 mezlife.com
 0.0.0.0 www.mezlife.com
 0.0.0.0 store.mezlife.com
-0.0.0.0 miucart.com
-0.0.0.0 www.miucart.com
 0.0.0.0 miuprints.com
 0.0.0.0 www.miuprints.com
 0.0.0.0 store.miuprints.com
@@ -592,7 +596,6 @@
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
 0.0.0.0 norgejakke.com
-0.0.0.0 www.norgejakke.com
 0.0.0.0 store.norgejakke.com
 0.0.0.0 norgejakkerbutikk.com
 0.0.0.0 www.norgejakkerbutikk.com
@@ -719,6 +722,7 @@
 0.0.0.0 store.shopusawarehouse.com
 0.0.0.0 sieuto.com
 0.0.0.0 www.sieuto.com
+0.0.0.0 store.sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
 0.0.0.0 signpify.com
@@ -735,6 +739,7 @@
 0.0.0.0 www.sligen.com
 0.0.0.0 smartgadgettrend.com
 0.0.0.0 www.smartgadgettrend.com
+0.0.0.0 store.smartgadgettrend.com
 0.0.0.0 smartpower4all.org
 0.0.0.0 www.smartpower4all.org
 0.0.0.0 smartproduct.site
@@ -849,7 +854,6 @@
 0.0.0.0 thehappywood.com
 0.0.0.0 www.thehappywood.com
 0.0.0.0 thekeilas.com
-0.0.0.0 www.thekeilas.com
 0.0.0.0 store.thekeilas.com
 0.0.0.0 theshiny.store
 0.0.0.0 www.theshiny.store
@@ -928,6 +932,7 @@
 0.0.0.0 viberman.com
 0.0.0.0 vikingstore.co
 0.0.0.0 www.vikingstore.co
+0.0.0.0 store.vikingstore.co
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 www.vipticketgiveaway.com
 0.0.0.0 wavetshirt.com
