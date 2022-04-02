@@ -31,9 +31,6 @@
 0.0.0.0 www.akarosi.com
 0.0.0.0 akatee.com
 0.0.0.0 www.akatee.com
-0.0.0.0 aliripple.com
-0.0.0.0 www.aliripple.com
-0.0.0.0 store.aliripple.com
 0.0.0.0 aliseshop.com
 0.0.0.0 www.aliseshop.com
 0.0.0.0 store.aliseshop.com
@@ -204,6 +201,8 @@
 0.0.0.0 deluxdoll.com
 0.0.0.0 www.deluxdoll.com
 0.0.0.0 store.deluxdoll.com
+0.0.0.0 devifoodgrains.com
+0.0.0.0 www.devifoodgrains.com
 0.0.0.0 deytee.com
 0.0.0.0 www.deytee.com
 0.0.0.0 dezpez.com
@@ -367,6 +366,7 @@
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
 0.0.0.0 guus.store
+0.0.0.0 www.guus.store
 0.0.0.0 store.guus.store
 0.0.0.0 hairyfy.com
 0.0.0.0 www.hairyfy.com
@@ -427,8 +427,6 @@
 0.0.0.0 store.jellystores.com
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
-0.0.0.0 khoinguyenhanoi.vn
-0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
@@ -468,8 +466,6 @@
 0.0.0.0 store.letteringift.com
 0.0.0.0 ligerking.com
 0.0.0.0 www.ligerking.com
-0.0.0.0 lindseysopticians.com
-0.0.0.0 www.lindseysopticians.com
 0.0.0.0 store.lindseysopticians.com
 0.0.0.0 linkshe.com
 0.0.0.0 www.linkshe.com
@@ -530,6 +526,8 @@
 0.0.0.0 mezlife.com
 0.0.0.0 www.mezlife.com
 0.0.0.0 store.mezlife.com
+0.0.0.0 miucart.com
+0.0.0.0 www.miucart.com
 0.0.0.0 miuprints.com
 0.0.0.0 www.miuprints.com
 0.0.0.0 store.miuprints.com
@@ -596,6 +594,7 @@
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
 0.0.0.0 norgejakke.com
+0.0.0.0 www.norgejakke.com
 0.0.0.0 store.norgejakke.com
 0.0.0.0 norgejakkerbutikk.com
 0.0.0.0 www.norgejakkerbutikk.com
@@ -854,6 +853,7 @@
 0.0.0.0 thehappywood.com
 0.0.0.0 www.thehappywood.com
 0.0.0.0 thekeilas.com
+0.0.0.0 www.thekeilas.com
 0.0.0.0 store.thekeilas.com
 0.0.0.0 theshiny.store
 0.0.0.0 www.theshiny.store

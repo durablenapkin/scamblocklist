@@ -15,7 +15,6 @@
 ||airmaxskobillige.com^
 ||akarosi.com^
 ||akatee.com^
-||aliripple.com^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allergyfl.com^
@@ -88,6 +87,7 @@
 ||deergift.com^
 ||defcon7.com.br^
 ||deluxdoll.com^
+||devifoodgrains.com^
 ||deytee.com^
 ||dezpez.com^
 ||dkfodboldstore.com^
@@ -231,6 +231,7 @@
 ||meaningift.com^
 ||meowpinky.com^
 ||mezlife.com^
+||miucart.com^
 ||miuprints.com^
 ||monkstars.com^
 ||mononus.com^
