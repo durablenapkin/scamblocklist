@@ -39,7 +39,6 @@
 ||beecrave.com^
 ||benecharm.com^
 ||berfumetee.com^
-||berrycats.com^
 ||bestbabyyoda.com^
 ||bestmoonshop.com^
 ||bknstore.com^
@@ -261,7 +260,6 @@
 ||norfotball.com^
 ||norgefotball.com^
 ||norgejakke.com^
-||norgejakkerbutikk.com^
 ||norgeshoes.com^
 ||odinpc.com^
 ||oflike.com^
@@ -365,7 +363,6 @@
 ||tartannewzealand.myshopify.com^
 ||tee24h.com^
 ||teearrow.com^
-||teefoody.com^
 ||teenimo.com^
 ||teezill.com^
 ||thechildhooddream.com^
