@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 955
+# Domains: 950
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -362,8 +362,6 @@
 0.0.0.0 www.guccitees.com
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
-0.0.0.0 guus.store
-0.0.0.0 www.guus.store
 0.0.0.0 store.guus.store
 0.0.0.0 hairyfy.com
 0.0.0.0 www.hairyfy.com
@@ -425,7 +423,6 @@
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 khoinguyenhanoi.vn
-0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
@@ -529,9 +526,6 @@
 0.0.0.0 store.mezlife.com
 0.0.0.0 miucart.com
 0.0.0.0 www.miucart.com
-0.0.0.0 miuprints.com
-0.0.0.0 www.miuprints.com
-0.0.0.0 store.miuprints.com
 0.0.0.0 monkstars.com
 0.0.0.0 www.monkstars.com
 0.0.0.0 mononus.com
@@ -595,6 +589,7 @@
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
 0.0.0.0 norgejakke.com
+0.0.0.0 www.norgejakke.com
 0.0.0.0 store.norgejakke.com
 0.0.0.0 norgeshoes.com
 0.0.0.0 www.norgeshoes.com
