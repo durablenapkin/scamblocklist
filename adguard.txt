@@ -15,6 +15,7 @@
 ||airmaxskobillige.com^
 ||akarosi.com^
 ||akatee.com^
+||aliripple.com^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allergyfl.com^
@@ -62,6 +63,7 @@
 ||charmsection.com^
 ||charpente-ramel.com^
 ||cherryzones.com^
+||chiclife.co.uk^
 ||chikepod.com^
 ||chipcy.com^
 ||chipteeamz.com^
@@ -187,10 +189,12 @@
 ||januashop.com^
 ||jellystores.com^
 ||jollyfamilygifts.net^
+||joseph-holland.com^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
 ||killtee.com^
 ||kindapod.com^
+||kingteestore.com^
 ||kisserine.com^
 ||kitchendecor.shop^
 ||ksvitmimay.com^
