@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 965
+# Domains: 966
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -122,7 +122,6 @@
 0.0.0.0 www.breakshirts.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
-0.0.0.0 store.buddhakind.com
 0.0.0.0 burgershirt.com
 0.0.0.0 www.burgershirt.com
 0.0.0.0 store.burgershirt.com
@@ -195,6 +194,8 @@
 0.0.0.0 store.customizerbox.com
 0.0.0.0 danylevych.com
 0.0.0.0 www.danylevych.com
+0.0.0.0 daradis.com
+0.0.0.0 www.daradis.com
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
