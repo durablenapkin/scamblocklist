@@ -8,7 +8,6 @@
 ||1sttheglobal.com^
 ||1sttheworld.com^
 ||1sttheworld.online^
-||7.shopsharm.ru^
 ||acquatee.com^
 ||adidasko.com^
 ||ahenana.com^
@@ -228,6 +227,7 @@
 ||luvinstars.com^
 ||luxsgear.com^
 ||magnasat.com^
+||makewallperfect.store^
 ||mangacos.com^
 ||marleytecnologica.com^
 ||mbtnorge.com^
@@ -310,7 +310,6 @@
 ||shinepuzzle.com^
 ||shinezily.com^
 ||shirttest.com^
-||shirtwide.com^
 ||shoeaddic.com^
 ||shop.spreadshirt.com^
 ||shopusawarehouse.com^
