@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 962
+# Domains: 963
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -119,7 +119,6 @@
 0.0.0.0 www.breakshirts.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
-0.0.0.0 store.buddhakind.com
 0.0.0.0 burgershirt.com
 0.0.0.0 www.burgershirt.com
 0.0.0.0 store.burgershirt.com
@@ -457,6 +456,7 @@
 0.0.0.0 www.ladamustore.com
 0.0.0.0 store.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
+0.0.0.0 www.lakersfanshoponline.com
 0.0.0.0 store.lakersfanshoponline.com
 0.0.0.0 legarralazcoz.com
 0.0.0.0 www.legarralazcoz.com
@@ -521,6 +521,7 @@
 0.0.0.0 magnasat.com
 0.0.0.0 www.magnasat.com
 0.0.0.0 makewallperfect.store
+0.0.0.0 www.makewallperfect.store
 0.0.0.0 store.makewallperfect.store
 0.0.0.0 mangacos.com
 0.0.0.0 www.mangacos.com
@@ -536,6 +537,7 @@
 0.0.0.0 www.meowpinky.com
 0.0.0.0 mezlife.com
 0.0.0.0 www.mezlife.com
+0.0.0.0 store.mezlife.com
 0.0.0.0 miucart.com
 0.0.0.0 www.miucart.com
 0.0.0.0 monkstars.com
@@ -843,7 +845,6 @@
 0.0.0.0 www.teenimo.com
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
-0.0.0.0 thechildhooddream.com
 0.0.0.0 www.thechildhooddream.com
 0.0.0.0 store.thechildhooddream.com
 0.0.0.0 thecustomee.com
