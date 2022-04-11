@@ -290,7 +290,6 @@
 ||premiumtour-don.com^
 ||printkay.com^
 ||printteestore.com^
-||qooraa.com^
 ||quintrendy.com^
 ||rabamnetee.com^
 ||rebeccatees.com^
@@ -388,7 +387,6 @@
 ||tromselementbygg.no^
 ||tulumwellnessacademy.com^
 ||tycomex.com^
-||u.umax-pro.ru^
 ||ultimate-tech-products.myshopify.com^
 ||ultraboxlab.com^
 ||um-bs.com^
