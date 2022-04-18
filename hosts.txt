@@ -125,6 +125,8 @@
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 canjaume.com
 0.0.0.0 www.canjaume.com
+0.0.0.0 caperforaciones.com
+0.0.0.0 www.caperforaciones.com
 0.0.0.0 carmenfloral.com
 0.0.0.0 www.carmenfloral.com
 0.0.0.0 store.carmenfloral.com
@@ -132,8 +134,6 @@
 0.0.0.0 www.carvemyname.com
 0.0.0.0 charmbean.com
 0.0.0.0 www.charmbean.com
-0.0.0.0 charmsection.com
-0.0.0.0 www.charmsection.com
 0.0.0.0 charpente-ramel.com
 0.0.0.0 www.charpente-ramel.com
 0.0.0.0 store.charpente-ramel.com
