@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 958
+# Domains: 966
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -37,6 +37,9 @@
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 www.aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 store.aliyaoberbrunnergreg21.myshopify.com
+0.0.0.0 allergyfl.com
+0.0.0.0 www.allergyfl.com
+0.0.0.0 store.allergyfl.com
 0.0.0.0 allstarshirt.com
 0.0.0.0 www.allstarshirt.com
 0.0.0.0 alltestbanksolutions.com
@@ -51,6 +54,8 @@
 0.0.0.0 animeshoppers.com
 0.0.0.0 www.animeshoppers.com
 0.0.0.0 store.animeshoppers.com
+0.0.0.0 aoptee.com
+0.0.0.0 www.aoptee.com
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
 0.0.0.0 store.army-shop.onshopbase.com
@@ -476,7 +481,6 @@
 0.0.0.0 www.ligerking.com
 0.0.0.0 lindseysopticians.com
 0.0.0.0 www.lindseysopticians.com
-0.0.0.0 store.lindseysopticians.com
 0.0.0.0 linkshe.com
 0.0.0.0 www.linkshe.com
 0.0.0.0 linostee.com
@@ -536,6 +540,9 @@
 0.0.0.0 store.meaningift.com
 0.0.0.0 meowpinky.com
 0.0.0.0 www.meowpinky.com
+0.0.0.0 mezlife.com
+0.0.0.0 www.mezlife.com
+0.0.0.0 store.mezlife.com
 0.0.0.0 miucart.com
 0.0.0.0 www.miucart.com
 0.0.0.0 monkstars.com
@@ -759,6 +766,7 @@
 0.0.0.0 www.source84.com
 0.0.0.0 southernlife.net
 0.0.0.0 www.southernlife.net
+0.0.0.0 store.southernlife.net
 0.0.0.0 southpark-fan.com
 0.0.0.0 www.southpark-fan.com
 0.0.0.0 sozonest.com
