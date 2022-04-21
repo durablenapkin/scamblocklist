@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 972
+# Domains: 966
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -185,9 +185,6 @@
 0.0.0.0 store.coralls.com
 0.0.0.0 corg.co
 0.0.0.0 www.corg.co
-0.0.0.0 costcotee.com
-0.0.0.0 www.costcotee.com
-0.0.0.0 store.costcotee.com
 0.0.0.0 couponxoo.com
 0.0.0.0 www.couponxoo.com
 0.0.0.0 customizerbox.com
@@ -246,8 +243,6 @@
 0.0.0.0 store.enchantestore.myshopify.com
 0.0.0.0 engineracing.net
 0.0.0.0 www.engineracing.net
-0.0.0.0 envisiongear.com
-0.0.0.0 www.envisiongear.com
 0.0.0.0 esl-gaming.com
 0.0.0.0 www.esl-gaming.com
 0.0.0.0 eudoraz.com
@@ -770,7 +765,6 @@
 0.0.0.0 www.source84.com
 0.0.0.0 southernlife.net
 0.0.0.0 www.southernlife.net
-0.0.0.0 store.southernlife.net
 0.0.0.0 southpark-fan.com
 0.0.0.0 www.southpark-fan.com
 0.0.0.0 sozonest.com
