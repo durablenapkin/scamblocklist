@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 966
+# Domains: 969
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -243,6 +243,9 @@
 0.0.0.0 store.enchantestore.myshopify.com
 0.0.0.0 engineracing.net
 0.0.0.0 www.engineracing.net
+0.0.0.0 envisiongear.com
+0.0.0.0 www.envisiongear.com
+0.0.0.0 store.envisiongear.com
 0.0.0.0 esl-gaming.com
 0.0.0.0 www.esl-gaming.com
 0.0.0.0 eudoraz.com
