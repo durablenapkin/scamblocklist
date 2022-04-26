@@ -31,6 +31,7 @@
 ||arvetellefsen.no^
 ||assassinfitness.com^
 ||atrendsz.com^
+||attenstyle.com^
 ||aussiesportfashion.com^
 ||azfancy.com^
 ||azitecs.com^
@@ -386,11 +387,11 @@
 ||trade-skins.net^
 ||treasurefan.com^
 ||trendsharks.com^
+||trendybuddystore.com^
 ||treverschmelerkris18.myshopify.com^
 ||tromselementbygg.no^
 ||tulumwellnessacademy.com^
 ||tycomex.com^
-||u.umax-pro.ru^
 ||ultimate-tech-products.myshopify.com^
 ||ultraboxlab.com^
 ||um-bs.com^

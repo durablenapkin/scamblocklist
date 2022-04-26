@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 959
+# Domains: 962
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -71,6 +71,9 @@
 0.0.0.0 store.assassinfitness.com
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
+0.0.0.0 attenstyle.com
+0.0.0.0 www.attenstyle.com
+0.0.0.0 store.attenstyle.com
 0.0.0.0 aussiesportfashion.com
 0.0.0.0 www.aussiesportfashion.com
 0.0.0.0 azfancy.com
@@ -118,7 +121,6 @@
 0.0.0.0 www.breakshirts.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
-0.0.0.0 store.buddhakind.com
 0.0.0.0 burgershirt.com
 0.0.0.0 www.burgershirt.com
 0.0.0.0 store.burgershirt.com
@@ -170,6 +172,7 @@
 0.0.0.0 cocumbertee.com
 0.0.0.0 www.cocumbertee.com
 0.0.0.0 cookietee.com
+0.0.0.0 www.cookietee.com
 0.0.0.0 www.coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 www.coolestpod.com
@@ -892,6 +895,9 @@
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 store.trendsharks.com
+0.0.0.0 trendybuddystore.com
+0.0.0.0 www.trendybuddystore.com
+0.0.0.0 store.trendybuddystore.com
 0.0.0.0 treverschmelerkris18.myshopify.com
 0.0.0.0 www.treverschmelerkris18.myshopify.com
 0.0.0.0 store.treverschmelerkris18.myshopify.com
@@ -901,9 +907,6 @@
 0.0.0.0 www.tulumwellnessacademy.com
 0.0.0.0 tycomex.com
 0.0.0.0 www.tycomex.com
-0.0.0.0 u.umax-pro.ru
-0.0.0.0 www.u.umax-pro.ru
-0.0.0.0 store.u.umax-pro.ru
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 www.ultimate-tech-products.myshopify.com
 0.0.0.0 store.ultimate-tech-products.myshopify.com
