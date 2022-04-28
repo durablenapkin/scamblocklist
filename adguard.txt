@@ -233,7 +233,6 @@
 ||mbtnorge.com^
 ||meaningift.com^
 ||meowpinky.com^
-||mezlife.com^
 ||miucart.com^
 ||monkstars.com^
 ||mononus.com^
@@ -391,6 +390,7 @@
 ||tromselementbygg.no^
 ||tulumwellnessacademy.com^
 ||tycomex.com^
+||u.umax-pro.ru^
 ||ultimate-tech-products.myshopify.com^
 ||ultraboxlab.com^
 ||um-bs.com^
