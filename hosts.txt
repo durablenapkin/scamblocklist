@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 959
+# Domains: 951
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -68,11 +68,9 @@
 0.0.0.0 www.arvetellefsen.no
 0.0.0.0 assassinfitness.com
 0.0.0.0 www.assassinfitness.com
-0.0.0.0 store.assassinfitness.com
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
 0.0.0.0 attenstyle.com
-0.0.0.0 www.attenstyle.com
 0.0.0.0 store.attenstyle.com
 0.0.0.0 aussiesportfashion.com
 0.0.0.0 www.aussiesportfashion.com
@@ -145,7 +143,6 @@
 0.0.0.0 store.cherryzones.com
 0.0.0.0 chiclife.co.uk
 0.0.0.0 www.chiclife.co.uk
-0.0.0.0 store.chiclife.co.uk
 0.0.0.0 chikepod.com
 0.0.0.0 www.chikepod.com
 0.0.0.0 chipcy.com
@@ -154,6 +151,8 @@
 0.0.0.0 www.chipteeamz.com
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
+0.0.0.0 cition.info
+0.0.0.0 www.cition.info
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 www.cityofdream.co.uk
 0.0.0.0 clemoa.com
@@ -186,13 +185,11 @@
 0.0.0.0 www.couponxoo.com
 0.0.0.0 customizerbox.com
 0.0.0.0 www.customizerbox.com
-0.0.0.0 store.customizerbox.com
 0.0.0.0 danylevych.com
 0.0.0.0 www.danylevych.com
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
-0.0.0.0 store.deergift.com
 0.0.0.0 defcon7.com.br
 0.0.0.0 www.defcon7.com.br
 0.0.0.0 deluxdoll.com
@@ -315,7 +312,6 @@
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
 0.0.0.0 g1z0.myinstructus.com
-0.0.0.0 www.g1z0.myinstructus.com
 0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
@@ -431,6 +427,7 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 khoinguyenhanoi.vn
+0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
@@ -451,8 +448,6 @@
 0.0.0.0 kuteblanket.store
 0.0.0.0 www.kuteblanket.store
 0.0.0.0 kxu.myinstructus.com
-0.0.0.0 www.kxu.myinstructus.com
-0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 store.ladamustore.com
@@ -506,7 +501,6 @@
 0.0.0.0 www.lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 www.lucidtiger.com
-0.0.0.0 store.lucidtiger.com
 0.0.0.0 luckyhomie.com
 0.0.0.0 www.luckyhomie.com
 0.0.0.0 store.luckyhomie.com
@@ -725,7 +719,6 @@
 0.0.0.0 store.shopusawarehouse.com
 0.0.0.0 sieuto.com
 0.0.0.0 www.sieuto.com
-0.0.0.0 store.sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
 0.0.0.0 signpify.com
@@ -934,7 +927,6 @@
 0.0.0.0 viberman.com
 0.0.0.0 vikingstore.co
 0.0.0.0 www.vikingstore.co
-0.0.0.0 store.vikingstore.co
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 www.vipticketgiveaway.com
 0.0.0.0 wavetshirt.com
