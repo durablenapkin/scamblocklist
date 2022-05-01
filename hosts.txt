@@ -135,6 +135,7 @@
 0.0.0.0 carvemyname.com
 0.0.0.0 www.carvemyname.com
 0.0.0.0 charmbean.com
+0.0.0.0 www.charmbean.com
 0.0.0.0 charpente-ramel.com
 0.0.0.0 www.charpente-ramel.com
 0.0.0.0 store.charpente-ramel.com
@@ -429,7 +430,6 @@
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
-0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 killtee.com
