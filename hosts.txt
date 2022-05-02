@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 956
+# Domains: 951
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -37,9 +37,6 @@
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 www.aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 store.aliyaoberbrunnergreg21.myshopify.com
-0.0.0.0 allergyfl.com
-0.0.0.0 www.allergyfl.com
-0.0.0.0 store.allergyfl.com
 0.0.0.0 allstarshirt.com
 0.0.0.0 www.allstarshirt.com
 0.0.0.0 alltestbanksolutions.com
@@ -120,6 +117,7 @@
 0.0.0.0 www.breakshirts.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
+0.0.0.0 store.buddhakind.com
 0.0.0.0 burgershirt.com
 0.0.0.0 www.burgershirt.com
 0.0.0.0 store.burgershirt.com
@@ -430,6 +428,7 @@
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
+0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 killtee.com
@@ -656,9 +655,6 @@
 0.0.0.0 store.popeurope.com
 0.0.0.0 poppop.online
 0.0.0.0 www.poppop.online
-0.0.0.0 poravoda.com
-0.0.0.0 www.poravoda.com
-0.0.0.0 store.poravoda.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 premiumtour-don.com
@@ -845,7 +841,6 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 thechildhooddream.com
 0.0.0.0 www.thechildhooddream.com
-0.0.0.0 store.thechildhooddream.com
 0.0.0.0 thecustomee.com
 0.0.0.0 www.thecustomee.com
 0.0.0.0 thegeekgifts.com
