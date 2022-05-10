@@ -206,7 +206,6 @@
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
 ||letteringift.com^
-||levastyle.com^
 ||ligerking.com^
 ||lindseysopticians.com^
 ||linkshe.com^
@@ -261,6 +260,7 @@
 ||nofotballstore.com^
 ||nonofy.com^
 ||norfotball.com^
+||norge.parkaoutdoor.com^
 ||norgefotball.com^
 ||norgejakke.com^
 ||norgeshoes.com^
@@ -365,6 +365,7 @@
 ||tartannewzealand.myshopify.com^
 ||tee24h.com^
 ||teearrow.com^
+||teefoody.com^
 ||teenimo.com^
 ||teesunshine.com^
 ||teezill.com^
