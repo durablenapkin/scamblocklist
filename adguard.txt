@@ -14,7 +14,6 @@
 ||airmaxskobillige.com^
 ||akarosi.com^
 ||akatee.com^
-||aliripple.com^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allstarshirt.com^
@@ -234,7 +233,6 @@
 ||mbtnorge.com^
 ||meaningift.com^
 ||meowpinky.com^
-||miucart.com^
 ||monkstars.com^
 ||mononus.com^
 ||moteshoes.com^
@@ -281,7 +279,6 @@
 ||personal84.com^
 ||pharaohstore.com^
 ||pickablegift.com^
-||pickcheaptee.com^
 ||pjs.outlet.com^
 ||plutostars.com^
 ||popeurope.com^
@@ -305,6 +302,7 @@
 ||rosateeshop.com^
 ||royaldecorhome.store^
 ||saveeeee.myshopify.com^
+||sayhellorugs.com^
 ||sentees.com^
 ||sharonup.com^
 ||shinepuzzle.com^
