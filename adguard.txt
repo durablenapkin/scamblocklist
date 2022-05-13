@@ -67,7 +67,6 @@
 ||chipcy.com^
 ||chipteeamz.com^
 ||cipustar.com^
-||cition.info^
 ||cityofdream.co.uk^
 ||clemoa.com^
 ||cloverszone.com^
@@ -233,6 +232,7 @@
 ||mbtnorge.com^
 ||meaningift.com^
 ||meowpinky.com^
+||miucart.com^
 ||monkstars.com^
 ||mononus.com^
 ||moteshoes.com^
@@ -388,7 +388,6 @@
 ||tromselementbygg.no^
 ||tulumwellnessacademy.com^
 ||tycomex.com^
-||u.umax-pro.ru^
 ||ultimate-tech-products.myshopify.com^
 ||ultraboxlab.com^
 ||um-bs.com^
