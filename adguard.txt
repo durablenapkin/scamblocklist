@@ -78,7 +78,6 @@
 ||coolest3d.com^
 ||coolestpod.com^
 ||coolztz.com^
-||coralls.com^
 ||corg.co^
 ||couponxoo.com^
 ||customizerbox.com^
@@ -136,7 +135,6 @@
 ||friday99.com^
 ||frostgoddess.com^
 ||fruitstee.com^
-||fulfillgift.com^
 ||furoshop.com^
 ||fveco.com^
 ||gameconsoless.com^
@@ -389,7 +387,6 @@
 ||tulumwellnessacademy.com^
 ||tycomex.com^
 ||ultimate-tech-products.myshopify.com^
-||ultraboxlab.com^
 ||um-bs.com^
 ||unifully.com^
 ||uniqueetee.com^

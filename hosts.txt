@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 947
+# Domains: 935
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -153,7 +153,6 @@
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
 0.0.0.0 cition.info
-0.0.0.0 www.cition.info
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 www.cityofdream.co.uk
 0.0.0.0 clemoa.com
@@ -177,9 +176,6 @@
 0.0.0.0 coolztz.com
 0.0.0.0 www.coolztz.com
 0.0.0.0 store.coolztz.com
-0.0.0.0 coralls.com
-0.0.0.0 www.coralls.com
-0.0.0.0 store.coralls.com
 0.0.0.0 corg.co
 0.0.0.0 www.corg.co
 0.0.0.0 couponxoo.com
@@ -306,9 +302,6 @@
 0.0.0.0 store.frostgoddess.com
 0.0.0.0 fruitstee.com
 0.0.0.0 www.fruitstee.com
-0.0.0.0 fulfillgift.com
-0.0.0.0 www.fulfillgift.com
-0.0.0.0 store.fulfillgift.com
 0.0.0.0 furoshop.com
 0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
@@ -338,7 +331,6 @@
 0.0.0.0 giftyweb.com
 0.0.0.0 www.giftyweb.com
 0.0.0.0 gizmopage.com
-0.0.0.0 www.gizmopage.com
 0.0.0.0 gladiadormalas.com.br
 0.0.0.0 www.gladiadormalas.com.br
 0.0.0.0 glstee.com
@@ -425,8 +417,6 @@
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
-0.0.0.0 khoinguyenhanoi.vn
-0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
@@ -894,8 +884,6 @@
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 www.ultimate-tech-products.myshopify.com
 0.0.0.0 store.ultimate-tech-products.myshopify.com
-0.0.0.0 ultraboxlab.com
-0.0.0.0 www.ultraboxlab.com
 0.0.0.0 um-bs.com
 0.0.0.0 www.um-bs.com
 0.0.0.0 store.um-bs.com
