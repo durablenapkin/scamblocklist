@@ -78,6 +78,7 @@
 ||coolest3d.com^
 ||coolestpod.com^
 ||coolztz.com^
+||coralls.com^
 ||corg.co^
 ||couponxoo.com^
 ||customizerbox.com^
@@ -189,7 +190,6 @@
 ||joseph-holland.com^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
-||killtee.com^
 ||kindapod.com^
 ||kingteestore.com^
 ||kisserine.com^
@@ -245,7 +245,6 @@
 ||natilove.com^
 ||nationaladvancegroup.com^
 ||natistore.us^
-||nearmetshirt.com^
 ||neozor.com^
 ||nevaon.com^
 ||newgstore.com^
