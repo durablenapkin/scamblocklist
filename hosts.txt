@@ -103,7 +103,6 @@
 0.0.0.0 www.boobeeshop.com
 0.0.0.0 boododa.com
 0.0.0.0 www.boododa.com
-0.0.0.0 store.boododa.com
 0.0.0.0 booliving.com
 0.0.0.0 www.booliving.com
 0.0.0.0 store.booliving.com
@@ -440,7 +439,6 @@
 0.0.0.0 kuteblanket.store
 0.0.0.0 www.kuteblanket.store
 0.0.0.0 ladamustore.com
-0.0.0.0 www.ladamustore.com
 0.0.0.0 store.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
 0.0.0.0 www.lakersfanshoponline.com
@@ -537,6 +535,8 @@
 0.0.0.0 www.museuw.com
 0.0.0.0 muthaafoundation.org
 0.0.0.0 www.muthaafoundation.org
+0.0.0.0 mycraftypad.com
+0.0.0.0 www.mycraftypad.com
 0.0.0.0 myfunfarm.com
 0.0.0.0 www.myfunfarm.com
 0.0.0.0 myhandshops.myshopify.com
