@@ -9,7 +9,6 @@
 ||1sttheworld.com^
 ||1sttheworld.online^
 ||acquatee.com^
-||adidasko.com^
 ||ahenana.com^
 ||airmaxskobillige.com^
 ||akarosi.com^
@@ -138,7 +137,6 @@
 ||fruitstee.com^
 ||furoshop.com^
 ||fveco.com^
-||gameconsoless.com^
 ||gearanime.com^
 ||gearathena.com^
 ||gearclover.com^
@@ -257,7 +255,6 @@
 ||nofotballstore.com^
 ||nonofy.com^
 ||norfotball.com^
-||norge.parkaoutdoor.com^
 ||norgefotball.com^
 ||norgejakke.com^
 ||norgeshoes.com^
