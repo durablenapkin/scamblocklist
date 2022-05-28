@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 926
+# Domains: 930
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -118,6 +118,7 @@
 0.0.0.0 store.burgershirt.com
 0.0.0.0 buzzazone.com
 0.0.0.0 www.buzzazone.com
+0.0.0.0 store.buzzazone.com
 0.0.0.0 candlesbymadison.com
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 canjaume.com
@@ -152,6 +153,7 @@
 0.0.0.0 www.chipteeamz.com
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
+0.0.0.0 www.cition.info
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 www.cityofdream.co.uk
 0.0.0.0 clemoa.com
@@ -355,7 +357,6 @@
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
 0.0.0.0 guus.store
-0.0.0.0 www.guus.store
 0.0.0.0 store.guus.store
 0.0.0.0 hairyfy.com
 0.0.0.0 www.hairyfy.com
@@ -531,6 +532,9 @@
 0.0.0.0 www.museuw.com
 0.0.0.0 muthaafoundation.org
 0.0.0.0 www.muthaafoundation.org
+0.0.0.0 mv.wiesengrund-sylt.com
+0.0.0.0 www.mv.wiesengrund-sylt.com
+0.0.0.0 store.mv.wiesengrund-sylt.com
 0.0.0.0 mycraftypad.com
 0.0.0.0 www.mycraftypad.com
 0.0.0.0 myfunfarm.com
@@ -579,7 +583,6 @@
 0.0.0.0 www.norfotball.com
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
-0.0.0.0 norgejakke.com
 0.0.0.0 www.norgejakke.com
 0.0.0.0 store.norgejakke.com
 0.0.0.0 norgeshoes.com
@@ -617,6 +620,8 @@
 0.0.0.0 penguinnow.com
 0.0.0.0 www.penguinnow.com
 0.0.0.0 peppatees.com
+0.0.0.0 www.peppatees.com
+0.0.0.0 store.peppatees.com
 0.0.0.0 personal84.com
 0.0.0.0 www.personal84.com
 0.0.0.0 pharaohstore.com
@@ -640,6 +645,7 @@
 0.0.0.0 store.poravoda.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
+0.0.0.0 premiumtour-don.com
 0.0.0.0 www.premiumtour-don.com
 0.0.0.0 store.premiumtour-don.com
 0.0.0.0 printkay.com
@@ -810,8 +816,6 @@
 0.0.0.0 www.tee24h.com
 0.0.0.0 teearrow.com
 0.0.0.0 www.teearrow.com
-0.0.0.0 teefoody.com
-0.0.0.0 www.teefoody.com
 0.0.0.0 teenimo.com
 0.0.0.0 www.teenimo.com
 0.0.0.0 teezill.com

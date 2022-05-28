@@ -67,6 +67,7 @@
 ||chipcy.com^
 ||chipteeamz.com^
 ||cipustar.com^
+||cition.info^
 ||cityofdream.co.uk^
 ||clemoa.com^
 ||cloverszone.com^
@@ -235,6 +236,7 @@
 ||moteshoes.com^
 ||museuw.com^
 ||muthaafoundation.org^
+||mv.wiesengrund-sylt.com^
 ||mycraftypad.com^
 ||myfunfarm.com^
 ||myhandshops.myshopify.com^
@@ -356,7 +358,6 @@
 ||tartannewzealand.myshopify.com^
 ||tee24h.com^
 ||teearrow.com^
-||teefoody.com^
 ||teenimo.com^
 ||teezill.com^
 ||thechildhooddream.com^
