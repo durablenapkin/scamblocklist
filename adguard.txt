@@ -9,6 +9,7 @@
 ||1sttheworld.com^
 ||1sttheworld.online^
 ||acquatee.com^
+||adidasko.com^
 ||ahenana.com^
 ||airmaxskobillige.com^
 ||akarosi.com^
@@ -77,7 +78,6 @@
 ||cookietee.com^
 ||coolest3d.com^
 ||coolestpod.com^
-||coolztz.com^
 ||coralls.com^
 ||corg.co^
 ||couponxoo.com^
@@ -301,7 +301,6 @@
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
 ||sentees.com^
-||sharonup.com^
 ||shinepuzzle.com^
 ||shinezily.com^
 ||shirttest.com^
@@ -358,6 +357,7 @@
 ||tartannewzealand.myshopify.com^
 ||tee24h.com^
 ||teearrow.com^
+||teefoody.com^
 ||teenimo.com^
 ||teezill.com^
 ||thechildhooddream.com^
