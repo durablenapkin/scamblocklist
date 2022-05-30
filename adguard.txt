@@ -301,6 +301,7 @@
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
 ||sentees.com^
+||sharonup.com^
 ||shinepuzzle.com^
 ||shinezily.com^
 ||shirttest.com^
@@ -384,7 +385,6 @@
 ||tulumwellnessacademy.com^
 ||tycomex.com^
 ||ultimate-tech-products.myshopify.com^
-||um-bs.com^
 ||unifully.com^
 ||uniqueetee.com^
 ||ureashi.com^
