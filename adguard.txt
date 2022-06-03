@@ -301,6 +301,7 @@
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
 ||sentees.com^
+||sharonup.com^
 ||shinepuzzle.com^
 ||shinezily.com^
 ||shirttest.com^
@@ -347,7 +348,6 @@
 ||streamloot.co^
 ||stunningstuffs.com^
 ||sunleaftravel.com^
-||sunsetstore.net^
 ||supercutestuff.com^
 ||supperbrand.company.site^
 ||surprisesandgifts.com^
