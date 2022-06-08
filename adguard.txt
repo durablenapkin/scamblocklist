@@ -7,7 +7,6 @@
 ||1stireland.com^
 ||1sttheglobal.com^
 ||1sttheworld.com^
-||1sttheworld.online^
 ||acquatee.com^
 ||adidasko.com^
 ||ahenana.com^
@@ -314,7 +313,6 @@
 ||skincheap.com^
 ||skins-store.net^
 ||skinszone.net^
-||sligen.com^
 ||smartpower4all.org^
 ||smartproduct.site^
 ||sodipi.com^

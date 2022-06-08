@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 931
+# Domains: 926
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -13,8 +13,6 @@
 0.0.0.0 store.1sttheglobal.com
 0.0.0.0 1sttheworld.com
 0.0.0.0 www.1sttheworld.com
-0.0.0.0 1sttheworld.online
-0.0.0.0 www.1sttheworld.online
 0.0.0.0 acquatee.com
 0.0.0.0 www.acquatee.com
 0.0.0.0 adidasko.com
@@ -483,7 +481,6 @@
 0.0.0.0 www.lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 www.lucidtiger.com
-0.0.0.0 store.lucidtiger.com
 0.0.0.0 luckyhomie.com
 0.0.0.0 www.luckyhomie.com
 0.0.0.0 store.luckyhomie.com
@@ -717,8 +714,6 @@
 0.0.0.0 www.skins-store.net
 0.0.0.0 skinszone.net
 0.0.0.0 www.skinszone.net
-0.0.0.0 sligen.com
-0.0.0.0 www.sligen.com
 0.0.0.0 smartpower4all.org
 0.0.0.0 www.smartpower4all.org
 0.0.0.0 smartproduct.site
