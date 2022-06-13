@@ -148,6 +148,7 @@
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
 0.0.0.0 cition.info
+0.0.0.0 www.cition.info
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 www.cityofdream.co.uk
 0.0.0.0 clemoa.com
@@ -492,7 +493,6 @@
 0.0.0.0 www.magnasat.com
 0.0.0.0 makewallperfect.store
 0.0.0.0 www.makewallperfect.store
-0.0.0.0 store.makewallperfect.store
 0.0.0.0 mangacos.com
 0.0.0.0 www.mangacos.com
 0.0.0.0 store.mangacos.com
