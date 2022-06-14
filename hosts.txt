@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 920
+# Domains: 923
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -460,6 +460,8 @@
 0.0.0.0 store.lisianstore.com
 0.0.0.0 litcomplex.com
 0.0.0.0 www.litcomplex.com
+0.0.0.0 liverepsae.adeftsolutions.com
+0.0.0.0 www.liverepsae.adeftsolutions.com
 0.0.0.0 lomipod.com
 0.0.0.0 www.lomipod.com
 0.0.0.0 look-like-star.myshopify.com
@@ -493,6 +495,7 @@
 0.0.0.0 www.magnasat.com
 0.0.0.0 makewallperfect.store
 0.0.0.0 www.makewallperfect.store
+0.0.0.0 store.makewallperfect.store
 0.0.0.0 mangacos.com
 0.0.0.0 www.mangacos.com
 0.0.0.0 store.mangacos.com
