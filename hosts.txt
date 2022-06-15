@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 923
+# Domains: 916
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -148,7 +148,6 @@
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
 0.0.0.0 cition.info
-0.0.0.0 www.cition.info
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 www.cityofdream.co.uk
 0.0.0.0 clemoa.com
@@ -309,8 +308,6 @@
 0.0.0.0 www.gearathena.com
 0.0.0.0 gearclover.com
 0.0.0.0 www.gearclover.com
-0.0.0.0 gearhomies.com
-0.0.0.0 www.gearhomies.com
 0.0.0.0 gearhuman.com
 0.0.0.0 www.gearhuman.com
 0.0.0.0 gearstastic.com
@@ -430,8 +427,6 @@
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 store.ladamustore.com
-0.0.0.0 lakersfanshoponline.com
-0.0.0.0 www.lakersfanshoponline.com
 0.0.0.0 legarralazcoz.com
 0.0.0.0 www.legarralazcoz.com
 0.0.0.0 store.legarralazcoz.com
@@ -460,8 +455,6 @@
 0.0.0.0 store.lisianstore.com
 0.0.0.0 litcomplex.com
 0.0.0.0 www.litcomplex.com
-0.0.0.0 liverepsae.adeftsolutions.com
-0.0.0.0 www.liverepsae.adeftsolutions.com
 0.0.0.0 lomipod.com
 0.0.0.0 www.lomipod.com
 0.0.0.0 look-like-star.myshopify.com
