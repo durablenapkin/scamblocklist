@@ -137,7 +137,6 @@
 ||gearanime.com^
 ||gearathena.com^
 ||gearclover.com^
-||gearhuman.com^
 ||gearstastic.com^
 ||gearstastics.com^
 ||gearver.com^
