@@ -160,7 +160,6 @@
 ||haruko.store^
 ||hazayla.com^
 ||hbofunkoshop.com^
-||helgaz.com^
 ||helpnanacenter.helpscoutdocs.com^
 ||hernoclothing.com^
 ||highty.co^
@@ -312,7 +311,6 @@
 ||souhoney.com^
 ||source84.com^
 ||southernlife.net^
-||southpark-fan.com^
 ||sozonest.com^
 ||spnation.net^
 ||sportfanvoice.com^
