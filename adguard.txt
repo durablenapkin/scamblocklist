@@ -65,7 +65,6 @@
 ||chipcy.com^
 ||chipteeamz.com^
 ||cipustar.com^
-||cition.info^
 ||cityofdream.co.uk^
 ||clemoa.com^
 ||cloverszone.com^
@@ -160,6 +159,7 @@
 ||haruko.store^
 ||hazayla.com^
 ||hbofunkoshop.com^
+||helgaz.com^
 ||helpnanacenter.helpscoutdocs.com^
 ||hernoclothing.com^
 ||highty.co^
