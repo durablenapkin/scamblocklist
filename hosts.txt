@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 911
+# Domains: 910
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -146,7 +146,6 @@
 0.0.0.0 www.chipteeamz.com
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
-0.0.0.0 cition.info
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 www.cityofdream.co.uk
 0.0.0.0 clemoa.com
@@ -167,7 +166,6 @@
 0.0.0.0 www.coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 www.coolestpod.com
-0.0.0.0 store.coolestpod.com
 0.0.0.0 coralls.com
 0.0.0.0 www.coralls.com
 0.0.0.0 corg.co
@@ -343,6 +341,7 @@
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
 0.0.0.0 guus.store
+0.0.0.0 www.guus.store
 0.0.0.0 store.guus.store
 0.0.0.0 hairyfy.com
 0.0.0.0 www.hairyfy.com
