@@ -131,6 +131,7 @@
 0.0.0.0 www.charmbean.com
 0.0.0.0 store.charmbean.com
 0.0.0.0 charmsection.com
+0.0.0.0 www.charmsection.com
 0.0.0.0 store.charmsection.com
 0.0.0.0 cherryzones.com
 0.0.0.0 www.cherryzones.com
@@ -145,8 +146,6 @@
 0.0.0.0 www.chipteeamz.com
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
-0.0.0.0 cition.info
-0.0.0.0 www.cition.info
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 www.cityofdream.co.uk
 0.0.0.0 clemoa.com
@@ -184,6 +183,7 @@
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
 0.0.0.0 defcon7.com.br
+0.0.0.0 www.defcon7.com.br
 0.0.0.0 deluxdoll.com
 0.0.0.0 www.deluxdoll.com
 0.0.0.0 store.deluxdoll.com
@@ -340,6 +340,7 @@
 0.0.0.0 www.guccitees.com
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
+0.0.0.0 guus.store
 0.0.0.0 www.guus.store
 0.0.0.0 store.guus.store
 0.0.0.0 hairyfy.com
@@ -423,6 +424,7 @@
 0.0.0.0 store.kuteblanket.store
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
+0.0.0.0 store.ladamustore.com
 0.0.0.0 legarralazcoz.com
 0.0.0.0 www.legarralazcoz.com
 0.0.0.0 store.legarralazcoz.com
@@ -635,9 +637,6 @@
 0.0.0.0 www.rabamnetee.com
 0.0.0.0 rebeccatees.com
 0.0.0.0 www.rebeccatees.com
-0.0.0.0 reforest-iita.org
-0.0.0.0 www.reforest-iita.org
-0.0.0.0 store.reforest-iita.org
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
 0.0.0.0 ringtoperfection.com
@@ -667,6 +666,7 @@
 0.0.0.0 www.shinepuzzle.com
 0.0.0.0 store.shinepuzzle.com
 0.0.0.0 shinezily.com
+0.0.0.0 www.shinezily.com
 0.0.0.0 store.shinezily.com
 0.0.0.0 shirtforfan.com
 0.0.0.0 www.shirtforfan.com
