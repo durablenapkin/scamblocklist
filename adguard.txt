@@ -57,7 +57,6 @@
 ||canjaume.com^
 ||carmenfloral.com^
 ||carvemyname.com^
-||charmbean.com^
 ||charmsection.com^
 ||cherryzones.com^
 ||chiclife.co.uk^
@@ -65,7 +64,6 @@
 ||chipcy.com^
 ||chipteeamz.com^
 ||cipustar.com^
-||cition.info^
 ||cityofdream.co.uk^
 ||clemoa.com^
 ||cloverszone.com^
@@ -183,6 +181,7 @@
 ||joseph-holland.com^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
+||killtee.com^
 ||kindapod.com^
 ||kingteestore.com^
 ||kisserine.com^
@@ -248,6 +247,7 @@
 ||nofotballstore.com^
 ||nonofy.com^
 ||norfotball.com^
+||norge.parkaoutdoor.com^
 ||norgefotball.com^
 ||norgejakke.com^
 ||norgeshoes.com^
