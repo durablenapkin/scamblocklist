@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 907
+# Domains: 904
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -143,6 +143,7 @@
 0.0.0.0 www.chipteeamz.com
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
+0.0.0.0 www.cition.info
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 www.cityofdream.co.uk
 0.0.0.0 clemoa.com
@@ -313,6 +314,8 @@
 0.0.0.0 gizmopage.com
 0.0.0.0 gladiadormalas.com.br
 0.0.0.0 www.gladiadormalas.com.br
+0.0.0.0 glendaz.com
+0.0.0.0 www.glendaz.com
 0.0.0.0 glstee.com
 0.0.0.0 www.glstee.com
 0.0.0.0 godeskonettbutikk.com
@@ -402,6 +405,7 @@
 0.0.0.0 store.joseph-holland.com
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
+0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 killtee.com
@@ -435,8 +439,6 @@
 0.0.0.0 letteringift.com
 0.0.0.0 www.letteringift.com
 0.0.0.0 store.letteringift.com
-0.0.0.0 ligerking.com
-0.0.0.0 www.ligerking.com
 0.0.0.0 lindseysopticians.com
 0.0.0.0 www.lindseysopticians.com
 0.0.0.0 store.lindseysopticians.com
@@ -621,9 +623,6 @@
 0.0.0.0 www.poppop.online
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
-0.0.0.0 premiumtour-don.com
-0.0.0.0 www.premiumtour-don.com
-0.0.0.0 store.premiumtour-don.com
 0.0.0.0 printkay.com
 0.0.0.0 www.printkay.com
 0.0.0.0 printteestore.com
@@ -816,8 +815,6 @@
 0.0.0.0 thevitic.onshopbase.com
 0.0.0.0 www.thevitic.onshopbase.com
 0.0.0.0 store.thevitic.onshopbase.com
-0.0.0.0 ti-yo.com
-0.0.0.0 www.ti-yo.com
 0.0.0.0 tikgeeker.com
 0.0.0.0 www.tikgeeker.com
 0.0.0.0 store.tikgeeker.com
