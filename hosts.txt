@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 903
+# Domains: 901
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -182,6 +182,7 @@
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
 0.0.0.0 defcon7.com.br
+0.0.0.0 www.defcon7.com.br
 0.0.0.0 deluxdoll.com
 0.0.0.0 www.deluxdoll.com
 0.0.0.0 store.deluxdoll.com
@@ -774,9 +775,6 @@
 0.0.0.0 www.surprisesandgifts.com
 0.0.0.0 survivalcatsupply.com
 0.0.0.0 www.survivalcatsupply.com
-0.0.0.0 swellsup.com
-0.0.0.0 www.swellsup.com
-0.0.0.0 store.swellsup.com
 0.0.0.0 tadarick.com
 0.0.0.0 www.tadarick.com
 0.0.0.0 tartannewzealand.myshopify.com

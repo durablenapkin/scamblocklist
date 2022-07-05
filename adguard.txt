@@ -341,7 +341,6 @@
 ||supperbrand.company.site^
 ||surprisesandgifts.com^
 ||survivalcatsupply.com^
-||swellsup.com^
 ||tadarick.com^
 ||tartannewzealand.myshopify.com^
 ||tee24h.com^
