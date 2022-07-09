@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 906
+# Domains: 908
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -112,12 +112,10 @@
 0.0.0.0 www.breakshirts.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
+0.0.0.0 store.buddhakind.com
 0.0.0.0 burgershirt.com
 0.0.0.0 www.burgershirt.com
 0.0.0.0 store.burgershirt.com
-0.0.0.0 buzzazone.com
-0.0.0.0 www.buzzazone.com
-0.0.0.0 store.buzzazone.com
 0.0.0.0 candlesbymadison.com
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 canjaume.com
@@ -328,6 +326,7 @@
 0.0.0.0 www.gossvibe.com
 0.0.0.0 gotoperfection.com
 0.0.0.0 www.gotoperfection.com
+0.0.0.0 store.gotoperfection.com
 0.0.0.0 goyourheart.com
 0.0.0.0 www.goyourheart.com
 0.0.0.0 store.goyourheart.com
@@ -349,6 +348,7 @@
 0.0.0.0 www.hanamorastore.com
 0.0.0.0 store.hanamorastore.com
 0.0.0.0 haowei.me
+0.0.0.0 www.haowei.me
 0.0.0.0 haruko.store
 0.0.0.0 www.haruko.store
 0.0.0.0 hazayla.com
@@ -360,6 +360,9 @@
 0.0.0.0 helpnanacenter.helpscoutdocs.com
 0.0.0.0 www.helpnanacenter.helpscoutdocs.com
 0.0.0.0 store.helpnanacenter.helpscoutdocs.com
+0.0.0.0 hermanistore.com
+0.0.0.0 www.hermanistore.com
+0.0.0.0 store.hermanistore.com
 0.0.0.0 hernoclothing.com
 0.0.0.0 www.hernoclothing.com
 0.0.0.0 highty.co
@@ -403,6 +406,7 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 store.joseph-holland.com
+0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
@@ -417,8 +421,6 @@
 0.0.0.0 kisserine.com
 0.0.0.0 www.kisserine.com
 0.0.0.0 kitchendecor.shop
-0.0.0.0 ksvitmimay.com
-0.0.0.0 www.ksvitmimay.com
 0.0.0.0 kuteblanket.store
 0.0.0.0 www.kuteblanket.store
 0.0.0.0 store.kuteblanket.store
@@ -438,6 +440,9 @@
 0.0.0.0 letteringift.com
 0.0.0.0 www.letteringift.com
 0.0.0.0 store.letteringift.com
+0.0.0.0 levath.com
+0.0.0.0 www.levath.com
+0.0.0.0 store.levath.com
 0.0.0.0 linkshe.com
 0.0.0.0 www.linkshe.com
 0.0.0.0 linostee.com
@@ -509,9 +514,6 @@
 0.0.0.0 www.museuw.com
 0.0.0.0 muthaafoundation.org
 0.0.0.0 www.muthaafoundation.org
-0.0.0.0 mv.wiesengrund-sylt.com
-0.0.0.0 www.mv.wiesengrund-sylt.com
-0.0.0.0 store.mv.wiesengrund-sylt.com
 0.0.0.0 mycraftypad.com
 0.0.0.0 www.mycraftypad.com
 0.0.0.0 myfunfarm.com

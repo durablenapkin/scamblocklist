@@ -52,7 +52,6 @@
 ||breakshirts.com^
 ||buddhakind.com^
 ||burgershirt.com^
-||buzzazone.com^
 ||candlesbymadison.com^
 ||canjaume.com^
 ||carmenfloral.com^
@@ -163,6 +162,7 @@
 ||hbofunkoshop.com^
 ||helgaz.com^
 ||helpnanacenter.helpscoutdocs.com^
+||hermanistore.com^
 ||hernoclothing.com^
 ||highty.co^
 ||himete.com^
@@ -188,7 +188,6 @@
 ||kingteestore.com^
 ||kisserine.com^
 ||kitchendecor.shop^
-||ksvitmimay.com^
 ||kuteblanket.store^
 ||ladamustore.com^
 ||legarralazcoz.com^
@@ -196,6 +195,7 @@
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
 ||letteringift.com^
+||levath.com^
 ||linkshe.com^
 ||linostee.com^
 ||lisabuddy.com^
@@ -227,7 +227,6 @@
 ||moteshoes.com^
 ||museuw.com^
 ||muthaafoundation.org^
-||mv.wiesengrund-sylt.com^
 ||mycraftypad.com^
 ||myfunfarm.com^
 ||myhandshops.myshopify.com^
