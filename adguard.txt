@@ -5,7 +5,6 @@
 ! License: MIT (https://mit-license.org/)
 
 ||1stireland.com^
-||1sttheglobal.com^
 ||1sttheworld.com^
 ||acquatee.com^
 ||adidasko.com^
@@ -261,6 +260,7 @@
 ||owlala.com^
 ||pandzee.com^
 ||parajumpersnorway.com^
+||parajumperssalg.com^
 ||peace-love.us^
 ||pearstee.com^
 ||penguinnow.com^
