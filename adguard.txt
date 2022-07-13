@@ -115,7 +115,6 @@
 ||familystore.com^
 ||famoury.com^
 ||fancycentral.com^
-||fapst.com^
 ||farmer-love.us^
 ||fasinal.com^
 ||feddiy.com^
@@ -335,7 +334,6 @@
 ||streamloot.co^
 ||stunningstuffs.com^
 ||sunleaftravel.com^
-||sunsetstore.net^
 ||sununi.us^
 ||supercutestuff.com^
 ||superfacehoodie.com^
