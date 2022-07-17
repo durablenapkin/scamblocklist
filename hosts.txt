@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 895
+# Domains: 901
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -150,6 +150,7 @@
 0.0.0.0 cluckergifts.ecwid.com
 0.0.0.0 www.cluckergifts.ecwid.com
 0.0.0.0 store.cluckergifts.ecwid.com
+0.0.0.0 cmoboy.com
 0.0.0.0 www.cmoboy.com
 0.0.0.0 store.cmoboy.com
 0.0.0.0 cocumbertee.com
@@ -334,6 +335,8 @@
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
 0.0.0.0 guus.store
+0.0.0.0 www.guus.store
+0.0.0.0 store.guus.store
 0.0.0.0 hairyfy.com
 0.0.0.0 www.hairyfy.com
 0.0.0.0 hanamorastore.com
@@ -412,6 +415,7 @@
 0.0.0.0 kitchendecor.shop
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
+0.0.0.0 store.ladamustore.com
 0.0.0.0 legarralazcoz.com
 0.0.0.0 www.legarralazcoz.com
 0.0.0.0 store.legarralazcoz.com
@@ -829,6 +833,8 @@
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 store.trendsharks.com
+0.0.0.0 trendybuddystore.com
+0.0.0.0 www.trendybuddystore.com
 0.0.0.0 store.trendybuddystore.com
 0.0.0.0 treverschmelerkris18.myshopify.com
 0.0.0.0 www.treverschmelerkris18.myshopify.com
