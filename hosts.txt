@@ -66,6 +66,8 @@
 0.0.0.0 azitecs.com
 0.0.0.0 www.azitecs.com
 0.0.0.0 store.azitecs.com
+0.0.0.0 bapzy.com
+0.0.0.0 www.bapzy.com
 0.0.0.0 beartees.pubninja.com
 0.0.0.0 beaswan.com
 0.0.0.0 www.beaswan.com
@@ -335,7 +337,6 @@
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
 0.0.0.0 guus.store
-0.0.0.0 www.guus.store
 0.0.0.0 store.guus.store
 0.0.0.0 hairyfy.com
 0.0.0.0 www.hairyfy.com
@@ -454,7 +455,6 @@
 0.0.0.0 store.loveinbox.co.uk
 0.0.0.0 lovelovegifts.com
 0.0.0.0 www.lovelovegifts.com
-0.0.0.0 loveshop20.com
 0.0.0.0 www.loveshop20.com
 0.0.0.0 store.loveshop20.com
 0.0.0.0 lrgst.com
