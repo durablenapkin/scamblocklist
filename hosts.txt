@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 898
+# Domains: 899
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -471,8 +471,6 @@
 0.0.0.0 www.luxsgear.com
 0.0.0.0 magnasat.com
 0.0.0.0 www.magnasat.com
-0.0.0.0 makewallperfect.store
-0.0.0.0 www.makewallperfect.store
 0.0.0.0 store.makewallperfect.store
 0.0.0.0 mangacos.com
 0.0.0.0 www.mangacos.com
@@ -702,6 +700,9 @@
 0.0.0.0 www.sozonest.com
 0.0.0.0 spnation.net
 0.0.0.0 www.spnation.net
+0.0.0.0 sportfamily.us
+0.0.0.0 www.sportfamily.us
+0.0.0.0 store.sportfamily.us
 0.0.0.0 sportfanvoice.com
 0.0.0.0 www.sportfanvoice.com
 0.0.0.0 store.sportfanvoice.com
