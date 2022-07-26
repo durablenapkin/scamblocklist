@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 899
+# Domains: 902
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -297,6 +297,8 @@
 0.0.0.0 www.gearathena.com
 0.0.0.0 gearclover.com
 0.0.0.0 www.gearclover.com
+0.0.0.0 gearhomies.com
+0.0.0.0 www.gearhomies.com
 0.0.0.0 gearstastic.com
 0.0.0.0 www.gearstastic.com
 0.0.0.0 gearstastics.com
@@ -388,6 +390,7 @@
 0.0.0.0 www.jakkesalgs.com
 0.0.0.0 jakkesnorge.com
 0.0.0.0 www.jakkesnorge.com
+0.0.0.0 store.jakkesnorge.com
 0.0.0.0 januashop.com
 0.0.0.0 www.januashop.com
 0.0.0.0 jellystores.com
