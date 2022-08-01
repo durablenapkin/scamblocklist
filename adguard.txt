@@ -157,7 +157,6 @@
 ||hanamorastore.com^
 ||haowei.me^
 ||haruko.store^
-||hbofunkoshop.com^
 ||helgaz.com^
 ||helpnanacenter.helpscoutdocs.com^
 ||hernoclothing.com^
@@ -221,6 +220,7 @@
 ||monkstars.com^
 ||mononus.com^
 ||moteshoes.com^
+||muddyking.com^
 ||museuw.com^
 ||muthaafoundation.org^
 ||mycraftypad.com^
