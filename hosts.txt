@@ -195,6 +195,8 @@
 0.0.0.0 dolystore.com
 0.0.0.0 www.dolystore.com
 0.0.0.0 donttreadonmeshop.com
+0.0.0.0 www.donttreadonmeshop.com
+0.0.0.0 store.donttreadonmeshop.com
 0.0.0.0 drakternorge.com
 0.0.0.0 www.drakternorge.com
 0.0.0.0 drcarolyngroff.com
@@ -633,7 +635,6 @@
 0.0.0.0 www.rebeccatees.com
 0.0.0.0 reforest-iita.org
 0.0.0.0 www.reforest-iita.org
-0.0.0.0 store.reforest-iita.org
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
 0.0.0.0 ringtoperfection.com
@@ -884,7 +885,6 @@
 0.0.0.0 store.vetoro.cc
 0.0.0.0 viberman.com
 0.0.0.0 vikingstore.co
-0.0.0.0 www.vikingstore.co
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 www.vipticketgiveaway.com
 0.0.0.0 wavetshirt.com
