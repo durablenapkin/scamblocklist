@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 912
+# Domains: 913
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -569,6 +569,7 @@
 0.0.0.0 store.oflike.com
 0.0.0.0 ogogear.com
 0.0.0.0 www.ogogear.com
+0.0.0.0 store.ogogear.com
 0.0.0.0 oldcube.com
 0.0.0.0 www.oldcube.com
 0.0.0.0 store.oldcube.com
