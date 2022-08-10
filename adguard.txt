@@ -302,6 +302,7 @@
 ||skincheap.com^
 ||skins-store.net^
 ||skinszone.net^
+||skonmdnorge.com^
 ||smartpower4all.org^
 ||smartproduct.site^
 ||sodipi.com^
@@ -377,6 +378,7 @@
 ||unifully.com^
 ||uniqueetee.com^
 ||ureashi.com^
+||uredaka.com^
 ||usasport247.com^
 ||vavaname.com^
 ||vegamartz.com^
