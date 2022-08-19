@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 914
+# Domains: 917
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -388,9 +388,6 @@
 0.0.0.0 www.jaimerico.net
 0.0.0.0 jakkesalgs.com
 0.0.0.0 www.jakkesalgs.com
-0.0.0.0 jakkesnorge.com
-0.0.0.0 www.jakkesnorge.com
-0.0.0.0 store.jakkesnorge.com
 0.0.0.0 januashop.com
 0.0.0.0 www.januashop.com
 0.0.0.0 jellystores.com
@@ -401,7 +398,6 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 store.joseph-holland.com
-0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
@@ -626,6 +622,7 @@
 0.0.0.0 www.printteestore.com
 0.0.0.0 qooraa.com
 0.0.0.0 www.qooraa.com
+0.0.0.0 store.qooraa.com
 0.0.0.0 quintrendy.com
 0.0.0.0 www.quintrendy.com
 0.0.0.0 store.quintrendy.com
@@ -873,6 +870,9 @@
 0.0.0.0 usasport247.com
 0.0.0.0 www.usasport247.com
 0.0.0.0 store.usasport247.com
+0.0.0.0 vansnorge.com
+0.0.0.0 www.vansnorge.com
+0.0.0.0 store.vansnorge.com
 0.0.0.0 vavaname.com
 0.0.0.0 www.vavaname.com
 0.0.0.0 store.vavaname.com
@@ -886,6 +886,9 @@
 0.0.0.0 store.vetoro.cc
 0.0.0.0 viberman.com
 0.0.0.0 vikingstore.co
+0.0.0.0 violayvonne.com
+0.0.0.0 www.violayvonne.com
+0.0.0.0 store.violayvonne.com
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 www.vipticketgiveaway.com
 0.0.0.0 wavetshirt.com

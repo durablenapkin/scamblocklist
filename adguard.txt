@@ -173,7 +173,6 @@
 ||jagkart.com^
 ||jaimerico.net^
 ||jakkesalgs.com^
-||jakkesnorge.com^
 ||januashop.com^
 ||jellystores.com^
 ||jollyfamilygifts.net^
@@ -379,12 +378,14 @@
 ||uniqueetee.com^
 ||ureashi.com^
 ||usasport247.com^
+||vansnorge.com^
 ||vavaname.com^
 ||vegamartz.com^
 ||verfun.com^
 ||vetoro.cc^
 ||viberman.com^
 ||vikingstore.co^
+||violayvonne.com^
 ||vipticketgiveaway.com^
 ||wavetshirt.com^
 ||weheartitstore.com^
