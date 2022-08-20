@@ -147,7 +147,6 @@
 ||godeskonettbutikk.com^
 ||gogiworld.com^
 ||gossvibe.com^
-||gotoperfection.com^
 ||goyourheart.com^
 ||graciaszone.com^
 ||gsport.com^
@@ -323,6 +322,7 @@
 ||steamgateways.com^
 ||steamunlock.com^
 ||steamunlock.gifts^
+||stellaszone.com^
 ||stingcool-com.myshopify.com^
 ||store-aleteia.org^
 ||store25848025.company.site^

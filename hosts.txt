@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 917
+# Domains: 918
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -325,9 +325,6 @@
 0.0.0.0 store.gogiworld.com
 0.0.0.0 gossvibe.com
 0.0.0.0 www.gossvibe.com
-0.0.0.0 gotoperfection.com
-0.0.0.0 www.gotoperfection.com
-0.0.0.0 store.gotoperfection.com
 0.0.0.0 goyourheart.com
 0.0.0.0 www.goyourheart.com
 0.0.0.0 store.goyourheart.com
@@ -398,6 +395,7 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 store.joseph-holland.com
+0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
 0.0.0.0 kigurumi-usa.com
@@ -738,6 +736,9 @@
 0.0.0.0 www.steamunlock.com
 0.0.0.0 steamunlock.gifts
 0.0.0.0 www.steamunlock.gifts
+0.0.0.0 stellaszone.com
+0.0.0.0 www.stellaszone.com
+0.0.0.0 store.stellaszone.com
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 www.stingcool-com.myshopify.com
 0.0.0.0 store.stingcool-com.myshopify.com
