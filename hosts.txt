@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 917
+# Domains: 911
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -225,9 +225,6 @@
 0.0.0.0 enchantestore.myshopify.com
 0.0.0.0 www.enchantestore.myshopify.com
 0.0.0.0 store.enchantestore.myshopify.com
-0.0.0.0 engineracing.net
-0.0.0.0 www.engineracing.net
-0.0.0.0 store.engineracing.net
 0.0.0.0 envisiongear.com
 0.0.0.0 www.envisiongear.com
 0.0.0.0 esl-gaming.com
@@ -364,8 +361,6 @@
 0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
-0.0.0.0 horizonbagel.com
-0.0.0.0 www.horizonbagel.com
 0.0.0.0 icelandclothing.myshopify.com
 0.0.0.0 www.icelandclothing.myshopify.com
 0.0.0.0 store.icelandclothing.myshopify.com
@@ -582,8 +577,6 @@
 0.0.0.0 parajumpersnorway.com
 0.0.0.0 www.parajumpersnorway.com
 0.0.0.0 store.parajumpersnorway.com
-0.0.0.0 parajumperssalg.com
-0.0.0.0 www.parajumperssalg.com
 0.0.0.0 peace-love.us
 0.0.0.0 www.peace-love.us
 0.0.0.0 store.peace-love.us
@@ -652,6 +645,7 @@
 0.0.0.0 store.sayhellorugs.com
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
+0.0.0.0 sharonup.com
 0.0.0.0 www.sharonup.com
 0.0.0.0 store.sharonup.com
 0.0.0.0 shinepuzzle.com

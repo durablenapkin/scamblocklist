@@ -102,7 +102,6 @@
 ||ellezz.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
-||engineracing.net^
 ||envisiongear.com^
 ||esl-gaming.com^
 ||eudoraz.com^
@@ -163,7 +162,6 @@
 ||highty.co^
 ||himete.com^
 ||hookahheroes.com^
-||horizonbagel.com^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
 ||ikoee.com^
@@ -255,7 +253,6 @@
 ||owlala.com^
 ||pandzee.com^
 ||parajumpersnorway.com^
-||parajumperssalg.com^
 ||peace-love.us^
 ||pearstee.com^
 ||penguinnow.com^
