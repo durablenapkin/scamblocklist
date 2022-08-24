@@ -225,7 +225,6 @@
 ||myhandshops.myshopify.com^
 ||mystitich4u.com^
 ||nabaza.shop^
-||nanistores.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
 ||natistore.us^
@@ -253,6 +252,7 @@
 ||owlala.com^
 ||pandzee.com^
 ||parajumpersnorway.com^
+||parajumperssalg.com^
 ||peace-love.us^
 ||pearstee.com^
 ||penguinnow.com^
@@ -375,7 +375,6 @@
 ||uniqueetee.com^
 ||ureashi.com^
 ||usasport247.com^
-||vansnorge.com^
 ||vavaname.com^
 ||vegamartz.com^
 ||verfun.com^
