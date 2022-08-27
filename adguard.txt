@@ -162,7 +162,6 @@
 ||highty.co^
 ||himete.com^
 ||hookahheroes.com^
-||horizonbagel.com^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
 ||ikoee.com^
@@ -313,7 +312,6 @@
 ||sportsapparelmarket.com^
 ||sportswearfanatics.com^
 ||sportswearforfans.com^
-||sportyprinty.com^
 ||spreadstores.com^
 ||startjacket.com^
 ||startuplatte.com^

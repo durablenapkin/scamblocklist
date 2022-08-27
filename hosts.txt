@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 909
+# Domains: 905
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -361,7 +361,6 @@
 0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
-0.0.0.0 store.horizonbagel.com
 0.0.0.0 icelandclothing.myshopify.com
 0.0.0.0 www.icelandclothing.myshopify.com
 0.0.0.0 store.icelandclothing.myshopify.com
@@ -713,9 +712,6 @@
 0.0.0.0 www.sportswearfanatics.com
 0.0.0.0 sportswearforfans.com
 0.0.0.0 www.sportswearforfans.com
-0.0.0.0 sportyprinty.com
-0.0.0.0 www.sportyprinty.com
-0.0.0.0 store.sportyprinty.com
 0.0.0.0 spreadstores.com
 0.0.0.0 www.spreadstores.com
 0.0.0.0 startjacket.com
