@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 910
+# Domains: 911
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -186,6 +186,7 @@
 0.0.0.0 www.devifoodgrains.com
 0.0.0.0 deytee.com
 0.0.0.0 www.deytee.com
+0.0.0.0 store.deytee.com
 0.0.0.0 dezpez.com
 0.0.0.0 www.dezpez.com
 0.0.0.0 dkfodboldstore.com
