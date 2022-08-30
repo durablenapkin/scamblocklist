@@ -90,7 +90,6 @@
 ||dogparadiseshop.com^
 ||dogparadisestore.com^
 ||dolystore.com^
-||donttreadonmeshop.com^
 ||drakternorge.com^
 ||drcarolyngroff.com^
 ||dreamstee.com^
@@ -163,6 +162,7 @@
 ||highty.co^
 ||himete.com^
 ||hookahheroes.com^
+||horizonbagel.com^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
 ||ikoee.com^
@@ -344,6 +344,7 @@
 ||tee24h.com^
 ||teearrow.com^
 ||teefoody.com^
+||teemax.store^
 ||teenimo.com^
 ||teesunshine.com^
 ||teezill.com^
