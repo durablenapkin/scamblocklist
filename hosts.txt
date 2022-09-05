@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 916
+# Domains: 914
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -170,6 +170,7 @@
 0.0.0.0 www.couponxoo.com
 0.0.0.0 customizerbox.com
 0.0.0.0 www.customizerbox.com
+0.0.0.0 store.customizerbox.com
 0.0.0.0 danylevych.com
 0.0.0.0 www.danylevych.com
 0.0.0.0 daradis.com
@@ -376,9 +377,6 @@
 0.0.0.0 www.ikoee.com
 0.0.0.0 ilpollenza-sorso23.it
 0.0.0.0 www.ilpollenza-sorso23.it
-0.0.0.0 infinityto.com
-0.0.0.0 www.infinityto.com
-0.0.0.0 store.infinityto.com
 0.0.0.0 jagkart.com
 0.0.0.0 www.jagkart.com
 0.0.0.0 jaimerico.net
