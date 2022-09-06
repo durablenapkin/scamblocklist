@@ -10,7 +10,6 @@
 ||adidasko.com^
 ||ahenana.com^
 ||airmaxskobillige.com^
-||akarosi.com^
 ||akatee.com^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
@@ -20,6 +19,7 @@
 ||altruetech.com^
 ||anclice.com^
 ||animeshoppers.com^
+||aoptee.com^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
 ||arthoodie.com^
@@ -127,7 +127,6 @@
 ||friday89.com^
 ||friday99.com^
 ||frostgoddess.com^
-||fruitstee.com^
 ||fulfillgift.com^
 ||furoshop.com^
 ||fveco.com^
@@ -170,6 +169,7 @@
 ||jagkart.com^
 ||jaimerico.net^
 ||jakkesalgs.com^
+||jakkesnorge.com^
 ||januashop.com^
 ||jellystores.com^
 ||jollyfamilygifts.net^
@@ -321,6 +321,7 @@
 ||steamunlock.gifts^
 ||stellaszone.com^
 ||stingcool-com.myshopify.com^
+||stingcool.com^
 ||store-aleteia.org^
 ||store25848025.company.site^
 ||storeax.com^
@@ -365,7 +366,6 @@
 ||trade-skins.net^
 ||treasurefan.com^
 ||trendsharks.com^
-||trendybuddystore.com^
 ||treverschmelerkris18.myshopify.com^
 ||tromselementbygg.no^
 ||tulumwellnessacademy.com^
