@@ -97,7 +97,6 @@
 ||duckydecor.store^
 ||dumanus.com^
 ||easynatures.com^
-||easyshoppingus.com^
 ||ellezz.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
@@ -127,6 +126,7 @@
 ||friday89.com^
 ||friday99.com^
 ||frostgoddess.com^
+||fruitstee.com^
 ||fulfillgift.com^
 ||furoshop.com^
 ||fveco.com^
@@ -158,7 +158,6 @@
 ||helgaz.com^
 ||helpnanacenter.helpscoutdocs.com^
 ||hernoclothing.com^
-||highty.co^
 ||himete.com^
 ||hookahheroes.com^
 ||horizonbagel.com^
@@ -366,6 +365,7 @@
 ||trade-skins.net^
 ||treasurefan.com^
 ||trendsharks.com^
+||trendybuddystore.com^
 ||treverschmelerkris18.myshopify.com^
 ||tromselementbygg.no^
 ||tulumwellnessacademy.com^
