@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 908
+# Domains: 907
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -398,7 +398,6 @@
 0.0.0.0 www.kindapod.com
 0.0.0.0 kingteestore.com
 0.0.0.0 www.kingteestore.com
-0.0.0.0 store.kingteestore.com
 0.0.0.0 kisserine.com
 0.0.0.0 www.kisserine.com
 0.0.0.0 kitchendecor.shop
