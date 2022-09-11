@@ -139,7 +139,6 @@
 ||gearver.com^
 ||giftyweb.com^
 ||gizmopage.com^
-||gladiadormalas.com.br^
 ||glendaz.com^
 ||glstee.com^
 ||godeskonettbutikk.com^
@@ -216,7 +215,6 @@
 ||miuprints.com^
 ||monkstars.com^
 ||moteshoes.com^
-||muddyking.com^
 ||museuw.com^
 ||muthaafoundation.org^
 ||mycraftypad.com^
