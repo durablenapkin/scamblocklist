@@ -139,6 +139,7 @@
 ||gearver.com^
 ||giftyweb.com^
 ||gizmopage.com^
+||gladiadormalas.com.br^
 ||glendaz.com^
 ||glstee.com^
 ||godeskonettbutikk.com^
@@ -227,7 +228,6 @@
 ||natistore.us^
 ||nevaon.com^
 ||newgstore.com^
-||nicetee.net^
 ||niche3d.us^
 ||nldstore.com^
 ||noatopdesign.com^
@@ -346,7 +346,6 @@
 ||teesunshine.com^
 ||teezill.com^
 ||thechildhooddream.com^
-||thecustomee.com^
 ||thegeekgifts.com^
 ||thehappywood.com^
 ||thekeilas.com^

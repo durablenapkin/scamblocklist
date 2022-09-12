@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 903
+# Domains: 899
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -306,6 +306,7 @@
 0.0.0.0 giftyweb.com
 0.0.0.0 www.giftyweb.com
 0.0.0.0 gizmopage.com
+0.0.0.0 www.gladiadormalas.com.br
 0.0.0.0 glendaz.com
 0.0.0.0 www.glendaz.com
 0.0.0.0 store.glendaz.com
@@ -514,8 +515,6 @@
 0.0.0.0 newgstore.com
 0.0.0.0 www.newgstore.com
 0.0.0.0 store.newgstore.com
-0.0.0.0 nicetee.net
-0.0.0.0 www.nicetee.net
 0.0.0.0 niche3d.us
 0.0.0.0 www.niche3d.us
 0.0.0.0 nldstore.com
@@ -790,9 +789,6 @@
 0.0.0.0 thechildhooddream.com
 0.0.0.0 www.thechildhooddream.com
 0.0.0.0 store.thechildhooddream.com
-0.0.0.0 thecustomee.com
-0.0.0.0 www.thecustomee.com
-0.0.0.0 store.thecustomee.com
 0.0.0.0 thegeekgifts.com
 0.0.0.0 www.thegeekgifts.com
 0.0.0.0 thehappywood.com
