@@ -17,7 +17,6 @@
 ||alltestbanksolutions.com^
 ||alohazing.com^
 ||altruetech.com^
-||anclice.com^
 ||animeshoppers.com^
 ||aoptee.com^
 ||army-shop.onshopbase.com^
@@ -142,7 +141,6 @@
 ||gladiadormalas.com.br^
 ||glendaz.com^
 ||glstee.com^
-||godeskonettbutikk.com^
 ||gogiworld.com^
 ||gossvibe.com^
 ||goyourheart.com^
