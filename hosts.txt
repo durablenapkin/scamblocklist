@@ -351,9 +351,6 @@
 0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
-0.0.0.0 horizonbagel.com
-0.0.0.0 www.horizonbagel.com
-0.0.0.0 store.horizonbagel.com
 0.0.0.0 icelandclothing.myshopify.com
 0.0.0.0 www.icelandclothing.myshopify.com
 0.0.0.0 store.icelandclothing.myshopify.com
@@ -479,6 +476,9 @@
 0.0.0.0 www.miuprints.com
 0.0.0.0 monkstars.com
 0.0.0.0 www.monkstars.com
+0.0.0.0 mononus.com
+0.0.0.0 www.mononus.com
+0.0.0.0 store.mononus.com
 0.0.0.0 moteshoes.com
 0.0.0.0 www.moteshoes.com
 0.0.0.0 store.moteshoes.com

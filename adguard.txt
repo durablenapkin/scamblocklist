@@ -158,7 +158,6 @@
 ||hernoclothing.com^
 ||himete.com^
 ||hookahheroes.com^
-||horizonbagel.com^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
 ||ikoee.com^
@@ -213,6 +212,7 @@
 ||miucart.com^
 ||miuprints.com^
 ||monkstars.com^
+||mononus.com^
 ||moteshoes.com^
 ||museuw.com^
 ||muthaafoundation.org^
