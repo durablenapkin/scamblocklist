@@ -80,7 +80,6 @@
 ||daradis.com^
 ||decoryourhome.store^
 ||deergift.com^
-||defcon7.com.br^
 ||deluxdoll.com^
 ||devifoodgrains.com^
 ||deytee.com^
@@ -95,6 +94,7 @@
 ||dreamstees.com^
 ||duckydecor.store^
 ||dumanus.com^
+||dunjakke-no.com^
 ||easynatures.com^
 ||ellezz.com^
 ||emberio.com^
