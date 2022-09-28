@@ -122,7 +122,6 @@
 ||fishingdaily.shop^
 ||fishinglovely.com^
 ||flattee.com^
-||fotballsko-salg.com^
 ||frest.info^
 ||friday89.com^
 ||friday99.com^
@@ -156,7 +155,6 @@
 ||hanamorastore.com^
 ||haowei.me^
 ||haruko.store^
-||helgaz.com^
 ||helpnanacenter.helpscoutdocs.com^
 ||hernoclothing.com^
 ||himete.com^
@@ -172,7 +170,6 @@
 ||januashop.com^
 ||jellystores.com^
 ||jollyfamilygifts.net^
-||joseph-holland.com^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
 ||killtee.com^
@@ -182,7 +179,6 @@
 ||kitchendecor.shop^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
-||legarralazcoz.com^
 ||legendofmen.com^
 ||lemstore.com^
 ||lericettedifrancy74.com^
@@ -215,11 +211,9 @@
 ||meaningift.com^
 ||meowpinky.com^
 ||miucart.com^
-||miuprints.com^
 ||monkstars.com^
 ||mononus.com^
 ||moteshoes.com^
-||museuw.com^
 ||muthaafoundation.org^
 ||mycraftypad.com^
 ||myfunfarm.com^
@@ -383,17 +377,14 @@
 ||violayvonne.com^
 ||vipticketgiveaway.com^
 ||wavetshirt.com^
-||weheartitstore.com^
 ||wezpod.com^
 ||whbinder.com^
 ||wikeb.com^
 ||windbellstore.com^
 ||woadoodles.com^
 ||woochip.com^
-||wyj.primajaya-adv.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
-||yhdshop.com^
 ||yomoun.com^
 ||zedbubble.com^
 ||zerowasteinitiative.com^
