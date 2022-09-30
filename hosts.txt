@@ -398,8 +398,6 @@
 0.0.0.0 www.killtee.com
 0.0.0.0 kindapod.com
 0.0.0.0 www.kindapod.com
-0.0.0.0 kingteestore.com
-0.0.0.0 www.kingteestore.com
 0.0.0.0 kisserine.com
 0.0.0.0 www.kisserine.com
 0.0.0.0 kitchendecor.shop
@@ -542,6 +540,8 @@
 0.0.0.0 store.nonofy.com
 0.0.0.0 norfotball.com
 0.0.0.0 www.norfotball.com
+0.0.0.0 norge.parkaoutdoor.com
+0.0.0.0 www.norge.parkaoutdoor.com
 0.0.0.0 store.norge.parkaoutdoor.com
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
