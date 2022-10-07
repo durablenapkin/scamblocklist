@@ -40,7 +40,6 @@
 ||bknstore.com^
 ||blingyy.com^
 ||bloomingvibe.com^
-||bltskins.com^
 ||boobeeshop.com^
 ||boododa.com^
 ||booliving.com^
@@ -85,7 +84,6 @@
 ||defcon7.com.br^
 ||deluxdoll.com^
 ||devifoodgrains.com^
-||deytee.com^
 ||dezpez.com^
 ||dkfodboldstore.com^
 ||dogparadiseshop.com^
@@ -312,6 +310,7 @@
 ||sportsapparelmarket.com^
 ||sportswearfanatics.com^
 ||sportswearforfans.com^
+||sportyprinty.com^
 ||spreadstores.com^
 ||startjacket.com^
 ||startuplatte.com^
