@@ -315,9 +315,6 @@
 ||spreadstores.com^
 ||startjacket.com^
 ||startuplatte.com^
-||steamgateways.com^
-||steamunlock.com^
-||steamunlock.gifts^
 ||stellaszone.com^
 ||stingcool-com.myshopify.com^
 ||stingcool.com^
@@ -335,7 +332,6 @@
 ||supercutestuff.com^
 ||superfacehoodie.com^
 ||supperbrand.company.site^
-||surprisesandgifts.com^
 ||survivalcatsupply.com^
 ||swellsup.com^
 ||tadarick.com^

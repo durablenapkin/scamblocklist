@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 912
+# Domains: 903
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -109,7 +109,6 @@
 0.0.0.0 store.burgershirt.com
 0.0.0.0 buzzazone.com
 0.0.0.0 www.buzzazone.com
-0.0.0.0 store.buzzazone.com
 0.0.0.0 buzzdeal.com
 0.0.0.0 www.buzzdeal.com
 0.0.0.0 candlesbymadison.com
@@ -400,6 +399,7 @@
 0.0.0.0 www.killtee.com
 0.0.0.0 kindapod.com
 0.0.0.0 www.kindapod.com
+0.0.0.0 store.kindapod.com
 0.0.0.0 kingteestore.com
 0.0.0.0 www.kingteestore.com
 0.0.0.0 store.kingteestore.com
@@ -726,12 +726,6 @@
 0.0.0.0 startuplatte.com
 0.0.0.0 www.startuplatte.com
 0.0.0.0 store.startuplatte.com
-0.0.0.0 steamgateways.com
-0.0.0.0 www.steamgateways.com
-0.0.0.0 steamunlock.com
-0.0.0.0 www.steamunlock.com
-0.0.0.0 steamunlock.gifts
-0.0.0.0 www.steamunlock.gifts
 0.0.0.0 stellaszone.com
 0.0.0.0 www.stellaszone.com
 0.0.0.0 store.stellaszone.com
@@ -771,9 +765,6 @@
 0.0.0.0 supperbrand.company.site
 0.0.0.0 www.supperbrand.company.site
 0.0.0.0 store.supperbrand.company.site
-0.0.0.0 surprisesandgifts.com
-0.0.0.0 www.surprisesandgifts.com
-0.0.0.0 store.surprisesandgifts.com
 0.0.0.0 survivalcatsupply.com
 0.0.0.0 www.survivalcatsupply.com
 0.0.0.0 swellsup.com
