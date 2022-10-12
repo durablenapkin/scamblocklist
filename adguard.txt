@@ -99,7 +99,6 @@
 ||dunjakke-no.com^
 ||easynatures.com^
 ||ellezz.com^
-||emberio.com^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
 ||esl-gaming.com^
@@ -311,7 +310,6 @@
 ||sportsapparelmarket.com^
 ||sportswearfanatics.com^
 ||sportswearforfans.com^
-||sportyprinty.com^
 ||spreadstores.com^
 ||startjacket.com^
 ||startuplatte.com^
