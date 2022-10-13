@@ -225,7 +225,6 @@
 ||myfunfarm.com^
 ||myhandshops.myshopify.com^
 ||mystitich4u.com^
-||nabaza.shop^
 ||nanistores.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
@@ -358,7 +357,6 @@
 ||trade-skins.net^
 ||treasurefan.com^
 ||trendsharks.com^
-||trendybuddystore.com^
 ||treverschmelerkris18.myshopify.com^
 ||tromselementbygg.no^
 ||tulumwellnessacademy.com^
