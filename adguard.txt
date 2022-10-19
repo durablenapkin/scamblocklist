@@ -10,6 +10,7 @@
 ||adidasko.com^
 ||ahenana.com^
 ||airmaxskobillige.com^
+||akarosi.com^
 ||akatee.com^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
@@ -151,7 +152,6 @@
 ||gsport.com^
 ||guccitees.com^
 ||gunstee.com^
-||guus.store^
 ||hairyfy.com^
 ||hanamorastore.com^
 ||haowei.me^
@@ -202,7 +202,6 @@
 ||lovelovegifts.com^
 ||loveshop20.com^
 ||lrgst.com^
-||lucatee.com^
 ||lucidtiger.com^
 ||lucysstyle.com^
 ||lunapresent.com^
