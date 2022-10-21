@@ -312,6 +312,9 @@
 ||spreadstores.com^
 ||startjacket.com^
 ||startuplatte.com^
+||steamgateways.com^
+||steamunlock.com^
+||steamunlock.gifts^
 ||stellaszone.com^
 ||stingcool-com.myshopify.com^
 ||stingcool.com^
