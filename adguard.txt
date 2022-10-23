@@ -33,7 +33,6 @@
 ||beartees.pubninja.com^
 ||beaswan.com^
 ||beecrave.com^
-||benecharm.com^
 ||berfumetee.com^
 ||bestbabyyoda.com^
 ||bestmoonshop.com^
@@ -228,7 +227,6 @@
 ||natilove.com^
 ||nationaladvancegroup.com^
 ||natistore.us^
-||nedistores.com^
 ||newgstore.com^
 ||niche3d.us^
 ||nldstore.com^
