@@ -140,6 +140,7 @@
 ||giftyweb.com^
 ||gizmopage.com^
 ||gladiadormalas.com.br^
+||glendaz.com^
 ||gload.info^
 ||glstee.com^
 ||godeskonettbutikk.com^
@@ -261,6 +262,7 @@
 ||poppop.online^
 ||premiumqualityblanket.com^
 ||premiumtour-don.com^
+||printazest.com^
 ||printkay.com^
 ||printteestore.com^
 ||quintrendy.com^
