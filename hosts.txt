@@ -1,11 +1,14 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 902
+# Domains: 906
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
+0.0.0.0 dizcord.gift
+0.0.0.0 www.dizcord.gift
+0.0.0.0 store.dizcord.gift
 0.0.0.0 1stireland.com
 0.0.0.0 www.1stireland.com
 0.0.0.0 1sttheworld.com
@@ -272,6 +275,7 @@
 0.0.0.0 www.fotballsko-salg.com
 0.0.0.0 frest.info
 0.0.0.0 www.frest.info
+0.0.0.0 store.frest.info
 0.0.0.0 friday89.com
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
