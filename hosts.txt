@@ -88,6 +88,7 @@
 0.0.0.0 store.bloomingvibe.com
 0.0.0.0 boobeeshop.com
 0.0.0.0 www.boobeeshop.com
+0.0.0.0 store.boobeeshop.com
 0.0.0.0 boododa.com
 0.0.0.0 www.boododa.com
 0.0.0.0 store.boododa.com
@@ -748,6 +749,7 @@
 0.0.0.0 www.storedarkness.com
 0.0.0.0 store.storedarkness.com
 0.0.0.0 storeitsafeltd.com
+0.0.0.0 www.storeitsafeltd.com
 0.0.0.0 storesonlineltd.com
 0.0.0.0 www.storesonlineltd.com
 0.0.0.0 storesp.com
@@ -814,8 +816,6 @@
 0.0.0.0 thevitic.onshopbase.com
 0.0.0.0 www.thevitic.onshopbase.com
 0.0.0.0 store.thevitic.onshopbase.com
-0.0.0.0 ti-yo.com
-0.0.0.0 www.ti-yo.com
 0.0.0.0 tikgeeker.com
 0.0.0.0 www.tikgeeker.com
 0.0.0.0 store.tikgeeker.com
