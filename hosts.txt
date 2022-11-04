@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 906
+# Domains: 908
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -684,6 +684,8 @@
 0.0.0.0 skinszone.net
 0.0.0.0 www.skinszone.net
 0.0.0.0 store.skinszone.net
+0.0.0.0 sligen.com
+0.0.0.0 www.sligen.com
 0.0.0.0 smartpower4all.org
 0.0.0.0 www.smartpower4all.org
 0.0.0.0 smartproduct.site
