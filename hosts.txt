@@ -684,6 +684,7 @@
 0.0.0.0 www.skincheap.com
 0.0.0.0 store.skincheap.com
 0.0.0.0 skins-store.net
+0.0.0.0 www.skins-store.net
 0.0.0.0 store.skins-store.net
 0.0.0.0 sligen.com
 0.0.0.0 www.sligen.com
@@ -905,7 +906,6 @@
 0.0.0.0 www.yeswevibe.com
 0.0.0.0 yeyvibe.com
 0.0.0.0 www.yeyvibe.com
-0.0.0.0 yhdshop.com
 0.0.0.0 www.yhdshop.com
 0.0.0.0 yomoun.com
 0.0.0.0 www.yomoun.com
