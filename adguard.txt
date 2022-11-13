@@ -64,6 +64,7 @@
 ||cipustar.com^
 ||cition.info^
 ||cityofdream.co.uk^
+||clemoa.com^
 ||cloverszone.com^
 ||cluckergifts.ecwid.com^
 ||cmoboy.com^
@@ -75,7 +76,6 @@
 ||coralls.com^
 ||corg.co^
 ||couponxoo.com^
-||crossfiterada.com^
 ||customizerbox.com^
 ||danylevych.com^
 ||daradis.com^
@@ -195,7 +195,6 @@
 ||lisabuddy.com^
 ||lisianstore.com^
 ||litcomplex.com^
-||lomipod.com^
 ||look-like-star.myshopify.com^
 ||lootcrate.com^
 ||loveinbox.co.uk^
