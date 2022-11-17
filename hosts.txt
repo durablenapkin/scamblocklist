@@ -105,7 +105,6 @@
 0.0.0.0 www.breakshirts.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
-0.0.0.0 store.buddhakind.com
 0.0.0.0 burgershirt.com
 0.0.0.0 www.burgershirt.com
 0.0.0.0 store.burgershirt.com
@@ -499,6 +498,7 @@
 0.0.0.0 moteshoes.com
 0.0.0.0 www.moteshoes.com
 0.0.0.0 store.moteshoes.com
+0.0.0.0 museuw.com
 0.0.0.0 www.museuw.com
 0.0.0.0 muthaafoundation.org
 0.0.0.0 www.muthaafoundation.org
