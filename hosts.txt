@@ -23,7 +23,6 @@
 0.0.0.0 www.airmaxskobillige.com
 0.0.0.0 akarosi.com
 0.0.0.0 www.akarosi.com
-0.0.0.0 store.akarosi.com
 0.0.0.0 akatee.com
 0.0.0.0 www.akatee.com
 0.0.0.0 aliseshop.com
@@ -217,6 +216,9 @@
 0.0.0.0 ellezz.com
 0.0.0.0 www.ellezz.com
 0.0.0.0 store.ellezz.com
+0.0.0.0 emberio.com
+0.0.0.0 www.emberio.com
+0.0.0.0 store.emberio.com
 0.0.0.0 enchantestore.myshopify.com
 0.0.0.0 www.enchantestore.myshopify.com
 0.0.0.0 store.enchantestore.myshopify.com
@@ -434,9 +436,6 @@
 0.0.0.0 linostee.com
 0.0.0.0 www.linostee.com
 0.0.0.0 lisabuddy.com
-0.0.0.0 lisianstore.com
-0.0.0.0 www.lisianstore.com
-0.0.0.0 store.lisianstore.com
 0.0.0.0 litcomplex.com
 0.0.0.0 www.litcomplex.com
 0.0.0.0 look-like-star.myshopify.com
@@ -894,6 +893,7 @@
 0.0.0.0 www.windbellstore.com
 0.0.0.0 woadoodles.com
 0.0.0.0 www.woadoodles.com
+0.0.0.0 wyj.primajaya-adv.com
 0.0.0.0 www.wyj.primajaya-adv.com
 0.0.0.0 store.wyj.primajaya-adv.com
 0.0.0.0 yeswevibe.com
