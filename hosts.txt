@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 906
+# Domains: 907
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -23,6 +23,7 @@
 0.0.0.0 www.airmaxskobillige.com
 0.0.0.0 akarosi.com
 0.0.0.0 www.akarosi.com
+0.0.0.0 store.akarosi.com
 0.0.0.0 akatee.com
 0.0.0.0 www.akatee.com
 0.0.0.0 aliseshop.com
@@ -318,9 +319,6 @@
 0.0.0.0 www.glstee.com
 0.0.0.0 godeskonettbutikk.com
 0.0.0.0 www.godeskonettbutikk.com
-0.0.0.0 gogiworld.com
-0.0.0.0 www.gogiworld.com
-0.0.0.0 store.gogiworld.com
 0.0.0.0 gossvibe.com
 0.0.0.0 www.gossvibe.com
 0.0.0.0 store.gossvibe.com
@@ -770,6 +768,9 @@
 0.0.0.0 supperbrand.company.site
 0.0.0.0 www.supperbrand.company.site
 0.0.0.0 store.supperbrand.company.site
+0.0.0.0 surprisesandgifts.com
+0.0.0.0 www.surprisesandgifts.com
+0.0.0.0 store.surprisesandgifts.com
 0.0.0.0 survivalcatsupply.com
 0.0.0.0 www.survivalcatsupply.com
 0.0.0.0 swellsup.com
