@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 898
+# Domains: 897
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -639,7 +639,6 @@
 0.0.0.0 www.sentees.com
 0.0.0.0 sharonup.com
 0.0.0.0 www.sharonup.com
-0.0.0.0 store.sharonup.com
 0.0.0.0 shinepuzzle.com
 0.0.0.0 www.shinepuzzle.com
 0.0.0.0 store.shinepuzzle.com
