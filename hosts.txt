@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 894
+# Domains: 898
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -73,6 +73,9 @@
 0.0.0.0 store.beaswan.com
 0.0.0.0 beecrave.com
 0.0.0.0 www.beecrave.com
+0.0.0.0 benecharm.com
+0.0.0.0 www.benecharm.com
+0.0.0.0 store.benecharm.com
 0.0.0.0 berfumetee.com
 0.0.0.0 www.berfumetee.com
 0.0.0.0 bestbabyyoda.com
@@ -862,6 +865,7 @@
 0.0.0.0 viberman.com
 0.0.0.0 vikingstore.co
 0.0.0.0 www.vikingstore.co
+0.0.0.0 store.vikingstore.co
 0.0.0.0 violayvonne.com
 0.0.0.0 www.violayvonne.com
 0.0.0.0 store.violayvonne.com
