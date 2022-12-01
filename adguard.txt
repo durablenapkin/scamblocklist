@@ -6,6 +6,7 @@
 
 ||dizcord.gift^
 ||1stireland.com^
+||1sttheglobal.com^
 ||1sttheworld.com^
 ||acquatee.com^
 ||adidasko.com^
@@ -117,7 +118,6 @@
 ||fapst.com^
 ||farmer-love.us^
 ||fasinal.com^
-||feddiy.com^
 ||findglocal.com^
 ||fishingdaily.shop^
 ||flattee.com^
@@ -364,6 +364,7 @@
 ||um-bs.com^
 ||unifully.com^
 ||uniqueetee.com^
+||uniqueshirt.shop^
 ||ureashi.com^
 ||usasport247.com^
 ||vavaname.com^
@@ -385,7 +386,6 @@
 ||yeswevibe.com^
 ||yeyvibe.com^
 ||yhdshop.com^
-||yomoun.com^
 ||zedbubble.com^
 ||zerowasteinitiative.com^
 ||zgalaxytee.com^
