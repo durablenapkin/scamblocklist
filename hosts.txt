@@ -678,6 +678,8 @@
 0.0.0.0 southernlife.net
 0.0.0.0 www.southernlife.net
 0.0.0.0 southpark-fan.com
+0.0.0.0 www.southpark-fan.com
+0.0.0.0 store.southpark-fan.com
 0.0.0.0 sozonest.com
 0.0.0.0 www.sozonest.com
 0.0.0.0 spnation.net
@@ -731,8 +733,6 @@
 0.0.0.0 storedarkness.com
 0.0.0.0 www.storedarkness.com
 0.0.0.0 store.storedarkness.com
-0.0.0.0 storeitsafeltd.com
-0.0.0.0 www.storeitsafeltd.com
 0.0.0.0 storesp.com
 0.0.0.0 www.storesp.com
 0.0.0.0 streamloot.co
