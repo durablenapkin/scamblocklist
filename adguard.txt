@@ -330,6 +330,7 @@
 ||tadarick.com^
 ||tartannewzealand.myshopify.com^
 ||tee24h.com^
+||teearrow.com^
 ||teefoody.com^
 ||teemax.store^
 ||teenimo.com^
@@ -354,7 +355,6 @@
 ||treverschmelerkris18.myshopify.com^
 ||tromselementbygg.no^
 ||tulumwellnessacademy.com^
-||tycomex.com^
 ||ultimate-tech-products.myshopify.com^
 ||um-bs.com^
 ||unifully.com^
