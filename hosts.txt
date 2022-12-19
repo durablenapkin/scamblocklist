@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 877
+# Domains: 879
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -36,6 +36,8 @@
 0.0.0.0 alltestbanksolutions.com
 0.0.0.0 www.alltestbanksolutions.com
 0.0.0.0 store.alltestbanksolutions.com
+0.0.0.0 alohazing.com
+0.0.0.0 www.alohazing.com
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
 0.0.0.0 animeshoppers.com
