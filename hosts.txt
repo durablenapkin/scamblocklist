@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 879
+# Domains: 881
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -305,6 +305,8 @@
 0.0.0.0 www.gearstastics.com
 0.0.0.0 gearver.com
 0.0.0.0 www.gearver.com
+0.0.0.0 gemlis.com
+0.0.0.0 www.gemlis.com
 0.0.0.0 giftyweb.com
 0.0.0.0 www.giftyweb.com
 0.0.0.0 gizmopage.com
