@@ -33,7 +33,6 @@
 ||azitecs.com^
 ||bapzy.com^
 ||beartees.pubninja.com^
-||beaswan.com^
 ||beecrave.com^
 ||benecharm.com^
 ||berfumetee.com^
@@ -111,7 +110,6 @@
 ||familybestgifts.com^
 ||familygiftlove.myshopify.com^
 ||familygiftville.com^
-||familylovesgift.com^
 ||familyshark.com^
 ||familystore.com^
 ||famoury.com^
