@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 871
+# Domains: 872
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -89,6 +89,9 @@
 0.0.0.0 boododa.com
 0.0.0.0 www.boododa.com
 0.0.0.0 store.boododa.com
+0.0.0.0 booliving.com
+0.0.0.0 www.booliving.com
+0.0.0.0 store.booliving.com
 0.0.0.0 bossaving.com
 0.0.0.0 boutiqueondemand.com
 0.0.0.0 bradcroninnapo82.myshopify.com
@@ -551,8 +554,6 @@
 0.0.0.0 www.owlala.com
 0.0.0.0 pandzee.com
 0.0.0.0 www.pandzee.com
-0.0.0.0 parajumperssalg.com
-0.0.0.0 www.parajumperssalg.com
 0.0.0.0 peace-love.us
 0.0.0.0 www.peace-love.us
 0.0.0.0 store.peace-love.us
