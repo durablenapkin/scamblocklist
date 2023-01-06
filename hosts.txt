@@ -103,7 +103,6 @@
 0.0.0.0 www.breakshirts.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
-0.0.0.0 store.buddhakind.com
 0.0.0.0 burgershirt.com
 0.0.0.0 www.burgershirt.com
 0.0.0.0 store.burgershirt.com
@@ -376,6 +375,7 @@
 0.0.0.0 www.jakkesnorge.com
 0.0.0.0 januashop.com
 0.0.0.0 www.januashop.com
+0.0.0.0 store.januashop.com
 0.0.0.0 jellystores.com
 0.0.0.0 www.jellystores.com
 0.0.0.0 store.jellystores.com
