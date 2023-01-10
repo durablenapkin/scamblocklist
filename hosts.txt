@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 879
+# Domains: 880
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -825,6 +825,7 @@
 0.0.0.0 tromselementbygg.no
 0.0.0.0 www.tromselementbygg.no
 0.0.0.0 tulumwellnessacademy.com
+0.0.0.0 www.tulumwellnessacademy.com
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 www.ultimate-tech-products.myshopify.com
 0.0.0.0 store.ultimate-tech-products.myshopify.com
