@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 874
+# Domains: 870
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -40,9 +40,6 @@
 0.0.0.0 www.alohazing.com
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
-0.0.0.0 animeshoppers.com
-0.0.0.0 www.animeshoppers.com
-0.0.0.0 store.animeshoppers.com
 0.0.0.0 aoptee.com
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
@@ -702,7 +699,6 @@
 0.0.0.0 store.steamgateways.com
 0.0.0.0 steamunlock.com
 0.0.0.0 www.steamunlock.com
-0.0.0.0 store.steamunlock.com
 0.0.0.0 steamunlock.gifts
 0.0.0.0 www.steamunlock.gifts
 0.0.0.0 store.steamunlock.gifts
