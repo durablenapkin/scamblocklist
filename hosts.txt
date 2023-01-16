@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 872
+# Domains: 870
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -171,8 +171,6 @@
 0.0.0.0 www.couponxoo.com
 0.0.0.0 cryptot.net
 0.0.0.0 www.cryptot.net
-0.0.0.0 csmoney.trade
-0.0.0.0 www.csmoney.trade
 0.0.0.0 customizerbox.com
 0.0.0.0 www.customizerbox.com
 0.0.0.0 danylevych.com
