@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 868
+# Domains: 870
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -111,8 +111,6 @@
 0.0.0.0 store.buydubuy.com
 0.0.0.0 buzzazone.com
 0.0.0.0 www.buzzazone.com
-0.0.0.0 buzzdeal.com
-0.0.0.0 www.buzzdeal.com
 0.0.0.0 candlesbymadison.com
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 canjaume.com
@@ -173,8 +171,14 @@
 0.0.0.0 www.couponxoo.com
 0.0.0.0 cryptot.net
 0.0.0.0 www.cryptot.net
+0.0.0.0 csmoney.trade
+0.0.0.0 www.csmoney.trade
+0.0.0.0 store.csmoney.trade
 0.0.0.0 customizerbox.com
 0.0.0.0 www.customizerbox.com
+0.0.0.0 dailygiftstore.com
+0.0.0.0 www.dailygiftstore.com
+0.0.0.0 store.dailygiftstore.com
 0.0.0.0 danylevych.com
 0.0.0.0 www.danylevych.com
 0.0.0.0 daradis.com
@@ -328,8 +332,6 @@
 0.0.0.0 goyourheart.com
 0.0.0.0 www.goyourheart.com
 0.0.0.0 store.goyourheart.com
-0.0.0.0 graciaszone.com
-0.0.0.0 www.graciaszone.com
 0.0.0.0 gsport.com
 0.0.0.0 www.gsport.com
 0.0.0.0 guccitees.com

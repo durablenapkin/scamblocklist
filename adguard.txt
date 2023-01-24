@@ -50,7 +50,6 @@
 ||burgershirt.com^
 ||buydubuy.com^
 ||buzzazone.com^
-||buzzdeal.com^
 ||candlesbymadison.com^
 ||canjaume.com^
 ||carmenfloral.com^
@@ -77,7 +76,9 @@
 ||corg.co^
 ||couponxoo.com^
 ||cryptot.net^
+||csmoney.trade^
 ||customizerbox.com^
+||dailygiftstore.com^
 ||danylevych.com^
 ||daradis.com^
 ||decoryourhome.store^
@@ -146,7 +147,6 @@
 ||glstee.com^
 ||godeskonettbutikk.com^
 ||goyourheart.com^
-||graciaszone.com^
 ||gsport.com^
 ||guccitees.com^
 ||gunstee.com^
