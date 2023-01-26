@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 867
+# Domains: 872
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -509,6 +509,8 @@
 0.0.0.0 natistore.us
 0.0.0.0 www.natistore.us
 0.0.0.0 store.natistore.us
+0.0.0.0 neozor.com
+0.0.0.0 www.neozor.com
 0.0.0.0 newgstore.com
 0.0.0.0 www.newgstore.com
 0.0.0.0 store.newgstore.com
@@ -516,6 +518,9 @@
 0.0.0.0 www.niche3d.us
 0.0.0.0 nldstore.com
 0.0.0.0 www.nldstore.com
+0.0.0.0 no.moncleritalien.com
+0.0.0.0 www.no.moncleritalien.com
+0.0.0.0 store.no.moncleritalien.com
 0.0.0.0 noatopdesign.com
 0.0.0.0 www.noatopdesign.com
 0.0.0.0 nofotballshop.com
