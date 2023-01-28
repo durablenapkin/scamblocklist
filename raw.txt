@@ -1,11 +1,5 @@
 # IMPORTANT: this list is not for public consumption. Use https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt instead
 
-0.0.0.0 21spacex.net
-0.0.0.0 www.21spacex.net
-0.0.0.0 store.21spacex.net
-0.0.0.0 dizcord.gift
-0.0.0.0 www.dizcord.gift
-0.0.0.0 store.dizcord.gift
 0.0.0.0 1n.yarrid.com
 0.0.0.0 www.1n.yarrid.com
 0.0.0.0 store.1n.yarrid.com
@@ -24,6 +18,9 @@
 0.0.0.0 1sttheworld.online
 0.0.0.0 www.1sttheworld.online
 0.0.0.0 store.1sttheworld.online
+0.0.0.0 21spacex.net
+0.0.0.0 www.21spacex.net
+0.0.0.0 store.21spacex.net
 0.0.0.0 68blessed.com
 0.0.0.0 www.68blessed.com
 0.0.0.0 store.68blessed.com
@@ -354,6 +351,9 @@
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 www.cityofdream.co.uk
 0.0.0.0 store.cityofdream.co.uk
+0.0.0.0 claimcoderz.live
+0.0.0.0 www.claimcoderz.live
+0.0.0.0 store.claimcoderz.live
 0.0.0.0 classicraftdesign.com
 0.0.0.0 www.classicraftdesign.com
 0.0.0.0 store.classicraftdesign.com
@@ -486,6 +486,9 @@
 0.0.0.0 dixlitle.com
 0.0.0.0 www.dixlitle.com
 0.0.0.0 store.dixlitle.com
+0.0.0.0 dizcord.gift
+0.0.0.0 www.dizcord.gift
+0.0.0.0 store.dizcord.gift
 0.0.0.0 dkfodboldstore.com
 0.0.0.0 www.dkfodboldstore.com
 0.0.0.0 store.dkfodboldstore.com
@@ -546,6 +549,9 @@
 0.0.0.0 easynatures.com
 0.0.0.0 www.easynatures.com
 0.0.0.0 store.easynatures.com
+0.0.0.0 easypayment.me
+0.0.0.0 www.easypayment.me
+0.0.0.0 store.easypayment.me
 0.0.0.0 easyshoppingus.com
 0.0.0.0 www.easyshoppingus.com
 0.0.0.0 store.easyshoppingus.com
@@ -717,6 +723,9 @@
 0.0.0.0 fulfillgift.com
 0.0.0.0 www.fulfillgift.com
 0.0.0.0 store.fulfillgift.com
+0.0.0.0 fundanemt.org
+0.0.0.0 www.fundanemt.org
+0.0.0.0 store.fundanemt.org
 0.0.0.0 furoshop.com
 0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
@@ -1353,6 +1362,9 @@
 0.0.0.0 newlifetee.com
 0.0.0.0 www.newlifetee.com
 0.0.0.0 store.newlifetee.com
+0.0.0.0 next24.easypayment.me
+0.0.0.0 www.next24.easypayment.me
+0.0.0.0 store.next24.easypayment.me
 0.0.0.0 nicetee.net
 0.0.0.0 www.nicetee.net
 0.0.0.0 store.nicetee.net
@@ -1440,6 +1452,12 @@
 0.0.0.0 orinblanket.com
 0.0.0.0 www.orinblanket.com
 0.0.0.0 store.orinblanket.com
+0.0.0.0 oschaad.fasterpays.me
+0.0.0.0 www.oschaad.fasterpays.me
+0.0.0.0 store.oschaad.fasterpays.me
+0.0.0.0 oschad.easypayment.me
+0.0.0.0 www.oschad.easypayment.me
+0.0.0.0 store.oschad.easypayment.me
 0.0.0.0 otakupuzzle.com
 0.0.0.0 www.otakupuzzle.com
 0.0.0.0 store.otakupuzzle.com
@@ -1575,6 +1593,12 @@
 0.0.0.0 proudofyournation.com
 0.0.0.0 www.proudofyournation.com
 0.0.0.0 store.proudofyournation.com
+0.0.0.0 pumb.easypayment.me
+0.0.0.0 www.pumb.easypayment.me
+0.0.0.0 store.pumb.easypayment.me
+0.0.0.0 pumb.fasterpays.me
+0.0.0.0 www.pumb.fasterpays.me
+0.0.0.0 store.pumb.fasterpays.me
 0.0.0.0 puzzdeal.com
 0.0.0.0 www.puzzdeal.com
 0.0.0.0 store.puzzdeal.com
@@ -1599,6 +1623,12 @@
 0.0.0.0 rabamnetee.com
 0.0.0.0 www.rabamnetee.com
 0.0.0.0 store.rabamnetee.com
+0.0.0.0 raif.easypayment.me
+0.0.0.0 www.raif.easypayment.me
+0.0.0.0 store.raif.easypayment.me
+0.0.0.0 raif.fasterpays.me
+0.0.0.0 www.raif.fasterpays.me
+0.0.0.0 store.raif.fasterpays.me
 0.0.0.0 rbgeg.com
 0.0.0.0 www.rbgeg.com
 0.0.0.0 store.rbgeg.com
