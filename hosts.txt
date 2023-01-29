@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 872
+# Domains: 891
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -299,6 +299,10 @@
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
 0.0.0.0 store.fveco.com
+0.0.0.0 gamingbuffs.com
+0.0.0.0 www.gamingbuffs.com
+0.0.0.0 gamingtoolz.club
+0.0.0.0 www.gamingtoolz.club
 0.0.0.0 gearanime.com
 0.0.0.0 www.gearanime.com
 0.0.0.0 gearathena.com
@@ -307,6 +311,8 @@
 0.0.0.0 www.gearclover.com
 0.0.0.0 gearhomies.com
 0.0.0.0 www.gearhomies.com
+0.0.0.0 gearhuman.com
+0.0.0.0 www.gearhuman.com
 0.0.0.0 gearstastic.com
 0.0.0.0 www.gearstastic.com
 0.0.0.0 gearstastics.com
@@ -359,6 +365,9 @@
 0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
+0.0.0.0 hotmod.eu
+0.0.0.0 www.hotmod.eu
+0.0.0.0 store.hotmod.eu
 0.0.0.0 icelandclothing.myshopify.com
 0.0.0.0 www.icelandclothing.myshopify.com
 0.0.0.0 store.icelandclothing.myshopify.com
@@ -404,6 +413,8 @@
 0.0.0.0 kisserine.com
 0.0.0.0 www.kisserine.com
 0.0.0.0 kitchendecor.shop
+0.0.0.0 knightmods.com
+0.0.0.0 www.knightmods.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 store.ladamustore.com
@@ -427,6 +438,8 @@
 0.0.0.0 levath.com
 0.0.0.0 www.levath.com
 0.0.0.0 store.levath.com
+0.0.0.0 levelbash.com
+0.0.0.0 www.levelbash.com
 0.0.0.0 lillly.shop
 0.0.0.0 www.lillly.shop
 0.0.0.0 store.lillly.shop
@@ -481,6 +494,9 @@
 0.0.0.0 www.miucart.com
 0.0.0.0 miuprints.com
 0.0.0.0 www.miuprints.com
+0.0.0.0 modmobile24.com
+0.0.0.0 www.modmobile24.com
+0.0.0.0 store.modmobile24.com
 0.0.0.0 monkstars.com
 0.0.0.0 www.monkstars.com
 0.0.0.0 mononus.com
@@ -540,6 +556,8 @@
 0.0.0.0 norgeshoes.com
 0.0.0.0 www.norgeshoes.com
 0.0.0.0 store.norgeshoes.com
+0.0.0.0 nxtgenerator.top
+0.0.0.0 www.nxtgenerator.top
 0.0.0.0 odinpc.com
 0.0.0.0 www.odinpc.com
 0.0.0.0 oflike.com
@@ -611,6 +629,9 @@
 0.0.0.0 www.rebeccatees.com
 0.0.0.0 reforest-iita.org
 0.0.0.0 www.reforest-iita.org
+0.0.0.0 resources4gaming.com
+0.0.0.0 www.resources4gaming.com
+0.0.0.0 store.resources4gaming.com
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
 0.0.0.0 ringtoperfection.com
@@ -631,8 +652,6 @@
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
 0.0.0.0 sharonup.com
-0.0.0.0 www.sharonup.com
-0.0.0.0 store.sharonup.com
 0.0.0.0 shinepuzzle.com
 0.0.0.0 www.shinepuzzle.com
 0.0.0.0 store.shinepuzzle.com

@@ -132,10 +132,13 @@
 ||fundanemt.org^
 ||furoshop.com^
 ||fveco.com^
+||gamingbuffs.com^
+||gamingtoolz.club^
 ||gearanime.com^
 ||gearathena.com^
 ||gearclover.com^
 ||gearhomies.com^
+||gearhuman.com^
 ||gearstastic.com^
 ||gearstastics.com^
 ||gearver.com^
@@ -160,6 +163,7 @@
 ||hernoclothing.com^
 ||himete.com^
 ||hookahheroes.com^
+||hotmod.eu^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
 ||ikoee.com^
@@ -179,6 +183,7 @@
 ||kingteestore.com^
 ||kisserine.com^
 ||kitchendecor.shop^
+||knightmods.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||legarralazcoz.com^
@@ -187,6 +192,7 @@
 ||lericettedifrancy74.com^
 ||letteringift.com^
 ||levath.com^
+||levelbash.com^
 ||lillly.shop^
 ||linkshe.com^
 ||linostee.com^
@@ -210,6 +216,7 @@
 ||meaningift.com^
 ||miucart.com^
 ||miuprints.com^
+||modmobile24.com^
 ||monkstars.com^
 ||mononus.com^
 ||moteshoes.com^
@@ -235,6 +242,7 @@
 ||norge.parkaoutdoor.com^
 ||norgefotball.com^
 ||norgeshoes.com^
+||nxtgenerator.top^
 ||odinpc.com^
 ||oflike.com^
 ||ogogear.com^
@@ -266,6 +274,7 @@
 ||reanimando.org^
 ||rebeccatees.com^
 ||reforest-iita.org^
+||resources4gaming.com^
 ||reviewshirts.com^
 ||ringtoperfection.com^
 ||rjgriffith.com^
