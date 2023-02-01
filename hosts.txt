@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 891
+# Domains: 889
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -183,8 +183,6 @@
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
-0.0.0.0 defcon7.com.br
-0.0.0.0 www.defcon7.com.br
 0.0.0.0 deluxdoll.com
 0.0.0.0 www.deluxdoll.com
 0.0.0.0 store.deluxdoll.com
