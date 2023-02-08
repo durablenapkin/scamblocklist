@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 928
+# Domains: 925
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -12,7 +12,6 @@
 0.0.0.0 www.1sttheglobal.com
 0.0.0.0 1sttheworld.com
 0.0.0.0 www.1sttheworld.com
-0.0.0.0 23elon.pro
 0.0.0.0 2xtsla.io
 0.0.0.0 acquatee.com
 0.0.0.0 www.acquatee.com
@@ -43,6 +42,7 @@
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
 0.0.0.0 aoptee.com
+0.0.0.0 ark-invests.net
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
 0.0.0.0 store.army-shop.onshopbase.com
@@ -660,8 +660,6 @@
 0.0.0.0 store.saveeeee.myshopify.com
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
-0.0.0.0 sharonup.com
-0.0.0.0 www.sharonup.com
 0.0.0.0 store.sharonup.com
 0.0.0.0 shinepuzzle.com
 0.0.0.0 www.shinepuzzle.com
@@ -821,7 +819,6 @@
 0.0.0.0 teslalnc.net
 0.0.0.0 teslamotors2x.com
 0.0.0.0 www.teslamotors2x.com
-0.0.0.0 teslapull.com
 0.0.0.0 teslapull.io
 0.0.0.0 teslatime.net
 0.0.0.0 thechildhooddream.com
