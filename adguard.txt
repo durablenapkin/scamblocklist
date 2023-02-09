@@ -355,12 +355,17 @@
 ||teesunshine.com^
 ||teezill.com^
 ||tesla2xdrop.com^
+||teslacar.io^
 ||teslacars.space^
+||tesladrop2x.com^
 ||teslaev.d1v854kgghhsze.amplifyapp.com^
 ||teslafuture.io^
+||teslagive23.net^
+||teslahelp.io^
 ||teslainc2023.net^
 ||teslaking.io^
 ||teslalnc.net^
+||teslalnc.org^
 ||teslamotors2x.com^
 ||teslapull.io^
 ||teslatime.net^
@@ -380,7 +385,7 @@
 ||trendsharks.com^
 ||treverschmelerkris18.myshopify.com^
 ||tromselementbygg.no^
-||tsla-win.com^
+||tsla-23.com^
 ||tsladouble23.com^
 ||tslax2.io^
 ||tulumwellnessacademy.com^
@@ -406,6 +411,7 @@
 ||windbellstore.com^
 ||woadoodles.com^
 ||x2-promo.net^
+||x2bytesla.com^
 ||x2droptesla.com^
 ||yeswevibe.com^
 ||yhdshop.com^
