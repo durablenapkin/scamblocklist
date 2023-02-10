@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 935
+# Domains: 934
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -871,7 +871,6 @@
 0.0.0.0 store.treverschmelerkris18.myshopify.com
 0.0.0.0 tromselementbygg.no
 0.0.0.0 www.tromselementbygg.no
-0.0.0.0 tsla-23.com
 0.0.0.0 tsladouble23.com
 0.0.0.0 www.tsladouble23.com
 0.0.0.0 tslax2.io
