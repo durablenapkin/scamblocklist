@@ -306,6 +306,9 @@
 0.0.0.0 carvemyname.com
 0.0.0.0 www.carvemyname.com
 0.0.0.0 store.carvemyname.com
+0.0.0.0 cashspacex.org
+0.0.0.0 www.cashspacex.org
+0.0.0.0 store.cashspacex.org
 0.0.0.0 castim.info
 0.0.0.0 www.castim.info
 0.0.0.0 store.castim.info
@@ -588,6 +591,9 @@
 0.0.0.0 ellezz.com
 0.0.0.0 www.ellezz.com
 0.0.0.0 store.ellezz.com
+0.0.0.0 elonmusk2x.org
+0.0.0.0 www.elonmusk2x.org
+0.0.0.0 store.elonmusk2x.org
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 store.emberio.com
@@ -2148,6 +2154,9 @@
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
 0.0.0.0 store.teezill.com
+0.0.0.0 tesla-gpt.com
+0.0.0.0 www.tesla-gpt.com
+0.0.0.0 store.tesla-gpt.com
 0.0.0.0 tesla2xdrop.com
 0.0.0.0 www.tesla2xdrop.com
 0.0.0.0 store.tesla2xdrop.com
@@ -2157,6 +2166,9 @@
 0.0.0.0 teslacars.space
 0.0.0.0 www.teslacars.space
 0.0.0.0 store.teslacars.space
+0.0.0.0 teslaclub.io
+0.0.0.0 www.teslaclub.io
+0.0.0.0 store.teslaclub.io
 0.0.0.0 tesladrop2x.com
 0.0.0.0 www.tesladrop2x.com
 0.0.0.0 store.tesladrop2x.com
@@ -2187,6 +2199,9 @@
 0.0.0.0 teslamotors2x.com
 0.0.0.0 www.teslamotors2x.com
 0.0.0.0 store.teslamotors2x.com
+0.0.0.0 teslamotorsx2.com
+0.0.0.0 www.teslamotorsx2.com
+0.0.0.0 store.teslamotorsx2.com
 0.0.0.0 teslapull.com
 0.0.0.0 www.teslapull.com
 0.0.0.0 store.teslapull.com
