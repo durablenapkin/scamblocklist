@@ -594,6 +594,9 @@
 0.0.0.0 elonmusk2x.org
 0.0.0.0 www.elonmusk2x.org
 0.0.0.0 store.elonmusk2x.org
+0.0.0.0 elonx2tesla.com
+0.0.0.0 www.elonx2tesla.com
+0.0.0.0 store.elonx2tesla.com
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 store.emberio.com
@@ -1425,6 +1428,9 @@
 0.0.0.0 newlifetee.com
 0.0.0.0 www.newlifetee.com
 0.0.0.0 store.newlifetee.com
+0.0.0.0 next-cryptopod.xyz
+0.0.0.0 www.next-cryptopod.xyz
+0.0.0.0 store.next-cryptopod.xyz
 0.0.0.0 next24.easypayment.me
 0.0.0.0 www.next24.easypayment.me
 0.0.0.0 store.next24.easypayment.me
@@ -2154,9 +2160,15 @@
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
 0.0.0.0 store.teezill.com
+0.0.0.0 tesla-buy.net
+0.0.0.0 www.tesla-buy.net
+0.0.0.0 store.tesla-buy.net
 0.0.0.0 tesla-gpt.com
 0.0.0.0 www.tesla-gpt.com
 0.0.0.0 store.tesla-gpt.com
+0.0.0.0 tesla23new.org
+0.0.0.0 www.tesla23new.org
+0.0.0.0 store.tesla23new.org
 0.0.0.0 tesla2xdrop.com
 0.0.0.0 www.tesla2xdrop.com
 0.0.0.0 store.tesla2xdrop.com
@@ -2181,6 +2193,9 @@
 0.0.0.0 teslagive23.net
 0.0.0.0 www.teslagive23.net
 0.0.0.0 store.teslagive23.net
+0.0.0.0 teslagivex2foryou.com
+0.0.0.0 www.teslagivex2foryou.com
+0.0.0.0 store.teslagivex2foryou.com
 0.0.0.0 teslahelp.io
 0.0.0.0 www.teslahelp.io
 0.0.0.0 store.teslahelp.io
@@ -2196,6 +2211,9 @@
 0.0.0.0 teslalnc.org
 0.0.0.0 www.teslalnc.org
 0.0.0.0 store.teslalnc.org
+0.0.0.0 teslamake.io
+0.0.0.0 www.teslamake.io
+0.0.0.0 store.teslamake.io
 0.0.0.0 teslamotors2x.com
 0.0.0.0 www.teslamotors2x.com
 0.0.0.0 store.teslamotors2x.com
@@ -2214,6 +2232,9 @@
 0.0.0.0 teslatime.net
 0.0.0.0 www.teslatime.net
 0.0.0.0 store.teslatime.net
+0.0.0.0 teslawork.io
+0.0.0.0 www.teslawork.io
+0.0.0.0 store.teslawork.io
 0.0.0.0 thecabinas.com
 0.0.0.0 www.thecabinas.com
 0.0.0.0 store.thecabinas.com
@@ -2328,6 +2349,9 @@
 0.0.0.0 tsla-23.com
 0.0.0.0 www.tsla-23.com
 0.0.0.0 store.tsla-23.com
+0.0.0.0 tsla-give.com
+0.0.0.0 www.tsla-give.com
+0.0.0.0 store.tsla-give.com
 0.0.0.0 tsla-win.com
 0.0.0.0 www.tsla-win.com
 0.0.0.0 store.tsla-win.com

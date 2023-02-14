@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 945
+# Domains: 951
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -43,6 +43,7 @@
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
 0.0.0.0 aoptee.com
+0.0.0.0 ark-invests.net
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
 0.0.0.0 store.army-shop.onshopbase.com
@@ -109,7 +110,6 @@
 0.0.0.0 store.buydubuy.com
 0.0.0.0 buzzazone.com
 0.0.0.0 www.buzzazone.com
-0.0.0.0 bytesla.net
 0.0.0.0 candlesbymadison.com
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 canjaume.com
@@ -146,6 +146,7 @@
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 www.cityofdream.co.uk
 0.0.0.0 claimcoderz.live
+0.0.0.0 www.claimcoderz.live
 0.0.0.0 clemoa.com
 0.0.0.0 www.clemoa.com
 0.0.0.0 store.clemoa.com
@@ -240,6 +241,8 @@
 0.0.0.0 store.ellezz.com
 0.0.0.0 elonmusk2x.org
 0.0.0.0 www.elonmusk2x.org
+0.0.0.0 elonx2tesla.com
+0.0.0.0 www.elonx2tesla.com
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 store.emberio.com
@@ -677,7 +680,6 @@
 0.0.0.0 www.sentees.com
 0.0.0.0 store.sentees.com
 0.0.0.0 sharonup.com
-0.0.0.0 www.sharonup.com
 0.0.0.0 store.sharonup.com
 0.0.0.0 shinepuzzle.com
 0.0.0.0 www.shinepuzzle.com
@@ -824,6 +826,9 @@
 0.0.0.0 www.teesunshine.com
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
+0.0.0.0 tesla-buy.net
+0.0.0.0 tesla23new.org
+0.0.0.0 www.tesla23new.org
 0.0.0.0 tesla2xdrop.com
 0.0.0.0 www.tesla2xdrop.com
 0.0.0.0 teslacar.io
@@ -831,15 +836,15 @@
 0.0.0.0 www.teslacars.space
 0.0.0.0 tesladrop2x.com
 0.0.0.0 www.tesladrop2x.com
-0.0.0.0 teslaev.d1v854kgghhsze.amplifyapp.com
-0.0.0.0 www.teslaev.d1v854kgghhsze.amplifyapp.com
-0.0.0.0 store.teslaev.d1v854kgghhsze.amplifyapp.com
 0.0.0.0 teslafuture.io
 0.0.0.0 teslagive23.net
 0.0.0.0 www.teslagive23.net
+0.0.0.0 teslagivex2foryou.com
+0.0.0.0 www.teslagivex2foryou.com
 0.0.0.0 teslaking.io
 0.0.0.0 teslalnc.net
 0.0.0.0 teslalnc.org
+0.0.0.0 teslamake.io
 0.0.0.0 teslamotorsx2.com
 0.0.0.0 www.teslamotorsx2.com
 0.0.0.0 teslapull.io
@@ -884,6 +889,7 @@
 0.0.0.0 store.treverschmelerkris18.myshopify.com
 0.0.0.0 tromselementbygg.no
 0.0.0.0 www.tromselementbygg.no
+0.0.0.0 tsla-give.com
 0.0.0.0 tsladouble23.com
 0.0.0.0 www.tsladouble23.com
 0.0.0.0 tslax2.io
