@@ -4,7 +4,8 @@ A blocklist to protect users against untrustworthy sites.
 
 Nightly updates with dead/invalid domains removed.
 
-**Scam Blocklist URL: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt**
+* **Scam Blocklist (HOSTS format): https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt**
+* **Scam Blocklist (Adblock Plus (ABP) format): https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt**
 
 Special shoutout to `www.ikiha.com` for inspiring the creation of this project (included in this blocklist). All I wanted was the chubby seal plushie.
 
@@ -12,11 +13,13 @@ Contribute: https://github.com/durablenapkin/scamblocklist/issues
 
 ## How to Use:
 
-The Scam Blocklist can easily be added as another list in adblockers. In uBlock Origin ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)) you can add it as a `Custom Filter List` under the `Filter lists` tab.
+The Scam Blocklist can easily be added as another list in adblockers. In uBlock Origin ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)) you can add `https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt` as a `Custom Filter List` under the `Filter lists` tab.
 
 ## Featured in:
 
-* [dbl.oisd.nl | Internet's #1 domain blocklist](https://old.reddit.com/r/oisd_blocklist/comments/dwxgld/dbloisdnl_internets_1_domain_blocklist/)
+* [OISD Blocklist](https://oisd.nl/)
+* [HaGeZi's DNS Blocklists](https://github.com/hagezi/dns-blocklists)
+* [AdGuard DNS](https://adguard-dns.io/)
 
 Everyone is welcome to integrate this blocklist into their project! If you do, feel free to open an issue or pull request and I'll add your project here!
 

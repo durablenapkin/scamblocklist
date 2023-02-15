@@ -48,6 +48,9 @@
 0.0.0.0 adidasko.com
 0.0.0.0 www.adidasko.com
 0.0.0.0 store.adidasko.com
+0.0.0.0 affixwallet.net
+0.0.0.0 www.affixwallet.net
+0.0.0.0 store.affixwallet.net
 0.0.0.0 ahenana.com
 0.0.0.0 www.ahenana.com
 0.0.0.0 store.ahenana.com
@@ -120,6 +123,9 @@
 0.0.0.0 aozeala.com
 0.0.0.0 www.aozeala.com
 0.0.0.0 store.aozeala.com
+0.0.0.0 app.affixwallet.net
+0.0.0.0 www.app.affixwallet.net
+0.0.0.0 store.app.affixwallet.net
 0.0.0.0 approdishop.com
 0.0.0.0 www.approdishop.com
 0.0.0.0 store.approdishop.com
@@ -333,6 +339,9 @@
 0.0.0.0 charpente-ramel.com
 0.0.0.0 www.charpente-ramel.com
 0.0.0.0 store.charpente-ramel.com
+0.0.0.0 chatgpt-double.com
+0.0.0.0 www.chatgpt-double.com
+0.0.0.0 store.chatgpt-double.com
 0.0.0.0 check-update-today.me
 0.0.0.0 www.check-update-today.me
 0.0.0.0 store.check-update-today.me
@@ -2160,6 +2169,9 @@
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
 0.0.0.0 store.teezill.com
+0.0.0.0 tesla-bmw.com
+0.0.0.0 www.tesla-bmw.com
+0.0.0.0 store.tesla-bmw.com
 0.0.0.0 tesla-buy.net
 0.0.0.0 www.tesla-buy.net
 0.0.0.0 store.tesla-buy.net
@@ -2184,6 +2196,9 @@
 0.0.0.0 tesladrop2x.com
 0.0.0.0 www.tesladrop2x.com
 0.0.0.0 store.tesladrop2x.com
+0.0.0.0 teslaeasy.io
+0.0.0.0 www.teslaeasy.io
+0.0.0.0 store.teslaeasy.io
 0.0.0.0 teslaev.d1v854kgghhsze.amplifyapp.com
 0.0.0.0 www.teslaev.d1v854kgghhsze.amplifyapp.com
 0.0.0.0 store.teslaev.d1v854kgghhsze.amplifyapp.com
@@ -2199,9 +2214,15 @@
 0.0.0.0 teslahelp.io
 0.0.0.0 www.teslahelp.io
 0.0.0.0 store.teslahelp.io
+0.0.0.0 teslahome.io
+0.0.0.0 www.teslahome.io
+0.0.0.0 store.teslahome.io
 0.0.0.0 teslainc2023.net
 0.0.0.0 www.teslainc2023.net
 0.0.0.0 store.teslainc2023.net
+0.0.0.0 teslajust.io
+0.0.0.0 www.teslajust.io
+0.0.0.0 store.teslajust.io
 0.0.0.0 teslaking.io
 0.0.0.0 www.teslaking.io
 0.0.0.0 store.teslaking.io
@@ -2235,6 +2256,9 @@
 0.0.0.0 teslawork.io
 0.0.0.0 www.teslawork.io
 0.0.0.0 store.teslawork.io
+0.0.0.0 teslax2claim.org
+0.0.0.0 www.teslax2claim.org
+0.0.0.0 store.teslax2claim.org
 0.0.0.0 thecabinas.com
 0.0.0.0 www.thecabinas.com
 0.0.0.0 store.thecabinas.com
