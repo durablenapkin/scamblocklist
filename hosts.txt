@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 941
+# Domains: 943
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -27,6 +27,9 @@
 0.0.0.0 store.akarosi.com
 0.0.0.0 akatee.com
 0.0.0.0 www.akatee.com
+0.0.0.0 aliseshop.com
+0.0.0.0 www.aliseshop.com
+0.0.0.0 store.aliseshop.com
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 www.aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 store.aliyaoberbrunnergreg21.myshopify.com
@@ -41,6 +44,7 @@
 0.0.0.0 www.altruetech.com
 0.0.0.0 aoptee.com
 0.0.0.0 app.affixwallet.net
+0.0.0.0 ark-invests.net
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
 0.0.0.0 store.army-shop.onshopbase.com
@@ -98,6 +102,9 @@
 0.0.0.0 www.breakshirts.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
+0.0.0.0 burgershirt.com
+0.0.0.0 www.burgershirt.com
+0.0.0.0 store.burgershirt.com
 0.0.0.0 buydubuy.com
 0.0.0.0 www.buydubuy.com
 0.0.0.0 store.buydubuy.com
@@ -112,6 +119,7 @@
 0.0.0.0 store.carmenfloral.com
 0.0.0.0 cashspacex.org
 0.0.0.0 www.cashspacex.org
+0.0.0.0 charmbean.com
 0.0.0.0 www.charmbean.com
 0.0.0.0 store.charmbean.com
 0.0.0.0 charmsection.com
@@ -812,8 +820,6 @@
 0.0.0.0 www.teesunshine.com
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
-0.0.0.0 tesla-bmw.com
-0.0.0.0 www.tesla-bmw.com
 0.0.0.0 tesla-buy.net
 0.0.0.0 tesla23new.org
 0.0.0.0 www.tesla23new.org
@@ -829,13 +835,9 @@
 0.0.0.0 www.teslagive23.net
 0.0.0.0 teslagivex2foryou.com
 0.0.0.0 www.teslagivex2foryou.com
-0.0.0.0 teslahome.io
-0.0.0.0 teslajust.io
 0.0.0.0 teslaking.io
 0.0.0.0 teslalnc.net
 0.0.0.0 teslalnc.org
-0.0.0.0 teslamotorsx2.com
-0.0.0.0 www.teslamotorsx2.com
 0.0.0.0 teslax2claim.org
 0.0.0.0 www.teslax2claim.org
 0.0.0.0 thechildhooddream.com
