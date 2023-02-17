@@ -356,7 +356,7 @@
 ||teenimo.com^
 ||teesunshine.com^
 ||teezill.com^
-||tesla-buy.net^
+||tesla-lnc.net^
 ||tesla23new.org^
 ||tesla2xdrop.com^
 ||teslacar.io^
@@ -368,6 +368,7 @@
 ||teslaking.io^
 ||teslalnc.net^
 ||teslalnc.org^
+||teslanext.io^
 ||teslax2claim.org^
 ||thechildhooddream.com^
 ||thegeekgifts.com^

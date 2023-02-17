@@ -820,7 +820,7 @@
 0.0.0.0 www.teesunshine.com
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
-0.0.0.0 tesla-buy.net
+0.0.0.0 tesla-lnc.net
 0.0.0.0 tesla23new.org
 0.0.0.0 www.tesla23new.org
 0.0.0.0 tesla2xdrop.com
@@ -838,6 +838,7 @@
 0.0.0.0 teslaking.io
 0.0.0.0 teslalnc.net
 0.0.0.0 teslalnc.org
+0.0.0.0 teslanext.io
 0.0.0.0 teslax2claim.org
 0.0.0.0 www.teslax2claim.org
 0.0.0.0 thechildhooddream.com
@@ -872,7 +873,6 @@
 0.0.0.0 www.trade-skins.net
 0.0.0.0 treasurefan.com
 0.0.0.0 www.treasurefan.com
-0.0.0.0 store.treasurefan.com
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 store.trendsharks.com

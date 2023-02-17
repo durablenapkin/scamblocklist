@@ -17,9 +17,10 @@ The Scam Blocklist can easily be added as another list in adblockers. In uBlock 
 
 ## Featured in:
 
-* [OISD Blocklist](https://oisd.nl/)
-* [HaGeZi's DNS Blocklists](https://github.com/hagezi/dns-blocklists)
 * [AdGuard DNS](https://adguard-dns.io/)
+* [HaGeZi's DNS Blocklists](https://github.com/hagezi/dns-blocklists)
+* [NoTracking Blocklist](https://github.com/notracking/hosts-blocklists)
+* [OISD Blocklist](https://oisd.nl/)
 
 Everyone is welcome to integrate this blocklist into their project! If you do, feel free to open an issue or pull request and I'll add your project here!
 

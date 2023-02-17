@@ -2178,6 +2178,9 @@
 0.0.0.0 tesla-gpt.com
 0.0.0.0 www.tesla-gpt.com
 0.0.0.0 store.tesla-gpt.com
+0.0.0.0 tesla-lnc.net
+0.0.0.0 www.tesla-lnc.net
+0.0.0.0 store.tesla-lnc.net
 0.0.0.0 tesla23new.org
 0.0.0.0 www.tesla23new.org
 0.0.0.0 store.tesla23new.org
@@ -2241,6 +2244,9 @@
 0.0.0.0 teslamotorsx2.com
 0.0.0.0 www.teslamotorsx2.com
 0.0.0.0 store.teslamotorsx2.com
+0.0.0.0 teslanext.io
+0.0.0.0 www.teslanext.io
+0.0.0.0 store.teslanext.io
 0.0.0.0 teslapull.com
 0.0.0.0 www.teslapull.com
 0.0.0.0 store.teslapull.com
