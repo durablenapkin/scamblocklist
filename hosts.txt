@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 935
+# Domains: 962
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -42,6 +42,13 @@
 0.0.0.0 www.alohazing.com
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
+0.0.0.0 am-freights.com
+0.0.0.0 www.am-freights.com
+0.0.0.0 animeshoppers.com
+0.0.0.0 www.animeshoppers.com
+0.0.0.0 store.animeshoppers.com
+0.0.0.0 anydebrid.com
+0.0.0.0 www.anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 app.affixwallet.net
 0.0.0.0 army-shop.onshopbase.com
@@ -78,9 +85,13 @@
 0.0.0.0 store.berfumetee.com
 0.0.0.0 bestmoonshop.com
 0.0.0.0 www.bestmoonshop.com
+0.0.0.0 binomo.com
+0.0.0.0 www.binomo.com
 0.0.0.0 blingyy.com
 0.0.0.0 www.blingyy.com
 0.0.0.0 store.blingyy.com
+0.0.0.0 bombardina.pl
+0.0.0.0 www.bombardina.pl
 0.0.0.0 boobeeshop.com
 0.0.0.0 www.boobeeshop.com
 0.0.0.0 boododa.com
@@ -96,6 +107,8 @@
 0.0.0.0 store.bradcroninnapo82.myshopify.com
 0.0.0.0 breakshirts.com
 0.0.0.0 www.breakshirts.com
+0.0.0.0 brightonmover.com
+0.0.0.0 www.brightonmover.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
 0.0.0.0 store.buddhakind.com
@@ -107,6 +120,8 @@
 0.0.0.0 store.buydubuy.com
 0.0.0.0 buzzazone.com
 0.0.0.0 www.buzzazone.com
+0.0.0.0 by-emmamuller.de
+0.0.0.0 www.by-emmamuller.de
 0.0.0.0 candlesbymadison.com
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 canjaume.com
@@ -115,6 +130,7 @@
 0.0.0.0 www.cashspacex.org
 0.0.0.0 charmbean.com
 0.0.0.0 www.charmbean.com
+0.0.0.0 store.charmbean.com
 0.0.0.0 charmsection.com
 0.0.0.0 www.charmsection.com
 0.0.0.0 store.charmsection.com
@@ -185,6 +201,7 @@
 0.0.0.0 daradis.com
 0.0.0.0 www.daradis.com
 0.0.0.0 store.daradis.com
+0.0.0.0 www.davidsmovingco.com
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
@@ -207,6 +224,9 @@
 0.0.0.0 www.dogparadisestore.com
 0.0.0.0 dolystore.com
 0.0.0.0 www.dolystore.com
+0.0.0.0 dopestore.pl
+0.0.0.0 www.dopestore.pl
+0.0.0.0 store.dopestore.pl
 0.0.0.0 drakternorge.com
 0.0.0.0 www.drakternorge.com
 0.0.0.0 drcarolyngroff.com
@@ -253,6 +273,8 @@
 0.0.0.0 www.evangeliostore.com
 0.0.0.0 eviralstore.com
 0.0.0.0 www.eviralstore.com
+0.0.0.0 expressmovers.com
+0.0.0.0 www.expressmovers.com
 0.0.0.0 familybakery.xyz
 0.0.0.0 www.familybakery.xyz
 0.0.0.0 familybestgifts.com
@@ -346,6 +368,8 @@
 0.0.0.0 gload.info
 0.0.0.0 www.gload.info
 0.0.0.0 store.gload.info
+0.0.0.0 globaldependableshippers.com
+0.0.0.0 www.globaldependableshippers.com
 0.0.0.0 glstee.com
 0.0.0.0 www.glstee.com
 0.0.0.0 godeskonettbutikk.com
@@ -407,6 +431,8 @@
 0.0.0.0 jellystores.com
 0.0.0.0 www.jellystores.com
 0.0.0.0 store.jellystores.com
+0.0.0.0 jfmovingstorage.com
+0.0.0.0 www.jfmovingstorage.com
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 joseph-holland.com
@@ -707,8 +733,6 @@
 0.0.0.0 www.southernlife.net
 0.0.0.0 sozonest.com
 0.0.0.0 www.sozonest.com
-0.0.0.0 spacexpump23.com
-0.0.0.0 www.spacexpump23.com
 0.0.0.0 spnation.net
 0.0.0.0 www.spnation.net
 0.0.0.0 sportfamily.us
@@ -890,6 +914,9 @@
 0.0.0.0 www.uniqueetee.com
 0.0.0.0 uniqueshirt.shop
 0.0.0.0 www.uniqueshirt.shop
+0.0.0.0 unitedglobal-logistics.com
+0.0.0.0 www.unitedglobal-logistics.com
+0.0.0.0 store.unitedglobal-logistics.com
 0.0.0.0 ureashi.com
 0.0.0.0 www.ureashi.com
 0.0.0.0 usasport247.com
