@@ -1,18 +1,22 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 962
+# Domains: 963
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
+0.0.0.0 store.1n.yarrid.com
 0.0.0.0 1stireland.com
 0.0.0.0 www.1stireland.com
 0.0.0.0 1sttheglobal.com
 0.0.0.0 www.1sttheglobal.com
 0.0.0.0 1sttheworld.com
 0.0.0.0 www.1sttheworld.com
+0.0.0.0 21spacex.net
 0.0.0.0 2xtsla.io
+0.0.0.0 store.9to5outlet.com
+0.0.0.0 9uwe.papilliondairyqueen.com
 0.0.0.0 acquatee.com
 0.0.0.0 www.acquatee.com
 0.0.0.0 store.acquatee.com
@@ -51,6 +55,7 @@
 0.0.0.0 www.anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 app.affixwallet.net
+0.0.0.0 ark-invests.net
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
 0.0.0.0 store.army-shop.onshopbase.com
@@ -540,9 +545,6 @@
 0.0.0.0 mononus.com
 0.0.0.0 www.mononus.com
 0.0.0.0 store.mononus.com
-0.0.0.0 moteshoes.com
-0.0.0.0 www.moteshoes.com
-0.0.0.0 store.moteshoes.com
 0.0.0.0 muthaafoundation.org
 0.0.0.0 www.muthaafoundation.org
 0.0.0.0 mycraftypad.com
@@ -724,6 +726,9 @@
 0.0.0.0 www.sligen.com
 0.0.0.0 smartpower4all.org
 0.0.0.0 www.smartpower4all.org
+0.0.0.0 smartproduct.site
+0.0.0.0 www.smartproduct.site
+0.0.0.0 store.smartproduct.site
 0.0.0.0 souhoney.com
 0.0.0.0 www.souhoney.com
 0.0.0.0 store.souhoney.com
@@ -740,7 +745,6 @@
 0.0.0.0 store.sportfamily.us
 0.0.0.0 sportfanvoice.com
 0.0.0.0 www.sportfanvoice.com
-0.0.0.0 store.sportfanvoice.com
 0.0.0.0 sportfirestore.com
 0.0.0.0 www.sportfirestore.com
 0.0.0.0 sportsapparelmarket.com
@@ -850,8 +854,6 @@
 0.0.0.0 teslafuture.io
 0.0.0.0 teslagive23.net
 0.0.0.0 www.teslagive23.net
-0.0.0.0 teslagivex2foryou.com
-0.0.0.0 www.teslagivex2foryou.com
 0.0.0.0 teslaking.io
 0.0.0.0 teslalnc.net
 0.0.0.0 teslalnc.org
@@ -916,7 +918,6 @@
 0.0.0.0 www.uniqueshirt.shop
 0.0.0.0 unitedglobal-logistics.com
 0.0.0.0 www.unitedglobal-logistics.com
-0.0.0.0 store.unitedglobal-logistics.com
 0.0.0.0 ureashi.com
 0.0.0.0 www.ureashi.com
 0.0.0.0 usasport247.com
