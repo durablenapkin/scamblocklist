@@ -1,22 +1,18 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 963
+# Domains: 954
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
-0.0.0.0 store.1n.yarrid.com
 0.0.0.0 1stireland.com
 0.0.0.0 www.1stireland.com
 0.0.0.0 1sttheglobal.com
 0.0.0.0 www.1sttheglobal.com
 0.0.0.0 1sttheworld.com
 0.0.0.0 www.1sttheworld.com
-0.0.0.0 21spacex.net
 0.0.0.0 2xtsla.io
-0.0.0.0 store.9to5outlet.com
-0.0.0.0 9uwe.papilliondairyqueen.com
 0.0.0.0 acquatee.com
 0.0.0.0 www.acquatee.com
 0.0.0.0 store.acquatee.com
@@ -55,7 +51,6 @@
 0.0.0.0 www.anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 app.affixwallet.net
-0.0.0.0 ark-invests.net
 0.0.0.0 army-shop.onshopbase.com
 0.0.0.0 www.army-shop.onshopbase.com
 0.0.0.0 store.army-shop.onshopbase.com
@@ -693,6 +688,7 @@
 0.0.0.0 store.saveeeee.myshopify.com
 0.0.0.0 sayhellorugs.com
 0.0.0.0 www.sayhellorugs.com
+0.0.0.0 store.sayhellorugs.com
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
 0.0.0.0 store.sentees.com
@@ -844,8 +840,6 @@
 0.0.0.0 tesla-lnc.net
 0.0.0.0 tesla23new.org
 0.0.0.0 www.tesla23new.org
-0.0.0.0 tesla2xdrop.com
-0.0.0.0 www.tesla2xdrop.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslacars.space
 0.0.0.0 www.teslacars.space
@@ -855,8 +849,6 @@
 0.0.0.0 teslagive23.net
 0.0.0.0 www.teslagive23.net
 0.0.0.0 teslaking.io
-0.0.0.0 teslalnc.net
-0.0.0.0 teslalnc.org
 0.0.0.0 teslax2claim.org
 0.0.0.0 www.teslax2claim.org
 0.0.0.0 thechildhooddream.com
@@ -899,7 +891,6 @@
 0.0.0.0 store.treverschmelerkris18.myshopify.com
 0.0.0.0 tromselementbygg.no
 0.0.0.0 www.tromselementbygg.no
-0.0.0.0 tsla-give.com
 0.0.0.0 tsladouble23.com
 0.0.0.0 www.tsladouble23.com
 0.0.0.0 tslax2.io
