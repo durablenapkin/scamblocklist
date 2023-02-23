@@ -137,7 +137,6 @@
 ||feddiy.com^
 ||findglocal.com^
 ||fishingdaily.shop^
-||fix-live.tech^
 ||flattee.com^
 ||fotballsko-salg.com^
 ||fraeuleinemma.fun^
@@ -216,6 +215,7 @@
 ||lisabuddy.com^
 ||lisianstore.com^
 ||litcomplex.com^
+||liverepsae.adeftsolutions.com^
 ||look-like-star.myshopify.com^
 ||lootcrate.com^
 ||loveinbox.co.uk^
@@ -369,9 +369,7 @@
 ||teslacars.space^
 ||tesladrop2x.com^
 ||teslafuture.io^
-||teslagive23.net^
 ||teslaking.io^
-||teslax2claim.org^
 ||thechildhooddream.com^
 ||thegeekgifts.com^
 ||thehappywood.com^
@@ -413,7 +411,6 @@
 ||windbellstore.com^
 ||woadoodles.com^
 ||x2-promo.net^
-||x2droptesla.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
 ||yhdshop.com^

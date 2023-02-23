@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 950
+# Domains: 945
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -154,7 +154,6 @@
 0.0.0.0 www.cityofdream.co.uk
 0.0.0.0 claimcoderz.live
 0.0.0.0 www.claimcoderz.live
-0.0.0.0 clemoa.com
 0.0.0.0 www.clemoa.com
 0.0.0.0 store.clemoa.com
 0.0.0.0 cloverszone.com
@@ -308,8 +307,6 @@
 0.0.0.0 www.findglocal.com
 0.0.0.0 fishingdaily.shop
 0.0.0.0 www.fishingdaily.shop
-0.0.0.0 fix-live.tech
-0.0.0.0 www.fix-live.tech
 0.0.0.0 flattee.com
 0.0.0.0 www.flattee.com
 0.0.0.0 fotballsko-salg.com
@@ -489,6 +486,9 @@
 0.0.0.0 store.lisianstore.com
 0.0.0.0 litcomplex.com
 0.0.0.0 www.litcomplex.com
+0.0.0.0 liverepsae.adeftsolutions.com
+0.0.0.0 www.liverepsae.adeftsolutions.com
+0.0.0.0 store.liverepsae.adeftsolutions.com
 0.0.0.0 look-like-star.myshopify.com
 0.0.0.0 www.look-like-star.myshopify.com
 0.0.0.0 store.look-like-star.myshopify.com
@@ -690,7 +690,6 @@
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
 0.0.0.0 store.sentees.com
-0.0.0.0 sharonup.com
 0.0.0.0 www.sharonup.com
 0.0.0.0 store.sharonup.com
 0.0.0.0 shinepuzzle.com
@@ -720,7 +719,9 @@
 0.0.0.0 www.sligen.com
 0.0.0.0 smartpower4all.org
 0.0.0.0 www.smartpower4all.org
+0.0.0.0 smartproduct.site
 0.0.0.0 www.smartproduct.site
+0.0.0.0 store.smartproduct.site
 0.0.0.0 souhoney.com
 0.0.0.0 www.souhoney.com
 0.0.0.0 store.souhoney.com
@@ -842,11 +843,7 @@
 0.0.0.0 tesladrop2x.com
 0.0.0.0 www.tesladrop2x.com
 0.0.0.0 teslafuture.io
-0.0.0.0 teslagive23.net
-0.0.0.0 www.teslagive23.net
 0.0.0.0 teslaking.io
-0.0.0.0 teslax2claim.org
-0.0.0.0 www.teslax2claim.org
 0.0.0.0 thechildhooddream.com
 0.0.0.0 www.thechildhooddream.com
 0.0.0.0 store.thechildhooddream.com
@@ -941,8 +938,6 @@
 0.0.0.0 www.woadoodles.com
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
-0.0.0.0 x2droptesla.com
-0.0.0.0 www.x2droptesla.com
 0.0.0.0 yeswevibe.com
 0.0.0.0 www.yeswevibe.com
 0.0.0.0 yeyvibe.com
