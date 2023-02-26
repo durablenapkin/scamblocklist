@@ -116,7 +116,6 @@
 ||easynatures.com^
 ||easyshoppingus.com^
 ||ellezz.com^
-||elonmusk2x.org^
 ||elonx2tesla.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
@@ -243,6 +242,7 @@
 ||modmobile24.com^
 ||monkstars.com^
 ||mononus.com^
+||museuw.com^
 ||muthaafoundation.org^
 ||mycraftypad.com^
 ||myfunfarm.com^
@@ -315,7 +315,6 @@
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
 ||sentees.com^
-||sharonup.com^
 ||shinepuzzle.com^
 ||shinezily.com^
 ||shirtforfan.com^

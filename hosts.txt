@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 962
+# Domains: 959
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -253,8 +253,6 @@
 0.0.0.0 ellezz.com
 0.0.0.0 www.ellezz.com
 0.0.0.0 store.ellezz.com
-0.0.0.0 elonmusk2x.org
-0.0.0.0 www.elonmusk2x.org
 0.0.0.0 elonx2tesla.com
 0.0.0.0 www.elonx2tesla.com
 0.0.0.0 emberio.com
@@ -546,6 +544,8 @@
 0.0.0.0 mononus.com
 0.0.0.0 www.mononus.com
 0.0.0.0 store.mononus.com
+0.0.0.0 museuw.com
+0.0.0.0 www.museuw.com
 0.0.0.0 muthaafoundation.org
 0.0.0.0 www.muthaafoundation.org
 0.0.0.0 mycraftypad.com
@@ -709,9 +709,6 @@
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
 0.0.0.0 store.sentees.com
-0.0.0.0 sharonup.com
-0.0.0.0 www.sharonup.com
-0.0.0.0 store.sharonup.com
 0.0.0.0 shinepuzzle.com
 0.0.0.0 www.shinepuzzle.com
 0.0.0.0 store.shinepuzzle.com
