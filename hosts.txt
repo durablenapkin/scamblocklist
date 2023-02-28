@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 962
+# Domains: 959
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -237,9 +237,6 @@
 0.0.0.0 www.dreamstee.com
 0.0.0.0 store.dreamstee.com
 0.0.0.0 dreamstees.com
-0.0.0.0 duckydecor.store
-0.0.0.0 www.duckydecor.store
-0.0.0.0 store.duckydecor.store
 0.0.0.0 dumanus.com
 0.0.0.0 www.dumanus.com
 0.0.0.0 store.dumanus.com
@@ -415,6 +412,7 @@
 0.0.0.0 store.ikiha.com
 0.0.0.0 ikoee.com
 0.0.0.0 www.ikoee.com
+0.0.0.0 store.ikoee.com
 0.0.0.0 ilpollenza-sorso23.it
 0.0.0.0 www.ilpollenza-sorso23.it
 0.0.0.0 infinityto.com
@@ -438,6 +436,12 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 store.joseph-holland.com
+0.0.0.0 kakaoli.co.kr
+0.0.0.0 www.kakaoli.co.kr
+0.0.0.0 store.kakaoli.co.kr
+0.0.0.0 kakaopv.co.kr
+0.0.0.0 www.kakaopv.co.kr
+0.0.0.0 store.kakaopv.co.kr
 0.0.0.0 khoinguyenhanoi.vn
 0.0.0.0 www.khoinguyenhanoi.vn
 0.0.0.0 store.khoinguyenhanoi.vn
@@ -511,9 +515,6 @@
 0.0.0.0 store.lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 www.lucidtiger.com
-0.0.0.0 lucysstyle.com
-0.0.0.0 www.lucysstyle.com
-0.0.0.0 store.lucysstyle.com
 0.0.0.0 lunapresent.com
 0.0.0.0 www.lunapresent.com
 0.0.0.0 store.lunapresent.com
@@ -739,9 +740,6 @@
 0.0.0.0 www.sligen.com
 0.0.0.0 smartpower4all.org
 0.0.0.0 www.smartpower4all.org
-0.0.0.0 smartproduct.site
-0.0.0.0 www.smartproduct.site
-0.0.0.0 store.smartproduct.site
 0.0.0.0 souhoney.com
 0.0.0.0 www.souhoney.com
 0.0.0.0 store.souhoney.com
@@ -782,6 +780,8 @@
 0.0.0.0 steamunlock.gifts
 0.0.0.0 www.steamunlock.gifts
 0.0.0.0 store.steamunlock.gifts
+0.0.0.0 stearncommunjty.net
+0.0.0.0 www.stearncommunjty.net
 0.0.0.0 stellaszone.com
 0.0.0.0 www.stellaszone.com
 0.0.0.0 store.stellaszone.com
@@ -932,9 +932,6 @@
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 store.verfun.com
-0.0.0.0 vetoro.cc
-0.0.0.0 www.vetoro.cc
-0.0.0.0 store.vetoro.cc
 0.0.0.0 viberman.com
 0.0.0.0 violayvonne.com
 0.0.0.0 www.violayvonne.com

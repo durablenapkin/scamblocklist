@@ -1116,6 +1116,12 @@
 0.0.0.0 justbasicshop.com
 0.0.0.0 www.justbasicshop.com
 0.0.0.0 store.justbasicshop.com
+0.0.0.0 kakaoli.co.kr
+0.0.0.0 www.kakaoli.co.kr
+0.0.0.0 store.kakaoli.co.kr
+0.0.0.0 kakaopv.co.kr
+0.0.0.0 www.kakaopv.co.kr
+0.0.0.0 store.kakaopv.co.kr
 0.0.0.0 kalugastore.com
 0.0.0.0 www.kalugastore.com
 0.0.0.0 store.kalugastore.com
@@ -2106,6 +2112,9 @@
 0.0.0.0 steamunlock.gifts
 0.0.0.0 www.steamunlock.gifts
 0.0.0.0 store.steamunlock.gifts
+0.0.0.0 stearncommunjty.net
+0.0.0.0 www.stearncommunjty.net
+0.0.0.0 store.stearncommunjty.net
 0.0.0.0 stellaszone.com
 0.0.0.0 www.stellaszone.com
 0.0.0.0 store.stellaszone.com
