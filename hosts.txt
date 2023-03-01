@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 959
+# Domains: 975
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -79,6 +79,8 @@
 0.0.0.0 www.bapzy.com
 0.0.0.0 store.bapzy.com
 0.0.0.0 beartees.pubninja.com
+0.0.0.0 bedchichome.com
+0.0.0.0 www.bedchichome.com
 0.0.0.0 beecrave.com
 0.0.0.0 www.beecrave.com
 0.0.0.0 benecharm.com
@@ -96,6 +98,9 @@
 0.0.0.0 store.blingyy.com
 0.0.0.0 bombardina.pl
 0.0.0.0 www.bombardina.pl
+0.0.0.0 boobeeshop.com
+0.0.0.0 www.boobeeshop.com
+0.0.0.0 store.boobeeshop.com
 0.0.0.0 boododa.com
 0.0.0.0 www.boododa.com
 0.0.0.0 store.boododa.com
@@ -128,8 +133,6 @@
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 canjaume.com
 0.0.0.0 www.canjaume.com
-0.0.0.0 cashspacex.org
-0.0.0.0 www.cashspacex.org
 0.0.0.0 charmbean.com
 0.0.0.0 www.charmbean.com
 0.0.0.0 store.charmbean.com
@@ -250,8 +253,6 @@
 0.0.0.0 ellezz.com
 0.0.0.0 www.ellezz.com
 0.0.0.0 store.ellezz.com
-0.0.0.0 elonx2tesla.com
-0.0.0.0 www.elonx2tesla.com
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 store.emberio.com
@@ -404,6 +405,8 @@
 0.0.0.0 hotmod.eu
 0.0.0.0 www.hotmod.eu
 0.0.0.0 store.hotmod.eu
+0.0.0.0 husqvarnaoutlet.shop
+0.0.0.0 www.husqvarnaoutlet.shop
 0.0.0.0 icelandclothing.myshopify.com
 0.0.0.0 www.icelandclothing.myshopify.com
 0.0.0.0 store.icelandclothing.myshopify.com
@@ -559,6 +562,9 @@
 0.0.0.0 mystitich4u.com
 0.0.0.0 www.mystitich4u.com
 0.0.0.0 nabaza.shop
+0.0.0.0 nalzahqp.page.link
+0.0.0.0 www.nalzahqp.page.link
+0.0.0.0 store.nalzahqp.page.link
 0.0.0.0 nanistores.com
 0.0.0.0 www.nanistores.com
 0.0.0.0 store.nanistores.com
@@ -613,6 +619,8 @@
 0.0.0.0 oldcube.com
 0.0.0.0 www.oldcube.com
 0.0.0.0 store.oldcube.com
+0.0.0.0 onlineadid.com
+0.0.0.0 www.onlineadid.com
 0.0.0.0 orami.cloud
 0.0.0.0 www.orami.cloud
 0.0.0.0 orami.life
@@ -641,6 +649,8 @@
 0.0.0.0 peppatees.com
 0.0.0.0 personal84.com
 0.0.0.0 www.personal84.com
+0.0.0.0 pertinacious-assemblage.com
+0.0.0.0 www.pertinacious-assemblage.com
 0.0.0.0 pharaohstore.com
 0.0.0.0 www.pharaohstore.com
 0.0.0.0 store.pharaohstore.com
@@ -712,7 +722,6 @@
 0.0.0.0 store.sentees.com
 0.0.0.0 sharonup.com
 0.0.0.0 www.sharonup.com
-0.0.0.0 store.sharonup.com
 0.0.0.0 shinepuzzle.com
 0.0.0.0 www.shinepuzzle.com
 0.0.0.0 store.shinepuzzle.com
@@ -740,6 +749,9 @@
 0.0.0.0 www.sligen.com
 0.0.0.0 smartpower4all.org
 0.0.0.0 www.smartpower4all.org
+0.0.0.0 smartproduct.site
+0.0.0.0 www.smartproduct.site
+0.0.0.0 store.smartproduct.site
 0.0.0.0 souhoney.com
 0.0.0.0 www.souhoney.com
 0.0.0.0 store.souhoney.com
@@ -855,8 +867,6 @@
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
 0.0.0.0 tesla-lnc.net
-0.0.0.0 tesla23new.org
-0.0.0.0 www.tesla23new.org
 0.0.0.0 teslacar.io
 0.0.0.0 teslafuture.io
 0.0.0.0 teslaking.io
@@ -909,6 +919,8 @@
 0.0.0.0 tslax2.io
 0.0.0.0 tulumwellnessacademy.com
 0.0.0.0 www.tulumwellnessacademy.com
+0.0.0.0 uk-wemakewebsites.com
+0.0.0.0 www.uk-wemakewebsites.com
 0.0.0.0 ultimate-tech-products.myshopify.com
 0.0.0.0 www.ultimate-tech-products.myshopify.com
 0.0.0.0 store.ultimate-tech-products.myshopify.com
@@ -927,6 +939,8 @@
 0.0.0.0 usasport247.com
 0.0.0.0 www.usasport247.com
 0.0.0.0 store.usasport247.com
+0.0.0.0 uscampinghiking.com
+0.0.0.0 www.uscampinghiking.com
 0.0.0.0 vegamartz.com
 0.0.0.0 www.vegamartz.com
 0.0.0.0 verfun.com
@@ -938,6 +952,8 @@
 0.0.0.0 store.violayvonne.com
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 www.vipticketgiveaway.com
+0.0.0.0 virgo-eth.net
+0.0.0.0 www.virgo-eth.net
 0.0.0.0 wavetshirt.com
 0.0.0.0 www.wavetshirt.com
 0.0.0.0 weheartitstore.com
