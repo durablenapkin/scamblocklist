@@ -225,6 +225,7 @@
 ||liverepsae.adeftsolutions.com^
 ||look-like-star.myshopify.com^
 ||lootcrate.com^
+||lootcs.com^
 ||loveinbox.co.uk^
 ||lovelovegifts.com^
 ||lrgst.com^
@@ -258,6 +259,7 @@
 ||negotiatefoam.cn^
 ||neozor.com^
 ||new.bestageoffers22.com^
+||newfootwearshop.com^
 ||newgstore.com^
 ||niche3d.us^
 ||nldstore.com^
@@ -332,7 +334,6 @@
 ||skincheap.com^
 ||sligen.com^
 ||smartpower4all.org^
-||smartproduct.site^
 ||souhoney.com^
 ||source84.com^
 ||southernlife.net^
@@ -381,7 +382,6 @@
 ||teenimo.com^
 ||teesunshine.com^
 ||teezill.com^
-||tesla-lnc.net^
 ||teslacar.io^
 ||teslafuture.io^
 ||teslaking.io^

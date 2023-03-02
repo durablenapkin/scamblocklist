@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 975
+# Domains: 976
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -506,6 +506,8 @@
 0.0.0.0 store.look-like-star.myshopify.com
 0.0.0.0 lootcrate.com
 0.0.0.0 www.lootcrate.com
+0.0.0.0 lootcs.com
+0.0.0.0 www.lootcs.com
 0.0.0.0 loveinbox.co.uk
 0.0.0.0 www.loveinbox.co.uk
 0.0.0.0 store.loveinbox.co.uk
@@ -580,6 +582,8 @@
 0.0.0.0 neozor.com
 0.0.0.0 www.neozor.com
 0.0.0.0 new.bestageoffers22.com
+0.0.0.0 newfootwearshop.com
+0.0.0.0 www.newfootwearshop.com
 0.0.0.0 newgstore.com
 0.0.0.0 www.newgstore.com
 0.0.0.0 store.newgstore.com
@@ -722,6 +726,7 @@
 0.0.0.0 store.sentees.com
 0.0.0.0 sharonup.com
 0.0.0.0 www.sharonup.com
+0.0.0.0 store.sharonup.com
 0.0.0.0 shinepuzzle.com
 0.0.0.0 www.shinepuzzle.com
 0.0.0.0 store.shinepuzzle.com
@@ -749,9 +754,6 @@
 0.0.0.0 www.sligen.com
 0.0.0.0 smartpower4all.org
 0.0.0.0 www.smartpower4all.org
-0.0.0.0 smartproduct.site
-0.0.0.0 www.smartproduct.site
-0.0.0.0 store.smartproduct.site
 0.0.0.0 souhoney.com
 0.0.0.0 www.souhoney.com
 0.0.0.0 store.souhoney.com
@@ -866,7 +868,6 @@
 0.0.0.0 www.teesunshine.com
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
-0.0.0.0 tesla-lnc.net
 0.0.0.0 teslacar.io
 0.0.0.0 teslafuture.io
 0.0.0.0 teslaking.io

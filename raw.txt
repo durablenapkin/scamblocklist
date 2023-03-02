@@ -1287,6 +1287,9 @@
 0.0.0.0 lootcrate.com
 0.0.0.0 www.lootcrate.com
 0.0.0.0 store.lootcrate.com
+0.0.0.0 lootcs.com
+0.0.0.0 www.lootcs.com
+0.0.0.0 store.lootcs.com
 0.0.0.0 loveinbox.co.uk
 0.0.0.0 www.loveinbox.co.uk
 0.0.0.0 store.loveinbox.co.uk
@@ -1518,6 +1521,9 @@
 0.0.0.0 new.bestageoffers22.com
 0.0.0.0 www.new.bestageoffers22.com
 0.0.0.0 store.new.bestageoffers22.com
+0.0.0.0 newfootwearshop.com
+0.0.0.0 www.newfootwearshop.com
+0.0.0.0 store.newfootwearshop.com
 0.0.0.0 newgstore.com
 0.0.0.0 www.newgstore.com
 0.0.0.0 store.newgstore.com
