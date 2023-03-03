@@ -66,6 +66,9 @@
 0.0.0.0 akulaku.me
 0.0.0.0 www.akulaku.me
 0.0.0.0 store.akulaku.me
+0.0.0.0 aldi-life.vip
+0.0.0.0 www.aldi-life.vip
+0.0.0.0 store.aldi-life.vip
 0.0.0.0 aliripple.com
 0.0.0.0 www.aliripple.com
 0.0.0.0 store.aliripple.com
@@ -939,6 +942,9 @@
 0.0.0.0 gogiworld.com
 0.0.0.0 www.gogiworld.com
 0.0.0.0 store.gogiworld.com
+0.0.0.0 goldtimeinvest.com
+0.0.0.0 www.goldtimeinvest.com
+0.0.0.0 store.goldtimeinvest.com
 0.0.0.0 gonedewcopy.live
 0.0.0.0 www.gonedewcopy.live
 0.0.0.0 store.gonedewcopy.live
@@ -1545,6 +1551,9 @@
 0.0.0.0 nikebutikks.com
 0.0.0.0 www.nikebutikks.com
 0.0.0.0 store.nikebutikks.com
+0.0.0.0 nirvezal.com
+0.0.0.0 www.nirvezal.com
+0.0.0.0 store.nirvezal.com
 0.0.0.0 nldstore.com
 0.0.0.0 www.nldstore.com
 0.0.0.0 store.nldstore.com
