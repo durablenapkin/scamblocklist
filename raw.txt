@@ -60,6 +60,9 @@
 0.0.0.0 airmaxskobillige.com
 0.0.0.0 www.airmaxskobillige.com
 0.0.0.0 store.airmaxskobillige.com
+0.0.0.0 ajdta.com
+0.0.0.0 www.ajdta.com
+0.0.0.0 store.ajdta.com
 0.0.0.0 akarosi.com
 0.0.0.0 www.akarosi.com
 0.0.0.0 store.akarosi.com
@@ -195,6 +198,9 @@
 0.0.0.0 baroconcept.com
 0.0.0.0 www.baroconcept.com
 0.0.0.0 store.baroconcept.com
+0.0.0.0 bcm8.shop
+0.0.0.0 www.bcm8.shop
+0.0.0.0 store.bcm8.shop
 0.0.0.0 beartees.pubninja.com
 0.0.0.0 www.beartees.pubninja.com
 0.0.0.0 store.beartees.pubninja.com
@@ -318,6 +324,9 @@
 0.0.0.0 buydubuy.com
 0.0.0.0 www.buydubuy.com
 0.0.0.0 store.buydubuy.com
+0.0.0.0 buyfingermoney.company.com
+0.0.0.0 www.buyfingermoney.company.com
+0.0.0.0 store.buyfingermoney.company.com
 0.0.0.0 buzzazone.com
 0.0.0.0 www.buzzazone.com
 0.0.0.0 store.buzzazone.com
@@ -507,6 +516,9 @@
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
 0.0.0.0 store.customurink.com
+0.0.0.0 czwcvfbc.page.link
+0.0.0.0 www.czwcvfbc.page.link
+0.0.0.0 store.czwcvfbc.page.link
 0.0.0.0 dailygiftstore.com
 0.0.0.0 www.dailygiftstore.com
 0.0.0.0 store.dailygiftstore.com
@@ -786,6 +798,9 @@
 0.0.0.0 flattee.com
 0.0.0.0 www.flattee.com
 0.0.0.0 store.flattee.com
+0.0.0.0 fms88.shop
+0.0.0.0 www.fms88.shop
+0.0.0.0 store.fms88.shop
 0.0.0.0 foryourdears.com
 0.0.0.0 www.foryourdears.com
 0.0.0.0 store.foryourdears.com
@@ -801,6 +816,9 @@
 0.0.0.0 fraeuleinemma.fun
 0.0.0.0 www.fraeuleinemma.fun
 0.0.0.0 store.fraeuleinemma.fun
+0.0.0.0 frdm-mobile.com
+0.0.0.0 www.frdm-mobile.com
+0.0.0.0 store.frdm-mobile.com
 0.0.0.0 freser.info
 0.0.0.0 www.freser.info
 0.0.0.0 store.freser.info
@@ -987,6 +1005,9 @@
 0.0.0.0 guus.store
 0.0.0.0 www.guus.store
 0.0.0.0 store.guus.store
+0.0.0.0 h5.vjrniqwekq.com
+0.0.0.0 www.h5.vjrniqwekq.com
+0.0.0.0 store.h5.vjrniqwekq.com
 0.0.0.0 hairyfy.com
 0.0.0.0 www.hairyfy.com
 0.0.0.0 store.hairyfy.com
@@ -1122,6 +1143,9 @@
 0.0.0.0 jfremovals.com
 0.0.0.0 www.jfremovals.com
 0.0.0.0 store.jfremovals.com
+0.0.0.0 jne-express.my.id
+0.0.0.0 www.jne-express.my.id
+0.0.0.0 store.jne-express.my.id
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 store.jollyfamilygifts.net
@@ -1359,6 +1383,9 @@
 0.0.0.0 marleytecnologica.com
 0.0.0.0 www.marleytecnologica.com
 0.0.0.0 store.marleytecnologica.com
+0.0.0.0 maxearningcryp.com
+0.0.0.0 www.maxearningcryp.com
+0.0.0.0 store.maxearningcryp.com
 0.0.0.0 mayor4london.com
 0.0.0.0 www.mayor4london.com
 0.0.0.0 store.mayor4london.com
@@ -1413,6 +1440,9 @@
 0.0.0.0 monetlee.com
 0.0.0.0 www.monetlee.com
 0.0.0.0 store.monetlee.com
+0.0.0.0 moneymm1688.shop
+0.0.0.0 www.moneymm1688.shop
+0.0.0.0 store.moneymm1688.shop
 0.0.0.0 monkstars.co
 0.0.0.0 www.monkstars.co
 0.0.0.0 store.monkstars.co
@@ -1623,6 +1653,9 @@
 0.0.0.0 omgrm.com
 0.0.0.0 www.omgrm.com
 0.0.0.0 store.omgrm.com
+0.0.0.0 oneparttimejob.com
+0.0.0.0 www.oneparttimejob.com
+0.0.0.0 store.oneparttimejob.com
 0.0.0.0 onlineadid.com
 0.0.0.0 www.onlineadid.com
 0.0.0.0 store.onlineadid.com
@@ -2256,6 +2289,9 @@
 0.0.0.0 tartanz.co
 0.0.0.0 www.tartanz.co
 0.0.0.0 store.tartanz.co
+0.0.0.0 tdgrop168.vip
+0.0.0.0 www.tdgrop168.vip
+0.0.0.0 store.tdgrop168.vip
 0.0.0.0 tecappcloud.com
 0.0.0.0 www.tecappcloud.com
 0.0.0.0 store.tecappcloud.com
@@ -2484,6 +2520,9 @@
 0.0.0.0 tourwaysl.com
 0.0.0.0 www.tourwaysl.com
 0.0.0.0 store.tourwaysl.com
+0.0.0.0 tpqcywcx.page.link
+0.0.0.0 www.tpqcywcx.page.link
+0.0.0.0 store.tpqcywcx.page.link
 0.0.0.0 trade-skins.net
 0.0.0.0 www.trade-skins.net
 0.0.0.0 store.trade-skins.net
@@ -2673,6 +2712,9 @@
 0.0.0.0 wikeb.com
 0.0.0.0 www.wikeb.com
 0.0.0.0 store.wikeb.com
+0.0.0.0 wind88.shop
+0.0.0.0 www.wind88.shop
+0.0.0.0 store.wind88.shop
 0.0.0.0 windbellstore.com
 0.0.0.0 www.windbellstore.com
 0.0.0.0 store.windbellstore.com
