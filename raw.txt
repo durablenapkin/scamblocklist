@@ -324,6 +324,9 @@
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
 0.0.0.0 store.buddhakind.com
+0.0.0.0 budm.shop
+0.0.0.0 www.budm.shop
+0.0.0.0 store.budm.shop
 0.0.0.0 burgershirt.com
 0.0.0.0 www.burgershirt.com
 0.0.0.0 store.burgershirt.com
@@ -1746,6 +1749,9 @@
 0.0.0.0 pasarbali-malls.com
 0.0.0.0 www.pasarbali-malls.com
 0.0.0.0 store.pasarbali-malls.com
+0.0.0.0 pateim.com
+0.0.0.0 www.pateim.com
+0.0.0.0 store.pateim.com
 0.0.0.0 path2zillion.com
 0.0.0.0 www.path2zillion.com
 0.0.0.0 store.path2zillion.com
@@ -2040,6 +2046,9 @@
 0.0.0.0 shopafricalimited.com
 0.0.0.0 www.shopafricalimited.com
 0.0.0.0 store.shopafricalimited.com
+0.0.0.0 shopee1666.com
+0.0.0.0 www.shopee1666.com
+0.0.0.0 store.shopee1666.com
 0.0.0.0 shopusawarehouse.com
 0.0.0.0 www.shopusawarehouse.com
 0.0.0.0 store.shopusawarehouse.com
@@ -2808,3 +2817,6 @@
 0.0.0.0 zizozuze.com
 0.0.0.0 www.zizozuze.com
 0.0.0.0 store.zizozuze.com
+0.0.0.0 zolrqw.palatlaldate.com
+0.0.0.0 www.zolrqw.palatlaldate.com
+0.0.0.0 store.zolrqw.palatlaldate.com

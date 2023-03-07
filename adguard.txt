@@ -18,7 +18,6 @@
 ||akarosi.com^
 ||akatee.com^
 ||akulaku.me^
-||aldi-life.vip^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allstarshirt.com^
@@ -63,6 +62,7 @@
 ||brightonmover.com^
 ||btc9339.com^
 ||buddhakind.com^
+||budm.shop^
 ||burgershirt.com^
 ||buydubuy.com^
 ||buyfingermoney.company.com^
@@ -123,7 +123,6 @@
 ||dumanus.com^
 ||dunjakke-no.com^
 ||easynatures.com^
-||easyshoppingus.com^
 ||ellezz.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
@@ -154,7 +153,6 @@
 ||fms88.shop^
 ||fotballsko-salg.com^
 ||fraeuleinemma.fun^
-||frdm-mobile.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -310,6 +308,7 @@
 ||pandzee.com^
 ||parajumperssalg.com^
 ||pasarbali-malls.com^
+||pateim.com^
 ||path2zillion.com^
 ||pearstee.com^
 ||penguinnow.com^
@@ -352,6 +351,7 @@
 ||shirttest.com^
 ||shoeaddic.com^
 ||shop.spreadshirt.com^
+||shopee1666.com^
 ||shopusawarehouse.com^
 ||sigmaoffers.com^
 ||silverlanetrading.com^
@@ -377,7 +377,6 @@
 ||steamgateways.com^
 ||steamunlock.com^
 ||steamunlock.gifts^
-||stearncommunjty.net^
 ||stellaszone.com^
 ||stingcool-com.myshopify.com^
 ||stingcool.com^
@@ -466,3 +465,4 @@
 ||zedbubble.com^
 ||zerowasteinitiative.com^
 ||zgalaxytee.com^
+||zolrqw.palatlaldate.com^
