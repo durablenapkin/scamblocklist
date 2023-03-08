@@ -44,6 +44,7 @@
 ||bapzy.com^
 ||bcm8.shop^
 ||beartees.pubninja.com^
+||beautysolution24.com^
 ||bedchichome.com^
 ||beecrave.com^
 ||benecharm.com^
@@ -123,6 +124,7 @@
 ||dumanus.com^
 ||dunjakke-no.com^
 ||easynatures.com^
+||easyshoppingus.com^
 ||ellezz.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
@@ -142,7 +144,6 @@
 ||familystore.com^
 ||famoury.com^
 ||fancycentral.com^
-||fapst.com^
 ||farmer-love.us^
 ||fasinal.com^
 ||feddiy.com^
@@ -199,6 +200,7 @@
 ||hookahheroes.com^
 ||hotmod.eu^
 ||husqvarnaoutlet.shop^
+||iaqorwr.com^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
 ||ikoee.com^
@@ -307,6 +309,7 @@
 ||orderstee.com^
 ||pandzee.com^
 ||parajumperssalg.com^
+||parcel-fee.info^
 ||pasarbali-malls.com^
 ||pateim.com^
 ||path2zillion.com^
@@ -394,6 +397,7 @@
 ||supercutestuff.com^
 ||superfacehoodie.com^
 ||supperbrand.company.site^
+||supportdelivery3414-ups.com^
 ||surprisesandgifts.com^
 ||survivalcatsupply.com^
 ||swellsup.com^
