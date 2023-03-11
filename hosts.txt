@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1059
+# Domains: 1054
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -150,8 +150,6 @@
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 canjaume.com
 0.0.0.0 www.canjaume.com
-0.0.0.0 catransfer.info
-0.0.0.0 www.catransfer.info
 0.0.0.0 charmbean.com
 0.0.0.0 www.charmbean.com
 0.0.0.0 store.charmbean.com
@@ -487,7 +485,6 @@
 0.0.0.0 kakaoli.co.kr
 0.0.0.0 www.kakaoli.co.kr
 0.0.0.0 store.kakaoli.co.kr
-0.0.0.0 kakaopv.co.kr
 0.0.0.0 www.kakaopv.co.kr
 0.0.0.0 store.kakaopv.co.kr
 0.0.0.0 khoinguyenhanoi.vn
@@ -825,8 +822,6 @@
 0.0.0.0 www.southernlife.net
 0.0.0.0 sozonest.com
 0.0.0.0 www.sozonest.com
-0.0.0.0 spacex-live.site
-0.0.0.0 www.spacex-live.site
 0.0.0.0 spnation.net
 0.0.0.0 www.spnation.net
 0.0.0.0 sportfamily.us
