@@ -23,6 +23,7 @@
 ||alltestbanksolutions.com^
 ||alohazing.com^
 ||altruetech.com^
+||am-freights.com^
 ||ambulancesodium.cn^
 ||animeshoppers.com^
 ||anydebrid.com^
@@ -85,6 +86,7 @@
 ||clemoa.com^
 ||cluckergifts.ecwid.com^
 ||cmoboy.com^
+||cocumbertee.com^
 ||colorandcotton.com^
 ||cookietee.com^
 ||coolest3d.com^
@@ -117,11 +119,13 @@
 ||dopestore.pl^
 ||drakternorge.com^
 ||drcarolyngroff.com^
+||dreamstee.com^
 ||dreamstees.com^
 ||dumanus.com^
 ||dunjakke-no.com^
 ||easynatures.com^
 ||easyshoppingus.com^
+||ebuy8.shop^
 ||ellezz.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
@@ -260,7 +264,6 @@
 ||mbtnorge.com^
 ||meaningift.com^
 ||missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop^
-||miucart.com^
 ||miuprints.com^
 ||mmmjemp.cn^
 ||modmobile24.com^
@@ -342,6 +345,7 @@
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
+||rsaonlinenow.com.au^
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
 ||sharonup.com^

@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1036
+# Domains: 1048
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -45,6 +45,8 @@
 0.0.0.0 www.alohazing.com
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
+0.0.0.0 am-freights.com
+0.0.0.0 www.am-freights.com
 0.0.0.0 ambulancesodium.cn
 0.0.0.0 animeshoppers.com
 0.0.0.0 www.animeshoppers.com
@@ -181,6 +183,8 @@
 0.0.0.0 cmoboy.com
 0.0.0.0 www.cmoboy.com
 0.0.0.0 store.cmoboy.com
+0.0.0.0 cocumbertee.com
+0.0.0.0 www.cocumbertee.com
 0.0.0.0 colorandcotton.com
 0.0.0.0 www.colorandcotton.com
 0.0.0.0 cookietee.com
@@ -205,6 +209,7 @@
 0.0.0.0 store.csmoney.trade
 0.0.0.0 customizerbox.com
 0.0.0.0 www.customizerbox.com
+0.0.0.0 store.customizerbox.com
 0.0.0.0 czwcvfbc.page.link
 0.0.0.0 www.czwcvfbc.page.link
 0.0.0.0 store.czwcvfbc.page.link
@@ -221,6 +226,7 @@
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
+0.0.0.0 store.deergift.com
 0.0.0.0 defcon7.com.br
 0.0.0.0 www.defcon7.com.br
 0.0.0.0 deluxdoll.com
@@ -248,6 +254,8 @@
 0.0.0.0 drcarolyngroff.com
 0.0.0.0 www.drcarolyngroff.com
 0.0.0.0 store.drcarolyngroff.com
+0.0.0.0 dreamstee.com
+0.0.0.0 www.dreamstee.com
 0.0.0.0 dreamstees.com
 0.0.0.0 dumanus.com
 0.0.0.0 www.dumanus.com
@@ -259,6 +267,8 @@
 0.0.0.0 easyshoppingus.com
 0.0.0.0 www.easyshoppingus.com
 0.0.0.0 store.easyshoppingus.com
+0.0.0.0 ebuy8.shop
+0.0.0.0 www.ebuy8.shop
 0.0.0.0 ellezz.com
 0.0.0.0 www.ellezz.com
 0.0.0.0 store.ellezz.com
@@ -270,6 +280,7 @@
 0.0.0.0 store.enchantestore.myshopify.com
 0.0.0.0 envisiongear.com
 0.0.0.0 www.envisiongear.com
+0.0.0.0 store.envisiongear.com
 0.0.0.0 ercnnier.com
 0.0.0.0 www.ercnnier.com
 0.0.0.0 esl-gaming.com
@@ -577,8 +588,6 @@
 0.0.0.0 missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop
 0.0.0.0 www.missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop
 0.0.0.0 store.missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop
-0.0.0.0 miucart.com
-0.0.0.0 www.miucart.com
 0.0.0.0 miuprints.com
 0.0.0.0 www.miuprints.com
 0.0.0.0 mmmjemp.cn
@@ -756,6 +765,8 @@
 0.0.0.0 rosateeshop.com
 0.0.0.0 www.rosateeshop.com
 0.0.0.0 royaldecorhome.store
+0.0.0.0 rsaonlinenow.com.au
+0.0.0.0 www.rsaonlinenow.com.au
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
@@ -987,6 +998,7 @@
 0.0.0.0 www.uniqueshirt.shop
 0.0.0.0 unitedglobal-logistics.com
 0.0.0.0 www.unitedglobal-logistics.com
+0.0.0.0 store.unitedglobal-logistics.com
 0.0.0.0 ureashi.com
 0.0.0.0 www.ureashi.com
 0.0.0.0 usasport247.com

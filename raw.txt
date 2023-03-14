@@ -675,6 +675,9 @@
 0.0.0.0 easyshoppingus.com
 0.0.0.0 www.easyshoppingus.com
 0.0.0.0 store.easyshoppingus.com
+0.0.0.0 ebuy8.shop
+0.0.0.0 www.ebuy8.shop
+0.0.0.0 store.ebuy8.shop
 0.0.0.0 eksofy.com
 0.0.0.0 www.eksofy.com
 0.0.0.0 store.eksofy.com
