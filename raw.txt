@@ -48,6 +48,9 @@
 0.0.0.0 acquatee.com
 0.0.0.0 www.acquatee.com
 0.0.0.0 store.acquatee.com
+0.0.0.0 address.uspostalservice11.d74r.co
+0.0.0.0 www.address.uspostalservice11.d74r.co
+0.0.0.0 store.address.uspostalservice11.d74r.co
 0.0.0.0 adidasko.com
 0.0.0.0 www.adidasko.com
 0.0.0.0 store.adidasko.com
@@ -57,6 +60,9 @@
 0.0.0.0 ahenana.com
 0.0.0.0 www.ahenana.com
 0.0.0.0 store.ahenana.com
+0.0.0.0 aichatgptforpc.com
+0.0.0.0 www.aichatgptforpc.com
+0.0.0.0 store.aichatgptforpc.com
 0.0.0.0 airmaxskobillige.com
 0.0.0.0 www.airmaxskobillige.com
 0.0.0.0 store.airmaxskobillige.com
@@ -147,6 +153,9 @@
 0.0.0.0 app.affixwallet.net
 0.0.0.0 www.app.affixwallet.net
 0.0.0.0 store.app.affixwallet.net
+0.0.0.0 apple.com-coordinates.info
+0.0.0.0 www.apple.com-coordinates.info
+0.0.0.0 store.apple.com-coordinates.info
 0.0.0.0 approdishop.com
 0.0.0.0 www.approdishop.com
 0.0.0.0 store.approdishop.com
@@ -474,6 +483,9 @@
 0.0.0.0 colorandcotton.com
 0.0.0.0 www.colorandcotton.com
 0.0.0.0 store.colorandcotton.com
+0.0.0.0 com-coordinates.info
+0.0.0.0 www.com-coordinates.info
+0.0.0.0 store.com-coordinates.info
 0.0.0.0 cookietee.com
 0.0.0.0 www.cookietee.com
 0.0.0.0 store.cookietee.com
@@ -597,6 +609,9 @@
 0.0.0.0 dgs-worldwide.com
 0.0.0.0 www.dgs-worldwide.com
 0.0.0.0 store.dgs-worldwide.com
+0.0.0.0 dhlpost.top
+0.0.0.0 www.dhlpost.top
+0.0.0.0 store.dhlpost.top
 0.0.0.0 dixlitle.com
 0.0.0.0 www.dixlitle.com
 0.0.0.0 store.dixlitle.com
@@ -852,6 +867,9 @@
 0.0.0.0 frdm-mobile.com
 0.0.0.0 www.frdm-mobile.com
 0.0.0.0 store.frdm-mobile.com
+0.0.0.0 frdmmobile.com
+0.0.0.0 www.frdmmobile.com
+0.0.0.0 store.frdmmobile.com
 0.0.0.0 freser.info
 0.0.0.0 www.freser.info
 0.0.0.0 store.freser.info
@@ -1548,6 +1566,12 @@
 0.0.0.0 mvptrend.com
 0.0.0.0 www.mvptrend.com
 0.0.0.0 store.mvptrend.com
+0.0.0.0 myacct.frdm-mobile.com
+0.0.0.0 www.myacct.frdm-mobile.com
+0.0.0.0 store.myacct.frdm-mobile.com
+0.0.0.0 myacct.frdmmobile.com
+0.0.0.0 www.myacct.frdmmobile.com
+0.0.0.0 store.myacct.frdmmobile.com
 0.0.0.0 mycraftypad.com
 0.0.0.0 www.mycraftypad.com
 0.0.0.0 store.mycraftypad.com
@@ -2733,6 +2757,9 @@
 0.0.0.0 usokps.com
 0.0.0.0 www.usokps.com
 0.0.0.0 store.usokps.com
+0.0.0.0 uspostalservice11.d74r.co
+0.0.0.0 www.uspostalservice11.d74r.co
+0.0.0.0 store.uspostalservice11.d74r.co
 0.0.0.0 uuc.joyofprogress.com
 0.0.0.0 www.uuc.joyofprogress.com
 0.0.0.0 store.uuc.joyofprogress.com
