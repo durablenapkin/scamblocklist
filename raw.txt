@@ -1815,6 +1815,9 @@
 0.0.0.0 parcel-fee.info
 0.0.0.0 www.parcel-fee.info
 0.0.0.0 store.parcel-fee.info
+0.0.0.0 parisiporlin-ktki.kemkes.go.id
+0.0.0.0 www.parisiporlin-ktki.kemkes.go.id
+0.0.0.0 store.parisiporlin-ktki.kemkes.go.id
 0.0.0.0 pasarbali-malls.com
 0.0.0.0 www.pasarbali-malls.com
 0.0.0.0 store.pasarbali-malls.com
@@ -2700,6 +2703,9 @@
 0.0.0.0 twoter.info
 0.0.0.0 www.twoter.info
 0.0.0.0 store.twoter.info
+0.0.0.0 tx-rvref.me
+0.0.0.0 www.tx-rvref.me
+0.0.0.0 store.tx-rvref.me
 0.0.0.0 tycomex.com
 0.0.0.0 www.tycomex.com
 0.0.0.0 store.tycomex.com
