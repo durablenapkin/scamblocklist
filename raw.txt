@@ -195,6 +195,9 @@
 0.0.0.0 aussiesportfashion.com
 0.0.0.0 www.aussiesportfashion.com
 0.0.0.0 store.aussiesportfashion.com
+0.0.0.0 avstars.in
+0.0.0.0 www.avstars.in
+0.0.0.0 store.avstars.in
 0.0.0.0 azfancy.com
 0.0.0.0 www.azfancy.com
 0.0.0.0 store.azfancy.com
@@ -747,6 +750,9 @@
 0.0.0.0 ewjt.podologie-kubiak.de
 0.0.0.0 www.ewjt.podologie-kubiak.de
 0.0.0.0 store.ewjt.podologie-kubiak.de
+0.0.0.0 exandtokes.top
+0.0.0.0 www.exandtokes.top
+0.0.0.0 store.exandtokes.top
 0.0.0.0 exelsure.com
 0.0.0.0 www.exelsure.com
 0.0.0.0 store.exelsure.com
@@ -1005,6 +1011,9 @@
 0.0.0.0 globaldependableshippers.com
 0.0.0.0 www.globaldependableshippers.com
 0.0.0.0 store.globaldependableshippers.com
+0.0.0.0 globalexpresscarriers.com
+0.0.0.0 www.globalexpresscarriers.com
+0.0.0.0 store.globalexpresscarriers.com
 0.0.0.0 glstee.com
 0.0.0.0 www.glstee.com
 0.0.0.0 store.glstee.com
@@ -1533,6 +1542,9 @@
 0.0.0.0 moteshoes.com
 0.0.0.0 www.moteshoes.com
 0.0.0.0 store.moteshoes.com
+0.0.0.0 motovinreports.com
+0.0.0.0 www.motovinreports.com
+0.0.0.0 store.motovinreports.com
 0.0.0.0 movica.us
 0.0.0.0 www.movica.us
 0.0.0.0 store.movica.us
