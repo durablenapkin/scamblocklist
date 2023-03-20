@@ -1158,9 +1158,6 @@
 0.0.0.0 icelandclothing.myshopify.com
 0.0.0.0 www.icelandclothing.myshopify.com
 0.0.0.0 store.icelandclothing.myshopify.com
-0.0.0.0 ikiha.com
-0.0.0.0 www.ikiha.com
-0.0.0.0 store.ikiha.com
 0.0.0.0 iklrge.com
 0.0.0.0 www.iklrge.com
 0.0.0.0 store.iklrge.com
@@ -1185,9 +1182,6 @@
 0.0.0.0 iqcreditcheck.com
 0.0.0.0 www.iqcreditcheck.com
 0.0.0.0 store.iqcreditcheck.com
-0.0.0.0 ironpawtiny.live
-0.0.0.0 www.ironpawtiny.live
-0.0.0.0 store.ironpawtiny.live
 0.0.0.0 itsthetrendydealstore.com
 0.0.0.0 www.itsthetrendydealstore.com
 0.0.0.0 store.itsthetrendydealstore.com
@@ -1206,15 +1200,9 @@
 0.0.0.0 januashop.com
 0.0.0.0 www.januashop.com
 0.0.0.0 store.januashop.com
-0.0.0.0 jellystores.com
-0.0.0.0 www.jellystores.com
-0.0.0.0 store.jellystores.com
 0.0.0.0 jessicaivory.com
 0.0.0.0 www.jessicaivory.com
 0.0.0.0 store.jessicaivory.com
-0.0.0.0 jessluxi.com
-0.0.0.0 www.jessluxi.com
-0.0.0.0 store.jessluxi.com
 0.0.0.0 jfmovingstorage.com
 0.0.0.0 www.jfmovingstorage.com
 0.0.0.0 store.jfmovingstorage.com
