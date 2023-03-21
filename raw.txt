@@ -54,6 +54,9 @@
 0.0.0.0 adidasko.com
 0.0.0.0 www.adidasko.com
 0.0.0.0 store.adidasko.com
+0.0.0.0 adzfree-watch.net
+0.0.0.0 www.adzfree-watch.net
+0.0.0.0 store.adzfree-watch.net
 0.0.0.0 affixwallet.net
 0.0.0.0 www.affixwallet.net
 0.0.0.0 store.affixwallet.net
@@ -759,6 +762,9 @@
 0.0.0.0 exelsures.com
 0.0.0.0 www.exelsures.com
 0.0.0.0 store.exelsures.com
+0.0.0.0 expertrader.me
+0.0.0.0 www.expertrader.me
+0.0.0.0 store.expertrader.me
 0.0.0.0 expresscourier.delivery
 0.0.0.0 www.expresscourier.delivery
 0.0.0.0 store.expresscourier.delivery
@@ -849,6 +855,9 @@
 0.0.0.0 flattee.com
 0.0.0.0 www.flattee.com
 0.0.0.0 store.flattee.com
+0.0.0.0 fleecejacketsshop.com
+0.0.0.0 www.fleecejacketsshop.com
+0.0.0.0 store.fleecejacketsshop.com
 0.0.0.0 fms88.shop
 0.0.0.0 www.fms88.shop
 0.0.0.0 store.fms88.shop
@@ -1341,6 +1350,9 @@
 0.0.0.0 levelupstore.xyz
 0.0.0.0 www.levelupstore.xyz
 0.0.0.0 store.levelupstore.xyz
+0.0.0.0 leverage-btc.com
+0.0.0.0 www.leverage-btc.com
+0.0.0.0 store.leverage-btc.com
 0.0.0.0 lifewonderland.com
 0.0.0.0 www.lifewonderland.com
 0.0.0.0 store.lifewonderland.com
@@ -1761,6 +1773,9 @@
 0.0.0.0 onlineadid.com
 0.0.0.0 www.onlineadid.com
 0.0.0.0 store.onlineadid.com
+0.0.0.0 onlinehome.us
+0.0.0.0 www.onlinehome.us
+0.0.0.0 store.onlinehome.us
 0.0.0.0 onlycooltees.com
 0.0.0.0 www.onlycooltees.com
 0.0.0.0 store.onlycooltees.com
@@ -2028,6 +2043,9 @@
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
 0.0.0.0 store.reviewshirts.com
+0.0.0.0 rhm-fxtrading.online
+0.0.0.0 www.rhm-fxtrading.online
+0.0.0.0 store.rhm-fxtrading.online
 0.0.0.0 rickamortyshop.com
 0.0.0.0 www.rickamortyshop.com
 0.0.0.0 store.rickamortyshop.com
@@ -2394,6 +2412,9 @@
 0.0.0.0 supportdelivery3414-ups.com
 0.0.0.0 www.supportdelivery3414-ups.com
 0.0.0.0 store.supportdelivery3414-ups.com
+0.0.0.0 supreme-adblocker.net
+0.0.0.0 www.supreme-adblocker.net
+0.0.0.0 store.supreme-adblocker.net
 0.0.0.0 surprisesandgifts.com
 0.0.0.0 www.surprisesandgifts.com
 0.0.0.0 store.surprisesandgifts.com
