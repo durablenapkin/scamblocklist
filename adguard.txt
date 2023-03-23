@@ -32,7 +32,6 @@
 ||anydebrid.com^
 ||aoptee.com^
 ||app.affixwallet.net^
-||apple.com-coordinates.info^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
 ||arthoodie.com^
@@ -55,6 +54,7 @@
 ||bestmoonshop.com^
 ||bigappboi.com^
 ||binomo.com^
+||bitgeekex.co^
 ||blingyy.com^
 ||bombardina.pl^
 ||boobeeshop.com^
@@ -90,10 +90,10 @@
 ||claimcoderz.live^
 ||clemoa.com^
 ||cluckergifts.ecwid.com^
+||cma88.vip^
 ||cmoboy.com^
 ||cocumbertee.com^
 ||colorandcotton.com^
-||com-coordinates.info^
 ||cookietee.com^
 ||coolest3d.com^
 ||coolestpod.com^
@@ -267,6 +267,7 @@
 ||lucidtiger.com^
 ||lunapresent.com^
 ||luxsgear.com^
+||m.bpfutures.top^
 ||magnasat.com^
 ||makewallperfect.store^
 ||marleytecnologica.com^
@@ -454,6 +455,7 @@
 ||tromselementbygg.no^
 ||tsladouble23.com^
 ||tslax2.io^
+||tukeraja.store^
 ||tulumwellnessacademy.com^
 ||uk-wemakewebsites.com^
 ||ultimate-tech-products.myshopify.com^
