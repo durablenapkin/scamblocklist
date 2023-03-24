@@ -69,6 +69,7 @@
 ||buddhakind.com^
 ||budm.shop^
 ||burgershirt.com^
+||burtonrefund.info^
 ||buydubuy.com^
 ||buyfingermoney.company.com^
 ||buzzazone.com^
@@ -254,6 +255,7 @@
 ||linkshe.com^
 ||linostee.com^
 ||lisabuddy.com^
+||lisatillhon.de^
 ||lisianstore.com^
 ||litcomplex.com^
 ||liverepsae.adeftsolutions.com^
@@ -433,7 +435,10 @@
 ||teenimo.com^
 ||teesunshine.com^
 ||teezill.com^
+||tesla-ltt.com^
+||tesla-online.net^
 ||teslacar.io^
+||teslaltt.com^
 ||thechildhooddream.com^
 ||thegeekgifts.com^
 ||thehappywood.com^
@@ -468,6 +473,7 @@
 ||usasport247.com^
 ||uscampinghiking.com^
 ||uspostalservice11.d74r.co^
+||uspsglobalexpress.com^
 ||vegamartz.com^
 ||verfun.com^
 ||viberman.com^
