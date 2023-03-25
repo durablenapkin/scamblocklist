@@ -438,6 +438,7 @@
 ||tesla-ltt.com^
 ||tesla-online.net^
 ||teslacar.io^
+||teslacase.org^
 ||teslaltt.com^
 ||thechildhooddream.com^
 ||thegeekgifts.com^

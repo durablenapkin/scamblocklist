@@ -2541,6 +2541,9 @@
 0.0.0.0 teslacars.space
 0.0.0.0 www.teslacars.space
 0.0.0.0 store.teslacars.space
+0.0.0.0 teslacase.org
+0.0.0.0 www.teslacase.org
+0.0.0.0 store.teslacase.org
 0.0.0.0 teslaclub.io
 0.0.0.0 www.teslaclub.io
 0.0.0.0 store.teslaclub.io
