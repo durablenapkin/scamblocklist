@@ -69,7 +69,6 @@
 ||buddhakind.com^
 ||budm.shop^
 ||burgershirt.com^
-||burtonrefund.info^
 ||buydubuy.com^
 ||buyfingermoney.company.com^
 ||buzzazone.com^
@@ -436,7 +435,6 @@
 ||teesunshine.com^
 ||teezill.com^
 ||tesla-ltt.com^
-||tesla-online.net^
 ||teslacar.io^
 ||teslacase.org^
 ||teslaltt.com^
@@ -482,7 +480,6 @@
 ||vipticketgiveaway.com^
 ||virtuectech.com^
 ||wavetshirt.com^
-||weheartitstore.com^
 ||wezpod.com^
 ||whbinder.com^
 ||wikeb.com^
