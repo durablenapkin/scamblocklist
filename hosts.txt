@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1087
+# Domains: 1113
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -113,6 +113,9 @@
 0.0.0.0 blingyy.com
 0.0.0.0 www.blingyy.com
 0.0.0.0 store.blingyy.com
+0.0.0.0 bolejug.us
+0.0.0.0 www.bolejug.us
+0.0.0.0 store.bolejug.us
 0.0.0.0 bombardina.pl
 0.0.0.0 www.bombardina.pl
 0.0.0.0 boobeeshop.com
@@ -175,6 +178,7 @@
 0.0.0.0 www.chipcy.com
 0.0.0.0 chipteeamz.com
 0.0.0.0 www.chipteeamz.com
+0.0.0.0 chsoop.robinhoodproz.com
 0.0.0.0 cipustar.com
 0.0.0.0 www.cipustar.com
 0.0.0.0 cition.info
@@ -202,6 +206,8 @@
 0.0.0.0 www.coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 www.coolestpod.com
+0.0.0.0 copymyfx.com
+0.0.0.0 www.copymyfx.com
 0.0.0.0 coralls.com
 0.0.0.0 www.coralls.com
 0.0.0.0 store.coralls.com
@@ -215,6 +221,8 @@
 0.0.0.0 cryptot.net
 0.0.0.0 www.cryptot.net
 0.0.0.0 store.cryptot.net
+0.0.0.0 csgamingzone.com
+0.0.0.0 www.csgamingzone.com
 0.0.0.0 csmoney.trade
 0.0.0.0 www.csmoney.trade
 0.0.0.0 store.csmoney.trade
@@ -273,6 +281,8 @@
 0.0.0.0 store.dumanus.com
 0.0.0.0 dunjakke-no.com
 0.0.0.0 www.dunjakke-no.com
+0.0.0.0 dxraceroutlet.com
+0.0.0.0 www.dxraceroutlet.com
 0.0.0.0 easynatures.com
 0.0.0.0 www.easynatures.com
 0.0.0.0 easyshoppingus.com
@@ -338,6 +348,8 @@
 0.0.0.0 fasinal.com
 0.0.0.0 www.fasinal.com
 0.0.0.0 store.fasinal.com
+0.0.0.0 favoritehardware.com
+0.0.0.0 www.favoritehardware.com
 0.0.0.0 feddiy.com
 0.0.0.0 www.feddiy.com
 0.0.0.0 findglocal.com
@@ -369,7 +381,6 @@
 0.0.0.0 www.fulfillgift.com
 0.0.0.0 fundanemt.org
 0.0.0.0 www.fundanemt.org
-0.0.0.0 furoshop.com
 0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
 0.0.0.0 g1z0.myinstructus.com
@@ -591,6 +602,7 @@
 0.0.0.0 lucidtiger.com
 0.0.0.0 www.lucidtiger.com
 0.0.0.0 lunapresent.com
+0.0.0.0 www.lunapresent.com
 0.0.0.0 store.lunapresent.com
 0.0.0.0 luxsgear.com
 0.0.0.0 www.luxsgear.com
@@ -664,12 +676,15 @@
 0.0.0.0 www.neozor.com
 0.0.0.0 neu-bank.com
 0.0.0.0 www.neu-bank.com
+0.0.0.0 new-spacex-2023.com
 0.0.0.0 new.bestageoffers22.com
 0.0.0.0 newfootwearshop.com
 0.0.0.0 www.newfootwearshop.com
 0.0.0.0 newgstore.com
 0.0.0.0 www.newgstore.com
 0.0.0.0 store.newgstore.com
+0.0.0.0 nicelegant.com
+0.0.0.0 www.nicelegant.com
 0.0.0.0 niche3d.us
 0.0.0.0 www.niche3d.us
 0.0.0.0 nirvezal.com
@@ -822,6 +837,8 @@
 0.0.0.0 shinezily.com
 0.0.0.0 www.shinezily.com
 0.0.0.0 store.shinezily.com
+0.0.0.0 shiptop.delivery
+0.0.0.0 www.shiptop.delivery
 0.0.0.0 shirtforfan.com
 0.0.0.0 www.shirtforfan.com
 0.0.0.0 shirttest.com
@@ -858,9 +875,11 @@
 0.0.0.0 www.southernlife.net
 0.0.0.0 sozonest.com
 0.0.0.0 www.sozonest.com
+0.0.0.0 sparka-tan.info
 0.0.0.0 spnation.net
 0.0.0.0 www.spnation.net
 0.0.0.0 sportfamily.us
+0.0.0.0 www.sportfamily.us
 0.0.0.0 store.sportfamily.us
 0.0.0.0 sportfanvoice.com
 0.0.0.0 www.sportfanvoice.com
@@ -907,6 +926,7 @@
 0.0.0.0 store.storedarkness.com
 0.0.0.0 storesp.com
 0.0.0.0 www.storesp.com
+0.0.0.0 store.storesp.com
 0.0.0.0 streamloot.co
 0.0.0.0 www.streamloot.co
 0.0.0.0 store.streamloot.co
@@ -1017,6 +1037,8 @@
 0.0.0.0 www.tromselementbygg.no
 0.0.0.0 tsladouble23.com
 0.0.0.0 www.tsladouble23.com
+0.0.0.0 tslagift.net
+0.0.0.0 www.tslagift.net
 0.0.0.0 tslax2.io
 0.0.0.0 tukeraja.store
 0.0.0.0 www.tukeraja.store
@@ -1065,10 +1087,14 @@
 0.0.0.0 www.virtuectech.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 www.wavetshirt.com
+0.0.0.0 weheartitstore.com
+0.0.0.0 www.weheartitstore.com
 0.0.0.0 wezpod.com
 0.0.0.0 www.wezpod.com
 0.0.0.0 whbinder.com
 0.0.0.0 www.whbinder.com
+0.0.0.0 wideranging-protector.com
+0.0.0.0 www.wideranging-protector.com
 0.0.0.0 wikeb.com
 0.0.0.0 www.wikeb.com
 0.0.0.0 wind88.shop
