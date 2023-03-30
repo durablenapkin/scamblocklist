@@ -159,6 +159,9 @@
 0.0.0.0 apple.com-coordinates.info
 0.0.0.0 www.apple.com-coordinates.info
 0.0.0.0 store.apple.com-coordinates.info
+0.0.0.0 apple.enablemyidservices.com
+0.0.0.0 www.apple.enablemyidservices.com
+0.0.0.0 store.apple.enablemyidservices.com
 0.0.0.0 approdishop.com
 0.0.0.0 www.approdishop.com
 0.0.0.0 store.approdishop.com
