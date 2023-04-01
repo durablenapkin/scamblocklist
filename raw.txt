@@ -294,6 +294,9 @@
 0.0.0.0 bitgeekex.co
 0.0.0.0 www.bitgeekex.co
 0.0.0.0 store.bitgeekex.co
+0.0.0.0 bitstenali.com
+0.0.0.0 www.bitstenali.com
+0.0.0.0 store.bitstenali.com
 0.0.0.0 bknstore.com
 0.0.0.0 www.bknstore.com
 0.0.0.0 store.bknstore.com
@@ -510,6 +513,9 @@
 0.0.0.0 cofdeal.com
 0.0.0.0 www.cofdeal.com
 0.0.0.0 store.cofdeal.com
+0.0.0.0 coinstoretra.com
+0.0.0.0 www.coinstoretra.com
+0.0.0.0 store.coinstoretra.com
 0.0.0.0 colorandcotton.com
 0.0.0.0 www.colorandcotton.com
 0.0.0.0 store.colorandcotton.com
