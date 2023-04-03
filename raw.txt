@@ -387,6 +387,9 @@
 0.0.0.0 bytesla.net
 0.0.0.0 www.bytesla.net
 0.0.0.0 store.bytesla.net
+0.0.0.0 can-postsmsnotice.com
+0.0.0.0 www.can-postsmsnotice.com
+0.0.0.0 store.can-postsmsnotice.com
 0.0.0.0 candlesbymadison.com
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 store.candlesbymadison.com
@@ -606,6 +609,9 @@
 0.0.0.0 daradis.com
 0.0.0.0 www.daradis.com
 0.0.0.0 store.daradis.com
+0.0.0.0 dataid-subsidies.click
+0.0.0.0 www.dataid-subsidies.click
+0.0.0.0 store.dataid-subsidies.click
 0.0.0.0 dautee.com
 0.0.0.0 www.dautee.com
 0.0.0.0 store.dautee.com
@@ -1032,6 +1038,9 @@
 0.0.0.0 gemlis.com
 0.0.0.0 www.gemlis.com
 0.0.0.0 store.gemlis.com
+0.0.0.0 getsupport-lcloud.com
+0.0.0.0 www.getsupport-lcloud.com
+0.0.0.0 store.getsupport-lcloud.com
 0.0.0.0 gibbonfamily.store
 0.0.0.0 www.gibbonfamily.store
 0.0.0.0 store.gibbonfamily.store
@@ -2208,6 +2217,9 @@
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
 0.0.0.0 store.sentees.com
+0.0.0.0 serc-auth.cfd
+0.0.0.0 www.serc-auth.cfd
+0.0.0.0 store.serc-auth.cfd
 0.0.0.0 seryna.co
 0.0.0.0 www.seryna.co
 0.0.0.0 store.seryna.co
@@ -2364,6 +2376,9 @@
 0.0.0.0 spnation.net
 0.0.0.0 www.spnation.net
 0.0.0.0 store.spnation.net
+0.0.0.0 sponsor-usreward.click
+0.0.0.0 www.sponsor-usreward.click
+0.0.0.0 store.sponsor-usreward.click
 0.0.0.0 sportfamily.us
 0.0.0.0 www.sportfamily.us
 0.0.0.0 store.sportfamily.us
@@ -2919,6 +2934,9 @@
 0.0.0.0 uscampinghiking.com
 0.0.0.0 www.uscampinghiking.com
 0.0.0.0 store.uscampinghiking.com
+0.0.0.0 uschse04.my03.com
+0.0.0.0 www.uschse04.my03.com
+0.0.0.0 store.uschse04.my03.com
 0.0.0.0 usefulnpro.com
 0.0.0.0 www.usefulnpro.com
 0.0.0.0 store.usefulnpro.com
@@ -3054,6 +3072,9 @@
 0.0.0.0 yeahteesmile.com
 0.0.0.0 www.yeahteesmile.com
 0.0.0.0 store.yeahteesmile.com
+0.0.0.0 yeezysofficial.us.com
+0.0.0.0 www.yeezysofficial.us.com
+0.0.0.0 store.yeezysofficial.us.com
 0.0.0.0 yeswevibe.com
 0.0.0.0 www.yeswevibe.com
 0.0.0.0 store.yeswevibe.com

@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1129
+# Domains: 1139
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -53,8 +53,6 @@
 0.0.0.0 www.alohazing.com
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
-0.0.0.0 am-freights.com
-0.0.0.0 www.am-freights.com
 0.0.0.0 ambulancesodium.cn
 0.0.0.0 animeshoppers.com
 0.0.0.0 www.animeshoppers.com
@@ -150,6 +148,9 @@
 0.0.0.0 store.buzzazone.com
 0.0.0.0 by-emmamuller.de
 0.0.0.0 www.by-emmamuller.de
+0.0.0.0 can-postsmsnotice.com
+0.0.0.0 www.can-postsmsnotice.com
+0.0.0.0 store.can-postsmsnotice.com
 0.0.0.0 candlesbymadison.com
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 canjaume.com
@@ -244,6 +245,7 @@
 0.0.0.0 daradis.com
 0.0.0.0 www.daradis.com
 0.0.0.0 store.daradis.com
+0.0.0.0 dataid-subsidies.click
 0.0.0.0 www.davidsmovingco.com
 0.0.0.0 deceptivebuffalo.cn
 0.0.0.0 decoryourhome.store
@@ -282,7 +284,6 @@
 0.0.0.0 dreamstees.com
 0.0.0.0 dumanus.com
 0.0.0.0 www.dumanus.com
-0.0.0.0 store.dumanus.com
 0.0.0.0 dunjakke-no.com
 0.0.0.0 www.dunjakke-no.com
 0.0.0.0 dxraceroutlet.com
@@ -412,6 +413,9 @@
 0.0.0.0 www.gearver.com
 0.0.0.0 gemlis.com
 0.0.0.0 www.gemlis.com
+0.0.0.0 getsupport-lcloud.com
+0.0.0.0 www.getsupport-lcloud.com
+0.0.0.0 store.getsupport-lcloud.com
 0.0.0.0 giftyweb.com
 0.0.0.0 www.giftyweb.com
 0.0.0.0 gig-os.com
@@ -607,7 +611,6 @@
 0.0.0.0 store.lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 www.lucidtiger.com
-0.0.0.0 luckydraws.buzz
 0.0.0.0 lunapresent.com
 0.0.0.0 www.lunapresent.com
 0.0.0.0 store.lunapresent.com
@@ -616,7 +619,9 @@
 0.0.0.0 m.bpfutures.top
 0.0.0.0 magnasat.com
 0.0.0.0 www.magnasat.com
+0.0.0.0 makewallperfect.store
 0.0.0.0 www.makewallperfect.store
+0.0.0.0 store.makewallperfect.store
 0.0.0.0 marleytecnologica.com
 0.0.0.0 www.marleytecnologica.com
 0.0.0.0 maxearningcryp.com
@@ -891,6 +896,7 @@
 0.0.0.0 spnation.net
 0.0.0.0 www.spnation.net
 0.0.0.0 sportfamily.us
+0.0.0.0 www.sportfamily.us
 0.0.0.0 store.sportfamily.us
 0.0.0.0 sportfirestore.com
 0.0.0.0 www.sportfirestore.com
@@ -970,7 +976,6 @@
 0.0.0.0 store.surprisesandgifts.com
 0.0.0.0 survivalcatsupply.com
 0.0.0.0 www.survivalcatsupply.com
-0.0.0.0 sweepbuzz.buzz
 0.0.0.0 swellsup.com
 0.0.0.0 www.swellsup.com
 0.0.0.0 store.swellsup.com
@@ -1081,6 +1086,8 @@
 0.0.0.0 store.usasport247.com
 0.0.0.0 uscampinghiking.com
 0.0.0.0 www.uscampinghiking.com
+0.0.0.0 uschse04.my03.com
+0.0.0.0 www.uschse04.my03.com
 0.0.0.0 uspostalservice11.d74r.co
 0.0.0.0 www.uspostalservice11.d74r.co
 0.0.0.0 store.uspostalservice11.d74r.co
@@ -1118,6 +1125,9 @@
 0.0.0.0 www.woadoodles.com
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
+0.0.0.0 yeezysofficial.us.com
+0.0.0.0 www.yeezysofficial.us.com
+0.0.0.0 store.yeezysofficial.us.com
 0.0.0.0 yeswevibe.com
 0.0.0.0 www.yeswevibe.com
 0.0.0.0 yeyvibe.com
