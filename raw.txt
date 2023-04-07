@@ -1842,6 +1842,9 @@
 0.0.0.0 nldstore.com
 0.0.0.0 www.nldstore.com
 0.0.0.0 store.nldstore.com
+0.0.0.0 nlepfpteg.com
+0.0.0.0 www.nlepfpteg.com
+0.0.0.0 store.nlepfpteg.com
 0.0.0.0 nlg-logisticsltd.com
 0.0.0.0 www.nlg-logisticsltd.com
 0.0.0.0 store.nlg-logisticsltd.com
