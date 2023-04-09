@@ -39,6 +39,9 @@
 0.0.0.0 7.shopsharm.ru
 0.0.0.0 www.7.shopsharm.ru
 0.0.0.0 store.7.shopsharm.ru
+0.0.0.0 7laced.com
+0.0.0.0 www.7laced.com
+0.0.0.0 store.7laced.com
 0.0.0.0 8w4.a6u.uk
 0.0.0.0 www.8w4.a6u.uk
 0.0.0.0 store.8w4.a6u.uk
@@ -54,6 +57,9 @@
 0.0.0.0 abedsetz.com
 0.0.0.0 www.abedsetz.com
 0.0.0.0 store.abedsetz.com
+0.0.0.0 accfiverif.com
+0.0.0.0 www.accfiverif.com
+0.0.0.0 store.accfiverif.com
 0.0.0.0 acquatee.com
 0.0.0.0 www.acquatee.com
 0.0.0.0 store.acquatee.com
@@ -72,6 +78,9 @@
 0.0.0.0 affixwallet.net
 0.0.0.0 www.affixwallet.net
 0.0.0.0 store.affixwallet.net
+0.0.0.0 affordableforyouusa5.godaddysites.com
+0.0.0.0 www.affordableforyouusa5.godaddysites.com
+0.0.0.0 store.affordableforyouusa5.godaddysites.com
 0.0.0.0 ahenana.com
 0.0.0.0 www.ahenana.com
 0.0.0.0 store.ahenana.com
@@ -225,6 +234,9 @@
 0.0.0.0 azitecs.com
 0.0.0.0 www.azitecs.com
 0.0.0.0 store.azitecs.com
+0.0.0.0 azvclothing.com
+0.0.0.0 www.azvclothing.com
+0.0.0.0 store.azvclothing.com
 0.0.0.0 bankruptcymelodious.cn
 0.0.0.0 www.bankruptcymelodious.cn
 0.0.0.0 store.bankruptcymelodious.cn
@@ -1050,6 +1062,9 @@
 0.0.0.0 gameconsoless.com
 0.0.0.0 www.gameconsoless.com
 0.0.0.0 store.gameconsoless.com
+0.0.0.0 gamers-world.fun
+0.0.0.0 www.gamers-world.fun
+0.0.0.0 store.gamers-world.fun
 0.0.0.0 gamingbuffs.com
 0.0.0.0 www.gamingbuffs.com
 0.0.0.0 store.gamingbuffs.com
@@ -2427,6 +2442,9 @@
 0.0.0.0 skinszone.net
 0.0.0.0 www.skinszone.net
 0.0.0.0 store.skinszone.net
+0.0.0.0 skipped.vip
+0.0.0.0 www.skipped.vip
+0.0.0.0 store.skipped.vip
 0.0.0.0 skoeccosandaler.com
 0.0.0.0 www.skoeccosandaler.com
 0.0.0.0 store.skoeccosandaler.com
@@ -3111,6 +3129,9 @@
 0.0.0.0 vavaname.com
 0.0.0.0 www.vavaname.com
 0.0.0.0 store.vavaname.com
+0.0.0.0 vcfdg.com
+0.0.0.0 www.vcfdg.com
+0.0.0.0 store.vcfdg.com
 0.0.0.0 vegamartz.com
 0.0.0.0 www.vegamartz.com
 0.0.0.0 store.vegamartz.com
