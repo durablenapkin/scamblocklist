@@ -168,6 +168,7 @@
 ||ercnnier.com^
 ||esl-gaming.com^
 ||eudoraz.com^
+||eudshop.shop^
 ||evangeliostore.com^
 ||eviralstore.com^
 ||expertrader.me^
@@ -270,6 +271,7 @@
 ||kakaoli.co.kr^
 ||kakaopv.co.kr^
 ||keenfootwearsale.com^
+||kewal.shop^
 ||khoinguyenhanoi.vn^
 ||kigurumi-usa.com^
 ||killtee.com^
@@ -302,9 +304,11 @@
 ||lootcs.com^
 ||loveinbox.co.uk^
 ||lovelovegifts.com^
+||lozly.com^
 ||lrgst.com^
 ||lucatee.com^
 ||lucidtiger.com^
+||lucysstyle.com^
 ||lunapresent.com^
 ||luxsgear.com^
 ||m.bpfutures.top^
@@ -388,6 +392,7 @@
 ||paypays.shop^
 ||penguinnow.com^
 ||peppatees.com^
+||personal84.com^
 ||pertinacious-assemblage.com^
 ||petsimulator.live^
 ||pharaohstore.com^
@@ -421,6 +426,7 @@
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
+||royalkingsmail.co.uk^
 ||rsaonlinenow.com.au^
 ||saveeeee.myshopify.com^
 ||sedark.com^
@@ -501,6 +507,7 @@
 ||teslacar.io^
 ||teslagive.live^
 ||thechildhooddream.com^
+||theeaglebrand.company.site^
 ||thegeekgifts.com^
 ||thehappywood.com^
 ||thehardcorehabits.com^
@@ -512,6 +519,7 @@
 ||tiranaaquapark-eg.com^
 ||tkp214.com^
 ||tlstoreonline.com^
+||toddlershood.shop^
 ||toko999.net^
 ||toko999.shop^
 ||tomadamsenergy.com^
