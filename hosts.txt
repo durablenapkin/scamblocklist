@@ -345,6 +345,7 @@
 0.0.0.0 www.danadarurat.net
 0.0.0.0 danainstan.xyz
 0.0.0.0 www.danainstan.xyz
+0.0.0.0 store.danainstan.xyz
 0.0.0.0 danapintar.club
 0.0.0.0 www.danapintar.club
 0.0.0.0 danapro.net
@@ -384,6 +385,7 @@
 0.0.0.0 deluxdoll.com
 0.0.0.0 www.deluxdoll.com
 0.0.0.0 store.deluxdoll.com
+0.0.0.0 devifoodgrains.com
 0.0.0.0 www.devifoodgrains.com
 0.0.0.0 deytee.com
 0.0.0.0 www.deytee.com
@@ -461,7 +463,6 @@
 0.0.0.0 ellezz.com
 0.0.0.0 www.ellezz.com
 0.0.0.0 store.ellezz.com
-0.0.0.0 elon-bit.com
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 store.emberio.com
@@ -480,8 +481,6 @@
 0.0.0.0 store.eudoraz.com
 0.0.0.0 eudshop.shop
 0.0.0.0 www.eudshop.shop
-0.0.0.0 evangeliostore.com
-0.0.0.0 www.evangeliostore.com
 0.0.0.0 everythingkitchens.com
 0.0.0.0 www.everythingkitchens.com
 0.0.0.0 eviralstore.com
@@ -521,9 +520,6 @@
 0.0.0.0 store.fancycentral.com
 0.0.0.0 fapst.com
 0.0.0.0 www.fapst.com
-0.0.0.0 farmer-love.us
-0.0.0.0 www.farmer-love.us
-0.0.0.0 store.farmer-love.us
 0.0.0.0 fashionadid.com
 0.0.0.0 www.fashionadid.com
 0.0.0.0 fashionshawaii.com
@@ -580,6 +576,7 @@
 0.0.0.0 fundcash.id
 0.0.0.0 www.fundcash.id
 0.0.0.0 furoshop.com
+0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
 0.0.0.0 g1z0.myinstructus.com
 0.0.0.0 www.g1z0.myinstructus.com
@@ -645,7 +642,6 @@
 0.0.0.0 www.goexpressparcel.com
 0.0.0.0 goldtimeinvest.com
 0.0.0.0 www.goldtimeinvest.com
-0.0.0.0 goshop.vin
 0.0.0.0 goyourheart.com
 0.0.0.0 www.goyourheart.com
 0.0.0.0 store.goyourheart.com
@@ -795,8 +791,6 @@
 0.0.0.0 www.kxu.myinstructus.com
 0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
-0.0.0.0 www.ladamustore.com
-0.0.0.0 store.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
 0.0.0.0 www.lakersfanshoponline.com
 0.0.0.0 store.lakersfanshoponline.com
@@ -883,8 +877,6 @@
 0.0.0.0 lucysstyle.com
 0.0.0.0 www.lucysstyle.com
 0.0.0.0 lunapresent.com
-0.0.0.0 www.lunapresent.com
-0.0.0.0 store.lunapresent.com
 0.0.0.0 luxsgear.com
 0.0.0.0 www.luxsgear.com
 0.0.0.0 m.bpfutures.top
@@ -934,6 +926,7 @@
 0.0.0.0 mmmjemp.cn
 0.0.0.0 modalsaya.xyz
 0.0.0.0 www.modalsaya.xyz
+0.0.0.0 store.modalsaya.xyz
 0.0.0.0 modernusfemale.com
 0.0.0.0 www.modernusfemale.com
 0.0.0.0 modmobile24.com
@@ -1180,6 +1173,9 @@
 0.0.0.0 priority-ship.info
 0.0.0.0 promoalfresco.com
 0.0.0.0 www.promoalfresco.com
+0.0.0.0 promotebuy.com
+0.0.0.0 www.promotebuy.com
+0.0.0.0 store.promotebuy.com
 0.0.0.0 punyauang.xyz
 0.0.0.0 www.punyauang.xyz
 0.0.0.0 q3i5q2r6.stackpathcdn.com
@@ -1365,6 +1361,7 @@
 0.0.0.0 www.startuplatte.com
 0.0.0.0 store.startuplatte.com
 0.0.0.0 stealthhorizonshipping.com
+0.0.0.0 www.stealthhorizonshipping.com
 0.0.0.0 steamgateways.com
 0.0.0.0 www.steamgateways.com
 0.0.0.0 store.steamgateways.com
@@ -1424,6 +1421,7 @@
 0.0.0.0 store.sununi.us
 0.0.0.0 supercutestuff.com
 0.0.0.0 www.supercutestuff.com
+0.0.0.0 superfacehoodie.com
 0.0.0.0 www.superfacehoodie.com
 0.0.0.0 store.superfacehoodie.com
 0.0.0.0 supperbrand.company.site
@@ -1485,6 +1483,7 @@
 0.0.0.0 www.thehappywood.com
 0.0.0.0 thehardcorehabits.com
 0.0.0.0 www.thehardcorehabits.com
+0.0.0.0 thekeilas.com
 0.0.0.0 www.thekeilas.com
 0.0.0.0 store.thekeilas.com
 0.0.0.0 themountainus.com
@@ -1625,6 +1624,7 @@
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 store.verfun.com
+0.0.0.0 vetoro.cc
 0.0.0.0 www.vetoro.cc
 0.0.0.0 store.vetoro.cc
 0.0.0.0 viberman.com
