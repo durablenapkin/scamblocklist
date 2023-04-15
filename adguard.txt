@@ -116,7 +116,6 @@
 ||charmbean.com^
 ||charmsection.com^
 ||cheat-on.com^
-||check-update-today.me^
 ||check.c3scores.com^
 ||cherryzones.com^
 ||chiclife.co.uk^
@@ -129,7 +128,6 @@
 ||cityofdream.co.uk^
 ||ckkebt.shop^
 ||claimcoderz.live^
-||claimsrobux.live^
 ||clearance-bike.com^
 ||clearanceusmen.com^
 ||clemoa.com^
@@ -149,7 +147,6 @@
 ||coolest3d.com^
 ||coolestpod.com^
 ||copymyfx.com^
-||coralls.com^
 ||corg.co^
 ||couponxoo.com^
 ||craftkitsgear.com^
@@ -307,7 +304,9 @@
 ||godeskonettbutikk.com^
 ||goexpressparcel.com^
 ||goldtimeinvest.com^
+||goshop.vin^
 ||goyourheart.com^
+||gpt-open23.com^
 ||gsport.com^
 ||gunstee.com^
 ||h5.vjrniqwekq.com^
@@ -445,7 +444,6 @@
 ||motovinreports.com^
 ||msl-cf.id^
 ||museuw.com^
-||musk-event.xyz^
 ||muthaafoundation.org^
 ||mycraftypad.com^
 ||myfunfarm.com^
@@ -498,6 +496,7 @@
 ||onlinehome.us^
 ||onlinekohler.com^
 ||onthereelpros.com^
+||openai.faith^
 ||openai.reisen^
 ||openaiprize.live^
 ||orami.cloud^
@@ -604,7 +603,6 @@
 ||scarpaoutlet.com^
 ||sedark.com^
 ||selamatpinjam.space^
-||serc-auth.cfd^
 ||serengetidiscount.com^
 ||shinezily.com^
 ||shiptop.delivery^
@@ -733,6 +731,7 @@
 ||tripinpremiumsnacks.com^
 ||tromselementbygg.no^
 ||tsladouble23.com^
+||tslaeth.live^
 ||tslax2.io^
 ||tukeraja.store^
 ||tunaicair.com^
