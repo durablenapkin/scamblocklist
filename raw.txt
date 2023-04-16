@@ -1020,6 +1020,9 @@
 0.0.0.0 elonmusk2x.org
 0.0.0.0 www.elonmusk2x.org
 0.0.0.0 store.elonmusk2x.org
+0.0.0.0 elontsla.com
+0.0.0.0 www.elontsla.com
+0.0.0.0 store.elontsla.com
 0.0.0.0 elonx2tesla.com
 0.0.0.0 www.elonx2tesla.com
 0.0.0.0 store.elonx2tesla.com
@@ -2121,6 +2124,9 @@
 0.0.0.0 mrarmstrongsclass.com
 0.0.0.0 www.mrarmstrongsclass.com
 0.0.0.0 store.mrarmstrongsclass.com
+0.0.0.0 msaylor2x.com
+0.0.0.0 www.msaylor2x.com
+0.0.0.0 store.msaylor2x.com
 0.0.0.0 msl-cf.id
 0.0.0.0 www.msl-cf.id
 0.0.0.0 store.msl-cf.id
@@ -2139,6 +2145,9 @@
 0.0.0.0 museuw.com
 0.0.0.0 www.museuw.com
 0.0.0.0 store.museuw.com
+0.0.0.0 musk-bit.com
+0.0.0.0 www.musk-bit.com
+0.0.0.0 store.musk-bit.com
 0.0.0.0 musk-event.pro
 0.0.0.0 www.musk-event.pro
 0.0.0.0 store.musk-event.pro
@@ -2403,6 +2412,9 @@
 0.0.0.0 onthereelpros.com
 0.0.0.0 www.onthereelpros.com
 0.0.0.0 store.onthereelpros.com
+0.0.0.0 openai-give.online
+0.0.0.0 www.openai-give.online
+0.0.0.0 store.openai-give.online
 0.0.0.0 openai.faith
 0.0.0.0 www.openai.faith
 0.0.0.0 store.openai.faith
@@ -3438,6 +3450,9 @@
 0.0.0.0 tesla-online.net
 0.0.0.0 www.tesla-online.net
 0.0.0.0 store.tesla-online.net
+0.0.0.0 tesla2023.store
+0.0.0.0 www.tesla2023.store
+0.0.0.0 store.tesla2023.store
 0.0.0.0 tesla23new.org
 0.0.0.0 www.tesla23new.org
 0.0.0.0 store.tesla23new.org
