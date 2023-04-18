@@ -59,6 +59,9 @@
 ||azuretipsandtrick101.z13.web.core.windows.net^
 ||azvclothing.com^
 ||bagsdeuter.com^
+||bakareiswap.xyz^
+||bakeryxswap.org^
+||balkeryswep.online^
 ||bankruptcymelodious.cn^
 ||bantucepat.com^
 ||bapzy.com^
@@ -90,7 +93,6 @@
 ||booliving.com^
 ||bossaving.com^
 ||boutiqueondemand.com^
-||brad-finance.net^
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
 ||brightonmover.com^
@@ -171,12 +173,14 @@
 ||danapro.net^
 ||danarakyatol.com^
 ||danasenang.com^
+||danegreatjp.blob.core.windows.net^
 ||danylevych.com^
 ||daradis.com^
 ||darliasmaltesepuppies.com^
 ||dataid-subsidies.click^
 ||davekoflersbichons.com^
 ||davidsmovingco.com^
+||day-starship.net^
 ||dbhmnp.shop^
 ||dbkdsale.com^
 ||dcsnowboard.com^
@@ -202,7 +206,6 @@
 ||dompetaman.live^
 ||dompetexcellent.com^
 ||dopestore.pl^
-||drakternorge.com^
 ||drcarolyngroff.com^
 ||dreamgreenshoe.com^
 ||dreamstee.com^
@@ -223,6 +226,7 @@
 ||elitestrustonline.biz^
 ||elitestrustonline.com^
 ||ellezz.com^
+||elongives.net^
 ||elonlive2x.com^
 ||elontsla.com^
 ||emberio.com^
@@ -278,6 +282,7 @@
 ||fundanemt.org^
 ||fundcash.id^
 ||furoshop.com^
+||future-promo.com^
 ||g1z0.myinstructus.com^
 ||gabanmalls.com^
 ||gamgoing.com^
@@ -308,10 +313,10 @@
 ||glstee.com^
 ||godeskonettbutikk.com^
 ||goexpressparcel.com^
+||goglle.com^
 ||goldtimeinvest.com^
 ||goshop.vin^
 ||goyourheart.com^
-||gpt-open23.com^
 ||gsport.com^
 ||gunstee.com^
 ||h5.vjrniqwekq.com^
@@ -454,7 +459,6 @@
 ||muskai.net^
 ||muthaafoundation.org^
 ||mycraftypad.com^
-||myfunfarm.com^
 ||myhandshops.myshopify.com^
 ||mystitich4u.com^
 ||mythicalbattle.com^
@@ -505,7 +509,8 @@
 ||onlinekohler.com^
 ||onthereelpros.com^
 ||openai.reisen^
-||openaiprize.live^
+||openai4btc.com^
+||openaiteam.space^
 ||orami.cloud^
 ||orami.life^
 ||orami.one^
@@ -641,7 +646,8 @@
 ||source84.com^
 ||southernlife.net^
 ||sozonest.com^
-||spacexprize.com^
+||spacex-starship.net^
+||spacexmusk.io^
 ||sparka-tan.info^
 ||spnation.net^
 ||sportfamily.us^
@@ -729,6 +735,7 @@
 ||tomadamsenergy.com^
 ||toolmartin.com^
 ||topsdiy.com^
+||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
 ||treasurefan.com^
@@ -744,6 +751,8 @@
 ||tunaicair.com^
 ||tunairupiah.xyz^
 ||turnnetwor.com^
+||twiiiter.com^
+||twitterr.com^
 ||uangmu.top^
 ||uangmudahapp.com^
 ||uangqu.online^
@@ -800,11 +809,15 @@
 ||woadoodles.com^
 ||x2-promo.net^
 ||xrp-give.pro^
+||yahhhoo.com^
 ||yeezysofficial.us.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
 ||ygtube.xyz^
 ||yoli.my.id^
+||youtubee.com^
+||youtunbe.com^
+||youutube.com^
 ||yvjexi.shop^
 ||zarodress.com^
 ||zedbubble.com^
