@@ -53,6 +53,7 @@
 ||atrendsz.com^
 ||attenstyle.com^
 ||au-bloomreach.com^
+||auspost.your-redelivery-au.com^
 ||aussiesportfashion.com^
 ||avstars.in^
 ||azfancy.com^
@@ -82,7 +83,6 @@
 ||blackabdo.company.site^
 ||blastparis.com^
 ||blgstoragenew.blob.core.windows.net^
-||blingyy.com^
 ||bogsboot.com^
 ||bolejug.us^
 ||bombardina.pl^
@@ -125,7 +125,6 @@
 ||chikepod.com^
 ||chipcy.com^
 ||chipteeamz.com^
-||chsoop.robinhoodproz.com^
 ||cipustar.com^
 ||cition.info^
 ||cityofdream.co.uk^
@@ -233,7 +232,6 @@
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
 ||ercnnier.com^
-||esl-gaming.com^
 ||eudoraz.com^
 ||eudshop.shop^
 ||everythingkitchens.com^
@@ -346,6 +344,7 @@
 ||innewstyle.com^
 ||instant-e-app-for-campaign.github.io^
 ||internationalcybersafedating.com^
+||investama92.com^
 ||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||jackyeby.com^
@@ -459,6 +458,7 @@
 ||muskai.net^
 ||muthaafoundation.org^
 ||mycraftypad.com^
+||myfunfarm.com^
 ||myhandshops.myshopify.com^
 ||mystitich4u.com^
 ||mythicalbattle.com^
@@ -570,15 +570,18 @@
 ||priority-ship.info^
 ||promoalfresco.com^
 ||promotebuy.com^
+||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||punyauang.xyz^
 ||q3i5q2r6.stackpathcdn.com^
 ||qttlpn.shop^
 ||queenscattery.com^
 ||quinod.com^
 ||qxowtod.cn^
+||rabamnetee.com^
 ||raiffeisenmining.com^
 ||rasamalls.com^
 ||reanimando.org^
+||rebeccatees.com^
 ||redwingshoes-usa.com^
 ||reforest-iita.org^
 ||resources4gaming.com^
@@ -765,6 +768,7 @@
 ||uniqueetee.com^
 ||uniqueshirt.shop^
 ||unitedglobal-logistics.com^
+||universityofqatarrectorate.godaddysites.com^
 ||uplevelreward.com^
 ||ureashi.com^
 ||usakidsclothes.com^
@@ -802,6 +806,7 @@
 ||westernhats.net^
 ||wezpod.com^
 ||whbinder.com^
+||whliksrvlj.webtool.sk^
 ||wideranging-protector.com^
 ||wikeb.com^
 ||wind88.shop^
