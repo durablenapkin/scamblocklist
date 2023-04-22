@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1781
+# Domains: 1774
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -121,8 +121,6 @@
 0.0.0.0 www.azvclothing.com
 0.0.0.0 bagsdeuter.com
 0.0.0.0 www.bagsdeuter.com
-0.0.0.0 bakareiswap.xyz
-0.0.0.0 www.bakareiswap.xyz
 0.0.0.0 bakeryxswap.org
 0.0.0.0 www.bakeryxswap.org
 0.0.0.0 balkeryswep.online
@@ -421,9 +419,6 @@
 0.0.0.0 dopestore.pl
 0.0.0.0 www.dopestore.pl
 0.0.0.0 store.dopestore.pl
-0.0.0.0 drcarolyngroff.com
-0.0.0.0 www.drcarolyngroff.com
-0.0.0.0 store.drcarolyngroff.com
 0.0.0.0 dreamgreenshoe.com
 0.0.0.0 www.dreamgreenshoe.com
 0.0.0.0 dreamstee.com
@@ -811,7 +806,6 @@
 0.0.0.0 store.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
 0.0.0.0 www.lakersfanshoponline.com
-0.0.0.0 store.lakersfanshoponline.com
 0.0.0.0 ledger-liveweb3app.com
 0.0.0.0 www.ledger-liveweb3app.com
 0.0.0.0 ledgerlive.mobi
@@ -951,8 +945,6 @@
 0.0.0.0 megoindonesia.com
 0.0.0.0 www.megoindonesia.com
 0.0.0.0 meminjamsaya.com
-0.0.0.0 microstrategy2023.net
-0.0.0.0 www.microstrategy2023.net
 0.0.0.0 missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop
 0.0.0.0 www.missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop
 0.0.0.0 store.missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop
@@ -1239,9 +1231,6 @@
 0.0.0.0 quinod.com
 0.0.0.0 www.quinod.com
 0.0.0.0 qxowtod.cn
-0.0.0.0 rabamnetee.com
-0.0.0.0 www.rabamnetee.com
-0.0.0.0 store.rabamnetee.com
 0.0.0.0 raiffeisenmining.com
 0.0.0.0 rasamalls.com
 0.0.0.0 www.rasamalls.com
@@ -1320,6 +1309,9 @@
 0.0.0.0 www.sedark.com
 0.0.0.0 selamatpinjam.space
 0.0.0.0 www.selamatpinjam.space
+0.0.0.0 sentees.com
+0.0.0.0 www.sentees.com
+0.0.0.0 store.sentees.com
 0.0.0.0 serengetidiscount.com
 0.0.0.0 www.serengetidiscount.com
 0.0.0.0 shinezily.com
@@ -1359,8 +1351,6 @@
 0.0.0.0 www.signpify.com
 0.0.0.0 store.signpify.com
 0.0.0.0 www.silverlanetrading.com
-0.0.0.0 skileki.com
-0.0.0.0 www.skileki.com
 0.0.0.0 skincheap.com
 0.0.0.0 www.skincheap.com
 0.0.0.0 store.skincheap.com
@@ -1522,6 +1512,7 @@
 0.0.0.0 www.telemarktalk.com
 0.0.0.0 tesla-openai.com
 0.0.0.0 www.tesla-openai.com
+0.0.0.0 store.tesla-openai.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
 0.0.0.0 thechildhooddream.com
@@ -1612,6 +1603,8 @@
 0.0.0.0 tslax2.io
 0.0.0.0 tukeraja.store
 0.0.0.0 www.tukeraja.store
+0.0.0.0 tulumwellnessacademy.com
+0.0.0.0 www.tulumwellnessacademy.com
 0.0.0.0 www.tunaicair.com
 0.0.0.0 tunairupiah.xyz
 0.0.0.0 www.tunairupiah.xyz
