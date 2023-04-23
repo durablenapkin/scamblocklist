@@ -54,7 +54,6 @@
 ||atrendsz.com^
 ||attenstyle.com^
 ||au-bloomreach.com^
-||auspost.your-redelivery-au.com^
 ||aussiesportfashion.com^
 ||avstars.in^
 ||azfancy.com^
@@ -224,7 +223,6 @@
 ||elitestrustonline.com^
 ||ellezz.com^
 ||elongives.net^
-||elontsla.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
@@ -296,7 +294,6 @@
 ||geryh.online^
 ||getmsx2.com^
 ||getsupport-lcloud.com^
-||getx2tesla.com^
 ||giftyweb.com^
 ||gig-os.com^
 ||gizmopage.com^
@@ -461,7 +458,6 @@
 ||msl-cf.id^
 ||museuw.com^
 ||musk-aigpt.com^
-||musk-bit.com^
 ||muskai.net^
 ||muthaafoundation.org^
 ||mycraftypad.com^
@@ -500,7 +496,6 @@
 ||norge.parkaoutdoor.com^
 ||norgefotball.com^
 ||norgeshoes.com^
-||now-openai.site^
 ||nxtgenerator.top^
 ||nynextlevel.com^
 ||oablages.org.br^
@@ -555,7 +550,6 @@
 ||pinjamanduit.lol^
 ||pinjamanelit.top^
 ||pinjamanmurah.space^
-||pinjamanpedia.xyz^
 ||pinjamanplus.com^
 ||pinjamanrupiah.xyz^
 ||pinjamantunai.xyz^
@@ -633,7 +627,6 @@
 ||shoeaddic.com^
 ||shop-nanox.com^
 ||shop.spreadshirt.com^
-||shopee1666.com^
 ||shopjeanswest.com^
 ||shopraidlight.com^
 ||shopsyracuseonline.com^
