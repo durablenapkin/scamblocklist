@@ -52,7 +52,6 @@
 ||astoriajob.com^
 ||atrendsz.com^
 ||attenstyle.com^
-||au-bloomreach.com^
 ||aussiesportfashion.com^
 ||avstars.in^
 ||azfancy.com^
@@ -451,7 +450,6 @@
 ||msaylor2x.com^
 ||msl-cf.id^
 ||museuw.com^
-||musk-aigpt.com^
 ||muskai.net^
 ||muthaafoundation.org^
 ||mycraftypad.com^
@@ -604,7 +602,6 @@
 ||salealfresco.com^
 ||saleberghaus.com^
 ||salejimshore.com^
-||salejomercer.com^
 ||saleplaymobil.com^
 ||saleprotest.com^
 ||salesnowgum.com^
@@ -703,7 +700,6 @@
 ||teesunshine.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
 ||teslacar.io^
 ||teslagive.live^
 ||thechildhooddream.com^
