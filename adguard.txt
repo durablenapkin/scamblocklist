@@ -76,7 +76,6 @@
 ||binomo.com^
 ||birkenstock-ca.com^
 ||bitcllpay.top^
-||bitcompay.org^
 ||bitgeekex.co^
 ||bitstenali.com^
 ||blackabdo.company.site^
@@ -276,6 +275,7 @@
 ||fundanemt.org^
 ||fundcash.id^
 ||furoshop.com^
+||future-promo.com^
 ||g1z0.myinstructus.com^
 ||gabanmalls.com^
 ||gamgoing.com^
@@ -353,7 +353,6 @@
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
-||kaemingkchristmas.com^
 ||kakaoli.co.kr^
 ||kakaopv.co.kr^
 ||keenfootwearsale.com^
@@ -555,7 +554,6 @@
 ||plutostars.com^
 ||pn10.xyz^
 ||popeurope.com^
-||popmenaccessories.com^
 ||postcanada.priority-ship.info^
 ||premiumqualityblanket.com^
 ||premiumtour-don.com^
@@ -602,7 +600,6 @@
 ||rupiahsaku.com^
 ||ryanurabonpitbullpuppies.com^
 ||salealfresco.com^
-||saleberghaus.com^
 ||salejimshore.com^
 ||saleplaymobil.com^
 ||saleprotest.com^
