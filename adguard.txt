@@ -125,7 +125,6 @@
 ||chipcy.com^
 ||chipteeamz.com^
 ||cipustar.com^
-||cition.info^
 ||cityofdream.co.uk^
 ||ckkebt.shop^
 ||claimcoderz.live^
@@ -380,7 +379,6 @@
 ||ledgerlive.mobi^
 ||ledgerlives.live^
 ||ledgerlivewallets.com^
-||ledgerrlivess.org^
 ||ledgers.network^
 ||legarralazcoz.com^
 ||legendofmen.com^
