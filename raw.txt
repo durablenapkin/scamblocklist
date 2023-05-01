@@ -2583,6 +2583,9 @@
 0.0.0.0 openaiteam.space
 0.0.0.0 www.openaiteam.space
 0.0.0.0 store.openaiteam.space
+0.0.0.0 optimusconstructora.com.pe
+0.0.0.0 www.optimusconstructora.com.pe
+0.0.0.0 store.optimusconstructora.com.pe
 0.0.0.0 orami.cloud
 0.0.0.0 www.orami.cloud
 0.0.0.0 store.orami.cloud
