@@ -1704,6 +1704,9 @@
 0.0.0.0 internationalcybersafedating.com
 0.0.0.0 www.internationalcybersafedating.com
 0.0.0.0 store.internationalcybersafedating.com
+0.0.0.0 intgblockchain.online
+0.0.0.0 www.intgblockchain.online
+0.0.0.0 store.intgblockchain.online
 0.0.0.0 inusoul.com
 0.0.0.0 www.inusoul.com
 0.0.0.0 store.inusoul.com
@@ -4287,6 +4290,9 @@
 0.0.0.0 youngtee.us
 0.0.0.0 www.youngtee.us
 0.0.0.0 store.youngtee.us
+0.0.0.0 youtubebplan.com
+0.0.0.0 www.youtubebplan.com
+0.0.0.0 store.youtubebplan.com
 0.0.0.0 youtubee.com
 0.0.0.0 www.youtubee.com
 0.0.0.0 store.youtubee.com

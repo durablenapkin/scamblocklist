@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1753
+# Domains: 1760
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -199,6 +199,7 @@
 0.0.0.0 store.buddhakind.com
 0.0.0.0 budm.shop
 0.0.0.0 burgershirt.com
+0.0.0.0 www.burgershirt.com
 0.0.0.0 store.burgershirt.com
 0.0.0.0 buydubuy.com
 0.0.0.0 www.buydubuy.com
@@ -380,9 +381,6 @@
 0.0.0.0 www.dcsnowboard.com
 0.0.0.0 ddoe.shop
 0.0.0.0 www.ddoe.shop
-0.0.0.0 de-expose.life
-0.0.0.0 www.de-expose.life
-0.0.0.0 store.de-expose.life
 0.0.0.0 dearrupiah.com
 0.0.0.0 www.dearrupiah.com
 0.0.0.0 deceptivebuffalo.cn
@@ -467,6 +465,7 @@
 0.0.0.0 elitestrustonline.com
 0.0.0.0 www.elitestrustonline.com
 0.0.0.0 ellezz.com
+0.0.0.0 www.ellezz.com
 0.0.0.0 store.ellezz.com
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
@@ -581,7 +580,6 @@
 0.0.0.0 furoshop.com
 0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
-0.0.0.0 www.future-promo.com
 0.0.0.0 g1z0.myinstructus.com
 0.0.0.0 www.g1z0.myinstructus.com
 0.0.0.0 store.g1z0.myinstructus.com
@@ -721,6 +719,8 @@
 0.0.0.0 store.instant-e-app-for-campaign.github.io
 0.0.0.0 internationalcybersafedating.com
 0.0.0.0 www.internationalcybersafedating.com
+0.0.0.0 intgblockchain.online
+0.0.0.0 www.intgblockchain.online
 0.0.0.0 investama92.com
 0.0.0.0 iqcreditcheck.com
 0.0.0.0 www.iqcreditcheck.com
@@ -802,6 +802,7 @@
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 store.ladamustore.com
+0.0.0.0 lakersfanshoponline.com
 0.0.0.0 www.lakersfanshoponline.com
 0.0.0.0 store.lakersfanshoponline.com
 0.0.0.0 ledger-liveweb3app.com
@@ -827,6 +828,7 @@
 0.0.0.0 www.lericettedifrancy74.com
 0.0.0.0 letteringift.com
 0.0.0.0 www.letteringift.com
+0.0.0.0 store.letteringift.com
 0.0.0.0 levath.com
 0.0.0.0 www.levath.com
 0.0.0.0 store.levath.com
@@ -936,8 +938,6 @@
 0.0.0.0 megoindonesia.com
 0.0.0.0 www.megoindonesia.com
 0.0.0.0 meminjamsaya.com
-0.0.0.0 miningco.site
-0.0.0.0 www.miningco.site
 0.0.0.0 miningpror.top
 0.0.0.0 www.miningpror.top
 0.0.0.0 store.miningpror.top
@@ -969,6 +969,8 @@
 0.0.0.0 www.msl-cf.id
 0.0.0.0 museuw.com
 0.0.0.0 www.museuw.com
+0.0.0.0 musk-aigpt.com
+0.0.0.0 www.musk-aigpt.com
 0.0.0.0 muskai.net
 0.0.0.0 muthaafoundation.org
 0.0.0.0 www.muthaafoundation.org
@@ -1073,6 +1075,7 @@
 0.0.0.0 store.ogogear.com
 0.0.0.0 oldcube.com
 0.0.0.0 www.oldcube.com
+0.0.0.0 store.oldcube.com
 0.0.0.0 oneparttimejob.com
 0.0.0.0 www.oneparttimejob.com
 0.0.0.0 store.oneparttimejob.com
@@ -1178,8 +1181,6 @@
 0.0.0.0 www.popeurope.com
 0.0.0.0 store.popeurope.com
 0.0.0.0 postcanada.priority-ship.info
-0.0.0.0 prcrypt.top
-0.0.0.0 www.prcrypt.top
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 premiumtour-don.com
@@ -1262,6 +1263,7 @@
 0.0.0.0 www.royalkingsmail.co.uk
 0.0.0.0 rptbaa.shop
 0.0.0.0 www.rptbaa.shop
+0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 www.rsaonlinenow.com.au
 0.0.0.0 store.rsaonlinenow.com.au
 0.0.0.0 rupiahlagi.com
@@ -1439,7 +1441,6 @@
 0.0.0.0 store.stylegift.co.uk
 0.0.0.0 sugarandpearl.com
 0.0.0.0 www.sugarandpearl.com
-0.0.0.0 sununi.us
 0.0.0.0 www.sununi.us
 0.0.0.0 store.sununi.us
 0.0.0.0 supercutestuff.com
@@ -1468,6 +1469,7 @@
 0.0.0.0 tadarick.com
 0.0.0.0 www.tadarick.com
 0.0.0.0 talentmaster.bio
+0.0.0.0 www.talentmaster.bio
 0.0.0.0 tamed-exotics.com
 0.0.0.0 www.tamed-exotics.com
 0.0.0.0 tartannewzealand.myshopify.com
@@ -1493,6 +1495,7 @@
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
 0.0.0.0 www.tesla-openai.com
+0.0.0.0 store.tesla-openai.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
 0.0.0.0 thechildhooddream.com
@@ -1640,7 +1643,7 @@
 0.0.0.0 uscampinghiking.com
 0.0.0.0 www.uscampinghiking.com
 0.0.0.0 uschse04.my03.com
-0.0.0.0 www.uschse04.my03.com
+0.0.0.0 store.uschse04.my03.com
 0.0.0.0 usglacierbay.com
 0.0.0.0 www.usglacierbay.com
 0.0.0.0 usnewoutdoor.com
@@ -1665,6 +1668,7 @@
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 store.verfun.com
+0.0.0.0 vetoro.cc
 0.0.0.0 www.vetoro.cc
 0.0.0.0 store.vetoro.cc
 0.0.0.0 viberman.com
@@ -1733,6 +1737,9 @@
 0.0.0.0 www.ygtube.xyz
 0.0.0.0 yoli.my.id
 0.0.0.0 www.yoli.my.id
+0.0.0.0 youtubebplan.com
+0.0.0.0 www.youtubebplan.com
+0.0.0.0 store.youtubebplan.com
 0.0.0.0 youtubee.com
 0.0.0.0 www.youtubee.com
 0.0.0.0 store.youtubee.com
