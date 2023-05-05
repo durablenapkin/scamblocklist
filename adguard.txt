@@ -82,7 +82,6 @@
 ||blastparis.com^
 ||blgstoragenew.blob.core.windows.net^
 ||blingyy.com^
-||bmpro.tech^
 ||bogsboot.com^
 ||bolejug.us^
 ||bombardina.pl^
@@ -706,6 +705,7 @@
 ||teesunshine.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslacar.io^
 ||teslagive.live^
 ||thechildhooddream.com^
