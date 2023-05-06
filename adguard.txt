@@ -130,7 +130,6 @@
 ||ckkebt.shop^
 ||claimcoderz.live^
 ||clearance-bike.com^
-||clearanceusmen.com^
 ||clemoa.com^
 ||cluckergifts.ecwid.com^
 ||cma88.vip^
@@ -798,6 +797,7 @@
 ||walkinshoe.com^
 ||wangsakti.com^
 ||waresusmiss.com^
+||warriordecor.com^
 ||wavetshirt.com^
 ||wbebellmail.z13.web.core.windows.net^
 ||weheartitstore.com^

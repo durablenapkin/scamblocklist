@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1758
+# Domains: 1761
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -268,8 +268,6 @@
 0.0.0.0 www.claimcoderz.live
 0.0.0.0 clearance-bike.com
 0.0.0.0 www.clearance-bike.com
-0.0.0.0 clearanceusmen.com
-0.0.0.0 www.clearanceusmen.com
 0.0.0.0 clemoa.com
 0.0.0.0 www.clemoa.com
 0.0.0.0 cluckergifts.ecwid.com
@@ -823,7 +821,6 @@
 0.0.0.0 www.lemstore.com
 0.0.0.0 store.lemstore.com
 0.0.0.0 lericettedifrancy74.com
-0.0.0.0 www.lericettedifrancy74.com
 0.0.0.0 letteringift.com
 0.0.0.0 www.letteringift.com
 0.0.0.0 store.letteringift.com
@@ -1496,6 +1493,7 @@
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
 0.0.0.0 tesla-openai.com
+0.0.0.0 store.tesla-openai.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
 0.0.0.0 thechildhooddream.com
@@ -1642,6 +1640,7 @@
 0.0.0.0 www.usburtonsnowboard.com
 0.0.0.0 uscampinghiking.com
 0.0.0.0 www.uscampinghiking.com
+0.0.0.0 uschse04.my03.com
 0.0.0.0 www.uschse04.my03.com
 0.0.0.0 store.uschse04.my03.com
 0.0.0.0 usglacierbay.com
@@ -1692,6 +1691,8 @@
 0.0.0.0 wangsakti.com
 0.0.0.0 waresusmiss.com
 0.0.0.0 www.waresusmiss.com
+0.0.0.0 warriordecor.com
+0.0.0.0 www.warriordecor.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 www.wavetshirt.com
 0.0.0.0 wbebellmail.z13.web.core.windows.net
@@ -1731,6 +1732,8 @@
 0.0.0.0 yeswevibe.com
 0.0.0.0 www.yeswevibe.com
 0.0.0.0 yeyvibe.com
+0.0.0.0 www.yeyvibe.com
+0.0.0.0 store.yeyvibe.com
 0.0.0.0 ygtube.xyz
 0.0.0.0 www.ygtube.xyz
 0.0.0.0 yoli.my.id
