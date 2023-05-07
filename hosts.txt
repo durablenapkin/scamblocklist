@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1761
+# Domains: 1756
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -301,8 +301,6 @@
 0.0.0.0 www.coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 www.coolestpod.com
-0.0.0.0 copymyfx.com
-0.0.0.0 www.copymyfx.com
 0.0.0.0 corg.co
 0.0.0.0 www.corg.co
 0.0.0.0 couponxoo.com
@@ -626,7 +624,6 @@
 0.0.0.0 www.gllomall.com
 0.0.0.0 gload.info
 0.0.0.0 www.gload.info
-0.0.0.0 store.gload.info
 0.0.0.0 globaldependableshippers.com
 0.0.0.0 www.globaldependableshippers.com
 0.0.0.0 glstee.com
@@ -800,7 +797,6 @@
 0.0.0.0 store.ladamustore.com
 0.0.0.0 lakersfanshoponline.com
 0.0.0.0 www.lakersfanshoponline.com
-0.0.0.0 store.lakersfanshoponline.com
 0.0.0.0 ledger-liveweb3app.com
 0.0.0.0 www.ledger-liveweb3app.com
 0.0.0.0 ledgerlive.mobi
@@ -821,6 +817,7 @@
 0.0.0.0 www.lemstore.com
 0.0.0.0 store.lemstore.com
 0.0.0.0 lericettedifrancy74.com
+0.0.0.0 www.lericettedifrancy74.com
 0.0.0.0 letteringift.com
 0.0.0.0 www.letteringift.com
 0.0.0.0 store.letteringift.com
@@ -1492,8 +1489,7 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
-0.0.0.0 tesla-openai.com
-0.0.0.0 store.tesla-openai.com
+0.0.0.0 www.tesla-openai.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
 0.0.0.0 thechildhooddream.com
@@ -1641,7 +1637,6 @@
 0.0.0.0 uscampinghiking.com
 0.0.0.0 www.uscampinghiking.com
 0.0.0.0 uschse04.my03.com
-0.0.0.0 www.uschse04.my03.com
 0.0.0.0 store.uschse04.my03.com
 0.0.0.0 usglacierbay.com
 0.0.0.0 www.usglacierbay.com
