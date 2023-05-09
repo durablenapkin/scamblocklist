@@ -54,6 +54,7 @@
 ||arnoldgloverruss58.myshopify.com^
 ||arthoodie.com^
 ||arvetellefsen.no^
+||assassinfitness.com^
 ||astoriajob.com^
 ||atrendsz.com^
 ||attenstyle.com^
@@ -308,6 +309,7 @@
 ||gamgoing.com^
 ||gamingbuffs.com^
 ||gamingtoolz.club^
+||gazinvest.quest^
 ||gearanime.com^
 ||gearathena.com^
 ||gearclover.com^
@@ -924,4 +926,5 @@
 ||zerowasteinitiative.com^
 ||zgalaxytee.com^
 ||zolrqw.palatlaldate.com^
+||zooger.space^
 ||zuozuoshoe.shop^

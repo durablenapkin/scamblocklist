@@ -1500,6 +1500,9 @@
 0.0.0.0 gantoslo.com
 0.0.0.0 www.gantoslo.com
 0.0.0.0 store.gantoslo.com
+0.0.0.0 gazinvest.quest
+0.0.0.0 www.gazinvest.quest
+0.0.0.0 store.gazinvest.quest
 0.0.0.0 geaapy.com
 0.0.0.0 www.geaapy.com
 0.0.0.0 store.geaapy.com
@@ -4626,6 +4629,9 @@
 0.0.0.0 zolrqw.palatlaldate.com
 0.0.0.0 www.zolrqw.palatlaldate.com
 0.0.0.0 store.zolrqw.palatlaldate.com
+0.0.0.0 zooger.space
+0.0.0.0 www.zooger.space
+0.0.0.0 store.zooger.space
 0.0.0.0 zumam.us
 0.0.0.0 www.zumam.us
 0.0.0.0 store.zumam.us

@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1953
+# Domains: 1963
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -110,6 +110,9 @@
 0.0.0.0 www.arthoodie.com
 0.0.0.0 arvetellefsen.no
 0.0.0.0 www.arvetellefsen.no
+0.0.0.0 assassinfitness.com
+0.0.0.0 www.assassinfitness.com
+0.0.0.0 store.assassinfitness.com
 0.0.0.0 astoriajob.com
 0.0.0.0 www.astoriajob.com
 0.0.0.0 atrendsz.com
@@ -646,6 +649,8 @@
 0.0.0.0 www.gamingbuffs.com
 0.0.0.0 gamingtoolz.club
 0.0.0.0 www.gamingtoolz.club
+0.0.0.0 gazinvest.quest
+0.0.0.0 www.gazinvest.quest
 0.0.0.0 gearanime.com
 0.0.0.0 www.gearanime.com
 0.0.0.0 gearathena.com
@@ -682,11 +687,11 @@
 0.0.0.0 gladiadormalas.com.br
 0.0.0.0 www.gladiadormalas.com.br
 0.0.0.0 glendaz.com
-0.0.0.0 www.glendaz.com
 0.0.0.0 gllomall.com
 0.0.0.0 www.gllomall.com
 0.0.0.0 gload.info
 0.0.0.0 www.gload.info
+0.0.0.0 store.gload.info
 0.0.0.0 globaldependableshippers.com
 0.0.0.0 www.globaldependableshippers.com
 0.0.0.0 glstee.com
@@ -1060,6 +1065,7 @@
 0.0.0.0 moneymm1688.shop
 0.0.0.0 mononus.com
 0.0.0.0 www.mononus.com
+0.0.0.0 store.mononus.com
 0.0.0.0 morlyes.com
 0.0.0.0 www.morlyes.com
 0.0.0.0 motovinreports.com
@@ -1276,6 +1282,7 @@
 0.0.0.0 www.pinjamanelit.top
 0.0.0.0 pinjamanmurah.space
 0.0.0.0 www.pinjamanmurah.space
+0.0.0.0 store.pinjamanmurah.space
 0.0.0.0 pinjamanplus.com
 0.0.0.0 www.pinjamanplus.com
 0.0.0.0 pinjamanrupiah.xyz
@@ -1650,8 +1657,8 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
-0.0.0.0 tesla-openai.com
 0.0.0.0 www.tesla-openai.com
+0.0.0.0 store.tesla-openai.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
 0.0.0.0 thechildhooddream.com
@@ -1957,5 +1964,8 @@
 0.0.0.0 zolrqw.palatlaldate.com
 0.0.0.0 www.zolrqw.palatlaldate.com
 0.0.0.0 store.zolrqw.palatlaldate.com
+0.0.0.0 zooger.space
+0.0.0.0 www.zooger.space
+0.0.0.0 store.zooger.space
 0.0.0.0 zuozuoshoe.shop
 0.0.0.0 www.zuozuoshoe.shop
