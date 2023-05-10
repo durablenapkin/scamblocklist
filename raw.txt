@@ -2433,6 +2433,9 @@
 0.0.0.0 msl-cf.id
 0.0.0.0 www.msl-cf.id
 0.0.0.0 store.msl-cf.id
+0.0.0.0 msmcompare.com
+0.0.0.0 www.msmcompare.com
+0.0.0.0 store.msmcompare.com
 0.0.0.0 mualuondi.com
 0.0.0.0 www.mualuondi.com
 0.0.0.0 store.mualuondi.com
@@ -2463,6 +2466,9 @@
 0.0.0.0 muskai.net
 0.0.0.0 www.muskai.net
 0.0.0.0 store.muskai.net
+0.0.0.0 muskweb.net
+0.0.0.0 www.muskweb.net
+0.0.0.0 store.muskweb.net
 0.0.0.0 muthaafoundation.org
 0.0.0.0 www.muthaafoundation.org
 0.0.0.0 store.muthaafoundation.org
@@ -3987,6 +3993,9 @@
 0.0.0.0 teslatime.net
 0.0.0.0 www.teslatime.net
 0.0.0.0 store.teslatime.net
+0.0.0.0 teslatucker.com
+0.0.0.0 www.teslatucker.com
+0.0.0.0 store.teslatucker.com
 0.0.0.0 teslawork.io
 0.0.0.0 www.teslawork.io
 0.0.0.0 store.teslawork.io
