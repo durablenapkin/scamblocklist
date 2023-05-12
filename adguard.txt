@@ -59,7 +59,6 @@
 ||atrendsz.com^
 ||attenstyle.com^
 ||audiosg.com.sg^
-||auditorscarf.com^
 ||aussiesportfashion.com^
 ||avstars.in^
 ||azfancy.com^
@@ -92,7 +91,6 @@
 ||blackabdo.company.site^
 ||blastparis.com^
 ||blgstoragenew.blob.core.windows.net^
-||blingyy.com^
 ||bloomessentialsbrand.com^
 ||bogsboot.com^
 ||bolejug.us^
@@ -725,7 +723,6 @@
 ||sparka-tan.info^
 ||spnation.net^
 ||sportfamily.us^
-||sportfirestore.com^
 ||sportsapparelmarket.com^
 ||sportsbrooks.com^
 ||sportswearfanatics.com^
