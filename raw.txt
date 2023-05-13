@@ -2466,6 +2466,9 @@
 0.0.0.0 muskai.net
 0.0.0.0 www.muskai.net
 0.0.0.0 store.muskai.net
+0.0.0.0 muskbtc.io
+0.0.0.0 www.muskbtc.io
+0.0.0.0 store.muskbtc.io
 0.0.0.0 muskweb.net
 0.0.0.0 www.muskweb.net
 0.0.0.0 store.muskweb.net
@@ -3960,6 +3963,9 @@
 0.0.0.0 teslaking.io
 0.0.0.0 www.teslaking.io
 0.0.0.0 store.teslaking.io
+0.0.0.0 teslalive23.pro
+0.0.0.0 www.teslalive23.pro
+0.0.0.0 store.teslalive23.pro
 0.0.0.0 teslalnc.net
 0.0.0.0 www.teslalnc.net
 0.0.0.0 store.teslalnc.net
