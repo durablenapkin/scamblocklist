@@ -1179,6 +1179,9 @@
 0.0.0.0 elonmusk2x.org
 0.0.0.0 www.elonmusk2x.org
 0.0.0.0 store.elonmusk2x.org
+0.0.0.0 elontesla23.pro
+0.0.0.0 www.elontesla23.pro
+0.0.0.0 store.elontesla23.pro
 0.0.0.0 elontsla.com
 0.0.0.0 www.elontsla.com
 0.0.0.0 store.elontsla.com
@@ -1881,6 +1884,9 @@
 0.0.0.0 jne-express.my.id
 0.0.0.0 www.jne-express.my.id
 0.0.0.0 store.jne-express.my.id
+0.0.0.0 join2musk.com
+0.0.0.0 www.join2musk.com
+0.0.0.0 store.join2musk.com
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 store.jollyfamilygifts.net
@@ -3912,6 +3918,9 @@
 0.0.0.0 tesla4eth.net
 0.0.0.0 www.tesla4eth.net
 0.0.0.0 store.tesla4eth.net
+0.0.0.0 teslabrc.com
+0.0.0.0 www.teslabrc.com
+0.0.0.0 store.teslabrc.com
 0.0.0.0 teslacar.io
 0.0.0.0 www.teslacar.io
 0.0.0.0 store.teslacar.io

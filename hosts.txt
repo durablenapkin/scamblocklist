@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1956
+# Domains: 1958
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -460,6 +460,7 @@
 0.0.0.0 www.dolomiteoutlet.com
 0.0.0.0 dolystore.com
 0.0.0.0 www.dolystore.com
+0.0.0.0 store.dolystore.com
 0.0.0.0 dompetaman.live
 0.0.0.0 www.dompetaman.live
 0.0.0.0 dompetexcellent.com
@@ -514,6 +515,8 @@
 0.0.0.0 ellezz.com
 0.0.0.0 www.ellezz.com
 0.0.0.0 store.ellezz.com
+0.0.0.0 elontesla23.pro
+0.0.0.0 www.elontesla23.pro
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 store.emberio.com
@@ -686,7 +689,6 @@
 0.0.0.0 gllomall.com
 0.0.0.0 www.gllomall.com
 0.0.0.0 gload.info
-0.0.0.0 www.gload.info
 0.0.0.0 store.gload.info
 0.0.0.0 globaldependableshippers.com
 0.0.0.0 www.globaldependableshippers.com
@@ -821,6 +823,8 @@
 0.0.0.0 www.jfmovingstorage.com
 0.0.0.0 jne-express.my.id
 0.0.0.0 www.jne-express.my.id
+0.0.0.0 join2musk.com
+0.0.0.0 www.join2musk.com
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 jonausa.com
@@ -1650,8 +1654,7 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
-0.0.0.0 tesla-openai.com
-0.0.0.0 www.tesla-openai.com
+0.0.0.0 teslabrc.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
 0.0.0.0 teslalive23.pro
@@ -1834,6 +1837,7 @@
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 store.verfun.com
+0.0.0.0 vetoro.cc
 0.0.0.0 www.vetoro.cc
 0.0.0.0 store.vetoro.cc
 0.0.0.0 viberman.com
@@ -1960,5 +1964,3 @@
 0.0.0.0 zooger.space
 0.0.0.0 www.zooger.space
 0.0.0.0 store.zooger.space
-0.0.0.0 zuozuoshoe.shop
-0.0.0.0 www.zuozuoshoe.shop
