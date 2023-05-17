@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1949
+# Domains: 1957
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -755,6 +755,8 @@
 0.0.0.0 store.howarco.com
 0.0.0.0 husqvarnaoutlet.shop
 0.0.0.0 www.husqvarnaoutlet.shop
+0.0.0.0 i-grade.online
+0.0.0.0 www.i-grade.online
 0.0.0.0 iaqorwr.com
 0.0.0.0 iceao.shop
 0.0.0.0 www.iceao.shop
@@ -1008,6 +1010,9 @@
 0.0.0.0 www.magnite.shop
 0.0.0.0 majucash.xyz
 0.0.0.0 www.majucash.xyz
+0.0.0.0 makewallperfect.store
+0.0.0.0 www.makewallperfect.store
+0.0.0.0 store.makewallperfect.store
 0.0.0.0 mamapapaclothing.com
 0.0.0.0 www.mamapapaclothing.com
 0.0.0.0 markethops.com
@@ -1113,6 +1118,7 @@
 0.0.0.0 neozor.com
 0.0.0.0 www.neozor.com
 0.0.0.0 netcotto.com
+0.0.0.0 www.netcotto.com
 0.0.0.0 networksfishing.com
 0.0.0.0 www.networksfishing.com
 0.0.0.0 new.bestageoffers22.com
@@ -1648,8 +1654,6 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
-0.0.0.0 tesla-openai.com
-0.0.0.0 www.tesla-openai.com
 0.0.0.0 teslabrc.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
@@ -1669,6 +1673,7 @@
 0.0.0.0 www.thehappywood.com
 0.0.0.0 thehardcorehabits.com
 0.0.0.0 www.thehardcorehabits.com
+0.0.0.0 thekeilas.com
 0.0.0.0 www.thekeilas.com
 0.0.0.0 store.thekeilas.com
 0.0.0.0 themountainus.com
@@ -1679,6 +1684,8 @@
 0.0.0.0 www.theniemannbest.com
 0.0.0.0 theoutdoorsgear.com
 0.0.0.0 www.theoutdoorsgear.com
+0.0.0.0 theshirtyouneed.com
+0.0.0.0 www.theshirtyouneed.com
 0.0.0.0 thesignaturehardware.com
 0.0.0.0 www.thesignaturehardware.com
 0.0.0.0 thevitic.com
@@ -1833,6 +1840,7 @@
 0.0.0.0 store.verfun.com
 0.0.0.0 vetoro.cc
 0.0.0.0 www.vetoro.cc
+0.0.0.0 store.vetoro.cc
 0.0.0.0 viberman.com
 0.0.0.0 vicidola.com
 0.0.0.0 www.vicidola.com
