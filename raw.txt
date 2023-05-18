@@ -69,6 +69,9 @@
 0.0.0.0 abedsetz.com
 0.0.0.0 www.abedsetz.com
 0.0.0.0 store.abedsetz.com
+0.0.0.0 abncbp.com
+0.0.0.0 www.abncbp.com
+0.0.0.0 store.abncbp.com
 0.0.0.0 accfiverif.com
 0.0.0.0 www.accfiverif.com
 0.0.0.0 store.accfiverif.com
@@ -2343,6 +2346,9 @@
 0.0.0.0 microgull.com
 0.0.0.0 www.microgull.com
 0.0.0.0 store.microgull.com
+0.0.0.0 microngroup.pro
+0.0.0.0 www.microngroup.pro
+0.0.0.0 store.microngroup.pro
 0.0.0.0 microstrategy2023.net
 0.0.0.0 www.microstrategy2023.net
 0.0.0.0 store.microstrategy2023.net
@@ -2499,6 +2505,9 @@
 0.0.0.0 myacct.frdmmobile.com
 0.0.0.0 www.myacct.frdmmobile.com
 0.0.0.0 store.myacct.frdmmobile.com
+0.0.0.0 mybestautologin567.com
+0.0.0.0 www.mybestautologin567.com
+0.0.0.0 store.mybestautologin567.com
 0.0.0.0 mycraftypad.com
 0.0.0.0 www.mycraftypad.com
 0.0.0.0 store.mycraftypad.com
@@ -3744,6 +3753,9 @@
 0.0.0.0 stylegift.co.uk
 0.0.0.0 www.stylegift.co.uk
 0.0.0.0 store.stylegift.co.uk
+0.0.0.0 successglossary.com
+0.0.0.0 www.successglossary.com
+0.0.0.0 store.successglossary.com
 0.0.0.0 sugarandpearl.com
 0.0.0.0 www.sugarandpearl.com
 0.0.0.0 store.sugarandpearl.com

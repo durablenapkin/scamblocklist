@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1957
+# Domains: 1960
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -24,6 +24,8 @@
 0.0.0.0 www.7s4c.top
 0.0.0.0 aadirone.cc
 0.0.0.0 www.aadirone.cc
+0.0.0.0 abncbp.com
+0.0.0.0 www.abncbp.com
 0.0.0.0 accfiverif.com
 0.0.0.0 address.uspostalservice11.d74r.co
 0.0.0.0 www.address.uspostalservice11.d74r.co
@@ -266,9 +268,6 @@
 0.0.0.0 cashadvancexy.xyz
 0.0.0.0 www.cashadvancexy.xyz
 0.0.0.0 store.cashadvancexy.xyz
-0.0.0.0 castim.info
-0.0.0.0 www.castim.info
-0.0.0.0 store.castim.info
 0.0.0.0 cebesale.com
 0.0.0.0 www.cebesale.com
 0.0.0.0 cebubestbuy.com
@@ -683,8 +682,6 @@
 0.0.0.0 gizmopage.com
 0.0.0.0 gladiadormalas.com.br
 0.0.0.0 www.gladiadormalas.com.br
-0.0.0.0 glendaz.com
-0.0.0.0 www.glendaz.com
 0.0.0.0 gllomall.com
 0.0.0.0 www.gllomall.com
 0.0.0.0 gload.info
@@ -1010,9 +1007,6 @@
 0.0.0.0 www.magnite.shop
 0.0.0.0 majucash.xyz
 0.0.0.0 www.majucash.xyz
-0.0.0.0 makewallperfect.store
-0.0.0.0 www.makewallperfect.store
-0.0.0.0 store.makewallperfect.store
 0.0.0.0 mamapapaclothing.com
 0.0.0.0 www.mamapapaclothing.com
 0.0.0.0 markethops.com
@@ -1037,6 +1031,7 @@
 0.0.0.0 meminjamsaya.com
 0.0.0.0 microgull.com
 0.0.0.0 www.microgull.com
+0.0.0.0 microngroup.pro
 0.0.0.0 mila-vica.de
 0.0.0.0 www.mila-vica.de
 0.0.0.0 milgenial.uy
@@ -1086,6 +1081,9 @@
 0.0.0.0 muskbtc.io
 0.0.0.0 muthaafoundation.org
 0.0.0.0 www.muthaafoundation.org
+0.0.0.0 mybestautologin567.com
+0.0.0.0 www.mybestautologin567.com
+0.0.0.0 store.mybestautologin567.com
 0.0.0.0 mycraftypad.com
 0.0.0.0 www.mycraftypad.com
 0.0.0.0 store.mycraftypad.com
@@ -1594,6 +1592,9 @@
 0.0.0.0 stylegift.co.uk
 0.0.0.0 www.stylegift.co.uk
 0.0.0.0 store.stylegift.co.uk
+0.0.0.0 successglossary.com
+0.0.0.0 www.successglossary.com
+0.0.0.0 store.successglossary.com
 0.0.0.0 sugarandpearl.com
 0.0.0.0 www.sugarandpearl.com
 0.0.0.0 sununi.us
@@ -1654,6 +1655,8 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
+0.0.0.0 tesla-openai.com
+0.0.0.0 www.tesla-openai.com
 0.0.0.0 teslabrc.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
@@ -1813,7 +1816,7 @@
 0.0.0.0 uscampinghiking.com
 0.0.0.0 www.uscampinghiking.com
 0.0.0.0 uschse04.my03.com
-0.0.0.0 www.uschse04.my03.com
+0.0.0.0 store.uschse04.my03.com
 0.0.0.0 usglacierbay.com
 0.0.0.0 www.usglacierbay.com
 0.0.0.0 usnewoutdoor.com
