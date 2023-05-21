@@ -84,7 +84,6 @@
 ||beautyt.shop^
 ||beecrave.com^
 ||benecharm.com^
-||bestmoonshop.com^
 ||bigappboi.com^
 ||bikehotsale.com^
 ||binggrondahlshop.com^
@@ -253,7 +252,6 @@
 ||ekyfoa.shop^
 ||elitestrustonline.biz^
 ||elitestrustonline.com^
-||ellezz.com^
 ||elontesla23.pro^
 ||emberio.com^
 ||enchantestore.myshopify.com^
@@ -854,7 +852,6 @@
 ||uange.shop^
 ||uangmu.top^
 ||uangmudahapp.com^
-||uangqu.online^
 ||ug5m.guru^
 ||uk-wemakewebsites.com^
 ||ukoutdoordeal.com^
@@ -877,6 +874,7 @@
 ||usnewoutdoors.com^
 ||usplussports.com^
 ||uspostalservice11.d74r.co^
+||uspsglobalexpress.com^
 ||ussportabout.com^
 ||ussportpioneer.com^
 ||vegamartz.com^
