@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1984
+# Domains: 1979
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -167,6 +167,9 @@
 0.0.0.0 benecharm.com
 0.0.0.0 www.benecharm.com
 0.0.0.0 store.benecharm.com
+0.0.0.0 bestmoonshop.com
+0.0.0.0 www.bestmoonshop.com
+0.0.0.0 store.bestmoonshop.com
 0.0.0.0 bigappboi.com
 0.0.0.0 www.bigappboi.com
 0.0.0.0 bikehotsale.com
@@ -574,9 +577,6 @@
 0.0.0.0 www.familystore.com
 0.0.0.0 familyteacupschihuahuas.com
 0.0.0.0 www.familyteacupschihuahuas.com
-0.0.0.0 famoury.com
-0.0.0.0 www.famoury.com
-0.0.0.0 store.famoury.com
 0.0.0.0 fancycentral.com
 0.0.0.0 www.fancycentral.com
 0.0.0.0 store.fancycentral.com
@@ -652,7 +652,6 @@
 0.0.0.0 furoshop.com
 0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
-0.0.0.0 g1z0.myinstructus.com
 0.0.0.0 www.g1z0.myinstructus.com
 0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gabanmalls.com
@@ -902,7 +901,6 @@
 0.0.0.0 www.kreditmudah.shop
 0.0.0.0 kxu.myinstructus.com
 0.0.0.0 www.kxu.myinstructus.com
-0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 store.ladamustore.com
@@ -1663,6 +1661,8 @@
 0.0.0.0 www.tee24h.com
 0.0.0.0 teearrow.com
 0.0.0.0 www.teearrow.com
+0.0.0.0 teechip.online
+0.0.0.0 www.teechip.online
 0.0.0.0 teefoody.com
 0.0.0.0 www.teefoody.com
 0.0.0.0 store.teefoody.com
@@ -1678,8 +1678,6 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
-0.0.0.0 tesla-openai.com
-0.0.0.0 www.tesla-openai.com
 0.0.0.0 store.tesla-openai.com
 0.0.0.0 teslabrc.com
 0.0.0.0 teslacar.io
@@ -1771,8 +1769,6 @@
 0.0.0.0 store.treverschmelerkris18.myshopify.com
 0.0.0.0 tripinpremiumsnacks.com
 0.0.0.0 www.tripinpremiumsnacks.com
-0.0.0.0 tromselementbygg.no
-0.0.0.0 www.tromselementbygg.no
 0.0.0.0 tsladouble23.com
 0.0.0.0 www.tsladouble23.com
 0.0.0.0 tslaget.live
@@ -1863,7 +1859,6 @@
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 store.verfun.com
-0.0.0.0 vetoro.cc
 0.0.0.0 www.vetoro.cc
 0.0.0.0 store.vetoro.cc
 0.0.0.0 viberman.com
