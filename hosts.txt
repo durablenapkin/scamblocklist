@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1979
+# Domains: 1986
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -124,6 +124,8 @@
 0.0.0.0 attenstyle.com
 0.0.0.0 audiosg.com.sg
 0.0.0.0 www.audiosg.com.sg
+0.0.0.0 augusthenri.be
+0.0.0.0 www.augusthenri.be
 0.0.0.0 aussiesportfashion.com
 0.0.0.0 www.aussiesportfashion.com
 0.0.0.0 azfancy.com
@@ -403,9 +405,6 @@
 0.0.0.0 www.danaaman.xyz
 0.0.0.0 store.danaaman.xyz
 0.0.0.0 www.danadarurat.net
-0.0.0.0 danainstan.xyz
-0.0.0.0 www.danainstan.xyz
-0.0.0.0 store.danainstan.xyz
 0.0.0.0 danapintar.club
 0.0.0.0 www.danapintar.club
 0.0.0.0 danapro.net
@@ -652,6 +651,7 @@
 0.0.0.0 furoshop.com
 0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
+0.0.0.0 g1z0.myinstructus.com
 0.0.0.0 www.g1z0.myinstructus.com
 0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gabanmalls.com
@@ -673,8 +673,6 @@
 0.0.0.0 store.gearclover.com
 0.0.0.0 gearhomies.com
 0.0.0.0 www.gearhomies.com
-0.0.0.0 gearhuman.com
-0.0.0.0 www.gearhuman.com
 0.0.0.0 gearstastic.com
 0.0.0.0 www.gearstastic.com
 0.0.0.0 gearstastics.com
@@ -734,6 +732,9 @@
 0.0.0.0 h5.vjrniqwekq.com
 0.0.0.0 www.h5.vjrniqwekq.com
 0.0.0.0 store.h5.vjrniqwekq.com
+0.0.0.0 haceroberomaste.com
+0.0.0.0 www.haceroberomaste.com
+0.0.0.0 store.haceroberomaste.com
 0.0.0.0 hairyfy.com
 0.0.0.0 www.hairyfy.com
 0.0.0.0 haowei.me
@@ -901,6 +902,7 @@
 0.0.0.0 www.kreditmudah.shop
 0.0.0.0 kxu.myinstructus.com
 0.0.0.0 www.kxu.myinstructus.com
+0.0.0.0 store.kxu.myinstructus.com
 0.0.0.0 ladamustore.com
 0.0.0.0 www.ladamustore.com
 0.0.0.0 store.ladamustore.com
@@ -1067,9 +1069,6 @@
 0.0.0.0 mizunsports.com
 0.0.0.0 www.mizunsports.com
 0.0.0.0 mmmjemp.cn
-0.0.0.0 modalsaya.xyz
-0.0.0.0 www.modalsaya.xyz
-0.0.0.0 store.modalsaya.xyz
 0.0.0.0 modernusfemale.com
 0.0.0.0 www.modernusfemale.com
 0.0.0.0 modmobile24.com
@@ -1147,8 +1146,6 @@
 0.0.0.0 newoutdoorsale.com
 0.0.0.0 www.newoutdoorsale.com
 0.0.0.0 www.ngreditinaja.top
-0.0.0.0 nicelegant.com
-0.0.0.0 www.nicelegant.com
 0.0.0.0 niche3d.us
 0.0.0.0 www.niche3d.us
 0.0.0.0 nikebutikks.com
@@ -1183,6 +1180,9 @@
 0.0.0.0 www.nxtgenerator.top
 0.0.0.0 nynextlevel.com
 0.0.0.0 www.nynextlevel.com
+0.0.0.0 nze0xw.haceroberomaste.com
+0.0.0.0 www.nze0xw.haceroberomaste.com
+0.0.0.0 store.nze0xw.haceroberomaste.com
 0.0.0.0 oablages.org.br
 0.0.0.0 www.oablages.org.br
 0.0.0.0 www.ocadopartner.com
@@ -1216,6 +1216,7 @@
 0.0.0.0 www.onlinehome.us
 0.0.0.0 onlinekohler.com
 0.0.0.0 www.onlinekohler.com
+0.0.0.0 onlinestores.factorysale2023.com
 0.0.0.0 onrunningshop.com
 0.0.0.0 www.onrunningshop.com
 0.0.0.0 onthereelpros.com
@@ -1272,6 +1273,7 @@
 0.0.0.0 www.perlatoshoe.com
 0.0.0.0 personal84.com
 0.0.0.0 www.personal84.com
+0.0.0.0 store.personal84.com
 0.0.0.0 pertinacious-assemblage.com
 0.0.0.0 www.pertinacious-assemblage.com
 0.0.0.0 petsimulator.live
@@ -1416,7 +1418,6 @@
 0.0.0.0 www.royalkingsmail.co.uk
 0.0.0.0 rptbaa.shop
 0.0.0.0 www.rptbaa.shop
-0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 www.rsaonlinenow.com.au
 0.0.0.0 store.rsaonlinenow.com.au
 0.0.0.0 rupiahlagi.com
@@ -1495,6 +1496,7 @@
 0.0.0.0 www.shopyourturn.com
 0.0.0.0 showapparels.com
 0.0.0.0 www.showapparels.com
+0.0.0.0 si.factorysale2023.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
 0.0.0.0 signpify.com
@@ -1593,6 +1595,9 @@
 0.0.0.0 store.store25848025.company.site
 0.0.0.0 storeadid.com
 0.0.0.0 www.storeadid.com
+0.0.0.0 storeax.com
+0.0.0.0 www.storeax.com
+0.0.0.0 store.storeax.com
 0.0.0.0 storebyon.com
 0.0.0.0 www.storebyon.com
 0.0.0.0 storecollegeonline.com
@@ -1769,6 +1774,8 @@
 0.0.0.0 store.treverschmelerkris18.myshopify.com
 0.0.0.0 tripinpremiumsnacks.com
 0.0.0.0 www.tripinpremiumsnacks.com
+0.0.0.0 tromselementbygg.no
+0.0.0.0 www.tromselementbygg.no
 0.0.0.0 tsladouble23.com
 0.0.0.0 www.tsladouble23.com
 0.0.0.0 tslaget.live

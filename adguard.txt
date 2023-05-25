@@ -62,6 +62,7 @@
 ||atrendsz.com^
 ||attenstyle.com^
 ||audiosg.com.sg^
+||augusthenri.be^
 ||aussiesportfashion.com^
 ||azfancy.com^
 ||azuretipsandtrick101.z13.web.core.windows.net^
@@ -194,7 +195,6 @@
 ||dailygiftstore.com^
 ||danaaman.xyz^
 ||danadarurat.net^
-||danainstan.xyz^
 ||danapintar.club^
 ||danapro.net^
 ||danarakyatol.com^
@@ -321,7 +321,6 @@
 ||gearathena.com^
 ||gearclover.com^
 ||gearhomies.com^
-||gearhuman.com^
 ||gearstastic.com^
 ||gearstastics.com^
 ||gearver.com^
@@ -349,6 +348,7 @@
 ||gsport.com^
 ||gunstee.com^
 ||h5.vjrniqwekq.com^
+||haceroberomaste.com^
 ||hairyfy.com^
 ||haowei.me^
 ||haruko.store^
@@ -505,7 +505,6 @@
 ||miuprints.com^
 ||mizunsports.com^
 ||mmmjemp.cn^
-||modalsaya.xyz^
 ||modernusfemale.com^
 ||modmobile24.com^
 ||monark-store.com^
@@ -544,7 +543,6 @@
 ||newlawngarden.com^
 ||newoutdoorsale.com^
 ||ngreditinaja.top^
-||nicelegant.com^
 ||niche3d.us^
 ||nikebutikks.com^
 ||nirvezal.com^
@@ -560,6 +558,7 @@
 ||nosdaarte.com^
 ||nxtgenerator.top^
 ||nynextlevel.com^
+||nze0xw.haceroberomaste.com^
 ||oablages.org.br^
 ||ocadopartner.com^
 ||ocycling.com^
@@ -575,6 +574,7 @@
 ||onlineadid.com^
 ||onlinehome.us^
 ||onlinekohler.com^
+||onlinestores.factorysale2023.com^
 ||onrunningshop.com^
 ||onthereelpros.com^
 ||open-cbd.de^
@@ -710,6 +710,7 @@
 ||shopusawarehouse.com^
 ||shopyourturn.com^
 ||showapparels.com^
+||si.factorysale2023.com^
 ||sigmaoffers.com^
 ||signpify.com^
 ||silverlanetrading.com^
@@ -756,6 +757,7 @@
 ||store-swatch.com^
 ||store25848025.company.site^
 ||storeadid.com^
+||storeax.com^
 ||storebyon.com^
 ||storecollegeonline.com^
 ||storedarkness.com^
@@ -838,6 +840,7 @@
 ||trendsharks.com^
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
+||tromselementbygg.no^
 ||tsladouble23.com^
 ||tslaget.live^
 ||tslawill.com^
