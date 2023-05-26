@@ -604,6 +604,8 @@
 0.0.0.0 www.ferupgo.com
 0.0.0.0 fiewatch.com
 0.0.0.0 www.fiewatch.com
+0.0.0.0 filedenzu.com
+0.0.0.0 www.filedenzu.com
 0.0.0.0 findglocal.com
 0.0.0.0 www.findglocal.com
 0.0.0.0 finnews7.wordpress.com
@@ -652,7 +654,6 @@
 0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
 0.0.0.0 g1z0.myinstructus.com
-0.0.0.0 www.g1z0.myinstructus.com
 0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gabanmalls.com
 0.0.0.0 www.gabanmalls.com
@@ -673,6 +674,8 @@
 0.0.0.0 store.gearclover.com
 0.0.0.0 gearhomies.com
 0.0.0.0 www.gearhomies.com
+0.0.0.0 gearhuman.com
+0.0.0.0 www.gearhuman.com
 0.0.0.0 gearstastic.com
 0.0.0.0 www.gearstastic.com
 0.0.0.0 gearstastics.com
@@ -732,9 +735,6 @@
 0.0.0.0 h5.vjrniqwekq.com
 0.0.0.0 www.h5.vjrniqwekq.com
 0.0.0.0 store.h5.vjrniqwekq.com
-0.0.0.0 haceroberomaste.com
-0.0.0.0 www.haceroberomaste.com
-0.0.0.0 store.haceroberomaste.com
 0.0.0.0 hairyfy.com
 0.0.0.0 www.hairyfy.com
 0.0.0.0 haowei.me
@@ -843,6 +843,7 @@
 0.0.0.0 store.jellystores.com
 0.0.0.0 jfmovingstorage.com
 0.0.0.0 www.jfmovingstorage.com
+0.0.0.0 store.jfmovingstorage.com
 0.0.0.0 jne-express.my.id
 0.0.0.0 www.jne-express.my.id
 0.0.0.0 join2musk.com
@@ -1080,8 +1081,6 @@
 0.0.0.0 mononus.com
 0.0.0.0 www.mononus.com
 0.0.0.0 store.mononus.com
-0.0.0.0 morlyes.com
-0.0.0.0 www.morlyes.com
 0.0.0.0 motovinreports.com
 0.0.0.0 www.motovinreports.com
 0.0.0.0 msl-cf.id
@@ -1146,6 +1145,8 @@
 0.0.0.0 newoutdoorsale.com
 0.0.0.0 www.newoutdoorsale.com
 0.0.0.0 www.ngreditinaja.top
+0.0.0.0 nicelegant.com
+0.0.0.0 www.nicelegant.com
 0.0.0.0 niche3d.us
 0.0.0.0 www.niche3d.us
 0.0.0.0 nikebutikks.com
@@ -1180,9 +1181,6 @@
 0.0.0.0 www.nxtgenerator.top
 0.0.0.0 nynextlevel.com
 0.0.0.0 www.nynextlevel.com
-0.0.0.0 nze0xw.haceroberomaste.com
-0.0.0.0 www.nze0xw.haceroberomaste.com
-0.0.0.0 store.nze0xw.haceroberomaste.com
 0.0.0.0 oablages.org.br
 0.0.0.0 www.oablages.org.br
 0.0.0.0 www.ocadopartner.com
@@ -1217,6 +1215,8 @@
 0.0.0.0 onlinekohler.com
 0.0.0.0 www.onlinekohler.com
 0.0.0.0 onlinestores.factorysale2023.com
+0.0.0.0 onlyfanstake.pro
+0.0.0.0 www.onlyfanstake.pro
 0.0.0.0 onrunningshop.com
 0.0.0.0 www.onrunningshop.com
 0.0.0.0 onthereelpros.com
@@ -1273,7 +1273,6 @@
 0.0.0.0 www.perlatoshoe.com
 0.0.0.0 personal84.com
 0.0.0.0 www.personal84.com
-0.0.0.0 store.personal84.com
 0.0.0.0 pertinacious-assemblage.com
 0.0.0.0 www.pertinacious-assemblage.com
 0.0.0.0 petsimulator.live
@@ -1418,6 +1417,7 @@
 0.0.0.0 www.royalkingsmail.co.uk
 0.0.0.0 rptbaa.shop
 0.0.0.0 www.rptbaa.shop
+0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 www.rsaonlinenow.com.au
 0.0.0.0 store.rsaonlinenow.com.au
 0.0.0.0 rupiahlagi.com
@@ -1683,7 +1683,7 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
-0.0.0.0 store.tesla-openai.com
+0.0.0.0 tesla-openai.com
 0.0.0.0 teslabrc.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
@@ -1866,7 +1866,7 @@
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 store.verfun.com
-0.0.0.0 www.vetoro.cc
+0.0.0.0 vetoro.cc
 0.0.0.0 store.vetoro.cc
 0.0.0.0 viberman.com
 0.0.0.0 vicidola.com

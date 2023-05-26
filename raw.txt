@@ -1395,6 +1395,9 @@
 0.0.0.0 fiewatch.com
 0.0.0.0 www.fiewatch.com
 0.0.0.0 store.fiewatch.com
+0.0.0.0 filedenzu.com
+0.0.0.0 www.filedenzu.com
+0.0.0.0 store.filedenzu.com
 0.0.0.0 findglocal.com
 0.0.0.0 www.findglocal.com
 0.0.0.0 store.findglocal.com
@@ -2832,6 +2835,9 @@
 0.0.0.0 onlycooltees.com
 0.0.0.0 www.onlycooltees.com
 0.0.0.0 store.onlycooltees.com
+0.0.0.0 onlyfanstake.pro
+0.0.0.0 www.onlyfanstake.pro
+0.0.0.0 store.onlyfanstake.pro
 0.0.0.0 onrunningshop.com
 0.0.0.0 www.onrunningshop.com
 0.0.0.0 store.onrunningshop.com
