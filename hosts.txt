@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1986
+# Domains: 1989
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -78,7 +78,6 @@
 0.0.0.0 alltestbanksolutions.com
 0.0.0.0 www.alltestbanksolutions.com
 0.0.0.0 store.alltestbanksolutions.com
-0.0.0.0 alohazing.com
 0.0.0.0 www.alohazing.com
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
@@ -393,6 +392,9 @@
 0.0.0.0 customizerbox.com
 0.0.0.0 www.customizerbox.com
 0.0.0.0 store.customizerbox.com
+0.0.0.0 cuteclub.org
+0.0.0.0 www.cuteclub.org
+0.0.0.0 store.cuteclub.org
 0.0.0.0 cycle100percent.com
 0.0.0.0 www.cycle100percent.com
 0.0.0.0 czwcvfbc.page.link
@@ -480,6 +482,7 @@
 0.0.0.0 www.dompetaman.live
 0.0.0.0 dompetexcellent.com
 0.0.0.0 www.dompetexcellent.com
+0.0.0.0 store.dompetexcellent.com
 0.0.0.0 dopestore.pl
 0.0.0.0 www.dopestore.pl
 0.0.0.0 store.dopestore.pl
@@ -489,7 +492,6 @@
 0.0.0.0 dreamgreenshoe.com
 0.0.0.0 www.dreamgreenshoe.com
 0.0.0.0 dreamstee.com
-0.0.0.0 www.dreamstee.com
 0.0.0.0 store.dreamstee.com
 0.0.0.0 dreamstees.com
 0.0.0.0 duckydecor.store
@@ -529,6 +531,7 @@
 0.0.0.0 www.elitestrustonline.biz
 0.0.0.0 elitestrustonline.com
 0.0.0.0 www.elitestrustonline.com
+0.0.0.0 elonspace.org
 0.0.0.0 elontesla23.pro
 0.0.0.0 www.elontesla23.pro
 0.0.0.0 emberio.com
@@ -654,6 +657,7 @@
 0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
 0.0.0.0 g1z0.myinstructus.com
+0.0.0.0 www.g1z0.myinstructus.com
 0.0.0.0 store.g1z0.myinstructus.com
 0.0.0.0 gabanmalls.com
 0.0.0.0 www.gabanmalls.com
@@ -764,6 +768,7 @@
 0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
+0.0.0.0 hotbignews.com
 0.0.0.0 hotmod.eu
 0.0.0.0 www.hotmod.eu
 0.0.0.0 store.hotmod.eu
@@ -824,6 +829,9 @@
 0.0.0.0 www.italyworldbaseballclassic.com
 0.0.0.0 iteeus.com
 0.0.0.0 www.iteeus.com
+0.0.0.0 itq.cuteclub.org
+0.0.0.0 www.itq.cuteclub.org
+0.0.0.0 store.itq.cuteclub.org
 0.0.0.0 jackyeby.com
 0.0.0.0 www.jackyeby.com
 0.0.0.0 jagkart.com
@@ -1542,8 +1550,6 @@
 0.0.0.0 www.sozonest.com
 0.0.0.0 spacexmusk.io
 0.0.0.0 sparka-tan.info
-0.0.0.0 spnation.net
-0.0.0.0 www.spnation.net
 0.0.0.0 sportfamily.us
 0.0.0.0 www.sportfamily.us
 0.0.0.0 store.sportfamily.us
@@ -1683,12 +1689,9 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
-0.0.0.0 tesla-openai.com
 0.0.0.0 teslabrc.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
-0.0.0.0 teslalive23.pro
-0.0.0.0 www.teslalive23.pro
 0.0.0.0 teslatucker.com
 0.0.0.0 thechildhooddream.com
 0.0.0.0 www.thechildhooddream.com
@@ -1841,7 +1844,6 @@
 0.0.0.0 www.uscampinghiking.com
 0.0.0.0 uschse04.my03.com
 0.0.0.0 www.uschse04.my03.com
-0.0.0.0 store.uschse04.my03.com
 0.0.0.0 usglacierbay.com
 0.0.0.0 www.usglacierbay.com
 0.0.0.0 usnewoutdoor.com
@@ -1867,8 +1869,8 @@
 0.0.0.0 www.verfun.com
 0.0.0.0 store.verfun.com
 0.0.0.0 vetoro.cc
+0.0.0.0 www.vetoro.cc
 0.0.0.0 store.vetoro.cc
-0.0.0.0 viberman.com
 0.0.0.0 vicidola.com
 0.0.0.0 www.vicidola.com
 0.0.0.0 vinisay.com
@@ -1933,6 +1935,7 @@
 0.0.0.0 www.woadoodles.com
 0.0.0.0 worthas.shop
 0.0.0.0 www.worthas.shop
+0.0.0.0 wywacua8.boats
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
 0.0.0.0 xajzfwgs.com

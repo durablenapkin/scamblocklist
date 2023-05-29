@@ -921,6 +921,9 @@
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
 0.0.0.0 store.customurink.com
+0.0.0.0 cuteclub.org
+0.0.0.0 www.cuteclub.org
+0.0.0.0 store.cuteclub.org
 0.0.0.0 cycle100percent.com
 0.0.0.0 www.cycle100percent.com
 0.0.0.0 store.cycle100percent.com
@@ -1224,6 +1227,9 @@
 0.0.0.0 elonmusk2x.org
 0.0.0.0 www.elonmusk2x.org
 0.0.0.0 store.elonmusk2x.org
+0.0.0.0 elonspace.org
+0.0.0.0 www.elonspace.org
+0.0.0.0 store.elonspace.org
 0.0.0.0 elontesla23.pro
 0.0.0.0 www.elontesla23.pro
 0.0.0.0 store.elontesla23.pro
@@ -1821,6 +1827,9 @@
 0.0.0.0 horizonbagel.com
 0.0.0.0 www.horizonbagel.com
 0.0.0.0 store.horizonbagel.com
+0.0.0.0 hotbignews.com
+0.0.0.0 www.hotbignews.com
+0.0.0.0 store.hotbignews.com
 0.0.0.0 hotmod.eu
 0.0.0.0 www.hotmod.eu
 0.0.0.0 store.hotmod.eu
@@ -1911,6 +1920,9 @@
 0.0.0.0 iteeus.com
 0.0.0.0 www.iteeus.com
 0.0.0.0 store.iteeus.com
+0.0.0.0 itq.cuteclub.org
+0.0.0.0 www.itq.cuteclub.org
+0.0.0.0 store.itq.cuteclub.org
 0.0.0.0 itsthetrendydealstore.com
 0.0.0.0 www.itsthetrendydealstore.com
 0.0.0.0 store.itsthetrendydealstore.com
@@ -4650,6 +4662,9 @@
 0.0.0.0 wyj.primajaya-adv.com
 0.0.0.0 www.wyj.primajaya-adv.com
 0.0.0.0 store.wyj.primajaya-adv.com
+0.0.0.0 wywacua8.boats
+0.0.0.0 www.wywacua8.boats
+0.0.0.0 store.wywacua8.boats
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
 0.0.0.0 store.x2-promo.net
