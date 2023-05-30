@@ -1224,6 +1224,9 @@
 0.0.0.0 elonlive2x.com
 0.0.0.0 www.elonlive2x.com
 0.0.0.0 store.elonlive2x.com
+0.0.0.0 elonmix.org
+0.0.0.0 www.elonmix.org
+0.0.0.0 store.elonmix.org
 0.0.0.0 elonmusk2x.org
 0.0.0.0 www.elonmusk2x.org
 0.0.0.0 store.elonmusk2x.org
@@ -2559,9 +2562,15 @@
 0.0.0.0 muskai.net
 0.0.0.0 www.muskai.net
 0.0.0.0 store.muskai.net
+0.0.0.0 muskbot.io
+0.0.0.0 www.muskbot.io
+0.0.0.0 store.muskbot.io
 0.0.0.0 muskbtc.io
 0.0.0.0 www.muskbtc.io
 0.0.0.0 store.muskbtc.io
+0.0.0.0 musklink.org
+0.0.0.0 www.musklink.org
+0.0.0.0 store.musklink.org
 0.0.0.0 muskweb.net
 0.0.0.0 www.muskweb.net
 0.0.0.0 store.muskweb.net

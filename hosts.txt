@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1989
+# Domains: 1993
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -78,6 +78,7 @@
 0.0.0.0 alltestbanksolutions.com
 0.0.0.0 www.alltestbanksolutions.com
 0.0.0.0 store.alltestbanksolutions.com
+0.0.0.0 alohazing.com
 0.0.0.0 www.alohazing.com
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
@@ -492,6 +493,7 @@
 0.0.0.0 dreamgreenshoe.com
 0.0.0.0 www.dreamgreenshoe.com
 0.0.0.0 dreamstee.com
+0.0.0.0 www.dreamstee.com
 0.0.0.0 store.dreamstee.com
 0.0.0.0 dreamstees.com
 0.0.0.0 duckydecor.store
@@ -531,6 +533,8 @@
 0.0.0.0 www.elitestrustonline.biz
 0.0.0.0 elitestrustonline.com
 0.0.0.0 www.elitestrustonline.com
+0.0.0.0 elonmix.org
+0.0.0.0 www.elonmix.org
 0.0.0.0 elonspace.org
 0.0.0.0 elontesla23.pro
 0.0.0.0 www.elontesla23.pro
@@ -673,9 +677,6 @@
 0.0.0.0 www.gearanime.com
 0.0.0.0 gearathena.com
 0.0.0.0 www.gearathena.com
-0.0.0.0 gearclover.com
-0.0.0.0 www.gearclover.com
-0.0.0.0 store.gearclover.com
 0.0.0.0 gearhomies.com
 0.0.0.0 www.gearhomies.com
 0.0.0.0 gearhuman.com
@@ -854,8 +855,6 @@
 0.0.0.0 store.jfmovingstorage.com
 0.0.0.0 jne-express.my.id
 0.0.0.0 www.jne-express.my.id
-0.0.0.0 join2musk.com
-0.0.0.0 www.join2musk.com
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 jonausa.com
@@ -1100,7 +1099,9 @@
 0.0.0.0 musk-aigpt.com
 0.0.0.0 www.musk-aigpt.com
 0.0.0.0 muskai.net
+0.0.0.0 muskbot.io
 0.0.0.0 muskbtc.io
+0.0.0.0 musklink.org
 0.0.0.0 muthaafoundation.org
 0.0.0.0 www.muthaafoundation.org
 0.0.0.0 mybestautologin567.com
@@ -1253,6 +1254,8 @@
 0.0.0.0 www.outdoorwintersports.com
 0.0.0.0 outlet-alfresco.com
 0.0.0.0 www.outlet-alfresco.com
+0.0.0.0 owlala.com
+0.0.0.0 www.owlala.com
 0.0.0.0 paintitblackfurniture.com
 0.0.0.0 www.paintitblackfurniture.com
 0.0.0.0 pairmate.se
@@ -1469,7 +1472,6 @@
 0.0.0.0 www.sellfox.com
 0.0.0.0 sentees.com
 0.0.0.0 www.sentees.com
-0.0.0.0 store.sentees.com
 0.0.0.0 serengetidiscount.com
 0.0.0.0 www.serengetidiscount.com
 0.0.0.0 shapeden.com
@@ -1689,6 +1691,8 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
+0.0.0.0 tesla-openai.com
+0.0.0.0 www.tesla-openai.com
 0.0.0.0 teslabrc.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
@@ -1844,6 +1848,7 @@
 0.0.0.0 www.uscampinghiking.com
 0.0.0.0 uschse04.my03.com
 0.0.0.0 www.uschse04.my03.com
+0.0.0.0 store.uschse04.my03.com
 0.0.0.0 usglacierbay.com
 0.0.0.0 www.usglacierbay.com
 0.0.0.0 usnewoutdoor.com
@@ -1939,7 +1944,6 @@
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
 0.0.0.0 xajzfwgs.com
-0.0.0.0 www.xajzfwgs.com
 0.0.0.0 xrp-give.pro
 0.0.0.0 www.xrp-give.pro
 0.0.0.0 xunlei.it
