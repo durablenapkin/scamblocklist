@@ -163,6 +163,7 @@
 ||cocgt.top^
 ||coco-vip-shop.com^
 ||cocumbertee.com^
+||cofdeal.com^
 ||coffeeteaware.com^
 ||coinstoretra.com^
 ||colorandcotton.com^
@@ -306,7 +307,6 @@
 ||frostgoddess.com^
 ||fruitstee.com^
 ||fujibikes.com^
-||fulfillgift.com^
 ||fumekart.com^
 ||fundanemt.org^
 ||fundcash.id^
@@ -376,6 +376,7 @@
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
+||improtants.space^
 ||infinityto.com^
 ||injustice.site^
 ||innewstyle.com^
@@ -392,6 +393,7 @@
 ||jackyeby.com^
 ||jagkart.com^
 ||jaimerico.net^
+||jakedstake.com^
 ||jakkesalgs.com^
 ||jakkesnorge.com^
 ||januashop.com^
@@ -416,7 +418,6 @@
 ||kingteestore.com^
 ||kitchendecor.shop^
 ||kleankanteenbottle.com^
-||kneel-offers.com^
 ||knightmods.com^
 ||kohlerofficial.com^
 ||kontribusiuang.top^
@@ -798,7 +799,6 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -848,7 +848,6 @@
 ||tukeraja.store^
 ||tulumwellnessacademy.com^
 ||tunaicair.com^
-||tunairupiah.xyz^
 ||turnnetwor.com^
 ||twiiiter.com^
 ||twinsbio.com^

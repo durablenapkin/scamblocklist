@@ -1884,6 +1884,9 @@
 0.0.0.0 imlb2c.com
 0.0.0.0 www.imlb2c.com
 0.0.0.0 store.imlb2c.com
+0.0.0.0 improtants.space
+0.0.0.0 www.improtants.space
+0.0.0.0 store.improtants.space
 0.0.0.0 infinityto.com
 0.0.0.0 www.infinityto.com
 0.0.0.0 store.infinityto.com
@@ -1938,6 +1941,9 @@
 0.0.0.0 jaimerico.net
 0.0.0.0 www.jaimerico.net
 0.0.0.0 store.jaimerico.net
+0.0.0.0 jakedstake.com
+0.0.0.0 www.jakedstake.com
+0.0.0.0 store.jakedstake.com
 0.0.0.0 jakkesalgs.com
 0.0.0.0 www.jakkesalgs.com
 0.0.0.0 store.jakkesalgs.com

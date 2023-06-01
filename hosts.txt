@@ -339,6 +339,8 @@
 0.0.0.0 cocumbertee.com
 0.0.0.0 www.cocumbertee.com
 0.0.0.0 store.cocumbertee.com
+0.0.0.0 cofdeal.com
+0.0.0.0 www.cofdeal.com
 0.0.0.0 coffeeteaware.com
 0.0.0.0 www.coffeeteaware.com
 0.0.0.0 coinstoretra.com
@@ -640,8 +642,6 @@
 0.0.0.0 www.fruitstee.com
 0.0.0.0 fujibikes.com
 0.0.0.0 www.fujibikes.com
-0.0.0.0 fulfillgift.com
-0.0.0.0 www.fulfillgift.com
 0.0.0.0 fumekart.com
 0.0.0.0 www.fumekart.com
 0.0.0.0 fundanemt.org
@@ -793,6 +793,7 @@
 0.0.0.0 www.imagemotorcycles.co.nz
 0.0.0.0 imlb2c.com
 0.0.0.0 www.imlb2c.com
+0.0.0.0 improtants.space
 0.0.0.0 infinityto.com
 0.0.0.0 www.infinityto.com
 0.0.0.0 store.infinityto.com
@@ -830,6 +831,9 @@
 0.0.0.0 www.jagkart.com
 0.0.0.0 jaimerico.net
 0.0.0.0 www.jaimerico.net
+0.0.0.0 jakedstake.com
+0.0.0.0 www.jakedstake.com
+0.0.0.0 store.jakedstake.com
 0.0.0.0 jakkesalgs.com
 0.0.0.0 www.jakkesalgs.com
 0.0.0.0 jakkesnorge.com
@@ -883,7 +887,6 @@
 0.0.0.0 kitchendecor.shop
 0.0.0.0 kleankanteenbottle.com
 0.0.0.0 www.kleankanteenbottle.com
-0.0.0.0 kneel-offers.com
 0.0.0.0 knightmods.com
 0.0.0.0 www.knightmods.com
 0.0.0.0 kohlerofficial.com
@@ -1117,6 +1120,7 @@
 0.0.0.0 www.nanistores.com
 0.0.0.0 store.nanistores.com
 0.0.0.0 nanoweb3-rarityledgertech.com
+0.0.0.0 www.nanoweb3-rarityledgertech.com
 0.0.0.0 natilove.com
 0.0.0.0 www.natilove.com
 0.0.0.0 store.natilove.com
@@ -1446,6 +1450,7 @@
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
+0.0.0.0 sayhellorugs.com
 0.0.0.0 www.sayhellorugs.com
 0.0.0.0 store.sayhellorugs.com
 0.0.0.0 scarpaoutlet.com
@@ -1559,6 +1564,7 @@
 0.0.0.0 startuplatte.com
 0.0.0.0 www.startuplatte.com
 0.0.0.0 store.startuplatte.com
+0.0.0.0 stealthhorizonshipping.com
 0.0.0.0 www.stealthhorizonshipping.com
 0.0.0.0 steamgateways.com
 0.0.0.0 www.steamgateways.com
@@ -1678,8 +1684,6 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
-0.0.0.0 tesla-openai.com
-0.0.0.0 www.tesla-openai.com
 0.0.0.0 teslabrc.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
@@ -1779,9 +1783,6 @@
 0.0.0.0 tulumwellnessacademy.com
 0.0.0.0 www.tulumwellnessacademy.com
 0.0.0.0 www.tunaicair.com
-0.0.0.0 tunairupiah.xyz
-0.0.0.0 www.tunairupiah.xyz
-0.0.0.0 store.tunairupiah.xyz
 0.0.0.0 turnnetwor.com
 0.0.0.0 www.turnnetwor.com
 0.0.0.0 twiiiter.com
@@ -1860,7 +1861,6 @@
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 store.verfun.com
-0.0.0.0 vetoro.cc
 0.0.0.0 www.vetoro.cc
 0.0.0.0 store.vetoro.cc
 0.0.0.0 vicidola.com
