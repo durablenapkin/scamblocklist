@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1978
+# Domains: 1986
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -27,6 +27,9 @@
 0.0.0.0 abncbp.com
 0.0.0.0 www.abncbp.com
 0.0.0.0 accfiverif.com
+0.0.0.0 acquatee.com
+0.0.0.0 www.acquatee.com
+0.0.0.0 store.acquatee.com
 0.0.0.0 address.uspostalservice11.d74r.co
 0.0.0.0 www.address.uspostalservice11.d74r.co
 0.0.0.0 store.address.uspostalservice11.d74r.co
@@ -98,6 +101,7 @@
 0.0.0.0 www.anydebrid.com
 0.0.0.0 aoocib.com
 0.0.0.0 www.aoocib.com
+0.0.0.0 apple.enablemyidservices.com
 0.0.0.0 applydiraadd.com
 0.0.0.0 ariatwear.online
 0.0.0.0 www.ariatwear.online
@@ -123,6 +127,7 @@
 0.0.0.0 www.audiosg.com.sg
 0.0.0.0 augusthenri.be
 0.0.0.0 www.augusthenri.be
+0.0.0.0 auspost.your-redelivery-au.com
 0.0.0.0 aussiesportfashion.com
 0.0.0.0 www.aussiesportfashion.com
 0.0.0.0 azfancy.com
@@ -399,9 +404,6 @@
 0.0.0.0 dailygiftstore.com
 0.0.0.0 www.dailygiftstore.com
 0.0.0.0 store.dailygiftstore.com
-0.0.0.0 danaaman.xyz
-0.0.0.0 www.danaaman.xyz
-0.0.0.0 store.danaaman.xyz
 0.0.0.0 www.danadarurat.net
 0.0.0.0 danapintar.club
 0.0.0.0 www.danapintar.club
@@ -735,9 +737,6 @@
 0.0.0.0 www.hairyfy.com
 0.0.0.0 haowei.me
 0.0.0.0 www.haowei.me
-0.0.0.0 haruko.store
-0.0.0.0 www.haruko.store
-0.0.0.0 store.haruko.store
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 www.headsets4business.co.uk
 0.0.0.0 helgaz.com
@@ -1270,6 +1269,9 @@
 0.0.0.0 www.paypartc.top
 0.0.0.0 paypays.shop
 0.0.0.0 www.paypays.shop
+0.0.0.0 pearstee.com
+0.0.0.0 www.pearstee.com
+0.0.0.0 store.pearstee.com
 0.0.0.0 penguinnow.com
 0.0.0.0 www.penguinnow.com
 0.0.0.0 peppatees.com
@@ -1612,6 +1614,9 @@
 0.0.0.0 www.storeskiwear.com
 0.0.0.0 storesp.com
 0.0.0.0 www.storesp.com
+0.0.0.0 streamloot.co
+0.0.0.0 www.streamloot.co
+0.0.0.0 store.streamloot.co
 0.0.0.0 stunningstuffs.com
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 stylegift.co.uk
@@ -1684,6 +1689,8 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
+0.0.0.0 tesla-openai.com
+0.0.0.0 www.tesla-openai.com
 0.0.0.0 teslabrc.com
 0.0.0.0 teslacar.io
 0.0.0.0 teslagive.live
@@ -1861,6 +1868,7 @@
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 store.verfun.com
+0.0.0.0 vetoro.cc
 0.0.0.0 www.vetoro.cc
 0.0.0.0 store.vetoro.cc
 0.0.0.0 vicidola.com
