@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1981
+# Domains: 1974
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -69,9 +69,6 @@
 0.0.0.0 www.alapeay.com
 0.0.0.0 aldofashion.com
 0.0.0.0 www.aldofashion.com
-0.0.0.0 aliseshop.com
-0.0.0.0 www.aliseshop.com
-0.0.0.0 store.aliseshop.com
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 www.aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 store.aliyaoberbrunnergreg21.myshopify.com
@@ -1093,9 +1090,6 @@
 0.0.0.0 mybestautologin567.com
 0.0.0.0 www.mybestautologin567.com
 0.0.0.0 store.mybestautologin567.com
-0.0.0.0 mycraftypad.com
-0.0.0.0 www.mycraftypad.com
-0.0.0.0 store.mycraftypad.com
 0.0.0.0 myfunfarm.com
 0.0.0.0 www.myfunfarm.com
 0.0.0.0 myhandshops.myshopify.com
@@ -1838,7 +1832,6 @@
 0.0.0.0 www.uscampinghiking.com
 0.0.0.0 uschse04.my03.com
 0.0.0.0 www.uschse04.my03.com
-0.0.0.0 store.uschse04.my03.com
 0.0.0.0 usglacierbay.com
 0.0.0.0 www.usglacierbay.com
 0.0.0.0 usnewoutdoor.com
