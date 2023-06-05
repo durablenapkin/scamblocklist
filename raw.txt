@@ -1116,6 +1116,9 @@
 0.0.0.0 dpsio.ink
 0.0.0.0 www.dpsio.ink
 0.0.0.0 store.dpsio.ink
+0.0.0.0 dr-farfar.com
+0.0.0.0 www.dr-farfar.com
+0.0.0.0 store.dr-farfar.com
 0.0.0.0 drakternorge.com
 0.0.0.0 www.drakternorge.com
 0.0.0.0 store.drakternorge.com

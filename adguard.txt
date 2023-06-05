@@ -233,6 +233,7 @@
 ||dompetaman.live^
 ||dompetexcellent.com^
 ||dopestore.pl^
+||dr-farfar.com^
 ||draxu.com^
 ||dreamgreenshoe.com^
 ||dreamstee.com^
@@ -803,7 +804,6 @@
 ||teslacar.io^
 ||teslagive.live^
 ||teslatucker.com^
-||thechildhooddream.com^
 ||thecycleshoes.com^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
@@ -893,7 +893,6 @@
 ||visoedifica.com^
 ||vkeys.online^
 ||volcomofficial.com^
-||vvebwizard.com^
 ||wadahlapak.top^
 ||walkinshoe.com^
 ||walmartchina.top^
