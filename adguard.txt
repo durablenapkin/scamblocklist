@@ -591,7 +591,6 @@
 ||outlet-alfresco.com^
 ||owlala.com^
 ||paintitblackfurniture.com^
-||pairmate.se^
 ||pandzee.com^
 ||parajumperssalg.com^
 ||parisiporlin-ktki.kemkes.go.id^
@@ -923,7 +922,6 @@
 ||yeezysofficial.us.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
-||ygtube.xyz^
 ||yofi-yofi.com^
 ||yoli.my.id^
 ||youthfy.shop^
