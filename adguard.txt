@@ -591,6 +591,7 @@
 ||outlet-alfresco.com^
 ||owlala.com^
 ||paintitblackfurniture.com^
+||pairmate.se^
 ||pandzee.com^
 ||parajumperssalg.com^
 ||parisiporlin-ktki.kemkes.go.id^
@@ -600,7 +601,6 @@
 ||path2zillion.com^
 ||paypartc.top^
 ||paypays.shop^
-||pearstee.com^
 ||penguinnow.com^
 ||peppatees.com^
 ||perlatoshoe.com^
@@ -678,7 +678,6 @@
 ||rsaonlinenow.com.au^
 ||rupiahlagi.com^
 ||rupiahpetiroiuy.xyz^
-||rupiahsaku.com^
 ||ryanurabonpitbullpuppies.com^
 ||salealfresco.com^
 ||salejimshore.com^
@@ -901,7 +900,6 @@
 ||watchmark.shop^
 ||wavetshirt.com^
 ||wbebellmail.z13.web.core.windows.net^
-||weheartitstore.com^
 ||werfew.com^
 ||westernhats.net^
 ||wezpod.com^
