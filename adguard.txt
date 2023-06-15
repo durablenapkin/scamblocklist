@@ -451,6 +451,7 @@
 ||liverepsae.adeftsolutions.com^
 ||loepwatch.com^
 ||lojaacasa.com.br^
+||lomipod.com^
 ||lomoor.com^
 ||look-like-star.myshopify.com^
 ||lootcrate.com^
@@ -562,7 +563,6 @@
 ||ogogear.com^
 ||olaoffer.shop^
 ||oldcube.com^
-||oncloudrun.shop^
 ||oneparttimejob.com^
 ||onlineadid.com^
 ||onlinehome.us^
@@ -788,7 +788,6 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
