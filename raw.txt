@@ -513,6 +513,9 @@
 0.0.0.0 booliving.com
 0.0.0.0 www.booliving.com
 0.0.0.0 store.booliving.com
+0.0.0.0 boooodas.com
+0.0.0.0 www.boooodas.com
+0.0.0.0 store.boooodas.com
 0.0.0.0 boostrobux.com
 0.0.0.0 www.boostrobux.com
 0.0.0.0 store.boostrobux.com
@@ -1518,6 +1521,9 @@
 0.0.0.0 fshop688.com
 0.0.0.0 www.fshop688.com
 0.0.0.0 store.fshop688.com
+0.0.0.0 fuckmebaby.click
+0.0.0.0 www.fuckmebaby.click
+0.0.0.0 store.fuckmebaby.click
 0.0.0.0 fuhos.us
 0.0.0.0 www.fuhos.us
 0.0.0.0 store.fuhos.us
@@ -2346,6 +2352,9 @@
 0.0.0.0 luzyfran.com
 0.0.0.0 www.luzyfran.com
 0.0.0.0 store.luzyfran.com
+0.0.0.0 m-contact.site
+0.0.0.0 www.m-contact.site
+0.0.0.0 store.m-contact.site
 0.0.0.0 m.bpfutures.top
 0.0.0.0 www.m.bpfutures.top
 0.0.0.0 store.m.bpfutures.top
@@ -4557,6 +4566,9 @@
 0.0.0.0 vip-yuki-shop.com
 0.0.0.0 www.vip-yuki-shop.com
 0.0.0.0 store.vip-yuki-shop.com
+0.0.0.0 vipdeit.com
+0.0.0.0 www.vipdeit.com
+0.0.0.0 store.vipdeit.com
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 www.vipticketgiveaway.com
 0.0.0.0 store.vipticketgiveaway.com
