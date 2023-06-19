@@ -107,7 +107,6 @@
 ||bombardina.pl^
 ||bonrbox.com^
 ||boobeeshop.com^
-||boododa.com^
 ||bookblogworld.com^
 ||booliving.com^
 ||boooodas.com^
@@ -604,6 +603,7 @@
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
+||pickcheaptee.com^
 ||pictureoutdoor.com^
 ||pinjamanduit.lol^
 ||pinjamanelit.top^
