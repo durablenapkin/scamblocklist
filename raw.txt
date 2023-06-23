@@ -783,6 +783,9 @@
 0.0.0.0 coffeeteaware.com
 0.0.0.0 www.coffeeteaware.com
 0.0.0.0 store.coffeeteaware.com
+0.0.0.0 coinaps.com
+0.0.0.0 www.coinaps.com
+0.0.0.0 store.coinaps.com
 0.0.0.0 coinstoretra.com
 0.0.0.0 www.coinstoretra.com
 0.0.0.0 store.coinstoretra.com
