@@ -114,7 +114,6 @@
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
 ||brightonmover.com^
-||btc9339.com^
 ||buddhakind.com^
 ||budm.shop^
 ||burgershirt.com^
@@ -786,6 +785,7 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
