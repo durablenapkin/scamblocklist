@@ -114,6 +114,7 @@
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
 ||brightonmover.com^
+||btc9339.com^
 ||buddhakind.com^
 ||budm.shop^
 ||burgershirt.com^
@@ -253,6 +254,7 @@
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
 ||ercnnier.com^
+||esl-gaming.com^
 ||eudoraz.com^
 ||eudshop.shop^
 ||everythingkitchens.com^
@@ -773,7 +775,6 @@
 ||talentmaster.bio^
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
-||tbg-lmtd.com^
 ||tdgrop168.vip^
 ||tdsintegrations11.online^
 ||tee24h.com^
