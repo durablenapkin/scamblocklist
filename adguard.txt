@@ -387,6 +387,7 @@
 ||jackyeby.com^
 ||jagkart.com^
 ||jaimerico.net^
+||jakedstake.com^
 ||jakkesalgs.com^
 ||jakkesnorge.com^
 ||januashop.com^
@@ -786,6 +787,7 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -817,7 +819,6 @@
 ||tomadamsenergy.com^
 ||tomfordgo.com^
 ||toolmartin.com^
-||topsdiy.com^
 ||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
