@@ -66,6 +66,7 @@
 ||auspost.your-redelivery-au.com^
 ||aussiesportfashion.com^
 ||azfancy.com^
+||azitecs.com^
 ||azuretipsandtrick101.z13.web.core.windows.net^
 ||azvclothing.com^
 ||babybeddingdesign.com^
@@ -186,6 +187,7 @@
 ||csgamingzone.com^
 ||csmoney.trade^
 ||customizerbox.com^
+||customurink.com^
 ||cycle100percent.com^
 ||czwcvfbc.page.link^
 ||dailygiftstore.com^
@@ -259,7 +261,6 @@
 ||eudshop.shop^
 ||everythingkitchens.com^
 ||eviralstore.com^
-||expertrader.me^
 ||expofstore.com^
 ||expressmovers.com^
 ||familybakery.xyz^
@@ -396,7 +397,6 @@
 ||jfmovingstorage.com^
 ||jne-express.my.id^
 ||jollyfamilygifts.net^
-||jonausa.com^
 ||justdy.shop^
 ||kakaoli.co.kr^
 ||kakaopv.co.kr^
