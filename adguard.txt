@@ -503,7 +503,6 @@
 ||miuprints.com^
 ||mizunsports.com^
 ||mmmjemp.cn^
-||modernusfemale.com^
 ||modmobile24.com^
 ||monark-store.com^
 ||moneymm1688.shop^
@@ -788,7 +787,6 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
