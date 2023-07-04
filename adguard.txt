@@ -47,7 +47,6 @@
 ||amcclothes.com^
 ||amznshirts.com^
 ||andamente.pt^
-||animeshoppers.com^
 ||anydebrid.com^
 ||aoocib.com^
 ||apple.enablemyidservices.com^
@@ -149,6 +148,7 @@
 ||chikepod.com^
 ||chipcy.com^
 ||chipteeamz.com^
+||cinela.us^
 ||cipustar.com^
 ||cition.info^
 ||cityofdream.co.uk^
@@ -527,6 +527,7 @@
 ||nanoweb3-rarityledgertech.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
+||natistore.us^
 ||nbdiscount.com^
 ||negotiatefoam.cn^
 ||neozor.com^
@@ -867,6 +868,7 @@
 ||verfun.com^
 ||vetoro.cc^
 ||vicidola.com^
+||vikingstore.co^
 ||vinisay.com^
 ||violayvonne.com^
 ||vip-yuki-shop.com^
