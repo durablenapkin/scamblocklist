@@ -227,7 +227,6 @@
 ||dolomiteoutlet.com^
 ||dolystore.com^
 ||dompetaman.live^
-||dompetexcellent.com^
 ||dopestore.pl^
 ||dr-farfar.com^
 ||draxu.com^
@@ -395,7 +394,6 @@
 ||januashop.com^
 ||jellyfishstat.live^
 ||jellystores.com^
-||jfmovingstorage.com^
 ||jne-express.my.id^
 ||jollyfamilygifts.net^
 ||jonausa.com^
@@ -569,7 +567,6 @@
 ||onlineadid.com^
 ||onlinehome.us^
 ||onlinekohler.com^
-||onlinestores.factorysale2023.com^
 ||onlyfanstake.pro^
 ||onrunningshop.com^
 ||onthereelpros.com^
@@ -702,7 +699,6 @@
 ||shopusawarehouse.com^
 ||shopyourturn.com^
 ||showapparels.com^
-||si.factorysale2023.com^
 ||sigmaoffers.com^
 ||signpify.com^
 ||silverlanetrading.com^
@@ -788,6 +784,7 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
