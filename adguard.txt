@@ -57,7 +57,6 @@
 ||arthoodie.com^
 ||arvetellefsen.no^
 ||assassinfitness.com^
-||astoriajob.com^
 ||atrendsz.com^
 ||attenstyle.com^
 ||audiosg.com.sg^
@@ -166,7 +165,6 @@
 ||coffeeteaware.com^
 ||coinaps.com^
 ||coinstoretra.com^
-||colorandcotton.com^
 ||columbiatopdeals.com^
 ||compoundexotics.com^
 ||cooeedesignshop.com^
@@ -331,7 +329,6 @@
 ||gig-os.com^
 ||gizmopage.com^
 ||gladiadormalas.com.br^
-||glendaz.com^
 ||gllomall.com^
 ||gload.info^
 ||globaldependableshippers.com^
@@ -356,6 +353,7 @@
 ||hernoclothing.com^
 ||hglllshop.com^
 ||hoka-us.com^
+||hollisternorge.com^
 ||home-arabia.com^
 ||homeclassiccollection.com^
 ||hookahheroes.com^
@@ -701,7 +699,6 @@
 ||shopyourturn.com^
 ||showapparels.com^
 ||sigmaoffers.com^
-||signpify.com^
 ||silverlanetrading.com^
 ||skincheap.com^
 ||skipped.vip^
@@ -722,7 +719,6 @@
 ||southernlife.net^
 ||sozonest.com^
 ||spacexmusk.io^
-||sparka-tan.info^
 ||sportfamily.us^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
@@ -760,7 +756,6 @@
 ||successglossary.com^
 ||sugarandpearl.com^
 ||sununi.us^
-||supercutestuff.com^
 ||superfacehoodie.com^
 ||supperbrand.company.site^
 ||supportdelivery3414-ups.com^
