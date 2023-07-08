@@ -165,6 +165,7 @@
 ||coffeeteaware.com^
 ||coinaps.com^
 ||coinstoretra.com^
+||colorandcotton.com^
 ||columbiatopdeals.com^
 ||compoundexotics.com^
 ||cooeedesignshop.com^
@@ -329,6 +330,7 @@
 ||gig-os.com^
 ||gizmopage.com^
 ||gladiadormalas.com.br^
+||glendaz.com^
 ||gllomall.com^
 ||gload.info^
 ||globaldependableshippers.com^
@@ -699,6 +701,7 @@
 ||shopyourturn.com^
 ||showapparels.com^
 ||sigmaoffers.com^
+||signpify.com^
 ||silverlanetrading.com^
 ||skincheap.com^
 ||skipped.vip^
@@ -756,6 +759,7 @@
 ||successglossary.com^
 ||sugarandpearl.com^
 ||sununi.us^
+||supercutestuff.com^
 ||superfacehoodie.com^
 ||supperbrand.company.site^
 ||supportdelivery3414-ups.com^
