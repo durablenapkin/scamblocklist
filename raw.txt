@@ -4791,6 +4791,9 @@
 0.0.0.0 zarodress.com
 0.0.0.0 www.zarodress.com
 0.0.0.0 store.zarodress.com
+0.0.0.0 zat.io
+0.0.0.0 www.zat.io
+0.0.0.0 store.zat.io
 0.0.0.0 zech-company.com
 0.0.0.0 www.zech-company.com
 0.0.0.0 store.zech-company.com
