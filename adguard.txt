@@ -303,6 +303,7 @@
 ||fruitstee.com^
 ||fuckmebaby.click^
 ||fujibikes.com^
+||fulfillgift.com^
 ||fumekart.com^
 ||fundanemt.org^
 ||fundcash.id^
@@ -347,6 +348,7 @@
 ||h5.vjrniqwekq.com^
 ||hairyfy.com^
 ||haowei.me^
+||haruko.store^
 ||headsets4business.co.uk^
 ||helgaz.com^
 ||helpnanacenter.helpscoutdocs.com^
@@ -562,6 +564,7 @@
 ||ogogear.com^
 ||olaoffer.shop^
 ||oldcube.com^
+||oncloudrun.shop^
 ||oneparttimejob.com^
 ||onlineadid.com^
 ||onlinehome.us^
@@ -782,7 +785,6 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
