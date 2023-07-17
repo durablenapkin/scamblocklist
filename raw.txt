@@ -348,6 +348,9 @@
 0.0.0.0 barpasaje.com
 0.0.0.0 www.barpasaje.com
 0.0.0.0 store.barpasaje.com
+0.0.0.0 bcb.game
+0.0.0.0 www.bcb.game
+0.0.0.0 store.bcb.game
 0.0.0.0 bcm8.shop
 0.0.0.0 www.bcm8.shop
 0.0.0.0 store.bcm8.shop
