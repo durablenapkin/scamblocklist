@@ -337,7 +337,6 @@
 ||fundanemt.org^
 ||fundcash.id^
 ||furoshop.com^
-||g1z0.myinstructus.com^
 ||gabanmalls.com^
 ||gamgoing.com^
 ||gamingbuffs.com^
@@ -450,7 +449,6 @@
 ||krediteasypro.com^
 ||krediteksklusif.com^
 ||kreditmudah.shop^
-||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||lasercutjewelry.net^
@@ -458,11 +456,9 @@
 ||ledgerlives.live^
 ||ledgerlivewallets.com^
 ||ledgers.network^
-||legarralazcoz.com^
 ||legendofmen.com^
 ||lemstore.com^
 ||lericettedifrancy74.com^
-||letrantrunghieu.com^
 ||letteringift.com^
 ||levath.com^
 ||levelbash.com^
@@ -568,7 +564,6 @@
 ||navi2.com^
 ||navi20.ru^
 ||navi21.com^
-||navi23.com^
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
@@ -638,6 +633,7 @@
 ||nbdiscount.com^
 ||negotiatefoam.cn^
 ||neozor.com^
+||netcotto.com^
 ||networksfishing.com^
 ||new.bestageoffers22.com^
 ||newdompet.com^
@@ -651,7 +647,6 @@
 ||nip1.com^
 ||nip10.com^
 ||nip12.com^
-||nip13.com^
 ||nip14.com^
 ||nip16.com^
 ||nip17.com^
