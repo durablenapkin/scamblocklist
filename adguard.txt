@@ -208,6 +208,7 @@
 ||dcsnowboard.com^
 ||ddoe.shop^
 ||dearrupiah.com^
+||debridlink.com^
 ||deceptivebuffalo.cn^
 ||decompraschile.com^
 ||decoryourhome.store^
@@ -337,6 +338,7 @@
 ||fumekart.com^
 ||fundanemt.org^
 ||fundcash.id^
+||furoshop.com^
 ||gabanmalls.com^
 ||gamgoing.com^
 ||gamingbuffs.com^
@@ -388,6 +390,7 @@
 ||homeclassiccollection.com^
 ||hookahheroes.com^
 ||hotbignews.com^
+||hotdebrid.com^
 ||hotmod.eu^
 ||husqvarnaoutlet.shop^
 ||i-grade.online^
@@ -510,6 +513,7 @@
 ||mamapapaclothing.com^
 ||markethops.com^
 ||marleytecnologica.com^
+||maxdebrid.com^
 ||maxearningcryp.com^
 ||mayor4london.com^
 ||mbtnorge.com^
@@ -534,7 +538,6 @@
 ||moneymm1688.shop^
 ||mononus.com^
 ||motovinreports.com^
-||msl-cf.id^
 ||msmcompare.com^
 ||museuw.com^
 ||musk-aigpt.com^
@@ -576,7 +579,6 @@
 ||navi3.com^
 ||navi30.com^
 ||navi30.ru^
-||navi31.com^
 ||navi32.com^
 ||navi35.com^
 ||navi35.ru^
@@ -624,7 +626,6 @@
 ||navi87.com^
 ||navi88.com^
 ||navi88.ru^
-||navi89.com^
 ||navi89.ru^
 ||navi9.com^
 ||navi9.ru^
@@ -1012,7 +1013,6 @@
 ||warriordecor.com^
 ||watchmark.shop^
 ||wavetshirt.com^
-||wbebellmail.z13.web.core.windows.net^
 ||werfew.com^
 ||westernhats.net^
 ||wezpod.com^
