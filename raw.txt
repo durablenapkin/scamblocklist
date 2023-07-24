@@ -1128,9 +1128,6 @@
 0.0.0.0 dpsio.ink
 0.0.0.0 www.dpsio.ink
 0.0.0.0 store.dpsio.ink
-0.0.0.0 dr-farfar.com
-0.0.0.0 www.dr-farfar.com
-0.0.0.0 store.dr-farfar.com
 0.0.0.0 drakternorge.com
 0.0.0.0 www.drakternorge.com
 0.0.0.0 store.drakternorge.com
@@ -4425,6 +4422,9 @@
 0.0.0.0 pridesocial.net
 0.0.0.0 www.pridesocial.net
 0.0.0.0 store.pridesocial.net
+0.0.0.0 primeleech.com
+0.0.0.0 www.primeleech.com
+0.0.0.0 store.primeleech.com
 0.0.0.0 primetoday.store
 0.0.0.0 www.primetoday.store
 0.0.0.0 store.primetoday.store
