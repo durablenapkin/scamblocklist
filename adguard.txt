@@ -264,6 +264,7 @@
 ||eudshop.shop^
 ||everythingkitchens.com^
 ||eviralstore.com^
+||exelsures.com^
 ||expertrader.me^
 ||expofstore.com^
 ||expressmovers.com^
@@ -389,6 +390,7 @@
 ||helgaz.com^
 ||helpnanacenter.helpscoutdocs.com^
 ||henlibyting.com^
+||hermanistore.com^
 ||hernoclothing.com^
 ||hglllshop.com^
 ||hoka-us.com^
@@ -781,7 +783,6 @@
 ||quitasueno.com^
 ||qxowtod.cn^
 ||rabamnetee.com^
-||radiatorcrate.com^
 ||raiffeisenmining.com^
 ||rasamalls.com^
 ||reanimando.org^
@@ -922,6 +923,7 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
