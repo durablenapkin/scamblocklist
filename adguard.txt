@@ -99,6 +99,7 @@
 ||bitsoft360.io^
 ||bitsoft360.net^
 ||bitstenali.com^
+||bknstore.com^
 ||blackabdo.company.site^
 ||blastparis.com^
 ||bloomessentialsbrand.com^
@@ -464,13 +465,11 @@
 ||krediteksklusif.com^
 ||kreditmudah.shop^
 ||ladamustore.com^
-||lakersfanshoponline.com^
 ||lasercutjewelry.net^
 ||ledgerlive.mobi^
 ||ledgerlives.live^
 ||ledgerlivewallets.com^
 ||ledgers.network^
-||legendofmen.com^
 ||lemstore.com^
 ||lericettedifrancy74.com^
 ||letrantrunghieu.com^
@@ -687,6 +686,7 @@
 ||noatopdesign.com^
 ||nofotballshop.com^
 ||nofotballstore.com^
+||nonofy.com^
 ||norfotball.com^
 ||norge.parkaoutdoor.com^
 ||norgefotball.com^
@@ -923,7 +923,6 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -1025,7 +1024,6 @@
 ||westernhats.net^
 ||wezpod.com^
 ||whbinder.com^
-||whliksrvlj.webtool.sk^
 ||wideranging-protector.com^
 ||wikeb.com^
 ||wind88.shop^
