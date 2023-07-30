@@ -26,7 +26,6 @@
 ||ahundredphotos.com^
 ||aichatgptforpc.com^
 ||aircgd.shop^
-||airmaxskobillige.com^
 ||ajcenteruss.com^
 ||ajdta.com^
 ||akarosi.com^
@@ -117,7 +116,6 @@
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
 ||brightonmover.com^
-||btc9339.com^
 ||buddhakind.com^
 ||budm.shop^
 ||burgershirt.com^
@@ -634,6 +632,7 @@
 ||navi87.com^
 ||navi88.com^
 ||navi88.ru^
+||navi89.com^
 ||navi89.ru^
 ||navi9.com^
 ||navi9.ru^
@@ -923,6 +922,7 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
