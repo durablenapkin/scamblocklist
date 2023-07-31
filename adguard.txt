@@ -509,6 +509,7 @@
 ||lucidtiger.com^
 ||lucysstyle.com^
 ||lunapresent.com^
+||luvinstars.com^
 ||luxsgear.com^
 ||m-contact.site^
 ||m.bpfutures.top^
@@ -793,7 +794,6 @@
 ||resources4gaming.com^
 ||reviewshirts.com^
 ||rewardsgiantca.com^
-||rhm-fxtrading.online^
 ||ringantunai.com^
 ||ringtoperfection.com^
 ||rjgriffith.com^
@@ -858,7 +858,6 @@
 ||soreldiscount.com^
 ||souhoney.com^
 ||source84.com^
-||southernlife.net^
 ||sozonest.com^
 ||spacexmusk.io^
 ||sportfamily.us^
