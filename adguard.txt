@@ -263,6 +263,7 @@
 ||evangeliostore.com^
 ||everythingkitchens.com^
 ||eviralstore.com^
+||exelsures.com^
 ||expertrader.me^
 ||expofstore.com^
 ||expressmovers.com^
@@ -461,7 +462,6 @@
 ||lasercutjewelry.net^
 ||ledgerlive.mobi^
 ||ledgerlives.live^
-||ledgerlivewallets.com^
 ||ledgers.network^
 ||lemstore.com^
 ||lericettedifrancy74.com^
@@ -623,7 +623,6 @@
 ||navi84.com^
 ||navi85.com^
 ||navi85.ru^
-||navi86.ru^
 ||navi87.com^
 ||navi88.com^
 ||navi88.ru^
@@ -757,7 +756,6 @@
 ||posehee.com^
 ||postcanada.priority-ship.info^
 ||premiumqualityblanket.com^
-||premiumtour-don.com^
 ||prestamex.top^
 ||primeleech.com^
 ||printazest.com^
