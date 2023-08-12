@@ -2514,6 +2514,9 @@
 0.0.0.0 leverage-btc.com
 0.0.0.0 www.leverage-btc.com
 0.0.0.0 store.leverage-btc.com
+0.0.0.0 lido-pass.org
+0.0.0.0 www.lido-pass.org
+0.0.0.0 store.lido-pass.org
 0.0.0.0 lifestyletrading.co.za
 0.0.0.0 www.lifestyletrading.co.za
 0.0.0.0 store.lifestyletrading.co.za

@@ -363,7 +363,6 @@
 ||gig-os.com^
 ||gizmopage.com^
 ||gladiadormalas.com.br^
-||glendaz.com^
 ||gllomall.com^
 ||gload.info^
 ||globaldependableshippers.com^
@@ -468,6 +467,7 @@
 ||levath.com^
 ||levelbash.com^
 ||leverage-btc.com^
+||lido-pass.org^
 ||lifestyletrading.co.za^
 ||lillly.shop^
 ||limcologisticsusa.com^
