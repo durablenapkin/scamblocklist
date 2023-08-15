@@ -61,6 +61,7 @@
 ||atrendsz.com^
 ||attenstyle.com^
 ||audiosg.com.sg^
+||augusthenri.be^
 ||auspost.your-redelivery-au.com^
 ||aussiesportfashion.com^
 ||azfancy.com^
@@ -102,6 +103,7 @@
 ||blackabdo.company.site^
 ||blastparis.com^
 ||bloomessentialsbrand.com^
+||bncentertainment.com^
 ||bogsboot.com^
 ||bolejug.us^
 ||bombardina.pl^
@@ -262,7 +264,6 @@
 ||evangeliostore.com^
 ||everythingkitchens.com^
 ||eviralstore.com^
-||exelsures.com^
 ||expertrader.me^
 ||expofstore.com^
 ||expressmovers.com^
@@ -588,6 +589,7 @@
 ||navi41.com^
 ||navi42.ru^
 ||navi43.com^
+||navi43.ru^
 ||navi44.com^
 ||navi44.ru^
 ||navi45.ru^
@@ -896,6 +898,7 @@
 ||swellsup.com^
 ||swuso.com^
 ||t-post.com^
+||tadarick.com^
 ||talentmaster.bio^
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
