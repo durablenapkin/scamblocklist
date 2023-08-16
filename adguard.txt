@@ -190,6 +190,7 @@
 ||csmoney.trade^
 ||customizerbox.com^
 ||customurink.com^
+||cycle100percent.com^
 ||czwcvfbc.page.link^
 ||dailygiftstore.com^
 ||danadarurat.net^
@@ -334,7 +335,6 @@
 ||flattee.com^
 ||fms88.shop^
 ||forksbike.com^
-||fraeuleinemma.fun^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -562,7 +562,6 @@
 ||navi100.com^
 ||navi17.com^
 ||navi18.com^
-||navi19.com^
 ||navi2.com^
 ||navi20.ru^
 ||navi21.com^
@@ -589,7 +588,6 @@
 ||navi41.com^
 ||navi42.ru^
 ||navi43.com^
-||navi43.ru^
 ||navi44.com^
 ||navi44.ru^
 ||navi45.ru^
@@ -598,6 +596,7 @@
 ||navi50.com^
 ||navi53.com^
 ||navi54.com^
+||navi55.ru^
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
