@@ -128,6 +128,7 @@
 ||buzzazone.com^
 ||by-emmamuller.de^
 ||byeuys.shop^
+||c3scores.com^
 ||campingsurfshop.com^
 ||can-postsmsnotice.com^
 ||candlesbymadison.com^
@@ -145,6 +146,7 @@
 ||charmbean.com^
 ||charmsection.com^
 ||cheat-on.com^
+||check.c3scores.com^
 ||cherryzones.com^
 ||chiclife.co.uk^
 ||chikepod.com^
@@ -167,7 +169,6 @@
 ||cofdeal.com^
 ||coffeeteaware.com^
 ||coinaps.com^
-||coinstoretra.com^
 ||colorandcotton.com^
 ||columbiatopdeals.com^
 ||compoundexotics.com^
@@ -335,6 +336,7 @@
 ||flattee.com^
 ||fms88.shop^
 ||forksbike.com^
+||fraeuleinemma.fun^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -887,7 +889,6 @@
 ||sugarandpearl.com^
 ||sununi.us^
 ||supercutestuff.com^
-||superfacehoodie.com^
 ||supperbrand.company.site^
 ||supportdelivery3414-ups.com^
 ||supreme-adblocker.net^
@@ -913,7 +914,6 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
