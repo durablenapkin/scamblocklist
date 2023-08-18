@@ -80,7 +80,6 @@
 ||barpasaje.com^
 ||bcb.game^
 ||bcm8.shop^
-||beartees.pubninja.com^
 ||beautysolution24.com^
 ||beautyt.shop^
 ||beecrave.com^
@@ -594,6 +593,7 @@
 ||navi44.ru^
 ||navi45.ru^
 ||navi47.com^
+||navi47.ru^
 ||navi5.com^
 ||navi50.com^
 ||navi53.com^
@@ -624,7 +624,6 @@
 ||navi84.com^
 ||navi85.com^
 ||navi85.ru^
-||navi86.ru^
 ||navi87.com^
 ||navi88.com^
 ||navi88.ru^
@@ -808,6 +807,7 @@
 ||salimusic.com^
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
+||seasonsofficial.com^
 ||sedark.com^
 ||sehaleservices.com^
 ||sellfox.com^
@@ -858,7 +858,6 @@
 ||sportswearfanatics.com^
 ||sportswearforfans.com^
 ||spreadstores.com^
-||sqk9.lubar-tech.com^
 ||staging.zendrop.com^
 ||startuplatte.com^
 ||stealthhorizonshipping.com^
@@ -885,7 +884,6 @@
 ||streamloot.co^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
-||successglossary.com^
 ||sugarandpearl.com^
 ||sununi.us^
 ||supercutestuff.com^
@@ -898,7 +896,6 @@
 ||swellsup.com^
 ||swuso.com^
 ||t-post.com^
-||tadarick.com^
 ||talentmaster.bio^
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
@@ -914,12 +911,14 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
 ||teslatucker.com^
 ||thecycleshoes.com^
 ||theeaglebrand.company.site^
+||thegeekgifts.com^
 ||thehappywood.com^
 ||thehardcorehabits.com^
 ||thekeilas.com^
@@ -975,7 +974,6 @@
 ||unitedglobal-logistics.com^
 ||universityofqatarrectorate.godaddysites.com^
 ||uplevelreward.com^
-||upstrick.com^
 ||ureashi.com^
 ||usakidsclothes.com^
 ||usasport247.com^
