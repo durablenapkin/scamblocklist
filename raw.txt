@@ -5133,6 +5133,9 @@
 0.0.0.0 suitaptcope.live
 0.0.0.0 www.suitaptcope.live
 0.0.0.0 store.suitaptcope.live
+0.0.0.0 summersale.co
+0.0.0.0 www.summersale.co
+0.0.0.0 store.summersale.co
 0.0.0.0 sunleaftravel.com
 0.0.0.0 www.sunleaftravel.com
 0.0.0.0 store.sunleaftravel.com
