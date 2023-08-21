@@ -603,6 +603,7 @@
 ||navi66.com^
 ||navi66.ru^
 ||navi67.com^
+||navi67.ru^
 ||navi7.com^
 ||navi71.com^
 ||navi72.com^
