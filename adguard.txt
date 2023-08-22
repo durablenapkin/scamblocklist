@@ -134,7 +134,6 @@
 ||cardadvantagecast.com^
 ||cargotrustcourier.com^
 ||carsaratek.com^
-||casavec.com^
 ||casha.xyz^
 ||cebesale.com^
 ||cebubestbuy.com^
@@ -187,6 +186,7 @@
 ||csmoney.trade^
 ||customizerbox.com^
 ||customurink.com^
+||cutty.app^
 ||cycle100percent.com^
 ||czwcvfbc.page.link^
 ||dailygiftstore.com^
@@ -404,7 +404,6 @@
 ||ihuers.com^
 ||ikiha.com^
 ||iklrge.com^
-||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
@@ -460,7 +459,6 @@
 ||ladamustore.com^
 ||lasercutjewelry.net^
 ||ledgerlive.mobi^
-||ledgerlives.live^
 ||ledgers.network^
 ||lemstore.com^
 ||lericettedifrancy74.com^
@@ -843,6 +841,7 @@
 ||sneakermart.us^
 ||snowroxy.com^
 ||soaplooparrowstereo.click^
+||software19797.blogspot.com^
 ||soreldiscount.com^
 ||souhoney.com^
 ||source84.com^
@@ -991,7 +990,6 @@
 ||vicidola.com^
 ||vikingstore.co^
 ||vinisay.com^
-||violayvonne.com^
 ||vip-yuki-shop.com^
 ||vipdeit.com^
 ||vipticketgiveaway.com^
@@ -1015,6 +1013,7 @@
 ||wideranging-protector.com^
 ||wikeb.com^
 ||wind88.shop^
+||wintexfashions.com^
 ||wisdomganga.com^
 ||woadoodles.com^
 ||wywacua8.boats^
