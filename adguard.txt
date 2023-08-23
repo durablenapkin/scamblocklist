@@ -33,7 +33,6 @@
 ||akebicycle.com^
 ||akjamv.shop^
 ||akulaku.me^
-||alapeay.com^
 ||aldofashion.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allnewsready.com^
@@ -49,7 +48,6 @@
 ||anydebrid.com^
 ||aoocib.com^
 ||apple.enablemyidservices.com^
-||applydiraadd.com^
 ||ariatwear.online^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -99,6 +97,7 @@
 ||blackabdo.company.site^
 ||blastparis.com^
 ||bloomessentialsbrand.com^
+||bloomingvibe.com^
 ||bncentertainment.com^
 ||bogsboot.com^
 ||bolejug.us^
@@ -349,6 +348,7 @@
 ||gamingbuffs.com^
 ||gamingtoolz.club^
 ||gazinvest.quest^
+||gcqcanada.com^
 ||gearanime.com^
 ||gearathena.com^
 ||gearhomies.com^
@@ -372,7 +372,6 @@
 ||goexpressparcel.com^
 ||goglle.com^
 ||goldtimeinvest.com^
-||goshop.vin^
 ||govmedcareers.com^
 ||goyourheart.com^
 ||graciaszone.com^
@@ -404,6 +403,7 @@
 ||ihuers.com^
 ||ikiha.com^
 ||iklrge.com^
+||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
@@ -583,6 +583,7 @@
 ||navi41.com^
 ||navi42.ru^
 ||navi43.com^
+||navi43.ru^
 ||navi44.com^
 ||navi44.ru^
 ||navi45.ru^
@@ -883,7 +884,6 @@
 ||stylegift.co.uk^
 ||sugarandpearl.com^
 ||summersale.co^
-||sununi.us^
 ||supercutestuff.com^
 ||supperbrand.company.site^
 ||supportdelivery3414-ups.com^

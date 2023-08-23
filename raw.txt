@@ -1902,6 +1902,9 @@
 0.0.0.0 gazinvest.quest
 0.0.0.0 www.gazinvest.quest
 0.0.0.0 store.gazinvest.quest
+0.0.0.0 gcqcanada.com
+0.0.0.0 www.gcqcanada.com
+0.0.0.0 store.gcqcanada.com
 0.0.0.0 geaapy.com
 0.0.0.0 www.geaapy.com
 0.0.0.0 store.geaapy.com
