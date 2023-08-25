@@ -622,6 +622,7 @@
 ||navi84.com^
 ||navi85.com^
 ||navi85.ru^
+||navi86.ru^
 ||navi87.com^
 ||navi88.com^
 ||navi88.ru^
@@ -885,6 +886,7 @@
 ||stylegift.co.uk^
 ||sugarandpearl.com^
 ||summersale.co^
+||summersale.online^
 ||supercutestuff.com^
 ||supperbrand.company.site^
 ||supportdelivery3414-ups.com^
