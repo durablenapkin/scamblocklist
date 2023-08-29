@@ -194,7 +194,6 @@
 ||danapintar.club^
 ||danapro.net^
 ||danarakyatol.com^
-||danasenang.com^
 ||danylevych.com^
 ||darliasmaltesepuppies.com^
 ||dash.fortissio-invest.com^
@@ -477,7 +476,6 @@
 ||linostee.com^
 ||lisabuddy.com^
 ||lisatillhon.de^
-||lisianstore.com^
 ||litcomplex.com^
 ||liverepsae.adeftsolutions.com^
 ||loepwatch.com^
@@ -963,6 +961,7 @@
 ||turnnetwor.com^
 ||twiiiter.com^
 ||twinsbio.com^
+||twitterr.com^
 ||uange.shop^
 ||uangmu.top^
 ||uangmudahapp.com^
