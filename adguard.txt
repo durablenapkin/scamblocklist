@@ -590,6 +590,7 @@
 ||navi50.com^
 ||navi53.com^
 ||navi54.com^
+||navi55.com^
 ||navi55.ru^
 ||navi56.com^
 ||navi59.ru^
@@ -775,7 +776,6 @@
 ||resources4gaming.com^
 ||reviewshirts.com^
 ||rewardsgiantca.com^
-||rhm-fxtrading.online^
 ||ringantunai.com^
 ||ringtoperfection.com^
 ||rjgriffith.com^
@@ -878,6 +878,7 @@
 ||streamloot.co^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
+||successglossary.com^
 ||sugarandpearl.com^
 ||summersale.co^
 ||summersale.online^
