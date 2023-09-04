@@ -819,6 +819,9 @@
 0.0.0.0 coinaps.com
 0.0.0.0 www.coinaps.com
 0.0.0.0 store.coinaps.com
+0.0.0.0 coinreq.com
+0.0.0.0 www.coinreq.com
+0.0.0.0 store.coinreq.com
 0.0.0.0 coinstoretra.com
 0.0.0.0 www.coinstoretra.com
 0.0.0.0 store.coinstoretra.com

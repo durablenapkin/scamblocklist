@@ -11,7 +11,6 @@
 ||4556.de^
 ||555sq.com.cn^
 ||68437w.top^
-||7laced.com^
 ||7s4c.top^
 ||aadirone.cc^
 ||abncbp.com^
@@ -57,7 +56,6 @@
 ||assassinfitness.com^
 ||atrendsz.com^
 ||attenstyle.com^
-||au-bloomreach.com^
 ||audiosg.com.sg^
 ||augusthenri.be^
 ||auspost.your-redelivery-au.com^
@@ -173,6 +171,7 @@
 ||cofdeal.com^
 ||coffeeteaware.com^
 ||coinaps.com^
+||coinreq.com^
 ||colorandcotton.com^
 ||columbiatopdeals.com^
 ||compoundexotics.com^
@@ -324,7 +323,6 @@
 ||faze76.com^
 ||faze77.com^
 ||faze80.com^
-||faze87.com^
 ||faze88.com^
 ||faze90.com^
 ||fazpowerdenet.tumblr.com^
@@ -379,10 +377,10 @@
 ||gizmopage.com^
 ||gladiadormalas.com.br^
 ||gllomall.com^
+||gload.info^
 ||globaldependableshippers.com^
 ||glstee.com^
 ||godeskonettbutikk.com^
-||gogiworld.com^
 ||goglle.com^
 ||goldtimeinvest.com^
 ||gonedewcopy.live^
@@ -451,7 +449,6 @@
 ||keltysale.com^
 ||kewal.shop^
 ||khoinguyenhanoi.vn^
-||kielorelief.io^
 ||kigurumi-usa.com^
 ||killtee.com^
 ||kingcampoutdoors.co.jp^
@@ -510,6 +507,7 @@
 ||lucchesestore.online^
 ||lucidtiger.com^
 ||lucysstyle.com^
+||lunapresent.com^
 ||luxsgear.com^
 ||m-contact.site^
 ||m.bpfutures.top^
@@ -553,7 +551,6 @@
 ||muskbtc.io^
 ||muthaafoundation.org^
 ||mybestautologin567.com^
-||myfunfarm.com^
 ||myhandshops.myshopify.com^
 ||mystitich4u.com^
 ||mythicalbattle.com^
@@ -591,7 +588,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi41.com^
 ||navi42.ru^
 ||navi43.com^
 ||navi44.ru^
@@ -602,9 +598,9 @@
 ||navi50.com^
 ||navi53.com^
 ||navi54.com^
-||navi55.com^
 ||navi55.ru^
 ||navi56.com^
+||navi57.ru^
 ||navi59.ru^
 ||navi6.com^
 ||navi61.com^
@@ -640,6 +636,7 @@
 ||navi9.ru^
 ||navi90.com^
 ||navi91.com^
+||navi91.ru^
 ||navi92.ru^
 ||navi94.com^
 ||navi96.com^
@@ -732,9 +729,7 @@
 ||pandzee.com^
 ||parajumperssalg.com^
 ||parisiporlin-ktki.kemkes.go.id^
-||parisloginblast.pro^
 ||parklaneupholstemk.com^
-||pasarbali-malls.com^
 ||pasarkta.pasaruang.id^
 ||path2zillion.com^
 ||paypartc.top^
@@ -801,7 +796,6 @@
 ||rossignol-ski.com^
 ||royaldecorhome.store^
 ||royalhedgies.com^
-||royalkingsmail.co.uk^
 ||rptbaa.shop^
 ||rsaonlinenow.com.au^
 ||rupiahlagi.com^
@@ -822,6 +816,7 @@
 ||sentees.com^
 ||serengetidiscount.com^
 ||shapeden.com^
+||shinezily.com^
 ||shiptop.delivery^
 ||shirtforfan.com^
 ||shirttest.com^
@@ -858,6 +853,7 @@
 ||source84.com^
 ||southernlife.net^
 ||sozonest.com^
+||spacex-live.site^
 ||spacexmusk.io^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
@@ -903,7 +899,6 @@
 ||surprisesandgifts.com^
 ||survivalcatsupply.com^
 ||sutton-down-badges.com^
-||swellsup.com^
 ||swuso.com^
 ||t-post.com^
 ||tadarick.com^
@@ -957,6 +952,7 @@
 ||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
+||treasurefan.com^
 ||trendsharks.com^
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
@@ -999,6 +995,7 @@
 ||vegamartz.com^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
+||vetoro.cc^
 ||vicidola.com^
 ||vikingstore.co^
 ||vinisay.com^
