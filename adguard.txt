@@ -16,7 +16,6 @@
 ||abncbp.com^
 ||accfiverif.com^
 ||acquatee.com^
-||address.uspostalservice11.d74r.co^
 ||adidasko.com^
 ||adupihi.com^
 ||adzfree-watch.net^
@@ -35,6 +34,7 @@
 ||akulaku.me^
 ||aldofashion.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
+||allen86.store^
 ||allnewsready.com^
 ||allstarshirt.com^
 ||alltestbanksolutions.com^
@@ -57,6 +57,7 @@
 ||assassinfitness.com^
 ||atrendsz.com^
 ||attenstyle.com^
+||au-bloomreach.com^
 ||audiosg.com.sg^
 ||augusthenri.be^
 ||auspost.your-redelivery-au.com^
@@ -133,6 +134,7 @@
 ||buzzazone.com^
 ||by-emmamuller.de^
 ||byeuys.shop^
+||c-tozluxury.shop^
 ||c3scores.com^
 ||campingsurfshop.com^
 ||can-postsmsnotice.com^
@@ -257,6 +259,7 @@
 ||ed0.it^
 ||eggdy.shop^
 ||ekyfoa.shop^
+||elaka.lk^
 ||elitestrustonline.biz^
 ||elitestrustonline.com^
 ||elonspace.org^
@@ -308,7 +311,6 @@
 ||faze41.com^
 ||faze42.com^
 ||faze44.com^
-||faze45.com^
 ||faze47.com^
 ||faze5.com^
 ||faze6.com^
@@ -379,7 +381,6 @@
 ||gizmopage.com^
 ||gladiadormalas.com.br^
 ||gllomall.com^
-||gload.info^
 ||globaldependableshippers.com^
 ||glstee.com^
 ||godeskonettbutikk.com^
@@ -412,7 +413,6 @@
 ||husqvarnaoutlet.shop^
 ||i-grade.online^
 ||iaqorwr.com^
-||iceao.shop^
 ||icelandclothing.myshopify.com^
 ||ihuers.com^
 ||ikiha.com^
@@ -501,7 +501,6 @@
 ||lozly.com^
 ||lp.voucheras.com^
 ||lskg.shop^
-||lucatee.com^
 ||lucchesedeal.store^
 ||luccheseoutlet.online^
 ||lucchesesale.shop^
@@ -528,7 +527,6 @@
 ||mcppty.com^
 ||mcsglobalcargo.com^
 ||meaningift.com^
-||megoindonesia.com^
 ||meminjamsaya.com^
 ||microgull.com^
 ||microngroup.pro^
@@ -611,7 +609,6 @@
 ||navi66.ru^
 ||navi67.com^
 ||navi67.ru^
-||navi68.ru^
 ||navi7.com^
 ||navi71.com^
 ||navi72.com^
@@ -639,7 +636,6 @@
 ||navi9.ru^
 ||navi90.com^
 ||navi91.com^
-||navi91.ru^
 ||navi92.ru^
 ||navi94.com^
 ||navi96.com^
@@ -1042,6 +1038,7 @@
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
+||yuynstore.com^
 ||yvjexi.shop^
 ||yyderfreap.shop^
 ||zarodress.com^
@@ -1052,3 +1049,4 @@
 ||zgalaxytee.com^
 ||zolrqw.palatlaldate.com^
 ||zooger.space^
+||zuozuoshoe.shop^
