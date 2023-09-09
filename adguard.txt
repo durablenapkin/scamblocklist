@@ -567,6 +567,7 @@
 ||navi17.com^
 ||navi18.com^
 ||navi2.com^
+||navi2.ru^
 ||navi20.ru^
 ||navi21.com^
 ||navi22.com^
@@ -576,7 +577,6 @@
 ||navi24.ru^
 ||navi25.ru^
 ||navi26.com^
-||navi27.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
@@ -596,6 +596,7 @@
 ||navi47.ru^
 ||navi5.com^
 ||navi50.com^
+||navi51.com^
 ||navi53.com^
 ||navi54.com^
 ||navi55.com^
