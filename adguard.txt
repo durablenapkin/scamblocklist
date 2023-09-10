@@ -34,6 +34,7 @@
 ||akulaku.me^
 ||aldofashion.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
+||allergyfl.com^
 ||allnewsready.com^
 ||allstarshirt.com^
 ||alltestbanksolutions.com^
@@ -132,6 +133,7 @@
 ||buzzazone.com^
 ||by-emmamuller.de^
 ||byeuys.shop^
+||c-tozluxury.shop^
 ||c3scores.com^
 ||campingsurfshop.com^
 ||can-postsmsnotice.com^
@@ -148,6 +150,7 @@
 ||chandeco.com^
 ||charmbean.com^
 ||charmsection.com^
+||charpente-ramel.com^
 ||cheat-on.com^
 ||check.c3scores.com^
 ||cherryzones.com^
@@ -180,6 +183,7 @@
 ||cookietee.com^
 ||coolest3d.com^
 ||coolestpod.com^
+||coralls.com^
 ||corg.co^
 ||couponxoo.com^
 ||courier-tracking.com^
@@ -242,6 +246,7 @@
 ||dreamstee.com^
 ||dreamstees.com^
 ||duckydecor.store^
+||duhaland.com^
 ||duitpanas.top^
 ||dumanus.com^
 ||dunjakke-no.com^
@@ -345,6 +350,7 @@
 ||fms88.shop^
 ||forksbike.com^
 ||fraeuleinemma.fun^
+||freedom-deposit.ca^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -567,7 +573,6 @@
 ||navi17.com^
 ||navi18.com^
 ||navi2.com^
-||navi2.ru^
 ||navi20.ru^
 ||navi21.com^
 ||navi22.com^
@@ -746,6 +751,7 @@
 ||pinjamanduit.lol^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
+||pinjamanrupiah.xyz^
 ||pinjamdana.live^
 ||pinjamnow.my.id^
 ||pinjamteman.top^
@@ -793,6 +799,7 @@
 ||rockchief.com^
 ||rosateeshop.com^
 ||rossignol-ski.com^
+||rovedy.com^
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rptbaa.shop^
