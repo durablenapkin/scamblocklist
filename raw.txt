@@ -4617,6 +4617,9 @@
 0.0.0.0 refundpaymentnotify.com
 0.0.0.0 www.refundpaymentnotify.com
 0.0.0.0 store.refundpaymentnotify.com
+0.0.0.0 rescheduledeliverycan-post.com
+0.0.0.0 www.rescheduledeliverycan-post.com
+0.0.0.0 store.rescheduledeliverycan-post.com
 0.0.0.0 resources4gaming.com
 0.0.0.0 www.resources4gaming.com
 0.0.0.0 store.resources4gaming.com

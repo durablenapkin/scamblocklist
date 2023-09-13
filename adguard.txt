@@ -16,6 +16,7 @@
 ||accfiverif.com^
 ||acquatee.com^
 ||adidasko.com^
+||adupihi.com^
 ||adzfree-watch.net^
 ||affordableforyouusa5.godaddysites.com^
 ||ahenana.com^
@@ -269,7 +270,6 @@
 ||eviralstore.com^
 ||expertrader.me^
 ||expofstore.com^
-||expresscourier.delivery^
 ||expressmovers.com^
 ||familybakery.xyz^
 ||familybestgifts.com^
@@ -378,11 +378,11 @@
 ||globaldependableshippers.com^
 ||glstee.com^
 ||godeskonettbutikk.com^
+||godsfillingstation.org^
 ||goglle.com^
 ||goldtimeinvest.com^
 ||gonedewcopy.live^
 ||goshop.vin^
-||gourmetkitchenhouse.shop^
 ||govmedcareers.com^
 ||goyourheart.com^
 ||graciaszone.com^
@@ -430,7 +430,6 @@
 ||iteeus.com^
 ||jackyeby.com^
 ||jagkart.com^
-||jakedstake.com^
 ||jakkesalgs.com^
 ||januashop.com^
 ||jellyfishstat.live^
@@ -438,6 +437,7 @@
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
+||k-tozluxury.shop^
 ||kakaoli.co.kr^
 ||kakaopv.co.kr^
 ||keenfootwearsale.com^
@@ -488,7 +488,6 @@
 ||look-like-star.myshopify.com^
 ||lootcrate.com^
 ||lootcs.com^
-||lotusgriffon.com^
 ||lovegoldsale.com^
 ||loveinbox.co.uk^
 ||lovelovegifts.com^
@@ -498,7 +497,6 @@
 ||lucatee.com^
 ||lucchesedeal.store^
 ||luccheseoutlet.online^
-||lucchesesale.shop^
 ||lucchesestore.online^
 ||lucidtiger.com^
 ||lucysstyle.com^
@@ -523,6 +521,7 @@
 ||mcsglobalcargo.com^
 ||meaningift.com^
 ||meminjamsaya.com^
+||merchvips.com^
 ||microgull.com^
 ||microngroup.pro^
 ||mila-vica.de^
@@ -536,7 +535,6 @@
 ||modmobile24.com^
 ||moneymm1688.shop^
 ||monkstars.com^
-||mononus.com^
 ||motovinreports.com^
 ||msl-cf.id^
 ||museuw.com^
@@ -560,7 +558,6 @@
 ||navi1.com^
 ||navi10.com^
 ||navi10.ru^
-||navi11.com^
 ||navi13.com^
 ||navi17.com^
 ||navi18.com^
@@ -575,9 +572,9 @@
 ||navi25.ru^
 ||navi26.com^
 ||navi3.com^
+||navi30.com^
 ||navi30.ru^
 ||navi32.com^
-||navi34.ru^
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
@@ -622,6 +619,7 @@
 ||navi8.com^
 ||navi81.com^
 ||navi82.com^
+||navi82.ru^
 ||navi84.com^
 ||navi85.com^
 ||navi85.ru^
@@ -634,6 +632,7 @@
 ||navi9.com^
 ||navi9.ru^
 ||navi90.com^
+||navi90.ru^
 ||navi91.com^
 ||navi92.ru^
 ||navi94.com^
@@ -780,6 +779,7 @@
 ||reanimando.org^
 ||rebeccatees.com^
 ||redwingshoes-usa.com^
+||rescheduledeliverycan-post.com^
 ||resources4gaming.com^
 ||reviewshirts.com^
 ||rewardsgiantca.com^
@@ -1003,9 +1003,7 @@
 ||vvebwizard.com^
 ||wadahlapak.top^
 ||walkinshoe.com^
-||walmartchina.top^
 ||wangsakti.com^
-||waresusmiss.com^
 ||warriordecor.com^
 ||watchmark.shop^
 ||wavetshirt.com^
@@ -1013,7 +1011,6 @@
 ||westernhats.net^
 ||wezpod.com^
 ||whbinder.com^
-||whliksrvlj.webtool.sk^
 ||wideranging-protector.com^
 ||wikeb.com^
 ||wind88.shop^
