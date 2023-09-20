@@ -130,6 +130,7 @@
 ||buyfingermoney.company.com^
 ||buyyeezy2023.com^
 ||buzzazone.com^
+||buzzdeal.com^
 ||by-emmamuller.de^
 ||byeuys.shop^
 ||c3scores.com^
@@ -373,6 +374,7 @@
 ||gizmopage.com^
 ||gladiadormalas.com.br^
 ||gllomall.com^
+||gload.info^
 ||globaldependableshippers.com^
 ||glstee.com^
 ||godeskonettbutikk.com^
@@ -496,7 +498,6 @@
 ||lucatee.com^
 ||lucchesedeal.store^
 ||luccheseoutlet.online^
-||lucchesesale.shop^
 ||lucchesestore.online^
 ||lucidtiger.com^
 ||lucysstyle.com^
@@ -594,9 +595,8 @@
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
-||navi6.ru^
 ||navi61.com^
-||navi65.ru^
+||navi65.com^
 ||navi66.com^
 ||navi66.ru^
 ||navi67.com^
@@ -609,7 +609,6 @@
 ||navi74.com^
 ||navi75.com^
 ||navi76.com^
-||navi76.ru^
 ||navi77.com^
 ||navi78.ru^
 ||navi79.com^
@@ -661,6 +660,7 @@
 ||nip26.com^
 ||nip28.com^
 ||nip3.com^
+||nip30.com^
 ||nip4.com^
 ||nip44.com^
 ||nip5.com^
@@ -675,7 +675,6 @@
 ||nirvezal.com^
 ||nldstore.com^
 ||nlepfpteg.com^
-||nlg-logisticsltd.com^
 ||noatopdesign.com^
 ||nofotballshop.com^
 ||nofotballstore.com^
@@ -698,7 +697,6 @@
 ||olaoffer.shop^
 ||oldcube.com^
 ||oncloudrun.shop^
-||oneparttimejob.com^
 ||online-binomo.com^
 ||onlineadid.com^
 ||onlinehome.us^
@@ -903,7 +901,6 @@
 ||teearrow.com^
 ||teechip.online^
 ||teefoody.com^
-||teemax.store^
 ||teenimo.com^
 ||teevpower.com^
 ||teezill.com^
