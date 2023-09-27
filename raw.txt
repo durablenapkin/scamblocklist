@@ -1329,9 +1329,6 @@
 0.0.0.0 evangeliostore.com
 0.0.0.0 www.evangeliostore.com
 0.0.0.0 store.evangeliostore.com
-0.0.0.0 everythingkitchens.com
-0.0.0.0 www.everythingkitchens.com
-0.0.0.0 store.everythingkitchens.com
 0.0.0.0 eviralstore.com
 0.0.0.0 www.eviralstore.com
 0.0.0.0 store.eviralstore.com
