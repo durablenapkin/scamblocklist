@@ -27,7 +27,6 @@
 ||ajcenteruss.com^
 ||ajdta.com^
 ||akarosi.com^
-||akatee.com^
 ||akebicycle.com^
 ||akjamv.shop^
 ||akulaku.me^
@@ -340,6 +339,7 @@
 ||forksbike.com^
 ||fotballsko-salg.com^
 ||fraeuleinemma.fun^
+||freedommobile.syncreturn.ca^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -432,7 +432,6 @@
 ||januashop.com^
 ||jellyfishstat.live^
 ||jellystores.com^
-||jne-express.my.id^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
@@ -559,7 +558,6 @@
 ||navi12.com^
 ||navi13.com^
 ||navi18.com^
-||navi19.ru^
 ||navi2.com^
 ||navi20.ru^
 ||navi21.com^
@@ -571,7 +569,6 @@
 ||navi25.ru^
 ||navi26.com^
 ||navi3.com^
-||navi3.ru^
 ||navi30.ru^
 ||navi32.com^
 ||navi35.com^
@@ -581,11 +578,12 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi4.ru^
+||navi41.ru^
 ||navi42.ru^
 ||navi43.com^
 ||navi44.ru^
 ||navi45.ru^
-||navi46.com^
 ||navi47.com^
 ||navi47.ru^
 ||navi5.com^
@@ -610,6 +608,7 @@
 ||navi72.ru^
 ||navi73.com^
 ||navi74.com^
+||navi74.ru^
 ||navi75.com^
 ||navi76.com^
 ||navi77.com^
@@ -618,7 +617,6 @@
 ||navi8.com^
 ||navi81.com^
 ||navi82.com^
-||navi82.ru^
 ||navi84.com^
 ||navi85.com^
 ||navi85.ru^
@@ -635,6 +633,7 @@
 ||navi92.ru^
 ||navi94.com^
 ||navi96.com^
+||navi96.ru^
 ||navi98.com^
 ||navi99.com^
 ||nbdiscount.com^
@@ -860,6 +859,7 @@
 ||startuplatte.com^
 ||stealthhorizonshipping.com^
 ||steamgateways.com^
+||steammcommunuty.ru^
 ||steamunlock.com^
 ||steamunlock.gifts^
 ||stellara.de^
@@ -908,11 +908,10 @@
 ||teefoody.com^
 ||teemax.store^
 ||teenimo.com^
-||teesspeed.com^
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla2023.store^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
