@@ -299,7 +299,6 @@
 ||faze40.com^
 ||faze41.com^
 ||faze42.com^
-||faze44.com^
 ||faze47.com^
 ||faze5.com^
 ||faze54.com^
@@ -410,7 +409,6 @@
 ||ihuers.com^
 ||ikiha.com^
 ||iklrge.com^
-||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
@@ -578,8 +576,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi4.ru^
-||navi41.ru^
 ||navi42.ru^
 ||navi43.com^
 ||navi44.ru^
@@ -594,6 +590,7 @@
 ||navi55.com^
 ||navi55.ru^
 ||navi56.com^
+||navi59.com^
 ||navi59.ru^
 ||navi6.com^
 ||navi61.com^
@@ -608,7 +605,6 @@
 ||navi72.ru^
 ||navi73.com^
 ||navi74.com^
-||navi74.ru^
 ||navi75.com^
 ||navi76.com^
 ||navi77.com^
@@ -633,7 +629,6 @@
 ||navi92.ru^
 ||navi94.com^
 ||navi96.com^
-||navi96.ru^
 ||navi98.com^
 ||navi99.com^
 ||nbdiscount.com^
@@ -841,13 +836,11 @@
 ||snapchaty.com^
 ||sneakermart.us^
 ||snowroxy.com^
-||soaplooparrowstereo.click^
 ||software19797.blogspot.com^
 ||soreldiscount.com^
 ||souhoney.com^
 ||source84.com^
 ||southernlife.net^
-||sozonest.com^
 ||spacexmusk.io^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
@@ -859,7 +852,6 @@
 ||startuplatte.com^
 ||stealthhorizonshipping.com^
 ||steamgateways.com^
-||steammcommunuty.ru^
 ||steamunlock.com^
 ||steamunlock.gifts^
 ||stellara.de^
@@ -876,6 +868,7 @@
 ||storebyon.com^
 ||storecollegeonline.com^
 ||storedarkness.com^
+||storeitsafeltd.com^
 ||storeoregononline.com^
 ||storeskiwear.com^
 ||storesp.com^
@@ -911,11 +904,13 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-buy.net^
 ||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
 ||teslatucker.com^
+||thecabinas.com^
 ||thecycleshoes.com^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
@@ -963,6 +958,7 @@
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitterr.com^
+||tycomex.com^
 ||uange.shop^
 ||uangmu.top^
 ||uangmudahapp.com^
@@ -1022,6 +1018,7 @@
 ||xrp-give.pro^
 ||xunlei.it^
 ||yahhhoo.com^
+||yeahteesmile.com^
 ||yeezysofficial.us.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
