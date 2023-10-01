@@ -27,6 +27,7 @@
 ||ajcenteruss.com^
 ||ajdta.com^
 ||akarosi.com^
+||akatee.com^
 ||akebicycle.com^
 ||akjamv.shop^
 ||akulaku.me^
@@ -42,7 +43,6 @@
 ||amcclothes.com^
 ||amznshirts.com^
 ||andamente.pt^
-||animeshoppers.com^
 ||anydebrid.com^
 ||aoocib.com^
 ||apple.enablemyidservices.com^
@@ -300,6 +300,7 @@
 ||faze41.com^
 ||faze42.com^
 ||faze47.com^
+||faze49.com^
 ||faze5.com^
 ||faze54.com^
 ||faze6.com^
@@ -374,11 +375,13 @@
 ||globaldependableshippers.com^
 ||glstee.com^
 ||godeskonettbutikk.com^
+||goexpressparcel.com^
 ||goglle.com^
 ||goldtimeinvest.com^
 ||gonedewcopy.live^
 ||goshop.vin^
 ||gossvibe.com^
+||gosusport.store^
 ||govmedcareers.com^
 ||gowarehouse.net^
 ||goyourheart.com^
@@ -409,6 +412,7 @@
 ||ihuers.com^
 ||ikiha.com^
 ||iklrge.com^
+||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
@@ -518,7 +522,6 @@
 ||mcsglobalcargo.com^
 ||meaningift.com^
 ||meminjamsaya.com^
-||meowpinky.com^
 ||microgull.com^
 ||microngroup.pro^
 ||mila-vica.de^
@@ -557,6 +560,7 @@
 ||navi13.com^
 ||navi18.com^
 ||navi2.com^
+||navi20.com^
 ||navi20.ru^
 ||navi21.com^
 ||navi22.com^
@@ -584,13 +588,11 @@
 ||navi47.ru^
 ||navi5.com^
 ||navi50.com^
-||navi51.com^
 ||navi53.com^
 ||navi54.com^
 ||navi55.com^
 ||navi55.ru^
 ||navi56.com^
-||navi59.com^
 ||navi59.ru^
 ||navi6.com^
 ||navi61.com^
@@ -626,6 +628,7 @@
 ||navi9.ru^
 ||navi90.com^
 ||navi91.com^
+||navi92.com^
 ||navi92.ru^
 ||navi94.com^
 ||navi96.com^
@@ -636,7 +639,6 @@
 ||neozor.com^
 ||netcotto.com^
 ||networksfishing.com^
-||new.bestageoffers22.com^
 ||newdompet.com^
 ||newfootwearshop.com^
 ||newgstore.com^
@@ -747,6 +749,7 @@
 ||pn10.xyz^
 ||polish-money-matters.blogspot.com^
 ||popeurope.com^
+||poppop.online^
 ||posehee.com^
 ||postcanada.priority-ship.info^
 ||potterheads.co^
@@ -855,7 +858,6 @@
 ||steamunlock.com^
 ||steamunlock.gifts^
 ||stellara.de^
-||stellaszone.com^
 ||stingcool-com.myshopify.com^
 ||stingcool.com^
 ||storagestory.com^
@@ -868,7 +870,6 @@
 ||storebyon.com^
 ||storecollegeonline.com^
 ||storedarkness.com^
-||storeitsafeltd.com^
 ||storeoregononline.com^
 ||storeskiwear.com^
 ||storesp.com^
@@ -880,7 +881,6 @@
 ||suitaptcope.live^
 ||summersale.co^
 ||summersale.online^
-||supercutestuff.com^
 ||supperbrand.company.site^
 ||supportdelivery3414-ups.com^
 ||supreme-adblocker.net^
@@ -904,13 +904,10 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-buy.net^
-||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
 ||teslatucker.com^
-||thecabinas.com^
 ||thecycleshoes.com^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
@@ -958,7 +955,6 @@
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitterr.com^
-||tycomex.com^
 ||uange.shop^
 ||uangmu.top^
 ||uangmudahapp.com^
@@ -1018,7 +1014,6 @@
 ||xrp-give.pro^
 ||xunlei.it^
 ||yahhhoo.com^
-||yeahteesmile.com^
 ||yeezysofficial.us.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
