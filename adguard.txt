@@ -142,6 +142,7 @@
 ||cebesale.com^
 ||cebubestbuy.com^
 ||chandeco.com^
+||charmbean.com^
 ||charmsection.com^
 ||cheat-on.com^
 ||check.c3scores.com^
@@ -177,7 +178,6 @@
 ||corg.co^
 ||couponxoo.com^
 ||courier-tracking.com^
-||crackedpc.org^
 ||cracksway.com^
 ||crm2.tbg-lmtd.xyz^
 ||crocssalenz.com^
@@ -260,9 +260,7 @@
 ||evangeliostore.com^
 ||eviralstore.com^
 ||expertrader.me^
-||expofstore.com^
 ||expressmovers.com^
-||ezycases.com^
 ||familybakery.xyz^
 ||familybestgifts.com^
 ||familygiftlove.myshopify.com^
@@ -277,9 +275,10 @@
 ||fashionshawaii.com^
 ||favoritehardware.com^
 ||faze1.com^
-||faze10.com^
 ||faze11.com^
 ||faze13.com^
+||faze14.com^
+||faze16.com^
 ||faze18.com^
 ||faze19.com^
 ||faze2.com^
@@ -333,7 +332,7 @@
 ||forksbike.com^
 ||fotballsko-salg.com^
 ||fraeuleinemma.fun^
-||freedommobile.syncreturn.ca^
+||freedom-deposit.ca^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -365,6 +364,7 @@
 ||gizmopage.com^
 ||gladiadormalas.com.br^
 ||gllomall.com^
+||gload.info^
 ||globaldependableshippers.com^
 ||glstee.com^
 ||godeskonettbutikk.com^
@@ -402,6 +402,7 @@
 ||ihuers.com^
 ||ikiha.com^
 ||iklrge.com^
+||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
@@ -415,6 +416,7 @@
 ||intgblockchain.online^
 ||investama92.com^
 ||iqcreditcheck.com^
+||ironpawtiny.live^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
 ||jackyeby.com^
@@ -425,6 +427,7 @@
 ||jellystores.com^
 ||jollyfamilygifts.net^
 ||jonausa.com^
+||joseph-holland.com^
 ||justdy.shop^
 ||kakaoli.co.kr^
 ||kakaopv.co.kr^
@@ -573,7 +576,6 @@
 ||navi4.com^
 ||navi42.ru^
 ||navi43.com^
-||navi43.ru^
 ||navi44.ru^
 ||navi45.ru^
 ||navi47.com^
@@ -623,6 +625,7 @@
 ||navi92.ru^
 ||navi94.com^
 ||navi96.com^
+||navi97.com^
 ||navi98.com^
 ||navi99.com^
 ||nbdiscount.com^
@@ -861,7 +864,6 @@
 ||storebyon.com^
 ||storecollegeonline.com^
 ||storedarkness.com^
-||storeitsafeltd.com^
 ||storeoregononline.com^
 ||storeskiwear.com^
 ||storesp.com^
@@ -873,6 +875,7 @@
 ||suitaptcope.live^
 ||summersale.co^
 ||summersale.online^
+||supercutestuff.com^
 ||supperbrand.company.site^
 ||supportdelivery3414-ups.com^
 ||supreme-adblocker.net^
@@ -896,6 +899,8 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
+||tesla2023.store^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -1003,7 +1008,6 @@
 ||wintexfashions.com^
 ||wisdomganga.com^
 ||woadoodles.com^
-||worthas.shop^
 ||wywacua8.boats^
 ||x2-promo.net^
 ||xn4iqv.succyarthyry.com^
@@ -1023,6 +1027,7 @@
 ||youutube.com^
 ||yvjexi.shop^
 ||yyderfreap.shop^
+||z-lib.is^
 ||zarodress.com^
 ||zat.io^
 ||zedbubble.com^
