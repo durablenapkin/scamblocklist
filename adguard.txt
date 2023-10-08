@@ -54,7 +54,6 @@
 ||assassinfitness.com^
 ||atrendsz.com^
 ||attenstyle.com^
-||au-bloomreach.com^
 ||audiosg.com.sg^
 ||augusthenri.be^
 ||auspost.your-redelivery-au.com^
@@ -76,7 +75,6 @@
 ||beautysolution24.com^
 ||beautyt.shop^
 ||beecrave.com^
-||beesmeth.com^
 ||benecharm.com^
 ||bestmoonshop.com^
 ||bigappboi.com^
@@ -174,6 +172,7 @@
 ||columbiatopdeals.com^
 ||compoundexotics.com^
 ||cooeedesignshop.com^
+||cookietee.com^
 ||coolest3d.com^
 ||coolestpod.com^
 ||corg.co^
@@ -294,8 +293,8 @@
 ||faze41.com^
 ||faze42.com^
 ||faze47.com^
-||faze49.com^
 ||faze5.com^
+||faze54.com^
 ||faze6.com^
 ||faze60.com^
 ||faze64.com^
@@ -306,7 +305,6 @@
 ||faze70.com^
 ||faze71.com^
 ||faze72.com^
-||faze73.com^
 ||faze76.com^
 ||faze77.com^
 ||faze80.com^
@@ -403,6 +401,7 @@
 ||ihuers.com^
 ||ikiha.com^
 ||iklrge.com^
+||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
@@ -555,7 +554,6 @@
 ||navi2.com^
 ||navi20.ru^
 ||navi21.com^
-||navi21.ru^
 ||navi22.com^
 ||navi23.com^
 ||navi23.ru^
@@ -577,6 +575,7 @@
 ||navi43.com^
 ||navi44.ru^
 ||navi45.ru^
+||navi46.ru^
 ||navi47.com^
 ||navi47.ru^
 ||navi5.com^
@@ -872,6 +871,7 @@
 ||suitaptcope.live^
 ||summersale.co^
 ||summersale.online^
+||supercutestuff.com^
 ||supperbrand.company.site^
 ||supportdelivery3414-ups.com^
 ||supreme-adblocker.net^
@@ -884,11 +884,11 @@
 ||talentmaster.bio^
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
+||tbg-lmtd.xyz^
 ||tdgrop168.vip^
 ||tdsintegrations11.online^
 ||tee24h.com^
 ||teearrow.com^
-||teeboss.us^
 ||teechip.online^
 ||teefoody.com^
 ||teemax.store^
@@ -925,6 +925,7 @@
 ||tkp214.com^
 ||tlstoreonline.com^
 ||toddlershood.shop^
+||toko999.shop^
 ||tomadamsenergy.com^
 ||tomfordgo.com^
 ||toolmartin.com^
@@ -947,6 +948,7 @@
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitterr.com^
+||u.umax-pro.ru^
 ||uange.shop^
 ||uangmu.top^
 ||uangmudahapp.com^

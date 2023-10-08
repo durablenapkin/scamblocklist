@@ -636,6 +636,9 @@
 0.0.0.0 can-postsmsnotice.com
 0.0.0.0 www.can-postsmsnotice.com
 0.0.0.0 store.can-postsmsnotice.com
+0.0.0.0 canadapost.mydelivery1.com
+0.0.0.0 www.canadapost.mydelivery1.com
+0.0.0.0 store.canadapost.mydelivery1.com
 0.0.0.0 candlesbymadison.com
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 store.candlesbymadison.com
