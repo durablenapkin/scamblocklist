@@ -54,6 +54,7 @@
 ||assassinfitness.com^
 ||atrendsz.com^
 ||attenstyle.com^
+||au-bloomreach.com^
 ||audiosg.com.sg^
 ||augusthenri.be^
 ||auspost.your-redelivery-au.com^
@@ -276,8 +277,6 @@
 ||faze1.com^
 ||faze11.com^
 ||faze13.com^
-||faze14.com^
-||faze16.com^
 ||faze18.com^
 ||faze19.com^
 ||faze2.com^
@@ -342,6 +341,7 @@
 ||fundcash.id^
 ||furoshop.com^
 ||gabanmalls.com^
+||galickgear.com^
 ||gamgoing.com^
 ||gamingbuffs.com^
 ||gamingtoolz.club^
@@ -564,6 +564,7 @@
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
+||navi33.com^
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
@@ -575,7 +576,6 @@
 ||navi43.com^
 ||navi44.ru^
 ||navi45.ru^
-||navi46.ru^
 ||navi47.com^
 ||navi47.ru^
 ||navi5.com^
@@ -622,6 +622,7 @@
 ||navi91.com^
 ||navi92.ru^
 ||navi94.com^
+||navi94.ru^
 ||navi96.com^
 ||navi98.com^
 ||navi99.com^
@@ -884,7 +885,6 @@
 ||talentmaster.bio^
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
-||tbg-lmtd.xyz^
 ||tdgrop168.vip^
 ||tdsintegrations11.online^
 ||tee24h.com^
@@ -925,7 +925,6 @@
 ||tkp214.com^
 ||tlstoreonline.com^
 ||toddlershood.shop^
-||toko999.shop^
 ||tomadamsenergy.com^
 ||tomfordgo.com^
 ||toolmartin.com^
@@ -948,7 +947,6 @@
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitterr.com^
-||u.umax-pro.ru^
 ||uange.shop^
 ||uangmu.top^
 ||uangmudahapp.com^
@@ -977,7 +975,6 @@
 ||vegamartz.com^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
-||vetoro.cc^
 ||vicidola.com^
 ||vikingstore.co^
 ||vinisay.com^
@@ -1007,6 +1004,7 @@
 ||woadoodles.com^
 ||wywacua8.boats^
 ||x2-promo.net^
+||xajzfwgs.com^
 ||xn4iqv.succyarthyry.com^
 ||xrp-give.pro^
 ||xunlei.it^
