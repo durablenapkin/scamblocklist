@@ -240,6 +240,9 @@
 0.0.0.0 apvoc-ga.com
 0.0.0.0 www.apvoc-ga.com
 0.0.0.0 store.apvoc-ga.com
+0.0.0.0 arduino.uk.eu.org
+0.0.0.0 www.arduino.uk.eu.org
+0.0.0.0 store.arduino.uk.eu.org
 0.0.0.0 ariatwear.online
 0.0.0.0 www.ariatwear.online
 0.0.0.0 store.ariatwear.online
