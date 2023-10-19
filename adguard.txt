@@ -43,7 +43,7 @@
 ||amcclothes.com^
 ||amznshirts.com^
 ||andamente.pt^
-||annemus.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||aoocib.com^
 ||apple.enablemyidservices.com^
@@ -65,6 +65,7 @@
 ||azvclothing.com^
 ||babybeddingdesign.com^
 ||bagsdeuter.com^
+||bakareiswap.xyz^
 ||balkeryswep.online^
 ||baltic-pipe-finansowy.blogspot.com^
 ||baltic79.wordpress.com^
@@ -140,6 +141,7 @@
 ||caraci.it^
 ||cardadvantagecast.com^
 ||cargotrustcourier.com^
+||carmenfloral.com^
 ||carsaratek.com^
 ||casha.xyz^
 ||cebesale.com^
@@ -147,7 +149,6 @@
 ||chandeco.com^
 ||charmbean.com^
 ||charmsection.com^
-||charpente-ramel.com^
 ||cheat-on.com^
 ||check.c3scores.com^
 ||cherryzones.com^
@@ -162,6 +163,7 @@
 ||ckkebt.shop^
 ||claimcoderz.live^
 ||clearance-bike.com^
+||clearanceusmen.com^
 ||clemoa.com^
 ||cluckergifts.ecwid.com^
 ||cma88.vip^
@@ -331,7 +333,6 @@
 ||forksbike.com^
 ||fotballsko-salg.com^
 ||fraeuleinemma.fun^
-||frankgreenauonline.shop^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -363,6 +364,8 @@
 ||gllomall.com^
 ||gload.info^
 ||glstee.com^
+||godsfillingstation.org^
+||goexpressparcel.com^
 ||goglle.com^
 ||goldtimeinvest.com^
 ||gonedewcopy.live^
@@ -504,6 +507,7 @@
 ||mcsglobalcargo.com^
 ||meaningift.com^
 ||meminjamsaya.com^
+||merchvips.com^
 ||microgull.com^
 ||microngroup.pro^
 ||mila-vica.de^
@@ -561,12 +565,12 @@
 ||navi33.com^
 ||navi35.com^
 ||navi35.ru^
-||navi36.com^
 ||navi36.ru^
 ||navi38.com^
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi40.ru^
 ||navi42.ru^
 ||navi43.com^
 ||navi44.ru^
@@ -583,12 +587,12 @@
 ||navi59.ru^
 ||navi6.com^
 ||navi61.com^
-||navi61.ru^
 ||navi65.com^
 ||navi66.com^
 ||navi66.ru^
 ||navi67.com^
 ||navi67.ru^
+||navi68.ru^
 ||navi7.com^
 ||navi71.com^
 ||navi72.com^
@@ -711,6 +715,7 @@
 ||pateim.com^
 ||path2zillion.com^
 ||paypartc.top^
+||peekpok.com^
 ||penguinnow.com^
 ||peppatees.com^
 ||perlatoshoe.com^
@@ -738,6 +743,7 @@
 ||posehee.com^
 ||postcanada.priority-ship.info^
 ||potterheads.co^
+||prcrypt.top^
 ||premiumqualityblanket.com^
 ||prestamex.top^
 ||primeleech.com^
@@ -828,7 +834,6 @@
 ||soreldiscount.com^
 ||souhoney.com^
 ||source84.com^
-||southernlife.net^
 ||spacexmusk.io^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
@@ -888,6 +893,7 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -1013,7 +1019,6 @@
 ||youutube.com^
 ||yvjexi.shop^
 ||yyderfreap.shop^
-||z-lib.is^
 ||zarodress.com^
 ||zat.io^
 ||zedbubble.com^
