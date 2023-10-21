@@ -47,7 +47,6 @@
 ||anydebrid.com^
 ||aoocib.com^
 ||apple.enablemyidservices.com^
-||applydiraadd.com^
 ||arduino.uk.eu.org^
 ||ariatwear.online^
 ||army-shop.onshopbase.com^
@@ -63,6 +62,7 @@
 ||aussiesportfashion.com^
 ||azfancy.com^
 ||azitecs.com^
+||azuretipsandtrick101.z13.web.core.windows.net^
 ||azvclothing.com^
 ||babybeddingdesign.com^
 ||bagsdeuter.com^
@@ -83,7 +83,6 @@
 ||bigappboi.com^
 ||bikehotsale.com^
 ||binggrondahlshop.com^
-||binom0-web.com^
 ||binomo-brokers.com^
 ||binomo-id.pro^
 ||binomo.broker^
@@ -129,7 +128,6 @@
 ||buydubuy.com^
 ||buyfingermoney.company.com^
 ||buyyeezy2023.com^
-||buzzdeal.com^
 ||by-emmamuller.de^
 ||byeuys.shop^
 ||c3scores.com^
@@ -200,6 +198,7 @@
 ||daftar-binomo.website^
 ||dailygiftstore.com^
 ||danadarurat.net^
+||danainstan.xyz^
 ||danapintar.club^
 ||danapro.net^
 ||danarakyatol.com^
@@ -216,7 +215,6 @@
 ||decompraschile.com^
 ||decoryourhome.store^
 ||deergift.com^
-||defcon7.com.br^
 ||deluxdoll.com^
 ||devifoodgrains.com^
 ||deytee.com^
@@ -237,7 +235,6 @@
 ||dreamgreenshoe.com^
 ||dreamstee.com^
 ||dreamstees.com^
-||du-tee.com^
 ||duckydecor.store^
 ||duitpanas.top^
 ||dumanus.com^
@@ -263,7 +260,6 @@
 ||eudshop.shop^
 ||evangeliostore.com^
 ||eviralstore.com^
-||exelsure.com^
 ||expertrader.me^
 ||expressmovers.com^
 ||familybakery.xyz^
@@ -334,7 +330,6 @@
 ||forksbike.com^
 ||fotballsko-salg.com^
 ||fraeuleinemma.fun^
-||freedom-deposit.ca^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -398,7 +393,6 @@
 ||ihuers.com^
 ||ikiha.com^
 ||iklrge.com^
-||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
@@ -435,6 +429,7 @@
 ||kingteestore.com^
 ||kitchendecor.shop^
 ||kleankanteenbottle.com^
+||kmarttee.com^
 ||knightmods.com^
 ||kohlerofficial.com^
 ||kontribusiuang.top^
@@ -487,7 +482,6 @@
 ||lucidtiger.com^
 ||lucysstyle.com^
 ||lunapresent.com^
-||luvinstars.com^
 ||luxsgear.com^
 ||m-contact.site^
 ||m.bpfutures.top^
@@ -543,11 +537,9 @@
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
-||navi100.ru^
 ||navi11.com^
 ||navi12.com^
 ||navi13.com^
-||navi13.ru^
 ||navi18.com^
 ||navi2.com^
 ||navi20.ru^
@@ -560,10 +552,12 @@
 ||navi24.ru^
 ||navi25.ru^
 ||navi26.com^
+||navi29.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
 ||navi33.com^
+||navi34.ru^
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
@@ -593,10 +587,12 @@
 ||navi67.com^
 ||navi67.ru^
 ||navi7.com^
+||navi70.ru^
 ||navi71.com^
 ||navi72.com^
 ||navi72.ru^
 ||navi73.com^
+||navi73.ru^
 ||navi74.com^
 ||navi75.com^
 ||navi76.com^
@@ -652,6 +648,7 @@
 ||nip4.com^
 ||nip44.com^
 ||nip5.com^
+||nip55.com^
 ||nip57.com^
 ||nip6.com^
 ||nip69.com^
@@ -833,6 +830,7 @@
 ||soreldiscount.com^
 ||souhoney.com^
 ||source84.com^
+||southernlife.net^
 ||spacexmusk.io^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
@@ -862,7 +860,6 @@
 ||storeskiwear.com^
 ||storesp.com^
 ||streamloot.co^
-||strogame.com^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
 ||successglossary.com^
@@ -893,6 +890,7 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
