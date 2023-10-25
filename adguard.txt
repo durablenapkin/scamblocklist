@@ -125,7 +125,6 @@
 ||buydubuy.com^
 ||buyfingermoney.company.com^
 ||buyyeezy2023.com^
-||buzzdeal.com^
 ||by-emmamuller.de^
 ||byeuys.shop^
 ||c3scores.com^
@@ -177,6 +176,7 @@
 ||coolest3d.com^
 ||coolestpod.com^
 ||corg.co^
+||costcotee.com^
 ||couponxoo.com^
 ||courier-tracking.com^
 ||cracksway.com^
@@ -248,6 +248,7 @@
 ||elitestrustonline.biz^
 ||elitestrustonline.com^
 ||elonspace.org^
+||elonx2tesla.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
@@ -387,7 +388,6 @@
 ||ihuers.com^
 ||ikiha.com^
 ||iklrge.com^
-||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
@@ -415,6 +415,7 @@
 ||justdy.shop^
 ||kakaoli.co.kr^
 ||kakaopv.co.kr^
+||kalugastore.com^
 ||keenfootwearsale.com^
 ||keltysale.com^
 ||kewal.shop^
@@ -426,7 +427,6 @@
 ||kitchendecor.shop^
 ||kleankanteenbottle.com^
 ||knightmods.com^
-||kohlerofficial.com^
 ||kontribusiuang.top^
 ||koperasi.naricash.com^
 ||kopisusu.co.id^
@@ -482,6 +482,7 @@
 ||m.coinexeu.vip^
 ||madeinusas.com^
 ||maebl.com^
+||magnasat.com^
 ||magnite.shop^
 ||majucash.xyz^
 ||mamapapaclothing.com^
@@ -510,6 +511,7 @@
 ||moneymm1688.shop^
 ||monkstars.com^
 ||motovinreports.com^
+||mrarmstrongsclass.com^
 ||mujib-store28.blogspot.com^
 ||museuw.com^
 ||musk-aigpt.com^
@@ -529,6 +531,7 @@
 ||natilove.com^
 ||nationaladvancegroup.com^
 ||natistore.us^
+||navi0.ru^
 ||navi1.com^
 ||navi10.com^
 ||navi10.ru^
@@ -536,6 +539,7 @@
 ||navi11.com^
 ||navi12.com^
 ||navi13.com^
+||navi14.ru^
 ||navi18.com^
 ||navi2.com^
 ||navi20.ru^
@@ -569,13 +573,13 @@
 ||navi50.com^
 ||navi53.com^
 ||navi54.com^
+||navi54.ru^
 ||navi55.com^
 ||navi55.ru^
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
 ||navi61.com^
-||navi61.ru^
 ||navi65.com^
 ||navi66.com^
 ||navi66.ru^
@@ -601,7 +605,6 @@
 ||navi86.ru^
 ||navi87.com^
 ||navi88.com^
-||navi88.ru^
 ||navi89.com^
 ||navi89.ru^
 ||navi9.com^
@@ -611,7 +614,6 @@
 ||navi92.ru^
 ||navi94.com^
 ||navi96.com^
-||navi96.ru^
 ||navi98.com^
 ||navi99.com^
 ||nbdiscount.com^
@@ -626,7 +628,6 @@
 ||ngreditinaja.top^
 ||nicelegant.com^
 ||niche3d.us^
-||ninzatool.pw^
 ||nip1.com^
 ||nip12.com^
 ||nip13.com^
@@ -646,7 +647,6 @@
 ||nip57.com^
 ||nip6.com^
 ||nip69.com^
-||nip7.com^
 ||nip8.com^
 ||nip84.com^
 ||nip88.com^
@@ -679,7 +679,6 @@
 ||online-binomo.com^
 ||onlineadid.com^
 ||onlinehome.us^
-||onlinekohler.com^
 ||onlyfanstake.pro^
 ||onrunningshop.com^
 ||onthereelpros.com^
@@ -765,6 +764,7 @@
 ||ringtoperfection.com^
 ||rjgriffith.com^
 ||robinmooreband.com^
+||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||rossignol-ski.com^
@@ -827,6 +827,7 @@
 ||souhoney.com^
 ||source84.com^
 ||southernlife.net^
+||southpark-fan.com^
 ||spacexmusk.io^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
@@ -886,6 +887,7 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -895,7 +897,6 @@
 ||thegeekgifts.com^
 ||thehappywood.com^
 ||thehardcorehabits.com^
-||thekeilas.com^
 ||themountainus.com^
 ||themountainwarehouse.com^
 ||theniemannbest.com^
@@ -936,6 +937,7 @@
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitterr.com^
+||u.umax-pro.ru^
 ||uange.shop^
 ||uangmu.top^
 ||uangmudahapp.com^
@@ -964,7 +966,6 @@
 ||vegamartz.com^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
-||vetoro.cc^
 ||vicidola.com^
 ||vikingstore.co^
 ||vinisay.com^
