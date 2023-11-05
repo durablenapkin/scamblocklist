@@ -288,7 +288,6 @@
 ||faze42.com^
 ||faze47.com^
 ||faze5.com^
-||faze58.com^
 ||faze6.com^
 ||faze60.com^
 ||faze64.com^
@@ -320,6 +319,7 @@
 ||fitgirl-repacks.vip^
 ||fitgirlrepacksite.com^
 ||fix-live.tech^
+||fixpub.com^
 ||flattee.com^
 ||forksbike.com^
 ||fotballsko-salg.com^
@@ -405,7 +405,6 @@
 ||iteeus.com^
 ||jackyeby.com^
 ||jagkart.com^
-||jakedstake.com^
 ||jakkesalgs.com^
 ||januashop.com^
 ||jellyfishstat.live^
@@ -506,7 +505,6 @@
 ||miuprints.com^
 ||mizunsports.com^
 ||modmobile24.com^
-||momchip.com^
 ||moneymm1688.shop^
 ||monkstars.com^
 ||motovinreports.com^
@@ -533,12 +531,14 @@
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
+||navi100.ru^
 ||navi11.com^
 ||navi12.com^
 ||navi13.com^
 ||navi15.com^
 ||navi18.com^
 ||navi2.com^
+||navi2.ru^
 ||navi20.com^
 ||navi20.ru^
 ||navi21.com^
@@ -593,6 +593,7 @@
 ||navi8.com^
 ||navi81.com^
 ||navi82.com^
+||navi83.ru^
 ||navi84.com^
 ||navi85.com^
 ||navi85.ru^
@@ -761,7 +762,6 @@
 ||rewardsgiantca.com^
 ||ringantunai.com^
 ||ringtoperfection.com^
-||ripple-won.com^
 ||rjgriffith.com^
 ||robinmooreband.com^
 ||rockchief.com^
@@ -795,6 +795,7 @@
 ||shop-nanox.com^
 ||shop.spreadshirt.com^
 ||shopee1666.com^
+||shopperexpress.shop^
 ||shopraidlight.com^
 ||shopsyracuseonline.com^
 ||shoptcuhornedonline.com^
@@ -930,7 +931,6 @@
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitterr.com^
-||uange.shop^
 ||uangmu.top^
 ||uangmudahapp.com^
 ||uangqu.online^
@@ -940,7 +940,6 @@
 ||um-bs.com^
 ||unifully.com^
 ||uniqueetee.com^
-||unitedglobal-logistics.com^
 ||universityofqatarrectorate.godaddysites.com^
 ||unkinerecle.com^
 ||uplevelreward.com^
@@ -996,7 +995,6 @@
 ||yofi-yofi.com^
 ||yoli.my.id^
 ||youdebrid.com^
-||youthfy.shop^
 ||youtubebplan.com^
 ||youtubee.com^
 ||youtunbe.com^
