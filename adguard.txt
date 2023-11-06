@@ -141,7 +141,6 @@
 ||casha.xyz^
 ||cebesale.com^
 ||chandeco.com^
-||charmbean.com^
 ||charmsection.com^
 ||cheat-on.com^
 ||check.c3scores.com^
@@ -210,7 +209,6 @@
 ||decompraschile.com^
 ||decoryourhome.store^
 ||deergift.com^
-||defcon7.com.br^
 ||deluxdoll.com^
 ||devifoodgrains.com^
 ||deytee.com^
@@ -319,7 +317,6 @@
 ||fitgirl-repacks.vip^
 ||fitgirlrepacksite.com^
 ||fix-live.tech^
-||fixpub.com^
 ||flattee.com^
 ||forksbike.com^
 ||fotballsko-salg.com^
@@ -387,7 +384,6 @@
 ||ihuers.com^
 ||ikiha.com^
 ||iklrge.com^
-||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
@@ -531,14 +527,12 @@
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
-||navi100.ru^
 ||navi11.com^
 ||navi12.com^
 ||navi13.com^
 ||navi15.com^
 ||navi18.com^
 ||navi2.com^
-||navi2.ru^
 ||navi20.com^
 ||navi20.ru^
 ||navi21.com^
@@ -561,6 +555,7 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi43.com^
 ||navi44.ru^
 ||navi45.ru^
@@ -593,7 +588,6 @@
 ||navi8.com^
 ||navi81.com^
 ||navi82.com^
-||navi83.ru^
 ||navi84.com^
 ||navi85.com^
 ||navi85.ru^
@@ -609,6 +603,7 @@
 ||navi92.ru^
 ||navi94.com^
 ||navi96.com^
+||navi97.com^
 ||navi98.com^
 ||navi99.com^
 ||nbdiscount.com^
@@ -771,6 +766,7 @@
 ||royalhedgies.com^
 ||rptbaa.shop^
 ||rsaonlinenow.com.au^
+||rudolphfly.com^
 ||rupiahsaku.com^
 ||ryanurabonpitbullpuppies.com^
 ||salealfresco.com^
@@ -795,7 +791,6 @@
 ||shop-nanox.com^
 ||shop.spreadshirt.com^
 ||shopee1666.com^
-||shopperexpress.shop^
 ||shopraidlight.com^
 ||shopsyracuseonline.com^
 ||shoptcuhornedonline.com^
@@ -860,6 +855,7 @@
 ||summersale.co^
 ||summersale.online^
 ||supercutestuff.com^
+||superfacehoodie.com^
 ||supperbrand.company.site^
 ||supportdelivery3414-ups.com^
 ||supreme-adblocker.net^
@@ -940,6 +936,7 @@
 ||um-bs.com^
 ||unifully.com^
 ||uniqueetee.com^
+||unitedglobal-logistics.com^
 ||universityofqatarrectorate.godaddysites.com^
 ||unkinerecle.com^
 ||uplevelreward.com^
