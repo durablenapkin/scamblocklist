@@ -4119,6 +4119,9 @@
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 store.nosdaarte.com
+0.0.0.0 novabeds.ca
+0.0.0.0 www.novabeds.ca
+0.0.0.0 store.novabeds.ca
 0.0.0.0 now-openai.site
 0.0.0.0 www.now-openai.site
 0.0.0.0 store.now-openai.site
