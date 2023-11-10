@@ -28,7 +28,6 @@
 ||aircgd.shop^
 ||airmaxskobillige.com^
 ||ajcenteruss.com^
-||ajdta.com^
 ||akarosi.com^
 ||akebicycle.com^
 ||akjamv.shop^
@@ -45,7 +44,6 @@
 ||amcclothes.com^
 ||amznshirts.com^
 ||andamente.pt^
-||animeshoppers.com^
 ||anydebrid.com^
 ||aoocib.com^
 ||apple.enablemyidservices.com^
@@ -124,7 +122,6 @@
 ||brightonmover.com^
 ||btc9339.com^
 ||buddhakind.com^
-||budm.shop^
 ||burgershirt.com^
 ||buydubuy.com^
 ||buyfingermoney.company.com^
@@ -178,7 +175,6 @@
 ||cookietee.com^
 ||coolest3d.com^
 ||coolestpod.com^
-||coollestpod.com^
 ||corg.co^
 ||couponxoo.com^
 ||courier-tracking.com^
@@ -240,6 +236,7 @@
 ||earnpets.com^
 ||easynatures.com^
 ||easypayment.me^
+||easyshopper.org^
 ||easyshoppingus.com^
 ||ebuy8.shop^
 ||ecs-online.ffm.to^
@@ -276,7 +273,6 @@
 ||faze1.com^
 ||faze11.com^
 ||faze13.com^
-||faze15.com^
 ||faze18.com^
 ||faze19.com^
 ||faze2.com^
@@ -287,7 +283,6 @@
 ||faze27.com^
 ||faze3.com^
 ||faze35.com^
-||faze36.com^
 ||faze4.com^
 ||faze40.com^
 ||faze41.com^
@@ -538,7 +533,6 @@
 ||navi12.com^
 ||navi13.com^
 ||navi15.com^
-||navi17.com^
 ||navi18.com^
 ||navi2.com^
 ||navi20.com^
@@ -563,7 +557,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi43.com^
 ||navi44.ru^
 ||navi45.ru^
@@ -616,6 +609,7 @@
 ||negotiatefoam.cn^
 ||neozor.com^
 ||netcotto.com^
+||netsugar.shop^
 ||networksfishing.com^
 ||new.bestageoffers22.com^
 ||newdompet.com^
@@ -882,11 +876,12 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
-||teslainc2023.net^
 ||teslatucker.com^
+||thecabinas.com^
 ||thecycleshoes.com^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
@@ -908,7 +903,6 @@
 ||tkp214.com^
 ||tlstoreonline.com^
 ||toddlershood.shop^
-||toko999.shop^
 ||tomadamsenergy.com^
 ||tomfordgo.com^
 ||toolmartin.com^
@@ -931,7 +925,6 @@
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitterr.com^
-||uange.shop^
 ||uangmu.top^
 ||uangmudahapp.com^
 ||uangqu.online^
@@ -986,6 +979,7 @@
 ||woadoodles.com^
 ||wywacua8.boats^
 ||x2-promo.net^
+||xajzfwgs.com^
 ||xn4iqv.succyarthyry.com^
 ||xrp-give.pro^
 ||xunlei.it^
