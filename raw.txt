@@ -96,6 +96,9 @@
 0.0.0.0 adidasko.com
 0.0.0.0 www.adidasko.com
 0.0.0.0 store.adidasko.com
+0.0.0.0 adminicesm.life
+0.0.0.0 www.adminicesm.life
+0.0.0.0 store.adminicesm.life
 0.0.0.0 adupihi.com
 0.0.0.0 www.adupihi.com
 0.0.0.0 store.adupihi.com
