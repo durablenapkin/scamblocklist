@@ -1869,6 +1869,9 @@
 0.0.0.0 freedommobile.syncreturn.ca
 0.0.0.0 www.freedommobile.syncreturn.ca
 0.0.0.0 store.freedommobile.syncreturn.ca
+0.0.0.0 freedommobile2.com
+0.0.0.0 www.freedommobile2.com
+0.0.0.0 store.freedommobile2.com
 0.0.0.0 freser.info
 0.0.0.0 www.freser.info
 0.0.0.0 store.freser.info
