@@ -981,6 +981,9 @@
 0.0.0.0 customizerbox.com
 0.0.0.0 www.customizerbox.com
 0.0.0.0 store.customizerbox.com
+0.0.0.0 customizeyourdeliveryroute.com
+0.0.0.0 www.customizeyourdeliveryroute.com
+0.0.0.0 store.customizeyourdeliveryroute.com
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
 0.0.0.0 store.customurink.com
@@ -3702,6 +3705,9 @@
 0.0.0.0 netcotto.com
 0.0.0.0 www.netcotto.com
 0.0.0.0 store.netcotto.com
+0.0.0.0 netflix.update-payment1.com
+0.0.0.0 www.netflix.update-payment1.com
+0.0.0.0 store.netflix.update-payment1.com
 0.0.0.0 netsugar.shop
 0.0.0.0 www.netsugar.shop
 0.0.0.0 store.netsugar.shop
