@@ -21,7 +21,6 @@
 ||adidasko.com^
 ||adminicesm.life^
 ||adupihi.com^
-||adzfree-watch.net^
 ||affordableforyouusa5.godaddysites.com^
 ||ahenana.com^
 ||ahundredphotos.com^
@@ -60,7 +59,6 @@
 ||auspost.your-redelivery-au.com^
 ||aussiesportfashion.com^
 ||azfancy.com^
-||azitecs.com^
 ||azvclothing.com^
 ||babybeddingdesign.com^
 ||bagsdeuter.com^
@@ -103,6 +101,7 @@
 ||blackabdo.company.site^
 ||blastparis.com^
 ||bloomessentialsbrand.com^
+||bloomingvibe.com^
 ||bncentertainment.com^
 ||bolejug.us^
 ||bombardina.pl^
@@ -117,6 +116,7 @@
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
 ||brightonmover.com^
+||btc9339.com^
 ||buddhakind.com^
 ||burgershirt.com^
 ||buydubuy.com^
@@ -128,6 +128,7 @@
 ||c3scores.com^
 ||campingsurfshop.com^
 ||can-postsmsnotice.com^
+||canadapost-service.info^
 ||canadapost.mydelivery1.com^
 ||candlesbymadison.com^
 ||canjaume.com^
@@ -139,7 +140,6 @@
 ||casha.xyz^
 ||cebesale.com^
 ||chandeco.com^
-||charmsection.com^
 ||cheat-on.com^
 ||check-update-today.me^
 ||check.c3scores.com^
@@ -203,7 +203,6 @@
 ||dbhmnp.shop^
 ||dcsnowboard.com^
 ||ddoe.shop^
-||dearrupiah.com^
 ||debridlink.com^
 ||decompraschile.com^
 ||decoryourhome.store^
@@ -238,6 +237,7 @@
 ||ecs-online.ffm.to^
 ||ed0.it^
 ||eggdy.shop^
+||ekommmedia.com^
 ||ekyfoa.shop^
 ||elitestrustonline.biz^
 ||elitestrustonline.com^
@@ -245,6 +245,7 @@
 ||emberio.com^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
+||equiwarmpro.co^
 ||ercnnier.com^
 ||esl-gaming.com^
 ||eth2023.top^
@@ -299,6 +300,7 @@
 ||faze77.com^
 ||faze80.com^
 ||faze88.com^
+||faze9.com^
 ||faze90.com^
 ||fazpowerdenet.tumblr.com^
 ||fdrc-gov.org^
@@ -325,7 +327,6 @@
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fujibikes.com^
-||fulfillgift.com^
 ||fumekart.com^
 ||fundanemt.org^
 ||fundcash.id^
@@ -349,7 +350,6 @@
 ||gizmopage.com^
 ||gladiadormalas.com.br^
 ||gllomall.com^
-||gload.info^
 ||glstee.com^
 ||godeskonettbutikk.com^
 ||goglle.com^
@@ -377,6 +377,7 @@
 ||hotbignews.com^
 ||hotdebrid.com^
 ||hotmod.eu^
+||husqvarnaoutlet.shop^
 ||i-grade.online^
 ||iaqorwr.com^
 ||iceao.shop^
@@ -402,6 +403,7 @@
 ||iteeus.com^
 ||jackyeby.com^
 ||jagkart.com^
+||jakedstake.com^
 ||jakkesalgs.com^
 ||januashop.com^
 ||jellyfishstat.live^
@@ -448,8 +450,8 @@
 ||linostee.com^
 ||lisabuddy.com^
 ||lisatillhon.de^
+||lisianstore.com^
 ||litcomplex.com^
-||livecato.com^
 ||liverepsae.adeftsolutions.com^
 ||loepwatch.com^
 ||lojaacasa.com.br^
@@ -468,7 +470,6 @@
 ||lucchesestore.online^
 ||lucidtiger.com^
 ||lucysstyle.com^
-||lunapresent.com^
 ||luxsgear.com^
 ||m-contact.site^
 ||m.bpfutures.top^
@@ -501,6 +502,7 @@
 ||moneymm1688.shop^
 ||monkstars.com^
 ||motovinreports.com^
+||msmcompare.com^
 ||mujib-store28.blogspot.com^
 ||museuw.com^
 ||musk-aigpt.com^
@@ -520,7 +522,6 @@
 ||nationaladvancegroup.com^
 ||natistore.us^
 ||navi1.com^
-||navi10.com^
 ||navi10.ru^
 ||navi100.com^
 ||navi11.com^
@@ -537,8 +538,6 @@
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
-||navi25.ru^
-||navi27.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
@@ -563,15 +562,12 @@
 ||navi59.ru^
 ||navi6.com^
 ||navi61.com^
-||navi62.ru^
 ||navi65.com^
 ||navi66.com^
 ||navi66.ru^
 ||navi67.com^
 ||navi67.ru^
 ||navi7.com^
-||navi7.ru^
-||navi70.ru^
 ||navi71.com^
 ||navi72.com^
 ||navi72.ru^
@@ -579,15 +575,10 @@
 ||navi74.com^
 ||navi75.com^
 ||navi76.com^
-||navi76.ru^
 ||navi77.com^
 ||navi78.ru^
 ||navi79.com^
-||navi79.ru^
 ||navi8.com^
-||navi81.com^
-||navi81.ru^
-||navi82.com^
 ||navi85.com^
 ||navi85.ru^
 ||navi86.ru^
@@ -689,7 +680,6 @@
 ||parajumperssalg.com^
 ||parisiporlin-ktki.kemkes.go.id^
 ||pasarkta.pasaruang.id^
-||pateim.com^
 ||path2zillion.com^
 ||paypartc.top^
 ||penguinnow.com^
@@ -701,7 +691,6 @@
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
-||pickablegift.com^
 ||pictureoutdoor.com^
 ||pinjamanduit.lol^
 ||pinjamanelit.top^
@@ -771,14 +760,12 @@
 ||sentees.com^
 ||serengetidiscount.com^
 ||shapeden.com^
-||shinezily.com^
 ||shiptop.delivery^
 ||shirtforfan.com^
 ||shirttest.com^
 ||shoeaddic.com^
 ||shop-nanox.com^
 ||shop.spreadshirt.com^
-||shopee1666.com^
 ||shopraidlight.com^
 ||shopsyracuseonline.com^
 ||shoptcuhornedonline.com^
@@ -806,7 +793,6 @@
 ||soreldiscount.com^
 ||souhoney.com^
 ||source84.com^
-||southernlife.net^
 ||spacexmusk.io^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
@@ -815,6 +801,7 @@
 ||sportswearforfans.com^
 ||spreadstores.com^
 ||staging.zendrop.com^
+||startjacket.com^
 ||startuplatte.com^
 ||stealthhorizonshipping.com^
 ||steamgateways.com^
@@ -849,6 +836,7 @@
 ||supreme-adblocker.net^
 ||survivalcatsupply.com^
 ||sutton-down-badges.com^
+||swellsup.com^
 ||swuso.com^
 ||t-post.com^
 ||tadarick.com^
@@ -876,7 +864,6 @@
 ||thegeekgifts.com^
 ||thehappywood.com^
 ||thehardcorehabits.com^
-||thekeilas.com^
 ||themountainus.com^
 ||theniemannbest.com^
 ||theonepercentcommunity.com^
@@ -923,7 +910,6 @@
 ||um-bs.com^
 ||unifully.com^
 ||uniqueetee.com^
-||unitedglobal-logistics.com^
 ||universityofqatarrectorate.godaddysites.com^
 ||unkinerecle.com^
 ||uplevelreward.com^
@@ -940,7 +926,6 @@
 ||vegamartz.com^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
-||vetoro.cc^
 ||vicidola.com^
 ||vikingstore.co^
 ||vinisay.com^
@@ -968,7 +953,6 @@
 ||woadoodles.com^
 ||wywacua8.boats^
 ||x2-promo.net^
-||xajzfwgs.com^
 ||xn4iqv.succyarthyry.com^
 ||xrp-give.pro^
 ||xunlei.it^
