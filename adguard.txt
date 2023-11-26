@@ -59,6 +59,7 @@
 ||auspost.your-redelivery-au.com^
 ||aussiesportfashion.com^
 ||azfancy.com^
+||azitecs.com^
 ||azvclothing.com^
 ||babybeddingdesign.com^
 ||bagsdeuter.com^
@@ -140,6 +141,7 @@
 ||casha.xyz^
 ||cebesale.com^
 ||chandeco.com^
+||charmsection.com^
 ||cheat-on.com^
 ||check-update-today.me^
 ||check.c3scores.com^
@@ -319,6 +321,7 @@
 ||fitgirlrepacksite.com^
 ||fix-live.tech^
 ||flattee.com^
+||foryourdears.com^
 ||fotballsko-salg.com^
 ||fraeuleinemma.fun^
 ||freedommobile2.com^
@@ -327,6 +330,7 @@
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fujibikes.com^
+||fulfillgift.com^
 ||fumekart.com^
 ||fundanemt.org^
 ||fundcash.id^
@@ -350,12 +354,14 @@
 ||gizmopage.com^
 ||gladiadormalas.com.br^
 ||gllomall.com^
+||gload.info^
 ||glstee.com^
 ||godeskonettbutikk.com^
 ||goglle.com^
 ||goldtimeinvest.com^
 ||gonedewcopy.live^
 ||gossvibe.com^
+||gowarehouse.net^
 ||goyourheart.com^
 ||graciaszone.com^
 ||gsport.com^
@@ -409,6 +415,7 @@
 ||jellyfishstat.live^
 ||jellystores.com^
 ||jfremovals.com^
+||jne-express.my.id^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
@@ -452,6 +459,7 @@
 ||lisatillhon.de^
 ||lisianstore.com^
 ||litcomplex.com^
+||livecato.com^
 ||liverepsae.adeftsolutions.com^
 ||loepwatch.com^
 ||lojaacasa.com.br^
@@ -470,6 +478,7 @@
 ||lucchesestore.online^
 ||lucidtiger.com^
 ||lucysstyle.com^
+||lunapresent.com^
 ||luxsgear.com^
 ||m-contact.site^
 ||m.bpfutures.top^
@@ -522,6 +531,7 @@
 ||nationaladvancegroup.com^
 ||natistore.us^
 ||navi1.com^
+||navi10.com^
 ||navi10.ru^
 ||navi100.com^
 ||navi11.com^
@@ -598,7 +608,6 @@
 ||netcotto.com^
 ||netflix.update-payment1.com^
 ||networksfishing.com^
-||new.bestageoffers22.com^
 ||newdompet.com^
 ||newfootwearshop.com^
 ||newgstore.com^
@@ -680,6 +689,7 @@
 ||parajumperssalg.com^
 ||parisiporlin-ktki.kemkes.go.id^
 ||pasarkta.pasaruang.id^
+||pateim.com^
 ||path2zillion.com^
 ||paypartc.top^
 ||penguinnow.com^
@@ -691,6 +701,7 @@
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
+||pickablegift.com^
 ||pictureoutdoor.com^
 ||pinjamanduit.lol^
 ||pinjamanelit.top^
@@ -702,7 +713,6 @@
 ||pjs.outlet.com^
 ||platform.crypto1capital-trade.com^
 ||plutostars.com^
-||pn10.xyz^
 ||polish-money-matters.blogspot.com^
 ||popeurope.com^
 ||posehee.com^
@@ -743,7 +753,6 @@
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rptbaa.shop^
-||rsaonlinenow.com.au^
 ||rupiahsaku.com^
 ||ryanurabonpitbullpuppies.com^
 ||salealfresco.com^
@@ -793,6 +802,7 @@
 ||soreldiscount.com^
 ||souhoney.com^
 ||source84.com^
+||southernlife.net^
 ||spacexmusk.io^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
@@ -801,7 +811,6 @@
 ||sportswearforfans.com^
 ||spreadstores.com^
 ||staging.zendrop.com^
-||startjacket.com^
 ||startuplatte.com^
 ||stealthhorizonshipping.com^
 ||steamgateways.com^
@@ -836,7 +845,6 @@
 ||supreme-adblocker.net^
 ||survivalcatsupply.com^
 ||sutton-down-badges.com^
-||swellsup.com^
 ||swuso.com^
 ||t-post.com^
 ||tadarick.com^
@@ -885,7 +893,6 @@
 ||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
-||treasurefan.com^
 ||trendsharks.com^
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
@@ -910,6 +917,7 @@
 ||um-bs.com^
 ||unifully.com^
 ||uniqueetee.com^
+||unitedglobal-logistics.com^
 ||universityofqatarrectorate.godaddysites.com^
 ||unkinerecle.com^
 ||uplevelreward.com^
@@ -926,6 +934,7 @@
 ||vegamartz.com^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
+||vetoro.cc^
 ||vicidola.com^
 ||vikingstore.co^
 ||vinisay.com^
@@ -953,6 +962,7 @@
 ||woadoodles.com^
 ||wywacua8.boats^
 ||x2-promo.net^
+||xajzfwgs.com^
 ||xn4iqv.succyarthyry.com^
 ||xrp-give.pro^
 ||xunlei.it^
