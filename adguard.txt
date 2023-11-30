@@ -54,6 +54,7 @@
 ||assassinfitness.com^
 ||atrendsz.com^
 ||attenstyle.com^
+||au-bloomreach.com^
 ||audiosg.com.sg^
 ||augusthenri.be^
 ||auspost.your-redelivery-au.com^
@@ -184,7 +185,6 @@
 ||cryptot.net^
 ||csbo.shop^
 ||csgamingzone.com^
-||csmoney.trade^
 ||customizerbox.com^
 ||customizeyourdeliveryroute.com^
 ||customurink.com^
@@ -202,7 +202,6 @@
 ||dataid-subsidies.click^
 ||dautee.com^
 ||dbhmnp.shop^
-||dcsnowboard.com^
 ||ddoe.shop^
 ||debridlink.com^
 ||decompraschile.com^
@@ -254,7 +253,6 @@
 ||eviralstore.com^
 ||expertrader.me^
 ||expressmovers.com^
-||factorysale2023.com^
 ||familybakery.xyz^
 ||familybestgifts.com^
 ||familygiftlove.myshopify.com^
@@ -272,7 +270,6 @@
 ||faze11.com^
 ||faze13.com^
 ||faze18.com^
-||faze19.com^
 ||faze2.com^
 ||faze21.com^
 ||faze23.com^
@@ -362,6 +359,7 @@
 ||goldtimeinvest.com^
 ||gonedewcopy.live^
 ||gossvibe.com^
+||gowarehouse.net^
 ||goyourheart.com^
 ||graciaszone.com^
 ||gsport.com^
@@ -408,12 +406,10 @@
 ||iteeus.com^
 ||jackyeby.com^
 ||jagkart.com^
-||jakedstake.com^
 ||jakkesalgs.com^
 ||januashop.com^
 ||jellyfishstat.live^
 ||jellystores.com^
-||jfremovals.com^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
@@ -477,7 +473,6 @@
 ||lucchesestore.online^
 ||lucidtiger.com^
 ||lucysstyle.com^
-||lunapresent.com^
 ||luxsgear.com^
 ||m.bpfutures.top^
 ||m.coinexeu.vip^
@@ -558,13 +553,13 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi43.com^
 ||navi44.ru^
 ||navi45.ru^
 ||navi47.com^
 ||navi5.com^
 ||navi50.com^
-||navi53.com^
 ||navi55.com^
 ||navi56.com^
 ||navi59.ru^
@@ -600,7 +595,6 @@
 ||navi96.com^
 ||navi98.com^
 ||navi99.com^
-||navi99.ru^
 ||nbdiscount.com^
 ||neozor.com^
 ||netcotto.com^
@@ -638,6 +632,7 @@
 ||nip84.com^
 ||nip88.com^
 ||nip9.com^
+||nip92.com^
 ||nldstore.com^
 ||nlepfpteg.com^
 ||noatopdesign.com^
@@ -716,6 +711,7 @@
 ||posehee.com^
 ||postcanada.priority-ship.info^
 ||potterheads.co^
+||powerboostup.com^
 ||premiumqualityblanket.com^
 ||prestamex.top^
 ||primeleech.com^
@@ -749,7 +745,6 @@
 ||rossignol-ski.com^
 ||royaldecorhome.store^
 ||royalhedgies.com^
-||rozetia.com^
 ||rptbaa.shop^
 ||rsaonlinenow.com.au^
 ||rupiahsaku.com^
@@ -776,6 +771,7 @@
 ||shop-nanox.com^
 ||shop.spreadshirt.com^
 ||shopee1666.com^
+||shopperexpress.shop^
 ||shopraidlight.com^
 ||shopsyracuseonline.com^
 ||shoptcuhornedonline.com^
@@ -803,15 +799,16 @@
 ||soreldiscount.com^
 ||souhoney.com^
 ||source84.com^
+||southernlife.net^
 ||spacexmusk.io^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
 ||sportsbrooks.com^
 ||sportswearfanatics.com^
 ||sportswearforfans.com^
+||sportyprinty.com^
 ||spreadstores.com^
 ||staging.zendrop.com^
-||startjacket.com^
 ||startuplatte.com^
 ||stealthhorizonshipping.com^
 ||steamgateways.com^
@@ -874,7 +871,6 @@
 ||thegeekgifts.com^
 ||thehappywood.com^
 ||thehardcorehabits.com^
-||thekeilas.com^
 ||themountainus.com^
 ||theniemannbest.com^
 ||theonepercentcommunity.com^
@@ -990,3 +986,4 @@
 ||zgalaxytee.com^
 ||zolrqw.palatlaldate.com^
 ||zooger.space^
+||zuozuoshoe.shop^
