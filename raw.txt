@@ -1071,6 +1071,9 @@
 0.0.0.0 dbkdsale.com
 0.0.0.0 www.dbkdsale.com
 0.0.0.0 store.dbkdsale.com
+0.0.0.0 dbmobile-phototan.de
+0.0.0.0 www.dbmobile-phototan.de
+0.0.0.0 store.dbmobile-phototan.de
 0.0.0.0 dcsnowboard.com
 0.0.0.0 www.dcsnowboard.com
 0.0.0.0 store.dcsnowboard.com
