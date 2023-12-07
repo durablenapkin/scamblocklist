@@ -1878,6 +1878,9 @@
 0.0.0.0 frdmmobile.com
 0.0.0.0 www.frdmmobile.com
 0.0.0.0 store.frdmmobile.com
+0.0.0.0 freedom-5g.com
+0.0.0.0 www.freedom-5g.com
+0.0.0.0 store.freedom-5g.com
 0.0.0.0 freedom-deposit.ca
 0.0.0.0 www.freedom-deposit.ca
 0.0.0.0 store.freedom-deposit.ca
