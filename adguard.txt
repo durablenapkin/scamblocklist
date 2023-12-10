@@ -174,7 +174,6 @@
 ||cookietee.com^
 ||coolest3d.com^
 ||coolestpod.com^
-||cordou.info^
 ||corg.co^
 ||couponxoo.com^
 ||courier-tracking.com^
@@ -276,7 +275,6 @@
 ||faze13.com^
 ||faze18.com^
 ||faze2.com^
-||faze21.com^
 ||faze23.com^
 ||faze24.com^
 ||faze25.com^
@@ -302,8 +300,6 @@
 ||faze76.com^
 ||faze77.com^
 ||faze80.com^
-||faze81.com^
-||faze82.com^
 ||faze88.com^
 ||faze9.com^
 ||faze90.com^
@@ -558,7 +554,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi43.com^
 ||navi44.ru^
 ||navi45.ru^
@@ -570,10 +565,7 @@
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
-||navi6.ru^
 ||navi61.com^
-||navi61.ru^
-||navi62.ru^
 ||navi66.com^
 ||navi66.ru^
 ||navi67.com^
