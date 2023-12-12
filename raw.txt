@@ -39,6 +39,9 @@
 0.0.0.0 555sq.com.cn
 0.0.0.0 www.555sq.com.cn
 0.0.0.0 store.555sq.com.cn
+0.0.0.0 5g-update.com
+0.0.0.0 www.5g-update.com
+0.0.0.0 store.5g-update.com
 0.0.0.0 68437w.top
 0.0.0.0 www.68437w.top
 0.0.0.0 store.68437w.top
