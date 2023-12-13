@@ -11,7 +11,6 @@
 ||42gixk.98kk89.com^
 ||4556.de^
 ||5g-update.com^
-||68437w.top^
 ||7s4c.top^
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
@@ -150,6 +149,7 @@
 ||avito.booking.com-id16313.info^
 ||avito.booking.com-id23901.info^
 ||avito.booking.com-id302912.com^
+||avito.booking.com-id334112.com^
 ||avito.booking.com-id879712.com^
 ||avito.com-id15421.info^
 ||avito.pay.avito.avito.avito.avito.avito.com-id02349.info^
@@ -319,7 +319,6 @@
 ||c3scores.com^
 ||campingsurfshop.com^
 ||can-postsmsnotice.com^
-||canadapost-service.info^
 ||canadapost.mydelivery1.com^
 ||candlesbymadison.com^
 ||canjaume.com^
@@ -368,6 +367,7 @@
 ||com-id309712.com^
 ||com-id322712.com^
 ||com-id329712.com^
+||com-id334112.com^
 ||com-id802912.com^
 ||com-id802914.com^
 ||com-id802915.com^
@@ -397,6 +397,7 @@
 ||cycle100percent.com^
 ||czwcvfbc.page.link^
 ||daftar-binomo.website^
+||dailygiftstore.com^
 ||danapintar.club^
 ||danarakyatol.com^
 ||danylevych.com^
@@ -530,7 +531,6 @@
 ||fotballsko-salg.com^
 ||fr.app.admin.id601294105.date^
 ||fraeuleinemma.fun^
-||freedommobile2.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -615,6 +615,7 @@
 ||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
+||j-natural.com^
 ||jackyeby.com^
 ||jagkart.com^
 ||januashop.com^
@@ -643,6 +644,7 @@
 ||krediteasypro.com^
 ||krediteksklusif.com^
 ||kuyhaa.cc^
+||ladamustore.com^
 ||lasercutjewelry.net^
 ||ledgers.network^
 ||legarralazcoz.com^
@@ -736,6 +738,7 @@
 ||nationaladvancegroup.com^
 ||natistore.us^
 ||navi1.com^
+||navi10.com^
 ||navi10.ru^
 ||navi100.com^
 ||navi11.com^
@@ -764,6 +767,7 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi43.com^
 ||navi44.ru^
 ||navi45.ru^
@@ -809,7 +813,6 @@
 ||nbdiscount.com^
 ||neozor.com^
 ||netcotto.com^
-||netflix.update-payment1.com^
 ||networksfishing.com^
 ||new.bestageoffers22.com^
 ||newdompet.com^
@@ -837,6 +840,7 @@
 ||nip57.com^
 ||nip6.com^
 ||nip69.com^
+||nip7.com^
 ||nip8.com^
 ||nip84.com^
 ||nip88.com^
@@ -1830,12 +1834,14 @@
 ||sentees.com^
 ||serengetidiscount.com^
 ||shapeden.com^
+||shinezily.com^
 ||shiptop.delivery^
 ||shirtforfan.com^
 ||shirttest.com^
 ||shoeaddic.com^
 ||shop-nanox.com^
 ||shop.spreadshirt.com^
+||shopee1666.com^
 ||shopraidlight.com^
 ||shopsyracuseonline.com^
 ||shoptcuhornedonline.com^
@@ -1861,6 +1867,7 @@
 ||soreldiscount.com^
 ||souhoney.com^
 ||source84.com^
+||southernlife.net^
 ||spacexmusk.io^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
@@ -1907,6 +1914,7 @@
 ||supreme-adblocker.net^
 ||survivalcatsupply.com^
 ||sutton-down-badges.com^
+||swellsup.com^
 ||swuso.com^
 ||t-post.com^
 ||tadarick.com^
@@ -1998,6 +2006,7 @@
 ||vegamartz.com^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
+||vetoro.cc^
 ||vicidola.com^
 ||vikingstore.co^
 ||vinisay.com^

@@ -3276,6 +3276,9 @@
 0.0.0.0 itsthetrendydealstore.com
 0.0.0.0 www.itsthetrendydealstore.com
 0.0.0.0 store.itsthetrendydealstore.com
+0.0.0.0 j-natural.com
+0.0.0.0 www.j-natural.com
+0.0.0.0 store.j-natural.com
 0.0.0.0 jackyeby.com
 0.0.0.0 www.jackyeby.com
 0.0.0.0 store.jackyeby.com
