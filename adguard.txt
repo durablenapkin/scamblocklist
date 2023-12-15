@@ -265,7 +265,6 @@
 ||binomoweblogin.com^
 ||birkenstock-ca.com^
 ||bitcllpay.top^
-||bitcompay.org^
 ||bitgeekex.co^
 ||bitiiy.com^
 ||bitsoft360.app^
@@ -593,6 +592,7 @@
 ||hotmod.eu^
 ||husqvarnaoutlet.shop^
 ||i-grade.online^
+||iaqorwr.com^
 ||iceao.shop^
 ||icelandclothing.myshopify.com^
 ||ihuers.com^
@@ -836,6 +836,7 @@
 ||nip28.com^
 ||nip3.com^
 ||nip4.com^
+||nip44.com^
 ||nip57.com^
 ||nip6.com^
 ||nip69.com^
@@ -893,6 +894,7 @@
 ||pandzee.com^
 ||parajumperssalg.com^
 ||parisiporlin-ktki.kemkes.go.id^
+||pasarbali-malls.com^
 ||pasarkta.pasaruang.id^
 ||pateim.com^
 ||path2zillion.com^
@@ -1932,6 +1934,7 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -1956,6 +1959,7 @@
 ||tkp214.com^
 ||tlstoreonline.com^
 ||toddlershood.shop^
+||toko999.shop^
 ||tomadamsenergy.com^
 ||tomfordgo.com^
 ||toolmartin.com^
@@ -1971,7 +1975,6 @@
 ||tslaget.live^
 ||tslawill.com^
 ||tslax2.io^
-||tukeraja.store^
 ||tulumwellnessacademy.com^
 ||tunaicair.com^
 ||turnnetwor.com^
