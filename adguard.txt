@@ -536,7 +536,6 @@
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fujibikes.com^
-||fulfillgift.com^
 ||fumekart.com^
 ||fundanemt.org^
 ||fundcash.id^
@@ -696,7 +695,6 @@
 ||majucash.xyz^
 ||mamapapaclothing.com^
 ||markethops.com^
-||marleytecnologica.com^
 ||maxdebrid.com^
 ||mayor4london.com^
 ||mcdowellsmaltesepuppies.com^
@@ -894,7 +892,6 @@
 ||pandzee.com^
 ||parajumperssalg.com^
 ||parisiporlin-ktki.kemkes.go.id^
-||pasarbali-malls.com^
 ||pasarkta.pasaruang.id^
 ||pateim.com^
 ||path2zillion.com^
@@ -1334,6 +1331,7 @@
 ||sber.avito.avito.pay.booking.com-id309712.com^
 ||sber.avito.avito.pay.com-id20341.info^
 ||sber.avito.avito.pay.com-id309712.com^
+||sber.avito.avito.pay.com-id809712.com^
 ||sber.avito.avito.pay.www.booking.com-id01251.info^
 ||sber.avito.avito.pay.www.booking.com-id20341.info^
 ||sber.avito.avito.sber.pay.booking.com-id809702.com^
@@ -1566,6 +1564,7 @@
 ||sberbank.avito.avito.pay.com-id01251.info^
 ||sberbank.avito.avito.pay.com-id309712.com^
 ||sberbank.avito.avito.pay.com-id322712.com^
+||sberbank.avito.avito.pay.com-id809712.com^
 ||sberbank.avito.avito.pay.www.booking.com-id01251.info^
 ||sberbank.avito.avito.pay.www.booking.com-id15421.info^
 ||sberbank.avito.avito.pay.www.booking.com-id309712.com^
@@ -1934,7 +1933,6 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -1961,7 +1959,6 @@
 ||toddlershood.shop^
 ||toko999.shop^
 ||tomadamsenergy.com^
-||tomfordgo.com^
 ||toolmartin.com^
 ||toyrube.com^
 ||tpqcywcx.page.link^
