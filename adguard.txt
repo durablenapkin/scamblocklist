@@ -327,7 +327,6 @@
 ||cargotrustcourier.com^
 ||carsaratek.com^
 ||casha.xyz^
-||cashadvancexy.xyz^
 ||cebesale.com^
 ||chandeco.com^
 ||charmsection.com^
@@ -355,6 +354,7 @@
 ||cofdeal.com^
 ||coffeeteaware.com^
 ||coinaps.com^
+||coinreq.com^
 ||colorandcotton.com^
 ||columbiatopdeals.com^
 ||com-id01251.info^
@@ -406,7 +406,6 @@
 ||dataid-subsidies.click^
 ||dautee.com^
 ||dbhmnp.shop^
-||dbmobile-phototan.de^
 ||dcsnowboard.com^
 ||ddoe.shop^
 ||debridlink.com^
@@ -531,10 +530,9 @@
 ||foryourdears.com^
 ||fotballsko-salg.com^
 ||fr.app.admin.id601294105.date^
-||fraeuleinemma.fun^
+||freedom-5g.com^
 ||frest.info^
 ||friday89.com^
-||friends.nikonovaonline2.club^
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fujibikes.com^
@@ -564,6 +562,7 @@
 ||gizmopage.com^
 ||gladiadormalas.com.br^
 ||gllomall.com^
+||gload.info^
 ||glstee.com^
 ||godeskonettbutikk.com^
 ||goglle.com^
@@ -718,6 +717,7 @@
 ||moneymm1688.shop^
 ||monkstars.com^
 ||motovinreports.com^
+||movica.us^
 ||msmcompare.com^
 ||mujib-store28.blogspot.com^
 ||museuw.com^
@@ -741,7 +741,6 @@
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
-||navi11.com^
 ||navi12.com^
 ||navi13.com^
 ||navi18.com^
@@ -758,7 +757,6 @@
 ||navi30.ru^
 ||navi31.com^
 ||navi32.com^
-||navi32.ru^
 ||navi33.com^
 ||navi35.com^
 ||navi35.ru^
@@ -768,7 +766,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi43.com^
 ||navi44.ru^
 ||navi45.ru^
@@ -781,7 +778,6 @@
 ||navi59.ru^
 ||navi6.com^
 ||navi61.com^
-||navi63.ru^
 ||navi66.com^
 ||navi66.ru^
 ||navi67.com^
@@ -827,8 +823,6 @@
 ||ninzatool.pw^
 ||nip1.com^
 ||nip13.com^
-||nip14.com^
-||nip16.com^
 ||nip17.com^
 ||nip2.com^
 ||nip21.com^
@@ -1926,7 +1920,6 @@
 ||tartannewzealand.myshopify.com^
 ||tdgrop168.vip^
 ||tdsintegrations11.online^
-||tecappcloud.com^
 ||tee24h.com^
 ||teearrow.com^
 ||teechip.online^
@@ -1960,14 +1953,12 @@
 ||tkp214.com^
 ||tlstoreonline.com^
 ||toddlershood.shop^
-||toko999.shop^
 ||tomadamsenergy.com^
 ||toolmartin.com^
 ||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
 ||treasurefan.com^
-||trendingtee.org^
 ||trendsharks.com^
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
@@ -2008,7 +1999,6 @@
 ||vegamartz.com^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
-||vetoro.cc^
 ||vicidola.com^
 ||vikingstore.co^
 ||vinisay.com^
