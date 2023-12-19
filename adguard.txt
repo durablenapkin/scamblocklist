@@ -337,6 +337,7 @@
 ||chikepod.com^
 ||chipcy.com^
 ||chipteeamz.com^
+||cillva.com^
 ||cinela.us^
 ||cipustar.com^
 ||cition.info^
@@ -354,7 +355,6 @@
 ||cofdeal.com^
 ||coffeeteaware.com^
 ||coinaps.com^
-||coinreq.com^
 ||colorandcotton.com^
 ||columbiatopdeals.com^
 ||com-id01251.info^
@@ -406,6 +406,7 @@
 ||dataid-subsidies.click^
 ||dautee.com^
 ||dbhmnp.shop^
+||dbmobile-phototan.de^
 ||dcsnowboard.com^
 ||ddoe.shop^
 ||debridlink.com^
@@ -491,7 +492,6 @@
 ||faze4.com^
 ||faze40.com^
 ||faze41.com^
-||faze44.com^
 ||faze45.com^
 ||faze47.com^
 ||faze5.com^
@@ -530,6 +530,7 @@
 ||foryourdears.com^
 ||fotballsko-salg.com^
 ||fr.app.admin.id601294105.date^
+||fraeuleinemma.fun^
 ||freedom-5g.com^
 ||frest.info^
 ||friday89.com^
@@ -569,6 +570,8 @@
 ||goldtimeinvest.com^
 ||gonedewcopy.live^
 ||gossvibe.com^
+||gotoperfection.com^
+||gowarehouse.net^
 ||goyourheart.com^
 ||graciaszone.com^
 ||gsport.com^
@@ -620,6 +623,7 @@
 ||januashop.com^
 ||jellyfishstat.live^
 ||jellystores.com^
+||jne-express.my.id^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
@@ -717,7 +721,6 @@
 ||moneymm1688.shop^
 ||monkstars.com^
 ||motovinreports.com^
-||movica.us^
 ||msmcompare.com^
 ||mujib-store28.blogspot.com^
 ||museuw.com^
@@ -766,6 +769,7 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi43.com^
 ||navi44.ru^
 ||navi45.ru^
@@ -877,8 +881,6 @@
 ||openai.reisen^
 ||optimusconstructora.com.pe^
 ||orami.cloud^
-||orami.life^
-||orami.one^
 ||orderquilt.com^
 ||orderstee.com^
 ||origin.tnail.cc^
@@ -1105,6 +1107,7 @@
 ||pay.com-id20341.info^
 ||pay.com-id23901.info^
 ||pay.com-id309712.com^
+||pay.com-id321112.com^
 ||pay.com-id322712.com^
 ||pay.com-id329712.com^
 ||pay.com-id334112.com^
@@ -1875,6 +1878,7 @@
 ||ssh.sberbank.id601294105.date^
 ||staging.app.admin.id601294105.date^
 ||staging.zendrop.com^
+||startjacket.com^
 ||startuplatte.com^
 ||static.login.dev.id601294105.date^
 ||stealthhorizonshipping.com^
@@ -1929,6 +1933,7 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -1953,6 +1958,7 @@
 ||tkp214.com^
 ||tlstoreonline.com^
 ||toddlershood.shop^
+||toko999.shop^
 ||tomadamsenergy.com^
 ||toolmartin.com^
 ||toyrube.com^
@@ -1999,6 +2005,7 @@
 ||vegamartz.com^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
+||vetoro.cc^
 ||vicidola.com^
 ||vikingstore.co^
 ||vinisay.com^
