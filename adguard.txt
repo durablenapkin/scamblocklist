@@ -109,7 +109,6 @@
 ||avito.avito.avito.www.booking.com-id20341.info^
 ||avito.avito.avito.www.booking.com-id809702.com^
 ||avito.avito.booking.com-id23901.info^
-||avito.avito.booking.com-id9523416.com^
 ||avito.avito.pay.avito.avito.avito.avito.com-id809702.com^
 ||avito.avito.pay.avito.avito.avito.booking.com-id02349.info^
 ||avito.avito.pay.avito.avito.avito.booking.com-id90123.info^
@@ -144,6 +143,7 @@
 ||avito.avito.www.booking.com-id23901.info^
 ||avito.avito.www.booking.com-id309712.com^
 ||avito.avito.www.booking.com-id329712.com^
+||avito.avito.www.booking.com-id809712.com^
 ||avito.avito.www.booking.com-id879712.com^
 ||avito.booking.com-id01251.info^
 ||avito.booking.com-id15421.info^
@@ -508,7 +508,6 @@
 ||faze88.com^
 ||faze9.com^
 ||faze90.com^
-||faze96.com^
 ||fazpowerdenet.tumblr.com^
 ||fdrc-gov.org^
 ||feddiy.com^
@@ -570,6 +569,7 @@
 ||gonedewcopy.live^
 ||gossvibe.com^
 ||gotoperfection.com^
+||gowarehouse.net^
 ||goyourheart.com^
 ||graciaszone.com^
 ||gsport.com^
@@ -598,13 +598,11 @@
 ||ihuers.com^
 ||ikiha.com^
 ||iklrge.com^
-||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
 ||imap.app.admin.id601294105.date^
 ||imlb2c.com^
 ||improtants.space^
-||infinityto.com^
 ||innewstyle.com^
 ||innomediacreate.com^
 ||instant-e-app-for-campaign.github.io^
@@ -615,11 +613,13 @@
 ||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
+||j-natural.com^
 ||jackyeby.com^
 ||jagkart.com^
 ||januashop.com^
 ||jellyfishstat.live^
 ||jellystores.com^
+||jfremovals.com^
 ||jne-express.my.id^
 ||jollyfamilygifts.net^
 ||jonausa.com^
@@ -872,6 +872,7 @@
 ||onlineadid.com^
 ||onlinehome.us^
 ||onlyfanstake.pro^
+||onrunningshop.com^
 ||onthereelpros.com^
 ||open-cbd.de^
 ||openai.reisen^
@@ -1289,7 +1290,6 @@
 ||redwingshoes-usa.com^
 ||reforest-iita.org^
 ||remote.app.admin.id601294105.date^
-||reschedulepostca.info^
 ||resources4gaming.com^
 ||reviewshirts.com^
 ||rewardsgiantca.com^
@@ -1560,7 +1560,6 @@
 ||sberbank.avito.avito.pay.com-id01251.info^
 ||sberbank.avito.avito.pay.com-id309712.com^
 ||sberbank.avito.avito.pay.com-id322712.com^
-||sberbank.avito.avito.pay.com-id809712.com^
 ||sberbank.avito.avito.pay.www.booking.com-id01251.info^
 ||sberbank.avito.avito.pay.www.booking.com-id15421.info^
 ||sberbank.avito.avito.pay.www.booking.com-id309712.com^
@@ -1959,6 +1958,7 @@
 ||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
+||treasurefan.com^
 ||trendsharks.com^
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
@@ -1999,7 +1999,6 @@
 ||vegamartz.com^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
-||vetoro.cc^
 ||vicidola.com^
 ||vikingstore.co^
 ||vinisay.com^
@@ -2021,6 +2020,7 @@
 ||whbinder.com^
 ||wideranging-protector.com^
 ||wikeb.com^
+||wind88.shop^
 ||wintexfashions.com^
 ||wisdomganga.com^
 ||woadoodles.com^
