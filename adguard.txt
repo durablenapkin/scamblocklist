@@ -165,7 +165,6 @@
 ||avito.pay.avito.avito.avito.com-id809702.com^
 ||avito.pay.avito.avito.avito.sber.booking.com-id90123.info^
 ||avito.pay.avito.avito.avito.www.booking.com-id809702.com^
-||avito.pay.avito.avito.com-id3212341.info^
 ||avito.pay.avito.avito.pay.www.booking.com-id809702.com^
 ||avito.pay.avito.booking.com-id23901.info^
 ||avito.pay.avito.sberbank.avito.com-id1800853.com^
@@ -327,7 +326,6 @@
 ||cargotrustcourier.com^
 ||carsaratek.com^
 ||casha.xyz^
-||catransfer.info^
 ||cebesale.com^
 ||chandeco.com^
 ||charmsection.com^
@@ -391,7 +389,6 @@
 ||csgamingzone.com^
 ||csmoney.trade^
 ||customizerbox.com^
-||customizeyourdeliveryroute.com^
 ||customurink.com^
 ||cutty.app^
 ||cycle100percent.com^
@@ -438,7 +435,6 @@
 ||dreamstees.com^
 ||duckydecor.store^
 ||duitpanas.top^
-||dunkansp.info^
 ||dxraceroutlet.com^
 ||earnpets.com^
 ||easynatures.com^
@@ -766,7 +762,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi43.com^
 ||navi45.ru^
 ||navi47.com^
@@ -831,6 +826,7 @@
 ||nip3.com^
 ||nip4.com^
 ||nip44.com^
+||nip5.com^
 ||nip57.com^
 ||nip6.com^
 ||nip69.com^
@@ -1950,6 +1946,7 @@
 ||tkp214.com^
 ||tlstoreonline.com^
 ||toddlershood.shop^
+||toko999.shop^
 ||tomadamsenergy.com^
 ||toolmartin.com^
 ||toyrube.com^
@@ -2009,7 +2006,6 @@
 ||volcomofficial.com^
 ||wadahlapak.top^
 ||walkinshoe.com^
-||wangsakti.com^
 ||warriordecor.com^
 ||wavetshirt.com^
 ||werfew.com^
