@@ -402,7 +402,6 @@
 ||darliasmaltesepuppies.com^
 ||dashracegear.net^
 ||dataid-subsidies.click^
-||dautee.com^
 ||dbhmnp.shop^
 ||dbmobile-phototan.de^
 ||dcsnowboard.com^
@@ -613,6 +612,7 @@
 ||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
+||j-natural.com^
 ||jackyeby.com^
 ||jagkart.com^
 ||januashop.com^
@@ -857,7 +857,6 @@
 ||oflike.com^
 ||ogogear.com^
 ||okdebrid.com^
-||olaoffer.shop^
 ||old.login.dev.id601294105.date^
 ||oldcube.com^
 ||oncloudrun.shop^
@@ -1884,7 +1883,6 @@
 ||storeadid.com^
 ||storeax.com^
 ||storecollegeonline.com^
-||storedarkness.com^
 ||storeoregononline.com^
 ||storeskiwear.com^
 ||storesp.com^
@@ -1940,7 +1938,6 @@
 ||thevitic.com^
 ||thevitic.onshopbase.com^
 ||thewesternshoes.com^
-||tikgeeker.com^
 ||tinkleo.com^
 ||tiranaaquapark-eg.com^
 ||tkp214.com^
@@ -1982,7 +1979,6 @@
 ||uplevelreward.com^
 ||ureashi.com^
 ||usakidsclothes.com^
-||usasport247.com^
 ||usburtonsnowboard.com^
 ||uscampinghiking.com^
 ||uschse04.my03.com^
@@ -2275,6 +2271,7 @@
 ||yeezysofficial.us.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
+||ygtube.xyz^
 ||yofi-yofi.com^
 ||yoli.my.id^
 ||youdebrid.com^
