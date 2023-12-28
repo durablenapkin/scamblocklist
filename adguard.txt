@@ -618,6 +618,8 @@
 ||januashop.com^
 ||jellyfishstat.live^
 ||jellystores.com^
+||jfremovals.com^
+||join2musk.com^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
@@ -762,7 +764,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi43.com^
 ||navi45.ru^
 ||navi47.com^
@@ -1670,6 +1671,7 @@
 ||sberbank.booking.com-id809702.com^
 ||sberbank.booking.com-id879712.com^
 ||sberbank.booking.com-id90123.info^
+||sberbank.booking.id90152861.com^
 ||sberbank.booklng.com-id334112.com^
 ||sberbank.booklng.com-id802912.com^
 ||sberbank.com-id01251.info^
@@ -1883,6 +1885,7 @@
 ||storeadid.com^
 ||storeax.com^
 ||storecollegeonline.com^
+||storedarkness.com^
 ||storeoregononline.com^
 ||storeskiwear.com^
 ||storesp.com^
@@ -1938,6 +1941,7 @@
 ||thevitic.com^
 ||thevitic.onshopbase.com^
 ||thewesternshoes.com^
+||tikgeeker.com^
 ||tinkleo.com^
 ||tiranaaquapark-eg.com^
 ||tkp214.com^
@@ -1979,6 +1983,7 @@
 ||uplevelreward.com^
 ||ureashi.com^
 ||usakidsclothes.com^
+||usasport247.com^
 ||usburtonsnowboard.com^
 ||uscampinghiking.com^
 ||uschse04.my03.com^
@@ -1986,6 +1991,7 @@
 ||usplussports.com^
 ||ussportabout.com^
 ||ussportpioneer.com^
+||uuc.joyofprogress.com^
 ||vegamartz.com^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
@@ -2271,7 +2277,6 @@
 ||yeezysofficial.us.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
-||ygtube.xyz^
 ||yofi-yofi.com^
 ||yoli.my.id^
 ||youdebrid.com^
