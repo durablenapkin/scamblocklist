@@ -307,7 +307,6 @@
 ||breakshirts.com^
 ||btc9339.com^
 ||buddhakind.com^
-||burgershirt.com^
 ||buydubuy.com^
 ||buyfingermoney.company.com^
 ||buyyeezy2023.com^
@@ -529,6 +528,7 @@
 ||fr.app.admin.id601294105.date^
 ||fraeuleinemma.fun^
 ||freedom-5g.com^
+||freser.info^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -619,7 +619,6 @@
 ||jellyfishstat.live^
 ||jellystores.com^
 ||jfremovals.com^
-||join2musk.com^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
@@ -798,6 +797,7 @@
 ||navi9.com^
 ||navi9.ru^
 ||navi90.com^
+||navi91.com^
 ||navi94.com^
 ||navi96.com^
 ||navi98.com^
@@ -858,6 +858,7 @@
 ||oflike.com^
 ||ogogear.com^
 ||okdebrid.com^
+||olaoffer.shop^
 ||old.login.dev.id601294105.date^
 ||oldcube.com^
 ||oncloudrun.shop^
@@ -1671,7 +1672,6 @@
 ||sberbank.booking.com-id809702.com^
 ||sberbank.booking.com-id879712.com^
 ||sberbank.booking.com-id90123.info^
-||sberbank.booking.id90152861.com^
 ||sberbank.booklng.com-id334112.com^
 ||sberbank.booklng.com-id802912.com^
 ||sberbank.com-id01251.info^
@@ -1922,11 +1922,14 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
+||tesla-online.net^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
+||teslalive23.pro^
+||teslamotorsx2.com^
 ||teslatucker.com^
+||teslax2claim.org^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
 ||thehappywood.com^
@@ -1991,7 +1994,6 @@
 ||usplussports.com^
 ||ussportabout.com^
 ||ussportpioneer.com^
-||uuc.joyofprogress.com^
 ||vegamartz.com^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
@@ -2286,7 +2288,6 @@
 ||youutube.com^
 ||yvjexi.shop^
 ||yyderfreap.shop^
-||z-lib.is^
 ||zarodress.com^
 ||zat.io^
 ||zedbubble.com^
