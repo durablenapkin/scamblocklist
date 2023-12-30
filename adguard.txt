@@ -265,6 +265,7 @@
 ||binomoweblogin.com^
 ||birkenstock-ca.com^
 ||bitcllpay.top^
+||bite-life.com^
 ||bitgeekex.co^
 ||bitiiy.com^
 ||bitsoft360.app^
@@ -274,6 +275,7 @@
 ||bknstore.com^
 ||blackabdo.company.site^
 ||blastparis.com^
+||blgstoragenew.blob.core.windows.net^
 ||bloomessentialsbrand.com^
 ||bloomingvibe.com^
 ||bltskins.com^
@@ -307,6 +309,7 @@
 ||breakshirts.com^
 ||btc9339.com^
 ||buddhakind.com^
+||burgershirt.com^
 ||buydubuy.com^
 ||buyfingermoney.company.com^
 ||buyyeezy2023.com^
@@ -397,6 +400,7 @@
 ||dailygiftstore.com^
 ||danapintar.club^
 ||danarakyatol.com^
+||danegreatjp.blob.core.windows.net^
 ||danylevych.com^
 ||darliasmaltesepuppies.com^
 ||dashracegear.net^
@@ -526,9 +530,7 @@
 ||foryourdears.com^
 ||fotballsko-salg.com^
 ||fr.app.admin.id601294105.date^
-||fraeuleinemma.fun^
 ||freedom-5g.com^
-||freser.info^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -708,7 +710,6 @@
 ||mila-vica.de^
 ||milgenial.uy^
 ||millabay.com^
-||missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop^
 ||miucart.com^
 ||miuprints.com^
 ||mizunsports.com^
@@ -763,6 +764,7 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi43.com^
 ||navi45.ru^
 ||navi47.com^
@@ -1284,6 +1286,7 @@
 ||redwingshoes-usa.com^
 ||reforest-iita.org^
 ||remote.app.admin.id601294105.date^
+||reschserviceonline.info^
 ||resources4gaming.com^
 ||reviewshirts.com^
 ||rewardsgiantca.com^
@@ -1922,14 +1925,10 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-online.net^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
-||teslalive23.pro^
-||teslamotorsx2.com^
 ||teslatucker.com^
-||teslax2claim.org^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
 ||thehappywood.com^
@@ -1950,7 +1949,6 @@
 ||tkp214.com^
 ||tlstoreonline.com^
 ||toddlershood.shop^
-||toko999.shop^
 ||tomadamsenergy.com^
 ||toolmartin.com^
 ||toyrube.com^
