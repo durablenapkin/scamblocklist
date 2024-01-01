@@ -38,7 +38,6 @@
 ||allnewsready.com^
 ||allstarshirt.com^
 ||alltestbanksolutions.com^
-||alohazing.com^
 ||altruetech.com^
 ||amcclothes.com^
 ||amznshirts.com^
@@ -129,7 +128,6 @@
 ||avito.avito.www.booking.com-id1800853.com^
 ||avito.avito.www.booking.com-id20341.info^
 ||avito.avito.www.booking.com-id23901.info^
-||avito.avito.www.booking.com-id329712.com^
 ||avito.booking.com-id01251.info^
 ||avito.booking.com-id15421.info^
 ||avito.booking.com-id16313.info^
@@ -695,6 +693,7 @@
 ||navi12.com^
 ||navi13.com^
 ||navi18.com^
+||navi19.ru^
 ||navi2.com^
 ||navi20.com^
 ||navi20.ru^
@@ -720,7 +719,6 @@
 ||navi43.com^
 ||navi45.ru^
 ||navi47.com^
-||navi5.com^
 ||navi50.com^
 ||navi53.com^
 ||navi55.com^
@@ -763,7 +761,6 @@
 ||new.bestageoffers22.com^
 ||newdompet.com^
 ||newfootwearshop.com^
-||newgstore.com^
 ||newlawngarden.com^
 ||ngreditinaja.top^
 ||nicelegant.com^
@@ -809,7 +806,6 @@
 ||ocadopartner.com^
 ||ocycling.com^
 ||odinpc.com^
-||oflike.com^
 ||ogogear.com^
 ||okdebrid.com^
 ||olaoffer.shop^
@@ -1627,7 +1623,6 @@
 ||storeadid.com^
 ||storeax.com^
 ||storecollegeonline.com^
-||storedarkness.com^
 ||storeoregononline.com^
 ||storeskiwear.com^
 ||storesp.com^
@@ -1687,7 +1682,6 @@
 ||tkp214.com^
 ||tlstoreonline.com^
 ||toddlershood.shop^
-||toko999.shop^
 ||tomadamsenergy.com^
 ||toolmartin.com^
 ||toyrube.com^
