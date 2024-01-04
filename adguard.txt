@@ -289,6 +289,7 @@
 ||carsaratek.com^
 ||casha.xyz^
 ||cebesale.com^
+||cgibinrbaccess-801.com^
 ||chandeco.com^
 ||charmsection.com^
 ||cheat-on.com^
@@ -316,7 +317,6 @@
 ||coffeeteaware.com^
 ||coinaps.com^
 ||colorandcotton.com^
-||columbiatopdeals.com^
 ||com-id01251.info^
 ||com-id129041.info^
 ||com-id15421.info^
@@ -371,6 +371,7 @@
 ||devifoodgrains.com^
 ||deytee.com^
 ||dezpez.com^
+||dgbdhvqpwvplersqjytw.dunkansp.info^
 ||dischargebackhanded.com^
 ||discounthoneywell.com^
 ||diytsi.shop^
@@ -388,6 +389,7 @@
 ||dreamstees.com^
 ||duckydecor.store^
 ||duitpanas.top^
+||dunkansp.info^
 ||dxraceroutlet.com^
 ||earnpets.com^
 ||easynatures.com^
@@ -440,6 +442,7 @@
 ||faze4.com^
 ||faze40.com^
 ||faze41.com^
+||faze44.com^
 ||faze45.com^
 ||faze47.com^
 ||faze5.com^
@@ -479,6 +482,7 @@
 ||foryourdears.com^
 ||fotballsko-salg.com^
 ||fr.app.admin.id601294105.date^
+||frdmmobile.com^
 ||freedom-5g.com^
 ||frest.info^
 ||friday89.com^
@@ -499,7 +503,6 @@
 ||gearathena.com^
 ||gearhomies.com^
 ||gearstastic.com^
-||gearstastics.com^
 ||gearver.com^
 ||geldencosmeticos.com^
 ||gemlis.com^
@@ -688,7 +691,7 @@
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
-||navi11.ru^
+||navi100.ru^
 ||navi12.com^
 ||navi13.com^
 ||navi18.com^
@@ -833,7 +836,6 @@
 ||pandzee.com^
 ||parajumperssalg.com^
 ||parisiporlin-ktki.kemkes.go.id^
-||pasarbali-malls.com^
 ||pasarkta.pasaruang.id^
 ||pateim.com^
 ||path2zillion.com^
@@ -1595,6 +1597,7 @@
 ||source84.com^
 ||southernlife.net^
 ||spacexmusk.io^
+||sportfanlab.com^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
 ||sportsbrooks.com^
@@ -1609,6 +1612,7 @@
 ||static.login.dev.id601294105.date^
 ||stealthhorizonshipping.com^
 ||steamgateways.com^
+||steammcommunuty.ru^
 ||steamunlock.com^
 ||steamunlock.gifts^
 ||stellara.de^
@@ -1658,6 +1662,7 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -1724,6 +1729,7 @@
 ||uschse04.my03.com^
 ||usnewoutdoor.com^
 ||usplussports.com^
+||uspsglobalexpress.com^
 ||ussportabout.com^
 ||ussportpioneer.com^
 ||vegamartz.com^
@@ -1924,7 +1930,6 @@
 ||yandex.pay.com-id129041.info^
 ||yandex.pay.com-id20341.info^
 ||yandex.pay.com-id409712.com^
-||yandex.pay.com-id809712.com^
 ||yandex.pay.pay.www.booking.com-id20341.info^
 ||yandex.pay.sber.com-id20341.info^
 ||yandex.pay.sber.www70.com-id23901.info^
