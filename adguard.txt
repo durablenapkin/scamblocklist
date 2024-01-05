@@ -132,6 +132,7 @@
 ||avito.booking.com-id16313.info^
 ||avito.booking.com-id23901.info^
 ||avito.booking.com-id334112.com^
+||avito.booking.com-id334212.com^
 ||avito.com-id15421.info^
 ||avito.pay.avito.avito.avito.avito.avito.com-id02349.info^
 ||avito.pay.avito.avito.avito.avito.avito.com-id90123.info^
@@ -289,7 +290,6 @@
 ||carsaratek.com^
 ||casha.xyz^
 ||cebesale.com^
-||cgibinrbaccess-801.com^
 ||chandeco.com^
 ||charmsection.com^
 ||cheat-on.com^
@@ -335,7 +335,6 @@
 ||courier-tracking.com^
 ||cpcalendars.app.admin.id601294105.date^
 ||cracksway.com^
-||crm2.tbg-lmtd.xyz^
 ||crocssalenz.com^
 ||cryptolnvest.com^
 ||cryptot.net^
@@ -482,7 +481,6 @@
 ||foryourdears.com^
 ||fotballsko-salg.com^
 ||fr.app.admin.id601294105.date^
-||frdmmobile.com^
 ||freedom-5g.com^
 ||frest.info^
 ||friday89.com^
@@ -522,7 +520,6 @@
 ||gonedewcopy.live^
 ||gossvibe.com^
 ||gotoperfection.com^
-||gowarehouse.net^
 ||goyourheart.com^
 ||graciaszone.com^
 ||gsport.com^
@@ -572,7 +569,6 @@
 ||januashop.com^
 ||jellyfishstat.live^
 ||jellystores.com^
-||jfremovals.com^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
@@ -691,7 +687,6 @@
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
-||navi100.ru^
 ||navi12.com^
 ||navi13.com^
 ||navi18.com^
@@ -716,6 +711,7 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi43.com^
 ||navi45.ru^
 ||navi47.com^
@@ -836,7 +832,6 @@
 ||pandzee.com^
 ||parajumperssalg.com^
 ||parisiporlin-ktki.kemkes.go.id^
-||pasarkta.pasaruang.id^
 ||pateim.com^
 ||path2zillion.com^
 ||pay.avito.avito.avito.avito.avito.avito.com-id02349.info^
@@ -1597,7 +1592,6 @@
 ||source84.com^
 ||southernlife.net^
 ||spacexmusk.io^
-||sportfanlab.com^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
 ||sportsbrooks.com^
@@ -1612,7 +1606,6 @@
 ||static.login.dev.id601294105.date^
 ||stealthhorizonshipping.com^
 ||steamgateways.com^
-||steammcommunuty.ru^
 ||steamunlock.com^
 ||steamunlock.gifts^
 ||stellara.de^
@@ -1721,6 +1714,7 @@
 ||universityofqatarrectorate.godaddysites.com^
 ||unkinerecle.com^
 ||uplevelreward.com^
+||upstrick.com^
 ||ureashi.com^
 ||usakidsclothes.com^
 ||usasport247.com^
@@ -1729,7 +1723,6 @@
 ||uschse04.my03.com^
 ||usnewoutdoor.com^
 ||usplussports.com^
-||uspsglobalexpress.com^
 ||ussportabout.com^
 ||ussportpioneer.com^
 ||vegamartz.com^
