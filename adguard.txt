@@ -132,7 +132,6 @@
 ||avito.booking.com-id16313.info^
 ||avito.booking.com-id23901.info^
 ||avito.booking.com-id334112.com^
-||avito.booking.com-id334212.com^
 ||avito.com-id15421.info^
 ||avito.pay.avito.avito.avito.avito.avito.com-id02349.info^
 ||avito.pay.avito.avito.avito.avito.avito.com-id90123.info^
@@ -220,6 +219,7 @@
 ||bigappboi.com^
 ||bikehotsale.com^
 ||binggrondahlshop.com^
+||binom0-web.com^
 ||binomo-brokers.com^
 ||binomo-id.pro^
 ||binomo.broker^
@@ -520,6 +520,7 @@
 ||gonedewcopy.live^
 ||gossvibe.com^
 ||gotoperfection.com^
+||gowarehouse.net^
 ||goyourheart.com^
 ||graciaszone.com^
 ||gsport.com^
@@ -645,6 +646,7 @@
 ||mamapapaclothing.com^
 ||markethops.com^
 ||maxdebrid.com^
+||maxearningcryp.com^
 ||mayor4london.com^
 ||mcdowellsmaltesepuppies.com^
 ||mcppty.com^
@@ -711,7 +713,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi43.com^
 ||navi45.ru^
 ||navi47.com^
@@ -748,6 +749,7 @@
 ||navi91.com^
 ||navi94.com^
 ||navi96.com^
+||navi96.ru^
 ||navi98.com^
 ||navi99.com^
 ||nbdiscount.com^
@@ -831,6 +833,7 @@
 ||paintitblackfurniture.com^
 ||pandzee.com^
 ||parajumperssalg.com^
+||parcelprocessingredelivery1.info^
 ||parisiporlin-ktki.kemkes.go.id^
 ||pateim.com^
 ||path2zillion.com^
@@ -1085,6 +1088,7 @@
 ||pay.www.avito.booking.com-id15421.info^
 ||pay.www.avito.booking.com-id90123.info^
 ||pay.www.avito.com-id15421.info^
+||pay.www.avito.id90152861.com^
 ||pay.www.avito.www.booking.com-id15421.info^
 ||pay.www.avito.www.booking.com-id90123.info^
 ||pay.www.booking.com-id15421.info^
@@ -1650,6 +1654,7 @@
 ||teearrow.com^
 ||teechip.online^
 ||teefoody.com^
+||teelegendary.com^
 ||teemax.store^
 ||teenimo.com^
 ||teevpower.com^
@@ -1695,6 +1700,7 @@
 ||tslaget.live^
 ||tslawill.com^
 ||tslax2.io^
+||tukeraja.store^
 ||tulumwellnessacademy.com^
 ||tunaicair.com^
 ||turnnetwor.com^
@@ -1714,7 +1720,6 @@
 ||universityofqatarrectorate.godaddysites.com^
 ||unkinerecle.com^
 ||uplevelreward.com^
-||upstrick.com^
 ||ureashi.com^
 ||usakidsclothes.com^
 ||usasport247.com^
