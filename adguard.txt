@@ -10,7 +10,6 @@
 ||42gixk.98kk89.com^
 ||4556.de^
 ||5g-update.com^
-||7.shopsharm.ru^
 ||7s4c.top^
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
@@ -432,6 +431,7 @@
 ||faze1.com^
 ||faze11.com^
 ||faze13.com^
+||faze19.com^
 ||faze2.com^
 ||faze23.com^
 ||faze24.com^
@@ -1221,6 +1221,7 @@
 ||sber.avito.pay.www.booking.com-id809702.com^
 ||sber.avito.sber.avito.www.booking.com-id809702.com^
 ||sber.avito.sber.booking.com-id809702.com^
+||sber.avito.sber.booking.com-id809712.com^
 ||sber.avito.sber.booking.com-id90123.info^
 ||sber.avito.sber.pay.booking.com-id809702.com^
 ||sber.avito.sber.pay.com-id809702.com^
@@ -1455,6 +1456,7 @@
 ||sberbank.booking.com-id23901.info^
 ||sberbank.booking.com-id809702.com^
 ||sberbank.booking.com-id90123.info^
+||sberbank.booklng.com-id334112.com^
 ||sberbank.com-id01251.info^
 ||sberbank.com-id02349.info^
 ||sberbank.com-id15421.info^
@@ -1680,7 +1682,6 @@
 ||tkp214.com^
 ||tlstoreonline.com^
 ||toddlershood.shop^
-||toko999.shop^
 ||tomadamsenergy.com^
 ||toolmartin.com^
 ||toyrube.com^
@@ -1722,7 +1723,6 @@
 ||uschse04.my03.com^
 ||usnewoutdoor.com^
 ||usplussports.com^
-||uspsglobalexpress.com^
 ||ussportabout.com^
 ||ussportpioneer.com^
 ||vegamartz.com^
