@@ -505,7 +505,6 @@
 ||gizmopage.com^
 ||gladiadormalas.com.br^
 ||gllomall.com^
-||gload.info^
 ||glstee.com^
 ||godeskonettbutikk.com^
 ||goglle.com^
@@ -542,7 +541,6 @@
 ||ihuers.com^
 ||ikiha.com^
 ||iklrge.com^
-||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
 ||imap.app.admin.id601294105.date^
@@ -563,7 +561,6 @@
 ||januashop.com^
 ||jellyfishstat.live^
 ||jellystores.com^
-||jfremovals.com^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
@@ -1650,7 +1647,6 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -1879,6 +1875,8 @@
 ||yandex.booking.com-id15421.info^
 ||yandex.booking.com-id23901.info^
 ||yandex.booking.com-id334112.com^
+||yandex.booking.com-id334212.com^
+||yandex.booking.com-id879712.com^
 ||yandex.com-id20341.info^
 ||yandex.com-id23901.info^
 ||yandex.pay.avito.avito.avito.avito.avito.com-id02349.info^
