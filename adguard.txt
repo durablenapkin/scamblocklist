@@ -18,8 +18,7 @@
 ||accfiverif.com^
 ||acquatee.com^
 ||adidasko.com^
-||admin.id601294105.date^
-||admin.ozon.id601294105.date^
+||adminicesm.life^
 ||adupihi.com^
 ||affordableforyouusa5.godaddysites.com^
 ||ahenana.com^
@@ -30,7 +29,6 @@
 ||ajcenteruss.com^
 ||akebicycle.com^
 ||akjamv.shop^
-||akulaku.me^
 ||aldofashion.com^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
@@ -45,7 +43,6 @@
 ||animeshoppers.com^
 ||anydebrid.com^
 ||aoocib.com^
-||app.admin.id601294105.date^
 ||apple.enablemyidservices.com^
 ||arduino.uk.eu.org^
 ||ariatwear.online^
@@ -61,7 +58,6 @@
 ||augusthenri.be^
 ||auspost.your-redelivery-au.com^
 ||aussiesportfashion.com^
-||auth.login.dev.id601294105.date^
 ||avito.avito.avito.avito.avito.avito.booking.com-id90123.info^
 ||avito.avito.avito.avito.avito.booking.com-id01251.info^
 ||avito.avito.avito.avito.avito.booking.com-id23901.info^
@@ -243,8 +239,6 @@
 ||bloomessentialsbrand.com^
 ||bloomingvibe.com^
 ||bncentertainment.com^
-||bogsboot.com^
-||boking.id601294105.date^
 ||bolejug.us^
 ||bombardina.pl^
 ||boobeeshop.com^
@@ -252,8 +246,7 @@
 ||booking.com-id15421.info^
 ||booking.com-id16313.info^
 ||booking.com-id23901.info^
-||booking.com.id25106619.top^
-||booking.id601294105.date^
+||booking.com.id51051062.date^
 ||booking.transaction-processing.one^
 ||booklng.com-id334112.com^
 ||booliving.com^
@@ -327,7 +320,6 @@
 ||corg.co^
 ||couponxoo.com^
 ||courier-tracking.com^
-||cpcalendars.app.admin.id601294105.date^
 ||cracksway.com^
 ||crocssalenz.com^
 ||cryptolnvest.com^
@@ -359,8 +351,6 @@
 ||deergift.com^
 ||defcon7.com.br^
 ||deluxdoll.com^
-||demo.login.dev.id601294105.date^
-||dev.id601294105.date^
 ||devifoodgrains.com^
 ||deytee.com^
 ||dezpez.com^
@@ -471,7 +461,6 @@
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
-||fr.app.admin.id601294105.date^
 ||freedom-5g.com^
 ||frest.info^
 ||friday89.com^
@@ -498,7 +487,6 @@
 ||giftyweb.com^
 ||gig-os.com^
 ||gimboy.com^
-||gitlab.admin.id601294105.date^
 ||gizmopage.com^
 ||gladiadormalas.com.br^
 ||gllomall.com^
@@ -542,7 +530,6 @@
 ||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
-||imap.app.admin.id601294105.date^
 ||imlb2c.com^
 ||innewstyle.com^
 ||innomediacreate.com^
@@ -560,6 +547,7 @@
 ||januashop.com^
 ||jellyfishstat.live^
 ||jellystores.com^
+||jfremovals.com^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
@@ -607,8 +595,6 @@
 ||livecato.com^
 ||liverepsae.adeftsolutions.com^
 ||loepwatch.com^
-||login.auth.dev.id601294105.date^
-||login.dev.id601294105.date^
 ||lojaacasa.com.br^
 ||lomipod.com^
 ||lomoor.com^
@@ -633,7 +619,6 @@
 ||madeinusas.com^
 ||maebl.com^
 ||magnite.shop^
-||mail.app.admin.id601294105.date^
 ||majucash.xyz^
 ||mamapapaclothing.com^
 ||markethops.com^
@@ -678,7 +663,6 @@
 ||natistore.us^
 ||navi1.com^
 ||navi10.com^
-||navi10.ru^
 ||navi100.com^
 ||navi12.com^
 ||navi13.com^
@@ -705,7 +689,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi43.com^
 ||navi45.ru^
 ||navi47.com^
@@ -790,7 +773,6 @@
 ||norgeshoes.com^
 ||nosdaarte.com^
 ||novabeds.ca^
-||ns.app.admin.id601294105.date^
 ||nxtgenerator.top^
 ||nynextlevel.com^
 ||nzxsxn.98kk89.com^
@@ -802,7 +784,6 @@
 ||ogogear.com^
 ||okdebrid.com^
 ||olaoffer.shop^
-||old.login.dev.id601294105.date^
 ||oldcube.com^
 ||oncloudrun.shop^
 ||online-binomo.com^
@@ -1106,7 +1087,6 @@
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
-||phpmyadmin.gitlab.dev.id601294105.date^
 ||phpmyadmin.staging.demo.www1.transaction-processing.one^
 ||pickablegift.com^
 ||pictureoutdoor.com^
@@ -1148,7 +1128,6 @@
 ||rebeccatees.com^
 ||redwingshoes-usa.com^
 ||reforest-iita.org^
-||remote.app.admin.id601294105.date^
 ||resources4gaming.com^
 ||reviewshirts.com^
 ||rewardsgiantca.com^
@@ -1591,14 +1570,12 @@
 ||sportswearfanatics.com^
 ||sportswearforfans.com^
 ||spreadstores.com^
-||ssh.sberbank.id601294105.date^
-||staging.app.admin.id601294105.date^
 ||staging.zendrop.com^
 ||startjacket.com^
 ||startuplatte.com^
-||static.login.dev.id601294105.date^
 ||stealthhorizonshipping.com^
 ||steamgateways.com^
+||steammcommunuty.ru^
 ||steamunlock.com^
 ||steamunlock.gifts^
 ||stellara.de^
@@ -1626,7 +1603,6 @@
 ||summersale.online^
 ||supercutestuff.com^
 ||supperbrand.company.site^
-||support.login.dev.id601294105.date^
 ||supportdelivery3414-ups.com^
 ||surprisesandgifts.com^
 ||survivalcatsupply.com^
@@ -1872,6 +1848,7 @@
 ||yandex.avito.www.booking.com-id23901.info^
 ||yandex.avito.www.booking.com-id809702.com^
 ||yandex.avito.www.com-id1800853.com^
+||yandex.avito.www.com-id879712.com^
 ||yandex.booking.com-id01251.info^
 ||yandex.booking.com-id02349.info^
 ||yandex.booking.com-id15421.info^

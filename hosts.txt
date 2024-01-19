@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 5070
+# Domains: 4992
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -30,14 +30,7 @@
 0.0.0.0 store.acquatee.com
 0.0.0.0 adidasko.com
 0.0.0.0 www.adidasko.com
-0.0.0.0 admin.id601294105.date
-0.0.0.0 www.admin.id601294105.date
-0.0.0.0 store.admin.id601294105.date
-0.0.0.0 admin.ozon.id601294105.date
-0.0.0.0 www.admin.ozon.id601294105.date
-0.0.0.0 store.admin.ozon.id601294105.date
-0.0.0.0 adupihi.com
-0.0.0.0 www.adupihi.com
+0.0.0.0 adminicesm.life
 0.0.0.0 store.adupihi.com
 0.0.0.0 affordableforyouusa5.godaddysites.com
 0.0.0.0 www.affordableforyouusa5.godaddysites.com
@@ -57,9 +50,6 @@
 0.0.0.0 www.akebicycle.com
 0.0.0.0 akjamv.shop
 0.0.0.0 www.akjamv.shop
-0.0.0.0 akulaku.me
-0.0.0.0 www.akulaku.me
-0.0.0.0 store.akulaku.me
 0.0.0.0 aldofashion.com
 0.0.0.0 www.aldofashion.com
 0.0.0.0 store.aldofashion.com
@@ -90,9 +80,6 @@
 0.0.0.0 www.anydebrid.com
 0.0.0.0 aoocib.com
 0.0.0.0 www.aoocib.com
-0.0.0.0 app.admin.id601294105.date
-0.0.0.0 www.app.admin.id601294105.date
-0.0.0.0 store.app.admin.id601294105.date
 0.0.0.0 apple.enablemyidservices.com
 0.0.0.0 arduino.uk.eu.org
 0.0.0.0 www.arduino.uk.eu.org
@@ -124,9 +111,6 @@
 0.0.0.0 auspost.your-redelivery-au.com
 0.0.0.0 aussiesportfashion.com
 0.0.0.0 www.aussiesportfashion.com
-0.0.0.0 auth.login.dev.id601294105.date
-0.0.0.0 www.auth.login.dev.id601294105.date
-0.0.0.0 store.auth.login.dev.id601294105.date
 0.0.0.0 avito.avito.avito.avito.avito.avito.booking.com-id90123.info
 0.0.0.0 www.avito.avito.avito.avito.avito.avito.booking.com-id90123.info
 0.0.0.0 store.avito.avito.avito.avito.avito.avito.booking.com-id90123.info
@@ -635,10 +619,6 @@
 0.0.0.0 www.bloomingvibe.com
 0.0.0.0 bncentertainment.com
 0.0.0.0 www.bncentertainment.com
-0.0.0.0 bogsboot.com
-0.0.0.0 boking.id601294105.date
-0.0.0.0 www.boking.id601294105.date
-0.0.0.0 store.boking.id601294105.date
 0.0.0.0 bolejug.us
 0.0.0.0 www.bolejug.us
 0.0.0.0 store.bolejug.us
@@ -659,10 +639,7 @@
 0.0.0.0 booking.com-id23901.info
 0.0.0.0 www.booking.com-id23901.info
 0.0.0.0 store.booking.com-id23901.info
-0.0.0.0 booking.com.id25106619.top
-0.0.0.0 booking.id601294105.date
-0.0.0.0 www.booking.id601294105.date
-0.0.0.0 store.booking.id601294105.date
+0.0.0.0 www.booking.com.id51051062.date
 0.0.0.0 booking.transaction-processing.one
 0.0.0.0 www.booking.transaction-processing.one
 0.0.0.0 store.booking.transaction-processing.one
@@ -832,9 +809,6 @@
 0.0.0.0 www.couponxoo.com
 0.0.0.0 courier-tracking.com
 0.0.0.0 www.courier-tracking.com
-0.0.0.0 cpcalendars.app.admin.id601294105.date
-0.0.0.0 www.cpcalendars.app.admin.id601294105.date
-0.0.0.0 store.cpcalendars.app.admin.id601294105.date
 0.0.0.0 cracksway.com
 0.0.0.0 www.cracksway.com
 0.0.0.0 crocssalenz.com
@@ -906,12 +880,6 @@
 0.0.0.0 deluxdoll.com
 0.0.0.0 www.deluxdoll.com
 0.0.0.0 store.deluxdoll.com
-0.0.0.0 demo.login.dev.id601294105.date
-0.0.0.0 www.demo.login.dev.id601294105.date
-0.0.0.0 store.demo.login.dev.id601294105.date
-0.0.0.0 dev.id601294105.date
-0.0.0.0 www.dev.id601294105.date
-0.0.0.0 store.dev.id601294105.date
 0.0.0.0 devifoodgrains.com
 0.0.0.0 www.devifoodgrains.com
 0.0.0.0 deytee.com
@@ -1146,9 +1114,6 @@
 0.0.0.0 www.foryourdears.com
 0.0.0.0 fotballsko-salg.com
 0.0.0.0 www.fotballsko-salg.com
-0.0.0.0 fr.app.admin.id601294105.date
-0.0.0.0 www.fr.app.admin.id601294105.date
-0.0.0.0 store.fr.app.admin.id601294105.date
 0.0.0.0 freedom-5g.com
 0.0.0.0 www.freedom-5g.com
 0.0.0.0 store.freedom-5g.com
@@ -1203,9 +1168,6 @@
 0.0.0.0 gig-os.com
 0.0.0.0 www.gig-os.com
 0.0.0.0 www.gimboy.com
-0.0.0.0 gitlab.admin.id601294105.date
-0.0.0.0 www.gitlab.admin.id601294105.date
-0.0.0.0 store.gitlab.admin.id601294105.date
 0.0.0.0 gizmopage.com
 0.0.0.0 gladiadormalas.com.br
 0.0.0.0 www.gladiadormalas.com.br
@@ -1303,9 +1265,6 @@
 0.0.0.0 www.ilpollenza-sorso23.it
 0.0.0.0 imagemotorcycles.co.nz
 0.0.0.0 www.imagemotorcycles.co.nz
-0.0.0.0 imap.app.admin.id601294105.date
-0.0.0.0 www.imap.app.admin.id601294105.date
-0.0.0.0 store.imap.app.admin.id601294105.date
 0.0.0.0 imlb2c.com
 0.0.0.0 www.imlb2c.com
 0.0.0.0 innewstyle.com
@@ -1344,6 +1303,7 @@
 0.0.0.0 jellystores.com
 0.0.0.0 www.jellystores.com
 0.0.0.0 store.jellystores.com
+0.0.0.0 store.jfremovals.com
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 jonausa.com
@@ -1444,12 +1404,6 @@
 0.0.0.0 store.liverepsae.adeftsolutions.com
 0.0.0.0 loepwatch.com
 0.0.0.0 www.loepwatch.com
-0.0.0.0 login.auth.dev.id601294105.date
-0.0.0.0 www.login.auth.dev.id601294105.date
-0.0.0.0 store.login.auth.dev.id601294105.date
-0.0.0.0 login.dev.id601294105.date
-0.0.0.0 www.login.dev.id601294105.date
-0.0.0.0 store.login.dev.id601294105.date
 0.0.0.0 lojaacasa.com.br
 0.0.0.0 www.lojaacasa.com.br
 0.0.0.0 lomipod.com
@@ -1502,9 +1456,6 @@
 0.0.0.0 magnite.shop
 0.0.0.0 www.magnite.shop
 0.0.0.0 store.magnite.shop
-0.0.0.0 mail.app.admin.id601294105.date
-0.0.0.0 www.mail.app.admin.id601294105.date
-0.0.0.0 store.mail.app.admin.id601294105.date
 0.0.0.0 majucash.xyz
 0.0.0.0 www.majucash.xyz
 0.0.0.0 mamapapaclothing.com
@@ -1600,8 +1551,6 @@
 0.0.0.0 navi10.com
 0.0.0.0 www.navi10.com
 0.0.0.0 store.navi10.com
-0.0.0.0 navi10.ru
-0.0.0.0 www.navi10.ru
 0.0.0.0 navi100.com
 0.0.0.0 www.navi100.com
 0.0.0.0 store.navi100.com
@@ -1659,8 +1608,6 @@
 0.0.0.0 navi40.com
 0.0.0.0 www.navi40.com
 0.0.0.0 store.navi40.com
-0.0.0.0 navi42.ru
-0.0.0.0 www.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 navi45.ru
@@ -1834,9 +1781,6 @@
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 novabeds.ca
 0.0.0.0 www.novabeds.ca
-0.0.0.0 ns.app.admin.id601294105.date
-0.0.0.0 www.ns.app.admin.id601294105.date
-0.0.0.0 store.ns.app.admin.id601294105.date
 0.0.0.0 nxtgenerator.top
 0.0.0.0 www.nxtgenerator.top
 0.0.0.0 nynextlevel.com
@@ -1858,9 +1802,6 @@
 0.0.0.0 www.okdebrid.com
 0.0.0.0 olaoffer.shop
 0.0.0.0 www.olaoffer.shop
-0.0.0.0 old.login.dev.id601294105.date
-0.0.0.0 www.old.login.dev.id601294105.date
-0.0.0.0 store.old.login.dev.id601294105.date
 0.0.0.0 oldcube.com
 0.0.0.0 www.oldcube.com
 0.0.0.0 store.oldcube.com
@@ -2729,9 +2670,6 @@
 0.0.0.0 www.phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
 0.0.0.0 www.philsshorthairorientalkittens.com
-0.0.0.0 phpmyadmin.gitlab.dev.id601294105.date
-0.0.0.0 www.phpmyadmin.gitlab.dev.id601294105.date
-0.0.0.0 store.phpmyadmin.gitlab.dev.id601294105.date
 0.0.0.0 phpmyadmin.staging.demo.www1.transaction-processing.one
 0.0.0.0 www.phpmyadmin.staging.demo.www1.transaction-processing.one
 0.0.0.0 store.phpmyadmin.staging.demo.www1.transaction-processing.one
@@ -2818,9 +2756,6 @@
 0.0.0.0 www.redwingshoes-usa.com
 0.0.0.0 reforest-iita.org
 0.0.0.0 www.reforest-iita.org
-0.0.0.0 remote.app.admin.id601294105.date
-0.0.0.0 www.remote.app.admin.id601294105.date
-0.0.0.0 store.remote.app.admin.id601294105.date
 0.0.0.0 resources4gaming.com
 0.0.0.0 www.resources4gaming.com
 0.0.0.0 store.resources4gaming.com
@@ -3236,7 +3171,6 @@
 0.0.0.0 sber.sberbank.com-id409712.com
 0.0.0.0 www.sber.sberbank.com-id409712.com
 0.0.0.0 store.sber.sberbank.com-id409712.com
-0.0.0.0 sber.sberbank.www.booklng.com-id334112.com
 0.0.0.0 www.sber.sberbank.www.booklng.com-id334112.com
 0.0.0.0 store.sber.sberbank.www.booklng.com-id334112.com
 0.0.0.0 sber.www.avito.booking.com-id15421.info
@@ -4017,7 +3951,6 @@
 0.0.0.0 shop.spreadshirt.com
 0.0.0.0 shopee1666.com
 0.0.0.0 www.shopee1666.com
-0.0.0.0 store.shopee1666.com
 0.0.0.0 shopraidlight.com
 0.0.0.0 www.shopraidlight.com
 0.0.0.0 shopsyracuseonline.com
@@ -4087,12 +4020,6 @@
 0.0.0.0 www.sportswearforfans.com
 0.0.0.0 spreadstores.com
 0.0.0.0 www.spreadstores.com
-0.0.0.0 ssh.sberbank.id601294105.date
-0.0.0.0 www.ssh.sberbank.id601294105.date
-0.0.0.0 store.ssh.sberbank.id601294105.date
-0.0.0.0 staging.app.admin.id601294105.date
-0.0.0.0 www.staging.app.admin.id601294105.date
-0.0.0.0 store.staging.app.admin.id601294105.date
 0.0.0.0 staging.zendrop.com
 0.0.0.0 startjacket.com
 0.0.0.0 www.startjacket.com
@@ -4100,14 +4027,13 @@
 0.0.0.0 startuplatte.com
 0.0.0.0 www.startuplatte.com
 0.0.0.0 store.startuplatte.com
-0.0.0.0 static.login.dev.id601294105.date
-0.0.0.0 www.static.login.dev.id601294105.date
-0.0.0.0 store.static.login.dev.id601294105.date
 0.0.0.0 stealthhorizonshipping.com
 0.0.0.0 www.stealthhorizonshipping.com
 0.0.0.0 steamgateways.com
 0.0.0.0 www.steamgateways.com
 0.0.0.0 store.steamgateways.com
+0.0.0.0 steammcommunuty.ru
+0.0.0.0 store.steammcommunuty.ru
 0.0.0.0 steamunlock.com
 0.0.0.0 www.steamunlock.com
 0.0.0.0 steamunlock.gifts
@@ -4171,9 +4097,6 @@
 0.0.0.0 supperbrand.company.site
 0.0.0.0 www.supperbrand.company.site
 0.0.0.0 store.supperbrand.company.site
-0.0.0.0 support.login.dev.id601294105.date
-0.0.0.0 www.support.login.dev.id601294105.date
-0.0.0.0 store.support.login.dev.id601294105.date
 0.0.0.0 supportdelivery3414-ups.com
 0.0.0.0 surprisesandgifts.com
 0.0.0.0 www.surprisesandgifts.com
@@ -4270,7 +4193,6 @@
 0.0.0.0 store.toddlershood.shop
 0.0.0.0 toko999.shop
 0.0.0.0 www.toko999.shop
-0.0.0.0 store.toko999.shop
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 www.tomadamsenergy.com
 0.0.0.0 toolmartin.com
@@ -4373,8 +4295,7 @@
 0.0.0.0 www.venezuelabaseballjerseys.com
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
-0.0.0.0 vetoro.cc
-0.0.0.0 store.vetoro.cc
+0.0.0.0 www.vetoro.cc
 0.0.0.0 vicidola.com
 0.0.0.0 www.vicidola.com
 0.0.0.0 vikingstore.co
@@ -4418,11 +4339,11 @@
 0.0.0.0 wikeb.com
 0.0.0.0 www.wikeb.com
 0.0.0.0 wind88.shop
-0.0.0.0 www.wind88.shop
 0.0.0.0 store.wind88.shop
 0.0.0.0 wintexfashions.com
 0.0.0.0 www.wintexfashions.com
 0.0.0.0 wisdomganga.com
+0.0.0.0 www.wisdomganga.com
 0.0.0.0 woadoodles.com
 0.0.0.0 www.woadoodles.com
 0.0.0.0 www.avito.com-id15421.info
@@ -4800,6 +4721,7 @@
 0.0.0.0 yandex.avito.www.com-id1800853.com
 0.0.0.0 www.yandex.avito.www.com-id1800853.com
 0.0.0.0 store.yandex.avito.www.com-id1800853.com
+0.0.0.0 www.yandex.avito.www.com-id879712.com
 0.0.0.0 yandex.booking.com-id01251.info
 0.0.0.0 www.yandex.booking.com-id01251.info
 0.0.0.0 store.yandex.booking.com-id01251.info
