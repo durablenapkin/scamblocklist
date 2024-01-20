@@ -18,7 +18,6 @@
 ||accfiverif.com^
 ||acquatee.com^
 ||adidasko.com^
-||adminicesm.life^
 ||adupihi.com^
 ||affordableforyouusa5.godaddysites.com^
 ||ahenana.com^
@@ -246,7 +245,6 @@
 ||booking.com-id15421.info^
 ||booking.com-id16313.info^
 ||booking.com-id23901.info^
-||booking.com.id51051062.date^
 ||booking.transaction-processing.one^
 ||booklng.com-id334112.com^
 ||booliving.com^
@@ -281,7 +279,6 @@
 ||charmsection.com^
 ||cheat-on.com^
 ||check-update-today.me^
-||check.c3scores.com^
 ||cherryzones.com^
 ||chiclife.co.uk^
 ||chikepod.com^
@@ -387,6 +384,7 @@
 ||elonspace.org^
 ||emberio.com^
 ||enchantestore.myshopify.com^
+||engineracing.net^
 ||envisiongear.com^
 ||equiwarmpro.co^
 ||ercnnier.com^
@@ -547,7 +545,6 @@
 ||januashop.com^
 ||jellyfishstat.live^
 ||jellystores.com^
-||jfremovals.com^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
@@ -689,7 +686,7 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi43.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi47.com^
 ||navi50.com^
@@ -1072,6 +1069,7 @@
 ||pay.www.pay.com-id15421.info^
 ||pay.www.pay.www.booking.com-id15421.info^
 ||pay.www.sber.avito.booking.com-id20341.info^
+||pay.www.sberbank.com-id802915.com^
 ||pay.www.www42.com-id23901.info^
 ||pay.www.www70.com-id23901.info^
 ||pay.www42.com-id23901.info^
@@ -1547,7 +1545,6 @@
 ||signpify.com^
 ||silverlanetrading.com^
 ||skincheap.com^
-||skinszone.net^
 ||sleepyfull.com^
 ||sligen.com^
 ||smartokids.com^
@@ -1575,7 +1572,6 @@
 ||startuplatte.com^
 ||stealthhorizonshipping.com^
 ||steamgateways.com^
-||steammcommunuty.ru^
 ||steamunlock.com^
 ||steamunlock.gifts^
 ||stellara.de^
@@ -1593,7 +1589,6 @@
 ||storeoregononline.com^
 ||storeskiwear.com^
 ||storesp.com^
-||streamloot.co^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
 ||successglossary.com^
@@ -1624,7 +1619,6 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -1670,6 +1664,7 @@
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitterr.com^
+||u.umax-pro.ru^
 ||uangmu.top^
 ||uangmudahapp.com^
 ||uangqu.online^
@@ -1848,7 +1843,6 @@
 ||yandex.avito.www.booking.com-id23901.info^
 ||yandex.avito.www.booking.com-id809702.com^
 ||yandex.avito.www.com-id1800853.com^
-||yandex.avito.www.com-id879712.com^
 ||yandex.booking.com-id01251.info^
 ||yandex.booking.com-id02349.info^
 ||yandex.booking.com-id15421.info^
