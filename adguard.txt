@@ -384,7 +384,6 @@
 ||elonspace.org^
 ||emberio.com^
 ||enchantestore.myshopify.com^
-||engineracing.net^
 ||envisiongear.com^
 ||equiwarmpro.co^
 ||ercnnier.com^
@@ -590,7 +589,6 @@
 ||lisianstore.com^
 ||litcomplex.com^
 ||livecato.com^
-||liverepsae.adeftsolutions.com^
 ||loepwatch.com^
 ||lojaacasa.com.br^
 ||lomipod.com^
@@ -753,7 +751,6 @@
 ||nip57.com^
 ||nip6.com^
 ||nip69.com^
-||nip7.com^
 ||nip8.com^
 ||nip84.com^
 ||nip88.com^
@@ -806,6 +803,7 @@
 ||parajumperssalg.com^
 ||parcelprocessingredelivery1.info^
 ||parisiporlin-ktki.kemkes.go.id^
+||pasarbali-malls.com^
 ||pateim.com^
 ||path2zillion.com^
 ||pay.avito.avito.avito.avito.avito.avito.com-id02349.info^
@@ -1014,6 +1012,7 @@
 ||pay.pay.avito.www.booking.com-id20341.info^
 ||pay.pay.booking.com-id01251.info^
 ||pay.pay.booking.com-id20341.info^
+||pay.pay.booking.com-id329712.com^
 ||pay.pay.booking.com-id809702.com^
 ||pay.pay.booklng.com-id129041.info^
 ||pay.pay.booklng.com-id334112.com^
@@ -1069,7 +1068,6 @@
 ||pay.www.pay.com-id15421.info^
 ||pay.www.pay.www.booking.com-id15421.info^
 ||pay.www.sber.avito.booking.com-id20341.info^
-||pay.www.sberbank.com-id802915.com^
 ||pay.www.www42.com-id23901.info^
 ||pay.www.www70.com-id23901.info^
 ||pay.www42.com-id23901.info^
@@ -1277,6 +1275,7 @@
 ||sber.www.pay.com-id15421.info^
 ||sber.www.pay.com-id409712.com^
 ||sber.www42.com-id23901.info^
+||sberbank.asdfasdf.id05196219.com^
 ||sberbank.avito.avito.avito.avito.avito.avito.com-id02349.info^
 ||sberbank.avito.avito.avito.avito.avito.avito.com-id1800853.com^
 ||sberbank.avito.avito.avito.avito.avito.avito.com-id20341.info^
@@ -1434,6 +1433,7 @@
 ||sberbank.com-id334112.com^
 ||sberbank.com-id409712.com^
 ||sberbank.com-id90123.info^
+||sberbank.mvideo.id90134267.com^
 ||sberbank.pay.avito.avito.avito.avito.avito.com-id02349.info^
 ||sberbank.pay.avito.avito.avito.avito.booking.com-id1800853.com^
 ||sberbank.pay.avito.avito.avito.avito.booking.com-id23901.info^
@@ -1545,6 +1545,7 @@
 ||signpify.com^
 ||silverlanetrading.com^
 ||skincheap.com^
+||skinszone.net^
 ||sleepyfull.com^
 ||sligen.com^
 ||smartokids.com^
@@ -1589,6 +1590,7 @@
 ||storeoregononline.com^
 ||storeskiwear.com^
 ||storesp.com^
+||streamloot.co^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
 ||successglossary.com^
@@ -1664,7 +1666,6 @@
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitterr.com^
-||u.umax-pro.ru^
 ||uangmu.top^
 ||uangmudahapp.com^
 ||uangqu.online^
