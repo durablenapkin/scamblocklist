@@ -28,7 +28,6 @@
 ||ajcenteruss.com^
 ||akebicycle.com^
 ||akjamv.shop^
-||aldofashion.com^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allergyfl.com^
@@ -389,6 +388,7 @@
 ||ercnnier.com^
 ||esl-gaming.com^
 ||eth2023.top^
+||etsy-verifed-shop.com^
 ||eudoraz.com^
 ||eudshop.shop^
 ||evangeliostore.com^
@@ -544,8 +544,10 @@
 ||januashop.com^
 ||jellyfishstat.live^
 ||jellystores.com^
+||jfremovals.com^
 ||jollyfamilygifts.net^
 ||jonausa.com^
+||jorvanda.com^
 ||justdy.shop^
 ||kakaoli.co.kr^
 ||kakaopv.co.kr^
@@ -582,6 +584,7 @@
 ||lifewonderland.com^
 ||limcologisticsusa.com^
 ||limitalfresco.com^
+||link-etsy.com^
 ||linkshe.com^
 ||linostee.com^
 ||lisabuddy.com^
@@ -589,6 +592,7 @@
 ||lisianstore.com^
 ||litcomplex.com^
 ||livecato.com^
+||liverepsae.adeftsolutions.com^
 ||loepwatch.com^
 ||lojaacasa.com.br^
 ||lomipod.com^
@@ -684,7 +688,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi47.com^
 ||navi50.com^
@@ -751,6 +754,7 @@
 ||nip57.com^
 ||nip6.com^
 ||nip69.com^
+||nip7.com^
 ||nip8.com^
 ||nip84.com^
 ||nip88.com^
@@ -803,7 +807,6 @@
 ||parajumperssalg.com^
 ||parcelprocessingredelivery1.info^
 ||parisiporlin-ktki.kemkes.go.id^
-||pasarbali-malls.com^
 ||pateim.com^
 ||path2zillion.com^
 ||pay.avito.avito.avito.avito.avito.avito.com-id02349.info^
@@ -1012,7 +1015,6 @@
 ||pay.pay.avito.www.booking.com-id20341.info^
 ||pay.pay.booking.com-id01251.info^
 ||pay.pay.booking.com-id20341.info^
-||pay.pay.booking.com-id329712.com^
 ||pay.pay.booking.com-id809702.com^
 ||pay.pay.booklng.com-id129041.info^
 ||pay.pay.booklng.com-id334112.com^
@@ -1275,7 +1277,6 @@
 ||sber.www.pay.com-id15421.info^
 ||sber.www.pay.com-id409712.com^
 ||sber.www42.com-id23901.info^
-||sberbank.asdfasdf.id05196219.com^
 ||sberbank.avito.avito.avito.avito.avito.avito.com-id02349.info^
 ||sberbank.avito.avito.avito.avito.avito.avito.com-id1800853.com^
 ||sberbank.avito.avito.avito.avito.avito.avito.com-id20341.info^
@@ -1433,7 +1434,6 @@
 ||sberbank.com-id334112.com^
 ||sberbank.com-id409712.com^
 ||sberbank.com-id90123.info^
-||sberbank.mvideo.id90134267.com^
 ||sberbank.pay.avito.avito.avito.avito.avito.com-id02349.info^
 ||sberbank.pay.avito.avito.avito.avito.booking.com-id1800853.com^
 ||sberbank.pay.avito.avito.avito.avito.booking.com-id23901.info^
@@ -1651,7 +1651,6 @@
 ||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
-||treasurefan.com^
 ||trendsharks.com^
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
