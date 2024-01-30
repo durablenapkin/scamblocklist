@@ -110,12 +110,10 @@
 ||avito.avito.pay.com-id809702.com^
 ||avito.avito.pay.www.booking.com-id20341.info^
 ||avito.avito.pay.www.booking.com-id809702.com^
-||avito.avito.sber.avito.booking.com-id809712.com^
 ||avito.avito.sber.avito.www.booking.com-id809702.com^
 ||avito.avito.sber.booking.com-id01251.info^
 ||avito.avito.sber.booking.com-id20341.info^
 ||avito.avito.sber.booking.com-id809702.com^
-||avito.avito.sber.booking.com-id809712.com^
 ||avito.avito.sber.pay.booking.com-id809702.com^
 ||avito.avito.sber.sberbank.booking.com-id90123.info^
 ||avito.avito.sberbank.booking.com-id90123.info^
@@ -125,14 +123,12 @@
 ||avito.avito.www.booking.com-id1800853.com^
 ||avito.avito.www.booking.com-id20341.info^
 ||avito.avito.www.booking.com-id23901.info^
-||avito.avito.www.booking.com-id809712.com^
 ||avito.booking.com-id01251.info^
 ||avito.booking.com-id15421.info^
 ||avito.booking.com-id16313.info^
 ||avito.booking.com-id23901.info^
 ||avito.booking.com-id334112.com^
 ||avito.com-id15421.info^
-||avito.com-id809712.com^
 ||avito.pay.avito.avito.avito.avito.avito.com-id02349.info^
 ||avito.pay.avito.avito.avito.avito.avito.com-id90123.info^
 ||avito.pay.avito.avito.avito.avito.booking.com-id02349.info^
@@ -293,7 +289,6 @@
 ||cition.info^
 ||cityofdream.co.uk^
 ||ckkebt.shop^
-||claimcoderz.live^
 ||clearance-bike.com^
 ||clemoa.com^
 ||cluckergifts.ecwid.com^
@@ -430,6 +425,7 @@
 ||faze47.com^
 ||faze5.com^
 ||faze55.com^
+||faze57.com^
 ||faze6.com^
 ||faze60.com^
 ||faze65.com^
@@ -522,7 +518,6 @@
 ||husqvarnaoutlet.shop^
 ||i-grade.online^
 ||iaqorwr.com^
-||iceao.shop^
 ||icelandclothing.myshopify.com^
 ||ihuers.com^
 ||ikiha.com^
@@ -688,12 +683,14 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi47.com^
 ||navi50.com^
 ||navi53.com^
 ||navi55.com^
 ||navi56.com^
+||navi56.ru^
 ||navi59.ru^
 ||navi6.com^
 ||navi61.com^
@@ -781,7 +778,6 @@
 ||oflike.com^
 ||ogogear.com^
 ||okdebrid.com^
-||olaoffer.shop^
 ||oldcube.com^
 ||oncloudrun.shop^
 ||online-binomo.com^
@@ -793,7 +789,6 @@
 ||open-cbd.de^
 ||openai.reisen^
 ||optimusconstructora.com.pe^
-||orami.cloud^
 ||orderquilt.com^
 ||orderstee.com^
 ||origin.tnail.cc^
@@ -983,6 +978,7 @@
 ||pay.com-id334112.com^
 ||pay.com-id409712.com^
 ||pay.com-id809702.com^
+||pay.com-id809712.com^
 ||pay.com-id90123.info^
 ||pay.pay.avito.avito.avito.avito.avito.com-id02349.info^
 ||pay.pay.avito.avito.avito.avito.avito.com-id809702.com^
@@ -1038,6 +1034,7 @@
 ||pay.sber.booklng.com-id129041.info^
 ||pay.sber.com-id01251.info^
 ||pay.sber.com-id20341.info^
+||pay.sber.com-id809712.com^
 ||pay.sber.pay.www.booking.com-id15421.info^
 ||pay.sber.sber.booking.com-id90123.info^
 ||pay.sber.sber.www.booking.com-id15421.info^
@@ -1104,7 +1101,6 @@
 ||poppop.online^
 ||posehee.com^
 ||postcanada.priority-ship.info^
-||potterheads.co^
 ||premiumqualityblanket.com^
 ||prestamex.top^
 ||primeleech.com^
@@ -1361,6 +1357,7 @@
 ||sberbank.avito.avito.www.booking.com-id01251.info^
 ||sberbank.avito.avito.www.booking.com-id1800853.com^
 ||sberbank.avito.avito.www.booking.com-id809702.com^
+||sberbank.avito.avito.www.booking.com-id809712.com^
 ||sberbank.avito.avito.www.com-id1800853.com^
 ||sberbank.avito.b0oklng.com-id16313.info^
 ||sberbank.avito.booking.com-id02349.info^
@@ -1435,6 +1432,7 @@
 ||sberbank.com-id23901.info^
 ||sberbank.com-id334112.com^
 ||sberbank.com-id409712.com^
+||sberbank.com-id809712.com^
 ||sberbank.com-id90123.info^
 ||sberbank.pay.avito.avito.avito.avito.avito.com-id02349.info^
 ||sberbank.pay.avito.avito.avito.avito.booking.com-id1800853.com^
@@ -1623,9 +1621,11 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
+||teslaking.io^
 ||teslatucker.com^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
@@ -1677,7 +1677,6 @@
 ||ultraboxlab.com^
 ||um-bs.com^
 ||unifully.com^
-||uniqueshirt.shop^
 ||universityofqatarrectorate.godaddysites.com^
 ||unkinerecle.com^
 ||uplevelreward.com^
