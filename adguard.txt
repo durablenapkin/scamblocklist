@@ -529,7 +529,6 @@
 ||ironpawtiny.live^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
-||j-natural.com^
 ||jackyeby.com^
 ||jagkart.com^
 ||januashop.com^
@@ -628,7 +627,6 @@
 ||modmobile24.com^
 ||monkstars.co^
 ||monkstars.com^
-||motovinreports.com^
 ||msmcompare.com^
 ||mujib-store28.blogspot.com^
 ||museuw.com^
@@ -712,6 +710,7 @@
 ||navi96.com^
 ||navi98.com^
 ||navi99.com^
+||navi99.ru^
 ||nbdiscount.com^
 ||neozor.com^
 ||netcotto.com^
@@ -923,7 +922,6 @@
 ||pay.avito.sber.com-id02349.info^
 ||pay.avito.sber.com-id20341.info^
 ||pay.avito.sber.com-id809702.com^
-||pay.avito.sber.com-id809712.com^
 ||pay.avito.sber.pay.booking.com-id809702.com^
 ||pay.avito.sber.pay.com-id20341.info^
 ||pay.avito.sber.pay.com-id809702.com^
@@ -1053,6 +1051,7 @@
 ||pay.www.booking.com-id23901.info^
 ||pay.www.booklng.com-id129041.info^
 ||pay.www.com-id1800853.com^
+||pay.www.pay.booking.com-id809712.com^
 ||pay.www.pay.com-id15421.info^
 ||pay.www.pay.www.booking.com-id15421.info^
 ||pay.www.sber.avito.booking.com-id20341.info^
@@ -1077,6 +1076,7 @@
 ||pinjamanduit.lol^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
+||pinjamdana.live^
 ||pinjamnow.my.id^
 ||pinjamteman.top^
 ||pinjamuang.top^
@@ -1086,6 +1086,7 @@
 ||polish-money-matters.blogspot.com^
 ||popeurope.com^
 ||poppop.online^
+||posehee.com^
 ||postcanada.priority-ship.info^
 ||premiumqualityblanket.com^
 ||prestamex.top^
@@ -1218,6 +1219,7 @@
 ||sber.pay.booking.com-id1800853.com^
 ||sber.pay.booking.com-id20341.info^
 ||sber.pay.booking.com-id809702.com^
+||sber.pay.booking.com-id809712.com^
 ||sber.pay.booklng.com-id129041.info^
 ||sber.pay.booklng.com-id334112.com^
 ||sber.pay.com-id01251.info^
@@ -1319,7 +1321,6 @@
 ||sberbank.avito.avito.booking.com-id90123.info^
 ||sberbank.avito.avito.com-id15421.info^
 ||sberbank.avito.avito.com-id23901.info^
-||sberbank.avito.avito.com-id809712.com^
 ||sberbank.avito.avito.pay.booking.com-id809702.com^
 ||sberbank.avito.avito.pay.com-id01251.info^
 ||sberbank.avito.avito.pay.www.booking.com-id01251.info^
@@ -1454,6 +1455,7 @@
 ||sberbank.pay.com-id01251.info^
 ||sberbank.pay.com-id129041.info^
 ||sberbank.pay.com-id20341.info^
+||sberbank.pay.com-id809712.com^
 ||sberbank.pay.pay.www.booking.com-id20341.info^
 ||sberbank.pay.sber.booking.com-id20341.info^
 ||sberbank.pay.sber.com-id20341.info^
@@ -1468,6 +1470,7 @@
 ||sberbank.sber.avito.avito.avito.booking.com-id20341.info^
 ||sberbank.sber.avito.booking.com-id02349.info^
 ||sberbank.sber.booking.com-id20341.info^
+||sberbank.sber.booking.com-id809712.com^
 ||sberbank.sber.booking.com-id90123.info^
 ||sberbank.sber.com-id02349.info^
 ||sberbank.sber.com-id129041.info^
@@ -1874,6 +1877,7 @@
 ||yandex.pay.com-id129041.info^
 ||yandex.pay.com-id20341.info^
 ||yandex.pay.com-id409712.com^
+||yandex.pay.com-id809712.com^
 ||yandex.pay.pay.www.booking.com-id20341.info^
 ||yandex.pay.sber.com-id20341.info^
 ||yandex.pay.sber.www70.com-id23901.info^
