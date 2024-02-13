@@ -449,11 +449,11 @@
 ||fitgirl-repacks.vip^
 ||fitgirlrepacksite.com^
 ||fix-live.tech^
+||fixpub.com^
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
 ||freedom-5g.com^
-||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
 ||fuckmebaby.click^
@@ -534,6 +534,7 @@
 ||januashop.com^
 ||jellyfishstat.live^
 ||jellystores.com^
+||jfremovals.com^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
@@ -578,7 +579,6 @@
 ||lisatillhon.de^
 ||litcomplex.com^
 ||livecato.com^
-||liverepsae.adeftsolutions.com^
 ||loepwatch.com^
 ||lojaacasa.com.br^
 ||lomipod.com^
@@ -627,6 +627,7 @@
 ||modmobile24.com^
 ||monkstars.co^
 ||monkstars.com^
+||motovinreports.com^
 ||msmcompare.com^
 ||mujib-store28.blogspot.com^
 ||museuw.com^
@@ -673,6 +674,7 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi47.com^
 ||navi5.com^
@@ -692,6 +694,7 @@
 ||navi72.ru^
 ||navi73.com^
 ||navi74.com^
+||navi74.ru^
 ||navi75.com^
 ||navi76.com^
 ||navi77.com^
@@ -710,7 +713,6 @@
 ||navi96.com^
 ||navi98.com^
 ||navi99.com^
-||navi99.ru^
 ||nbdiscount.com^
 ||neozor.com^
 ||netcotto.com^
@@ -922,6 +924,7 @@
 ||pay.avito.sber.com-id02349.info^
 ||pay.avito.sber.com-id20341.info^
 ||pay.avito.sber.com-id809702.com^
+||pay.avito.sber.com-id809712.com^
 ||pay.avito.sber.pay.booking.com-id809702.com^
 ||pay.avito.sber.pay.com-id20341.info^
 ||pay.avito.sber.pay.com-id809702.com^
@@ -1051,7 +1054,6 @@
 ||pay.www.booking.com-id23901.info^
 ||pay.www.booklng.com-id129041.info^
 ||pay.www.com-id1800853.com^
-||pay.www.pay.booking.com-id809712.com^
 ||pay.www.pay.com-id15421.info^
 ||pay.www.pay.www.booking.com-id15421.info^
 ||pay.www.sber.avito.booking.com-id20341.info^
@@ -1219,7 +1221,6 @@
 ||sber.pay.booking.com-id1800853.com^
 ||sber.pay.booking.com-id20341.info^
 ||sber.pay.booking.com-id809702.com^
-||sber.pay.booking.com-id809712.com^
 ||sber.pay.booklng.com-id129041.info^
 ||sber.pay.booklng.com-id334112.com^
 ||sber.pay.com-id01251.info^
@@ -1383,6 +1384,7 @@
 ||sberbank.avito.sber.com-id01251.info^
 ||sberbank.avito.sber.com-id02349.info^
 ||sberbank.avito.sber.com-id809702.com^
+||sberbank.avito.sber.com-id809712.com^
 ||sberbank.avito.sber.pay.com-id809702.com^
 ||sberbank.avito.sber.sber.booking.com-id90123.info^
 ||sberbank.avito.sber.sberbank.booking.com-id90123.info^
@@ -1399,6 +1401,7 @@
 ||sberbank.avito.www.booking.com-id20341.info^
 ||sberbank.avito.www.booking.com-id23901.info^
 ||sberbank.avito.www.booking.com-id809702.com^
+||sberbank.avito.www.booking.com-id809712.com^
 ||sberbank.avito.www.booklng.com-id334112.com^
 ||sberbank.avito.www.com-id1800853.com^
 ||sberbank.avito.www.www.com-id1800853.com^
@@ -1455,7 +1458,6 @@
 ||sberbank.pay.com-id01251.info^
 ||sberbank.pay.com-id129041.info^
 ||sberbank.pay.com-id20341.info^
-||sberbank.pay.com-id809712.com^
 ||sberbank.pay.pay.www.booking.com-id20341.info^
 ||sberbank.pay.sber.booking.com-id20341.info^
 ||sberbank.pay.sber.com-id20341.info^
@@ -1470,7 +1472,6 @@
 ||sberbank.sber.avito.avito.avito.booking.com-id20341.info^
 ||sberbank.sber.avito.booking.com-id02349.info^
 ||sberbank.sber.booking.com-id20341.info^
-||sberbank.sber.booking.com-id809712.com^
 ||sberbank.sber.booking.com-id90123.info^
 ||sberbank.sber.com-id02349.info^
 ||sberbank.sber.com-id129041.info^
@@ -1608,7 +1609,6 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslafuture.io^
@@ -1877,7 +1877,6 @@
 ||yandex.pay.com-id129041.info^
 ||yandex.pay.com-id20341.info^
 ||yandex.pay.com-id409712.com^
-||yandex.pay.com-id809712.com^
 ||yandex.pay.pay.www.booking.com-id20341.info^
 ||yandex.pay.sber.com-id20341.info^
 ||yandex.pay.sber.www70.com-id23901.info^
