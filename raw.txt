@@ -30,6 +30,9 @@
 0.0.0.0 2xtsla.io
 0.0.0.0 www.2xtsla.io
 0.0.0.0 store.2xtsla.io
+0.0.0.0 407payment-etr.com
+0.0.0.0 www.407payment-etr.com
+0.0.0.0 store.407payment-etr.com
 0.0.0.0 42gixk.98kk89.com
 0.0.0.0 www.42gixk.98kk89.com
 0.0.0.0 store.42gixk.98kk89.com
@@ -2253,6 +2256,9 @@
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 store.emberio.com
+0.0.0.0 en407etr.com
+0.0.0.0 www.en407etr.com
+0.0.0.0 store.en407etr.com
 0.0.0.0 enchantestore.myshopify.com
 0.0.0.0 www.enchantestore.myshopify.com
 0.0.0.0 store.enchantestore.myshopify.com

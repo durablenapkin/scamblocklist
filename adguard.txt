@@ -7,6 +7,7 @@
 ||1stireland.com^
 ||1sttheworld.com^
 ||2xtsla.io^
+||407payment-etr.com^
 ||42gixk.98kk89.com^
 ||4556.de^
 ||5g-update.com^
@@ -28,6 +29,7 @@
 ||ajcenteruss.com^
 ||akebicycle.com^
 ||akjamv.shop^
+||aldi-life.vip^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allergyfl.com^
@@ -80,6 +82,7 @@
 ||avito.avito.avito.pay.booking.com-id02349.info^
 ||avito.avito.avito.pay.booking.com-id20341.info^
 ||avito.avito.avito.pay.booking.com-id809702.com^
+||avito.avito.avito.pay.booking.com-id809712.com^
 ||avito.avito.avito.pay.com-id01251.info^
 ||avito.avito.avito.pay.com-id02349.info^
 ||avito.avito.avito.pay.com-id15421.info^
@@ -168,6 +171,7 @@
 ||avito.pay.www.booking.com-id15421.info^
 ||avito.pay.www.booking.com-id20341.info^
 ||avito.pay.www.booking.com-id809702.com^
+||avito.pay.www.booking.com-id809712.com^
 ||avito.pay.www.www.com-id1800853.com^
 ||avito.sber.booking.com-id20341.info^
 ||avito.sber.pay.booking.com-id809702.com^
@@ -246,7 +250,6 @@
 ||booking.com-id23901.info^
 ||booking.transaction-processing.one^
 ||booklng.com-id334112.com^
-||booliving.com^
 ||boooodas.com^
 ||bossaving.com^
 ||botsuanah.com^
@@ -381,6 +384,7 @@
 ||ellezz.com^
 ||elonspace.org^
 ||emberio.com^
+||en407etr.com^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
 ||equiwarmpro.co^
@@ -449,11 +453,11 @@
 ||fitgirl-repacks.vip^
 ||fitgirlrepacksite.com^
 ||fix-live.tech^
-||fixpub.com^
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
 ||freedom-5g.com^
+||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
 ||fuckmebaby.click^
@@ -510,6 +514,7 @@
 ||husqvarnaoutlet.shop^
 ||i-grade.online^
 ||iaqorwr.com^
+||iceao.shop^
 ||icelandclothing.myshopify.com^
 ||ihuers.com^
 ||ikiha.com^
@@ -534,7 +539,6 @@
 ||januashop.com^
 ||jellyfishstat.live^
 ||jellystores.com^
-||jfremovals.com^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||justdy.shop^
@@ -579,6 +583,7 @@
 ||lisatillhon.de^
 ||litcomplex.com^
 ||livecato.com^
+||liverepsae.adeftsolutions.com^
 ||loepwatch.com^
 ||lojaacasa.com.br^
 ||lomipod.com^
@@ -652,6 +657,7 @@
 ||navi100.com^
 ||navi12.com^
 ||navi13.com^
+||navi14.com^
 ||navi18.com^
 ||navi2.com^
 ||navi20.com^
@@ -674,7 +680,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi47.com^
 ||navi5.com^
@@ -694,7 +699,6 @@
 ||navi72.ru^
 ||navi73.com^
 ||navi74.com^
-||navi74.ru^
 ||navi75.com^
 ||navi76.com^
 ||navi77.com^
@@ -848,11 +852,13 @@
 ||pay.avito.avito.avito.www.avito.booking.com-id90123.info^
 ||pay.avito.avito.avito.www.booking.com-id02349.info^
 ||pay.avito.avito.avito.www.booking.com-id20341.info^
+||pay.avito.avito.avito.www.booking.com-id809712.com^
 ||pay.avito.avito.avito.www.booking.com-id90123.info^
 ||pay.avito.avito.bo0king.com-id16313.info^
 ||pay.avito.avito.bo0klng.com-id16313.info^
 ||pay.avito.avito.booking.com-id02349.info^
 ||pay.avito.avito.booking.com-id23901.info^
+||pay.avito.avito.booking.com-id809712.com^
 ||pay.avito.avito.com-id01251.info^
 ||pay.avito.avito.com-id02349.info^
 ||pay.avito.avito.com-id1800853.com^
@@ -863,6 +869,7 @@
 ||pay.avito.avito.pay.booking.com-id809702.com^
 ||pay.avito.avito.pay.www.booking.com-id15421.info^
 ||pay.avito.avito.pay.www.booking.com-id20341.info^
+||pay.avito.avito.pay.www.booking.com-id809712.com^
 ||pay.avito.avito.sber.avito.www.booking.com-id809702.com^
 ||pay.avito.avito.sber.booking.com-id01251.info^
 ||pay.avito.avito.sber.booking.com-id809702.com^
@@ -915,6 +922,7 @@
 ||pay.avito.pay.www.booking.com-id15421.info^
 ||pay.avito.pay.www.booking.com-id20341.info^
 ||pay.avito.pay.www.booking.com-id809702.com^
+||pay.avito.pay.www.booking.com-id809712.com^
 ||pay.avito.sber.avito.com-id02349.info^
 ||pay.avito.sber.avito.www.booking.com-id809702.com^
 ||pay.avito.sber.booking.com-id02349.info^
@@ -924,7 +932,6 @@
 ||pay.avito.sber.com-id02349.info^
 ||pay.avito.sber.com-id20341.info^
 ||pay.avito.sber.com-id809702.com^
-||pay.avito.sber.com-id809712.com^
 ||pay.avito.sber.pay.booking.com-id809702.com^
 ||pay.avito.sber.pay.com-id20341.info^
 ||pay.avito.sber.pay.com-id809702.com^
@@ -958,6 +965,7 @@
 ||pay.booking.com-id1800853.com^
 ||pay.booking.com-id20341.info^
 ||pay.booking.com-id23901.info^
+||pay.booking.com-id809712.com^
 ||pay.booklng.com-id129041.info^
 ||pay.com-id01251.info^
 ||pay.com-id129041.info^
@@ -1003,6 +1011,7 @@
 ||pay.pay.booking.com-id01251.info^
 ||pay.pay.booking.com-id20341.info^
 ||pay.pay.booking.com-id809702.com^
+||pay.pay.booking.com-id809712.com^
 ||pay.pay.booklng.com-id129041.info^
 ||pay.pay.booklng.com-id334112.com^
 ||pay.pay.com-id02349.info^
@@ -1013,6 +1022,7 @@
 ||pay.pay.sber.www.www42.com-id23901.info^
 ||pay.pay.www.booking.com-id20341.info^
 ||pay.pay.www.booking.com-id23901.info^
+||pay.pay.www.booking.com-id809712.com^
 ||pay.pay.www.booklng.com-id129041.info^
 ||pay.sber.avito.avito.avito.avito.avito.com-id20341.info^
 ||pay.sber.avito.avito.avito.com-id1800853.com^
@@ -1020,6 +1030,7 @@
 ||pay.sber.avito.www.booking.com-id20341.info^
 ||pay.sber.booking.com-id02349.info^
 ||pay.sber.booking.com-id20341.info^
+||pay.sber.booking.com-id809712.com^
 ||pay.sber.booking.com-id90123.info^
 ||pay.sber.booklng.com-id129041.info^
 ||pay.sber.com-id01251.info^
@@ -1052,8 +1063,10 @@
 ||pay.www.booking.com-id15421.info^
 ||pay.www.booking.com-id20341.info^
 ||pay.www.booking.com-id23901.info^
+||pay.www.booking.com-id809712.com^
 ||pay.www.booklng.com-id129041.info^
 ||pay.www.com-id1800853.com^
+||pay.www.pay.booking.com-id809712.com^
 ||pay.www.pay.com-id15421.info^
 ||pay.www.pay.www.booking.com-id15421.info^
 ||pay.www.sber.avito.booking.com-id20341.info^
@@ -1147,6 +1160,7 @@
 ||sber.avito.avito.pay.avito.avito.avito.com-id809702.com^
 ||sber.avito.avito.pay.booking.com-id01251.info^
 ||sber.avito.avito.pay.com-id20341.info^
+||sber.avito.avito.pay.com-id809712.com^
 ||sber.avito.avito.pay.www.booking.com-id01251.info^
 ||sber.avito.avito.pay.www.booking.com-id20341.info^
 ||sber.avito.avito.sber.pay.booking.com-id809702.com^
@@ -1324,6 +1338,7 @@
 ||sberbank.avito.avito.com-id23901.info^
 ||sberbank.avito.avito.pay.booking.com-id809702.com^
 ||sberbank.avito.avito.pay.com-id01251.info^
+||sberbank.avito.avito.pay.com-id809712.com^
 ||sberbank.avito.avito.pay.www.booking.com-id01251.info^
 ||sberbank.avito.avito.pay.www.booking.com-id15421.info^
 ||sberbank.avito.avito.sber.avito.com-id02349.info^
@@ -1384,7 +1399,6 @@
 ||sberbank.avito.sber.com-id01251.info^
 ||sberbank.avito.sber.com-id02349.info^
 ||sberbank.avito.sber.com-id809702.com^
-||sberbank.avito.sber.com-id809712.com^
 ||sberbank.avito.sber.pay.com-id809702.com^
 ||sberbank.avito.sber.sber.booking.com-id90123.info^
 ||sberbank.avito.sber.sberbank.booking.com-id90123.info^
@@ -1401,7 +1415,6 @@
 ||sberbank.avito.www.booking.com-id20341.info^
 ||sberbank.avito.www.booking.com-id23901.info^
 ||sberbank.avito.www.booking.com-id809702.com^
-||sberbank.avito.www.booking.com-id809712.com^
 ||sberbank.avito.www.booklng.com-id334112.com^
 ||sberbank.avito.www.com-id1800853.com^
 ||sberbank.avito.www.www.com-id1800853.com^
@@ -1588,7 +1601,6 @@
 ||supercutestuff.com^
 ||supperbrand.company.site^
 ||supportdelivery3414-ups.com^
-||surprisesandgifts.com^
 ||survivalcatsupply.com^
 ||swellsup.com^
 ||swuso.com^
@@ -1609,6 +1621,7 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslafuture.io^
@@ -1727,6 +1740,7 @@
 ||yandex.avito.avito.avito.avito.avito.com-id90123.info^
 ||yandex.avito.avito.avito.avito.booking.com-id02349.info^
 ||yandex.avito.avito.avito.avito.booking.com-id809702.com^
+||yandex.avito.avito.avito.avito.booking.com-id809712.com^
 ||yandex.avito.avito.avito.avito.com-id1800853.com^
 ||yandex.avito.avito.avito.avito.com-id20341.info^
 ||yandex.avito.avito.avito.avito.sber.booking.com-id809702.com^
@@ -1769,6 +1783,7 @@
 ||yandex.avito.avito.pay.www.booking.com-id01251.info^
 ||yandex.avito.avito.pay.www.booking.com-id02349.info^
 ||yandex.avito.avito.pay.www.booking.com-id809702.com^
+||yandex.avito.avito.sber.avito.com-id809712.com^
 ||yandex.avito.avito.sber.pay.booking.com-id809702.com^
 ||yandex.avito.avito.sber.sberbank.booking.com-id90123.info^
 ||yandex.avito.avito.sber.www.www42.com-id23901.info^
@@ -1801,6 +1816,7 @@
 ||yandex.avito.pay.avito.avito.avito.com-id809702.com^
 ||yandex.avito.pay.avito.avito.booking.com-id809702.com^
 ||yandex.avito.pay.avito.avito.booking.com-id90123.info^
+||yandex.avito.pay.avito.avito.com-id809712.com^
 ||yandex.avito.pay.booking.com-id01251.info^
 ||yandex.avito.pay.booking.com-id02349.info^
 ||yandex.avito.pay.booking.com-id20341.info^
@@ -1877,6 +1893,7 @@
 ||yandex.pay.com-id129041.info^
 ||yandex.pay.com-id20341.info^
 ||yandex.pay.com-id409712.com^
+||yandex.pay.com-id809712.com^
 ||yandex.pay.pay.www.booking.com-id20341.info^
 ||yandex.pay.sber.com-id20341.info^
 ||yandex.pay.sber.www70.com-id23901.info^
