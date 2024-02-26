@@ -1560,6 +1560,9 @@
 0.0.0.0 charpente-ramel.com
 0.0.0.0 www.charpente-ramel.com
 0.0.0.0 store.charpente-ramel.com
+0.0.0.0 chat-o-live.com
+0.0.0.0 www.chat-o-live.com
+0.0.0.0 store.chat-o-live.com
 0.0.0.0 chatgpt-double.com
 0.0.0.0 www.chatgpt-double.com
 0.0.0.0 store.chatgpt-double.com
@@ -2274,6 +2277,9 @@
 0.0.0.0 ercnnier.com
 0.0.0.0 www.ercnnier.com
 0.0.0.0 store.ercnnier.com
+0.0.0.0 eshaalfawson.shop
+0.0.0.0 www.eshaalfawson.shop
+0.0.0.0 store.eshaalfawson.shop
 0.0.0.0 esl-gaming.com
 0.0.0.0 www.esl-gaming.com
 0.0.0.0 store.esl-gaming.com
@@ -3207,6 +3213,9 @@
 0.0.0.0 i-grade.online
 0.0.0.0 www.i-grade.online
 0.0.0.0 store.i-grade.online
+0.0.0.0 i.fundatingquest.fun
+0.0.0.0 www.i.fundatingquest.fun
+0.0.0.0 store.i.fundatingquest.fun
 0.0.0.0 iaqorwr.com
 0.0.0.0 www.iaqorwr.com
 0.0.0.0 store.iaqorwr.com
@@ -4026,6 +4035,9 @@
 0.0.0.0 mystitich4u.com
 0.0.0.0 www.mystitich4u.com
 0.0.0.0 store.mystitich4u.com
+0.0.0.0 mysuperdatingforyou.life
+0.0.0.0 www.mysuperdatingforyou.life
+0.0.0.0 store.mysuperdatingforyou.life
 0.0.0.0 mytenmerch.com
 0.0.0.0 www.mytenmerch.com
 0.0.0.0 store.mytenmerch.com
@@ -7206,6 +7218,9 @@
 0.0.0.0 royalkingsmail.co.uk
 0.0.0.0 www.royalkingsmail.co.uk
 0.0.0.0 store.royalkingsmail.co.uk
+0.0.0.0 rozaholshouser.cfd
+0.0.0.0 www.rozaholshouser.cfd
+0.0.0.0 store.rozaholshouser.cfd
 0.0.0.0 rozetia.com
 0.0.0.0 www.rozetia.com
 0.0.0.0 store.rozetia.com
@@ -9444,6 +9459,9 @@
 0.0.0.0 shapeden.com
 0.0.0.0 www.shapeden.com
 0.0.0.0 store.shapeden.com
+0.0.0.0 sharlalias.click
+0.0.0.0 www.sharlalias.click
+0.0.0.0 store.sharlalias.click
 0.0.0.0 sharonup.com
 0.0.0.0 www.sharonup.com
 0.0.0.0 store.sharonup.com
