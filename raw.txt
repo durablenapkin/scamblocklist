@@ -10512,6 +10512,9 @@
 0.0.0.0 uspsglobalexpress.com
 0.0.0.0 www.uspsglobalexpress.com
 0.0.0.0 store.uspsglobalexpress.com
+0.0.0.0 uspw.usspaqn.top
+0.0.0.0 www.uspw.usspaqn.top
+0.0.0.0 store.uspw.usspaqn.top
 0.0.0.0 ussportabout.com
 0.0.0.0 www.ussportabout.com
 0.0.0.0 store.ussportabout.com
