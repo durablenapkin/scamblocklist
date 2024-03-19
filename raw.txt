@@ -4728,6 +4728,9 @@
 0.0.0.0 nevaon.com
 0.0.0.0 www.nevaon.com
 0.0.0.0 store.nevaon.com
+0.0.0.0 new-s24.click
+0.0.0.0 www.new-s24.click
+0.0.0.0 store.new-s24.click
 0.0.0.0 new-space-x2023.com
 0.0.0.0 www.new-space-x2023.com
 0.0.0.0 store.new-space-x2023.com
