@@ -2826,6 +2826,9 @@
 0.0.0.0 freedom-deposit.ca
 0.0.0.0 www.freedom-deposit.ca
 0.0.0.0 store.freedom-deposit.ca
+0.0.0.0 freedomgift50.com
+0.0.0.0 www.freedomgift50.com
+0.0.0.0 store.freedomgift50.com
 0.0.0.0 freedommobile.syncreturn.ca
 0.0.0.0 www.freedommobile.syncreturn.ca
 0.0.0.0 store.freedommobile.syncreturn.ca
