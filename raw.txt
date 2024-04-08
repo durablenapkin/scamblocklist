@@ -96,6 +96,9 @@
 0.0.0.0 accfiverif.com
 0.0.0.0 www.accfiverif.com
 0.0.0.0 store.accfiverif.com
+0.0.0.0 account-cfe.mx
+0.0.0.0 www.account-cfe.mx
+0.0.0.0 store.account-cfe.mx
 0.0.0.0 acquatee.com
 0.0.0.0 www.acquatee.com
 0.0.0.0 store.acquatee.com
