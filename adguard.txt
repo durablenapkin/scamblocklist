@@ -918,13 +918,13 @@
 ||zolrqw.palatlaldate.com^$all
 ||zooger.space^$all
 ! Optimized Expressions, thx DandelionSprout
-||avito.avito.avito.
-.com-id*.info^
-.com-id*.com^
-||yandex.avito.sber*
-||yandex.avito.www.
-||yandex.pay.avito.
-.avito.www.booking.
-||booklng.com-*
-||avito.avito.www.avito.
-||booking.com-id*
+||avito.avito.avito.$all
+.com-id*.info^$all
+.com-id*.com^$all
+||yandex.avito.sber*$all
+||yandex.avito.www.$all
+||yandex.pay.avito.$all
+.avito.www.booking.$all
+||booklng.com-*$all
+||avito.avito.www.avito.$all
+||booking.com-id*$all
