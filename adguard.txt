@@ -9,6 +9,7 @@
 ||42gixk.98kk89.com^
 ||4556.de^
 ||5g-update.com^
+||9to5outlet.com^
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
 ||aadirone.cc^
@@ -35,16 +36,15 @@
 ||alohazing.com^
 ||altruetech.com^
 ||amcclothes.com^
+||amznhoodies.com^
 ||amznshirts.com^
 ||an1.is^
 ||andamente.pt^
-||animals-love.us^
 ||animeshoppers.com^
 ||anydebrid.com^
 ||aoocib.com^
-||api.processing-transaction.info^
-||apple.com-coordinates.info^
 ||apple.enablemyidservices.com^
+||approdishop.com^
 ||arduino.uk.eu.org^
 ||ariatwear.online^
 ||army-shop.onshopbase.com^
@@ -199,7 +199,6 @@
 ||deergift.com^
 ||defcon7.com.br^
 ||deluxdoll.com^
-||dev.id601294105.date^
 ||devifoodgrains.com^
 ||deytee.com^
 ||dezpez.com^
@@ -302,6 +301,7 @@
 ||fotballsko-salg.com^
 ||free.nf^
 ||freedom-5g.com^
+||freedomgift50.com^
 ||freegiftscards.shop^
 ||friday89.com^
 ||frostgoddess.com^
@@ -335,10 +335,12 @@
 ||gotoperfection.com^
 ||gowarehouse.net^
 ||goyourheart.com^
+||gpt-open23.com^
 ||graciaszone.com^
 ||gratis-eltern-produkttests.com^
 ||gsport.com^
 ||gunstee.com^
+||haceroberomaste.com^
 ||hairyfy.com^
 ||haowei.me^
 ||happylifetee.com^
@@ -353,7 +355,6 @@
 ||hotbignews.com^
 ||hotdebrid.com^
 ||hotmod.eu^
-||hunden.info^
 ||husqvarnaoutlet.shop^
 ||i-grade.online^
 ||i.fundatingquest.fun^
@@ -447,6 +448,7 @@
 ||mcsglobalcargo.com^
 ||meaningift.com^
 ||megoindonesia.com^
+||mein-paket.net^
 ||meminjamsaya.com^
 ||metachartview.com^
 ||microgull.com^
@@ -464,7 +466,6 @@
 ||motovinreports.com^
 ||msmcompare.com^
 ||mujib-store28.blogspot.com^
-||muscleforlive.online^
 ||museuw.com^
 ||musk-aigpt.com^
 ||muskai.net^
@@ -475,6 +476,7 @@
 ||myhandshops.myshopify.com^
 ||mystitich4u.com^
 ||mysuperdatingforyou.life^
+||mytenmerch.com^
 ||nabaza.shop^
 ||nalzahqp.page.link^
 ||nanoweb3-rarityledgertech.com^
@@ -495,8 +497,10 @@
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
+||navi28.ru^
 ||navi3.com^
 ||navi30.ru^
+||navi32.com^
 ||navi33.com^
 ||navi35.com^
 ||navi35.ru^
@@ -507,13 +511,12 @@
 ||navi40.com^
 ||navi42.ru^
 ||navi45.ru^
-||navi46.com^
 ||navi47.com^
 ||navi49.com^
+||navi49.ru^
 ||navi5.com^
 ||navi50.com^
 ||navi53.com^
-||navi55.ru^
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
@@ -523,7 +526,9 @@
 ||navi67.com^
 ||navi67.ru^
 ||navi7.com^
+||navi7.ru^
 ||navi71.com^
+||navi71.ru^
 ||navi72.com^
 ||navi72.ru^
 ||navi73.com^
@@ -592,6 +597,7 @@
 ||novabeds.ca^
 ||nxtgenerator.top^
 ||nynextlevel.com^
+||nze0xw.haceroberomaste.com^
 ||nzxsxn.98kk89.com^
 ||oablages.org.br^
 ||ocycling.com^
@@ -643,7 +649,6 @@
 ||pjs.outlet.com^
 ||platform.crypto1capital-trade.com^
 ||plutostars.com^
-||podmart.mobi^
 ||polish-money-matters.blogspot.com^
 ||popeurope.com^
 ||poppee.online^
@@ -747,6 +752,7 @@
 ||startuplatte.com^
 ||stealthhorizonshipping.com^
 ||steamgateways.com^
+||steammcommunuty.ru^
 ||steamunlock.com^
 ||steamunlock.gifts^
 ||stellara.de^
@@ -782,6 +788,7 @@
 ||tartannewzealand.myshopify.com^
 ||tbg-lmtd.com^
 ||tbg-lmtd.xyz^
+||tdgrop168.vip^
 ||tdsintegrations11.online^
 ||tecappcloud.com^
 ||tee24h.com^
@@ -851,7 +858,6 @@
 ||usasport247.com^
 ||uscampinghiking.com^
 ||uschse04.my03.com^
-||ushiro.org^
 ||usnewoutdoor.com^
 ||usplussports.com^
 ||ussportabout.com^

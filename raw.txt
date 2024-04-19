@@ -3855,6 +3855,9 @@
 0.0.0.0 megoindonesia.com
 0.0.0.0 www.megoindonesia.com
 0.0.0.0 store.megoindonesia.com
+0.0.0.0 mein-paket.net
+0.0.0.0 www.mein-paket.net
+0.0.0.0 store.mein-paket.net
 0.0.0.0 meladermfacts.com
 0.0.0.0 www.meladermfacts.com
 0.0.0.0 store.meladermfacts.com
