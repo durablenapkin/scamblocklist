@@ -9,7 +9,6 @@
 ||42gixk.98kk89.com^
 ||4556.de^
 ||5g-update.com^
-||9to5outlet.com^
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
 ||aadirone.cc^
@@ -25,8 +24,8 @@
 ||aircgd.shop^
 ||airmaxskobillige.com^
 ||ajcenteruss.com^
+||akatee.com^
 ||akebicycle.com^
-||akjamv.shop^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allergyfl.com^
@@ -36,7 +35,6 @@
 ||alohazing.com^
 ||altruetech.com^
 ||amcclothes.com^
-||amznhoodies.com^
 ||amznshirts.com^
 ||an1.is^
 ||andamente.pt^
@@ -44,7 +42,6 @@
 ||anydebrid.com^
 ||aoocib.com^
 ||apple.enablemyidservices.com^
-||approdishop.com^
 ||arduino.uk.eu.org^
 ||ariatwear.online^
 ||army-shop.onshopbase.com^
@@ -118,13 +115,11 @@
 ||buyyeezy2023.com^
 ||buzzazone.com^
 ||by-emmamuller.de^
-||byeuys.shop^
 ||campingsurfshop.com^
 ||can-postsmsnotice.com^
 ||canadapost.mydelivery1.com^
 ||candlesbymadison.com^
 ||canjaume.com^
-||caoefe.shop^
 ||caraci.it^
 ||cardadvantagecast.com^
 ||cargotrustcourier.com^
@@ -144,7 +139,6 @@
 ||cipustar.com^
 ||cition.info^
 ||cityofdream.co.uk^
-||ckkebt.shop^
 ||clearance-bike.com^
 ||clemoa.com^
 ||cluckergifts.ecwid.com^
@@ -189,7 +183,6 @@
 ||dashracegear.net^
 ||dataid-subsidies.click^
 ||dautee.com^
-||dbhmnp.shop^
 ||dbmobile-phototan.de^
 ||dcsnowboard.com^
 ||ddoe.shop^
@@ -204,7 +197,6 @@
 ||dezpez.com^
 ||dischargebackhanded.com^
 ||discounthoneywell.com^
-||diytsi.shop^
 ||dkfodboldstore.com^
 ||dleggere.com^
 ||dogparadiseshop.com^
@@ -267,6 +259,7 @@
 ||faze24.com^
 ||faze3.com^
 ||faze35.com^
+||faze36.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -276,7 +269,6 @@
 ||faze65.com^
 ||faze66.com^
 ||faze67.com^
-||faze7.com^
 ||faze70.com^
 ||faze71.com^
 ||faze76.com^
@@ -297,11 +289,12 @@
 ||fitgirl-repacks.vip^
 ||fitgirlrepacksite.com^
 ||flattee.com^
+||fms88.shop^
 ||foryourdears.com^
 ||fotballsko-salg.com^
+||foxzily.xyz^
 ||free.nf^
 ||freedom-5g.com^
-||freedomgift50.com^
 ||freegiftscards.shop^
 ||friday89.com^
 ||frostgoddess.com^
@@ -369,7 +362,6 @@
 ||innewstyle.com^
 ||innomediacreate.com^
 ||instant-e-app-for-campaign.github.io^
-||internationalcybersafedating.com^
 ||investama92.com^
 ||iphone.quiztionnaire.biz^
 ||iqcreditcheck.com^
@@ -396,6 +388,7 @@
 ||kleankanteenbottle.com^
 ||knightmods.com^
 ||kontribusiuang.top^
+||koouniji.com^
 ||koperasi.naricash.com^
 ||kopisusu.co.id^
 ||kredit-rupiah.com^
@@ -420,6 +413,7 @@
 ||lisabuddy.com^
 ||litcomplex.com^
 ||livecato.com^
+||load.365analytics.xyz^
 ||loepwatch.com^
 ||lojaacasa.com.br^
 ||lomipod.com^
@@ -434,6 +428,7 @@
 ||luccheseoutlet.online^
 ||lucchesestore.online^
 ||lucidtiger.com^
+||luckydraws.buzz^
 ||lucysstyle.com^
 ||lunapresent.com^
 ||luxsgear.com^
@@ -476,18 +471,19 @@
 ||myhandshops.myshopify.com^
 ||mystitich4u.com^
 ||mysuperdatingforyou.life^
-||mytenmerch.com^
 ||nabaza.shop^
 ||nalzahqp.page.link^
 ||nanoweb3-rarityledgertech.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
 ||natistore.us^
+||navi0.ru^
 ||navi1.com^
 ||navi10.com^
 ||navi100.com^
 ||navi12.com^
 ||navi18.com^
+||navi19.ru^
 ||navi2.com^
 ||navi20.com^
 ||navi20.ru^
@@ -497,7 +493,6 @@
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
-||navi28.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
@@ -508,15 +503,17 @@
 ||navi38.ru^
 ||navi39.com^
 ||navi39.ru^
+||navi4.com^
 ||navi40.com^
 ||navi42.ru^
 ||navi45.ru^
+||navi46.com^
 ||navi47.com^
 ||navi49.com^
-||navi49.ru^
 ||navi5.com^
 ||navi50.com^
 ||navi53.com^
+||navi54.ru^
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
@@ -526,9 +523,7 @@
 ||navi67.com^
 ||navi67.ru^
 ||navi7.com^
-||navi7.ru^
 ||navi71.com^
-||navi71.ru^
 ||navi72.com^
 ||navi72.ru^
 ||navi73.com^
@@ -547,7 +542,9 @@
 ||navi9.com^
 ||navi90.com^
 ||navi94.com^
+||navi95.com^
 ||navi96.com^
+||navi97.com^
 ||navi98.com^
 ||navi99.com^
 ||nbdiscount.com^
@@ -605,6 +602,7 @@
 ||oflike.com^
 ||ogogear.com^
 ||okdebrid.com^
+||olaoffer.shop^
 ||oldcube.com^
 ||oncloudrun.shop^
 ||online-binomo.com^
@@ -614,6 +612,7 @@
 ||onrunningshop.com^
 ||open-cbd.de^
 ||openai.reisen^
+||orami.cloud^
 ||orderquilt.com^
 ||origin.tnail.cc^
 ||outdoorwintersports.com^
@@ -623,6 +622,7 @@
 ||p8ydfra.lvditoys.com^
 ||paintitblackfurniture.com^
 ||pandzee.com^
+||parajumpersnorway.com^
 ||parcelprocessingredelivery1.info^
 ||parisiporlin-ktki.kemkes.go.id^
 ||pateim.com^
@@ -752,10 +752,8 @@
 ||startuplatte.com^
 ||stealthhorizonshipping.com^
 ||steamgateways.com^
-||steammcommunuty.ru^
 ||steamunlock.com^
 ||steamunlock.gifts^
-||stellara.de^
 ||stingcool-com.myshopify.com^
 ||stingcool.com^
 ||storagestory.com^
@@ -788,7 +786,6 @@
 ||tartannewzealand.myshopify.com^
 ||tbg-lmtd.com^
 ||tbg-lmtd.xyz^
-||tdgrop168.vip^
 ||tdsintegrations11.online^
 ||tecappcloud.com^
 ||tee24h.com^
@@ -898,6 +895,7 @@
 ||xrp-give.pro^
 ||xunlei.it^
 ||yahhhoo.com^
+||yandex.pay.blablacar.id05196219.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
 ||yofi-yofi.com^
