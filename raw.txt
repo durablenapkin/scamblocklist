@@ -2841,6 +2841,9 @@
 0.0.0.0 freedom-5g.com
 0.0.0.0 www.freedom-5g.com
 0.0.0.0 store.freedom-5g.com
+0.0.0.0 freedom-ca-5g.com
+0.0.0.0 www.freedom-ca-5g.com
+0.0.0.0 store.freedom-ca-5g.com
 0.0.0.0 freedom-deposit.ca
 0.0.0.0 www.freedom-deposit.ca
 0.0.0.0 store.freedom-deposit.ca
