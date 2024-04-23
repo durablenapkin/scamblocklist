@@ -96,7 +96,6 @@
 ||bloomingvibe.com^
 ||bncentertainment.com^
 ||bnidigital.com^
-||bolejug.us^
 ||bombardina.pl^
 ||bonrbox.com^
 ||booking.transaction-processing.one^
@@ -156,6 +155,7 @@
 ||com-id1800853.com^
 ||com-id23901.info^
 ||com-id334112.com^
+||com-id802912.com^
 ||compoundexotics.com^
 ||cooeedesignshop.com^
 ||cookietee.com^
@@ -319,11 +319,13 @@
 ||gladiadormalas.com.br^
 ||gload.info^
 ||globe.sxlph.site^
+||glstee.com^
 ||godeskonettbutikk.com^
 ||goglle.com^
 ||goldtimeinvest.com^
 ||gossvibe.com^
 ||gotoperfection.com^
+||govmedcareers.com^
 ||gowarehouse.net^
 ||goyourheart.com^
 ||gpt-open23.com^
@@ -407,6 +409,7 @@
 ||linkshe.com^
 ||linostee.com^
 ||lisabuddy.com^
+||lisatillhon.de^
 ||litcomplex.com^
 ||livecato.com^
 ||loepwatch.com^
@@ -449,6 +452,7 @@
 ||mizunsports.com^
 ||moddetail.com^
 ||modmobile24.com^
+||monark-store.com^
 ||monkstars.co^
 ||monkstars.com^
 ||motovinreports.com^
@@ -474,9 +478,10 @@
 ||navi10.com^
 ||navi100.com^
 ||navi12.com^
+||navi14.ru^
+||navi17.com^
 ||navi18.com^
 ||navi2.com^
-||navi2.ru^
 ||navi20.com^
 ||navi20.ru^
 ||navi21.com^
@@ -494,8 +499,8 @@
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
+||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi47.com^
 ||navi49.com^
@@ -510,7 +515,6 @@
 ||navi66.ru^
 ||navi67.com^
 ||navi67.ru^
-||navi68.ru^
 ||navi7.com^
 ||navi71.com^
 ||navi72.com^
@@ -527,7 +531,6 @@
 ||navi86.ru^
 ||navi87.com^
 ||navi88.com^
-||navi88.ru^
 ||navi89.com^
 ||navi9.com^
 ||navi90.com^
@@ -580,6 +583,7 @@
 ||norgeshoes.com^
 ||nosdaarte.com^
 ||novabeds.ca^
+||ns.app.admin.id601294105.date^
 ||nxtgenerator.top^
 ||nynextlevel.com^
 ||nze0xw.haceroberomaste.com^
@@ -612,6 +616,7 @@
 ||parisiporlin-ktki.kemkes.go.id^
 ||pateim.com^
 ||path2zillion.com^
+||pay.www.ozon.id19845672.info^
 ||paypartc.top^
 ||peppatees.com^
 ||perlatoshoe.com^
@@ -655,6 +660,7 @@
 ||promotebuy.com^
 ||prorify.de^
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
+||punyauang.xyz^
 ||q3i5q2r6.stackpathcdn.com^
 ||qobifai1.com^
 ||queenscattery.com^
@@ -708,7 +714,6 @@
 ||showapparels.com^
 ||sigmaoffers.com^
 ||signpify.com^
-||sikaripod.com^
 ||silverlanetrading.com^
 ||singingfiles.com^
 ||skincheap.com^
@@ -882,6 +887,7 @@
 ||yahhhoo.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
+||yhdshop.com^
 ||yofi-yofi.com^
 ||yoli.my.id^
 ||youdebrid.com^
