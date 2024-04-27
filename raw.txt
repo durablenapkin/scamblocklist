@@ -10728,6 +10728,9 @@
 0.0.0.0 wealth.simple-auth1.com
 0.0.0.0 www.wealth.simple-auth1.com
 0.0.0.0 store.wealth.simple-auth1.com
+0.0.0.0 wealth.simpleonline-id.com
+0.0.0.0 www.wealth.simpleonline-id.com
+0.0.0.0 store.wealth.simpleonline-id.com
 0.0.0.0 web3ledger-app.online
 0.0.0.0 www.web3ledger-app.online
 0.0.0.0 store.web3ledger-app.online
