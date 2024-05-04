@@ -4800,6 +4800,9 @@
 0.0.0.0 newoutdoorsale.com
 0.0.0.0 www.newoutdoorsale.com
 0.0.0.0 store.newoutdoorsale.com
+0.0.0.0 news-rebit.com
+0.0.0.0 www.news-rebit.com
+0.0.0.0 store.news-rebit.com
 0.0.0.0 next-cryptopod.xyz
 0.0.0.0 www.next-cryptopod.xyz
 0.0.0.0 store.next-cryptopod.xyz
