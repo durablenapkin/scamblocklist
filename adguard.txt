@@ -39,14 +39,12 @@
 ||aoocib.com^
 ||apple.enablemyidservices.com^
 ||arduino.uk.eu.org^
-||ariatwear.online^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
 ||artdecorhome.store^
 ||arthoodie.com^
 ||arvetellefsen.no^
 ||assassinfitness.com^
-||astoriajob.com^
 ||atrendsz.com^
 ||attenstyle.com^
 ||au-bloomreach.com^
@@ -95,6 +93,7 @@
 ||bnidigital.com^
 ||bombardina.pl^
 ||bonrbox.com^
+||booking.com.id25106619.top^
 ||booking.transaction-processing.one^
 ||booliving.com^
 ||boooodas.com^
@@ -188,6 +187,7 @@
 ||devifoodgrains.com^
 ||deytee.com^
 ||dezpez.com^
+||dhlpost.top^
 ||dischargebackhanded.com^
 ||discounthoneywell.com^
 ||dkfodboldstore.com^
@@ -198,14 +198,12 @@
 ||dolystore.com^
 ||dompetaman.live^
 ||dopestore.pl^
-||dorothy86.store^
 ||draxu.com^
 ||dreamgreenshoe.com^
 ||dreamstees.com^
 ||duckydecor.store^
 ||duitpanas.top^
 ||dxraceroutlet.com^
-||earnpets.com^
 ||easynatures.com^
 ||easypayment.me^
 ||easyshopper.org^
@@ -282,9 +280,9 @@
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
+||frdmmobile.com^
 ||free.nf^
 ||freedom-5g.com^
-||freedomgift50.com^
 ||freegiftscards.shop^
 ||friday89.com^
 ||frostgoddess.com^
@@ -409,12 +407,10 @@
 ||lp.voucheras.com^
 ||lucatee.com^
 ||lucchesedeal.store^
-||lucchesestore.online^
 ||lucidtiger.com^
 ||lucysstyle.com^
 ||lunapresent.com^
 ||luxsgear.com^
-||m.coinexeu.vip^
 ||maebl.com^
 ||majucash.xyz^
 ||mamapapaclothing.com^
@@ -471,7 +467,6 @@
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
-||navi26.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
@@ -482,13 +477,13 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi47.com^
 ||navi5.com^
 ||navi50.com^
 ||navi53.com^
 ||navi56.com^
-||navi56.ru^
 ||navi59.ru^
 ||navi6.com^
 ||navi61.com^
@@ -517,7 +512,6 @@
 ||navi90.com^
 ||navi94.com^
 ||navi96.com^
-||navi97.com^
 ||navi98.com^
 ||navi99.com^
 ||nbdiscount.com^
@@ -545,12 +539,11 @@
 ||nip28.com^
 ||nip3.com^
 ||nip4.com^
-||nip43.com^
 ||nip44.com^
 ||nip5.com^
 ||nip57.com^
+||nip60.com^
 ||nip69.com^
-||nip78.com^
 ||nip8.com^
 ||nip84.com^
 ||nip88.com^
@@ -636,7 +629,6 @@
 ||priority-ship.info^
 ||produktretter.at^
 ||produktretter.com^
-||produktretter.org^
 ||produkttest-anmeldung.com^
 ||produkttester-anmeldung.com^
 ||produkttester-werden.org^
@@ -675,7 +667,6 @@
 ||salimusic.com^
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
-||sber.pay.www.booking.id90134267.com^
 ||scribdbook.top^
 ||seasonsofficial.com^
 ||secure.staging.demo.www1.transaction-processing.one^
@@ -685,7 +676,6 @@
 ||sentees.com^
 ||serengetidiscount.com^
 ||sharlalias.click^
-||shirtforfan.com^
 ||shirttest.com^
 ||shoeaddic.com^
 ||shop.spreadshirt.com^
@@ -784,7 +774,6 @@
 ||thevitic.com^
 ||thevitic.onshopbase.com^
 ||thewesternshoes.com^
-||ti-yo.com^
 ||tikgeeker.com^
 ||timesofeuropnews.com^
 ||tinkleo.com^
@@ -817,7 +806,6 @@
 ||ultraboxlab.com^
 ||um-bs.com^
 ||unifully.com^
-||unitedglobal-logistics.com^
 ||universityofqatarrectorate.godaddysites.com^
 ||unkinerecle.com^
 ||uplevelreward.com^
