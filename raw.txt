@@ -66,6 +66,9 @@
 0.0.0.0 8w4.a6u.uk
 0.0.0.0 www.8w4.a6u.uk
 0.0.0.0 store.8w4.a6u.uk
+0.0.0.0 93mobiles.com
+0.0.0.0 www.93mobiles.com
+0.0.0.0 store.93mobiles.com
 0.0.0.0 9to5outlet.com
 0.0.0.0 www.9to5outlet.com
 0.0.0.0 store.9to5outlet.com
