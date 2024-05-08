@@ -38,7 +38,6 @@
 ||animeshoppers.com^
 ||anydebrid.com^
 ||aoocib.com^
-||apple.enablemyidservices.com^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -67,6 +66,7 @@
 ||beautysolution24.com^
 ||beecrave.com^
 ||benecharm.com^
+||bestbabyyoda.com^
 ||bestmoonshop.com^
 ||bigappboi.com^
 ||bikehotsale.com^
@@ -138,6 +138,7 @@
 ||clearance-bike.com^
 ||clemoa.com^
 ||cluckergifts.ecwid.com^
+||cma88.vip^
 ||cmoboy.com^
 ||coco-vip-shop.com^
 ||cofdeal.com^
@@ -257,7 +258,6 @@
 ||faze60.com^
 ||faze66.com^
 ||faze67.com^
-||faze7.com^
 ||faze70.com^
 ||faze71.com^
 ||faze76.com^
@@ -451,11 +451,12 @@
 ||natilove.com^
 ||nationaladvancegroup.com^
 ||natistore.us^
+||navi0.ru^
 ||navi1.com^
 ||navi10.com^
 ||navi100.com^
-||navi11.com^
 ||navi12.com^
+||navi15.com^
 ||navi18.com^
 ||navi2.com^
 ||navi20.com^
@@ -476,6 +477,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi47.com^
 ||navi5.com^
@@ -510,6 +512,7 @@
 ||navi90.com^
 ||navi94.com^
 ||navi96.com^
+||navi96.ru^
 ||navi98.com^
 ||navi99.com^
 ||nbdiscount.com^
@@ -536,6 +539,7 @@
 ||nip26.com^
 ||nip28.com^
 ||nip3.com^
+||nip37.com^
 ||nip4.com^
 ||nip44.com^
 ||nip5.com^
@@ -585,13 +589,11 @@
 ||p.arty2night.com^
 ||p8ydfra.lvditoys.com^
 ||paintitblackfurniture.com^
-||pairmate.se^
 ||pandzee.com^
 ||parcelprocessingredelivery1.info^
 ||parisiporlin-ktki.kemkes.go.id^
 ||pateim.com^
 ||path2zillion.com^
-||pay.blablacar.id5189145677.com^
 ||paypartc.top^
 ||peppatees.com^
 ||perlatoshoe.com^
@@ -665,8 +667,6 @@
 ||salimusic.com^
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
-||sberbank.id34179945.cloud^
-||sberbank.www.ozon.id19845672.info^
 ||scribdbook.top^
 ||seasonsofficial.com^
 ||secure.staging.demo.www1.transaction-processing.one^
@@ -679,6 +679,7 @@
 ||shirttest.com^
 ||shoeaddic.com^
 ||shop.spreadshirt.com^
+||shopafricalimited.com^
 ||shopee1666.com^
 ||shopraidlight.com^
 ||shopsyracuseonline.com^
@@ -691,7 +692,6 @@
 ||singingfiles.com^
 ||skincheap.com^
 ||skinszone.net^
-||skipped.vip^
 ||sleepyfull.com^
 ||sligen.com^
 ||smartokids.com^
@@ -759,8 +759,8 @@
 ||teezill.com^
 ||telemarktalk.com^
 ||teslabrc.com^
-||teslagive.live^
 ||teslatucker.com^
+||teslax2claim.org^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
 ||thehappywood.com^
@@ -792,10 +792,10 @@
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
 ||tromselementbygg.no^
-||tslaget.live^
 ||tslawill.com^
 ||tulumwellnessacademy.com^
 ||tunaicair.com^
+||tunairupiah.xyz^
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitterr.com^
@@ -824,6 +824,7 @@
 ||verfun.com^
 ||vetoro.cc^
 ||vikingstore.co^
+||vinisay.com^
 ||vip-yuki-shop.com^
 ||vipdeit.com^
 ||vipticketgiveaway.com^
@@ -842,6 +843,7 @@
 ||wintexfashions.com^
 ||wisdomganga.com^
 ||woadoodles.com^
+||wpclick.cc^
 ||xajzfwgs.com^
 ||xn4iqv.succyarthyry.com^
 ||xrp-give.pro^
@@ -856,7 +858,6 @@
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
-||yvjexi.shop^
 ||yyderfreap.shop^
 ||z-lib.is^
 ||zat.io^

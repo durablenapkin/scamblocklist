@@ -10800,6 +10800,9 @@
 0.0.0.0 wowviral.net
 0.0.0.0 www.wowviral.net
 0.0.0.0 store.wowviral.net
+0.0.0.0 wpclick.cc
+0.0.0.0 www.wpclick.cc
+0.0.0.0 store.wpclick.cc
 0.0.0.0 www.avito.com-id15421.info
 0.0.0.0 www.www.avito.com-id15421.info
 0.0.0.0 store.www.avito.com-id15421.info
