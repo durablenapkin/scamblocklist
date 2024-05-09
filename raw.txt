@@ -255,6 +255,9 @@
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
 0.0.0.0 store.anydebrid.com
+0.0.0.0 anywherepastry.top
+0.0.0.0 www.anywherepastry.top
+0.0.0.0 store.anywherepastry.top
 0.0.0.0 aoocib.com
 0.0.0.0 www.aoocib.com
 0.0.0.0 store.aoocib.com
