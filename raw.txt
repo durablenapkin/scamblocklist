@@ -1992,6 +1992,9 @@
 0.0.0.0 dashracegear.net
 0.0.0.0 www.dashracegear.net
 0.0.0.0 store.dashracegear.net
+0.0.0.0 dat-ing.site
+0.0.0.0 www.dat-ing.site
+0.0.0.0 store.dat-ing.site
 0.0.0.0 dataid-subsidies.click
 0.0.0.0 www.dataid-subsidies.click
 0.0.0.0 store.dataid-subsidies.click
