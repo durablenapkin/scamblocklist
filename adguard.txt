@@ -80,6 +80,7 @@
 ||binomoweblogin.com^
 ||bite-life.com^
 ||bitsoft360.app^
+||bitsoft360.com^
 ||bitsoft360.io^
 ||bitsoft360.net^
 ||bknstore.com^
@@ -93,6 +94,7 @@
 ||booking.transaction-processing.one^
 ||booliving.com^
 ||boooodas.com^
+||boostrobux.com^
 ||bossaving.com^
 ||botsuanah.com^
 ||boutiqueondemand.com^
@@ -110,11 +112,13 @@
 ||canadapost.mydelivery1.com^
 ||candlesbymadison.com^
 ||canjaume.com^
+||caoefe.shop^
 ||caraci.it^
 ||cardadvantagecast.com^
 ||cargotrustcourier.com^
 ||carsaratek.com^
 ||casha.xyz^
+||catalogodecoracao.leroymerlin.pt^
 ||cebesale.com^
 ||chandeco.com^
 ||charmsection.com^
@@ -161,7 +165,6 @@
 ||cryptot.net^
 ||csmoney.trade^
 ||customizerbox.com^
-||customizeyourdeliveryroute.com^
 ||customurink.com^
 ||cutty.app^
 ||cycle100percent.com^
@@ -177,6 +180,7 @@
 ||dautee.com^
 ||dbmobile-phototan.de^
 ||dcsnowboard.com^
+||deceptivebuffalo.cn^
 ||decoryourhome.store^
 ||deergift.com^
 ||defcon7.com.br^
@@ -271,6 +275,7 @@
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.vip^
 ||fitgirlrepacksite.com^
+||fivent.info^
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
@@ -323,9 +328,7 @@
 ||headsets4business.co.uk^
 ||helpnanacenter.helpscoutdocs.com^
 ||hernoclothing.com^
-||hglllshop.com^
 ||hippie-pets.com^
-||hoka-us.com^
 ||hollisternorge.com^
 ||hookahheroes.com^
 ||hotbignews.com^
@@ -351,9 +354,11 @@
 ||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
+||itsthetrendydealstore.com^
 ||jagkart.com^
 ||jellystores.com^
 ||jfremovals.com^
+||jne-express.my.id^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||keenfootwearsale.com^
@@ -437,8 +442,8 @@
 ||musk-aigpt.com^
 ||muskai.net^
 ||muskbtc.io^
+||musklink.org^
 ||muthaafoundation.org^
-||mvptrend.com^
 ||mybestautologin567.com^
 ||myfunfarm.com^
 ||myhandshops.myshopify.com^
@@ -489,7 +494,6 @@
 ||navi67.com^
 ||navi67.ru^
 ||navi7.com^
-||navi70.ru^
 ||navi71.com^
 ||navi72.com^
 ||navi72.ru^
@@ -501,6 +505,7 @@
 ||navi78.ru^
 ||navi79.com^
 ||navi8.com^
+||navi81.ru^
 ||navi85.com^
 ||navi86.ru^
 ||navi87.com^
@@ -529,7 +534,6 @@
 ||nip10.com^
 ||nip12.com^
 ||nip2.com^
-||nip21.com^
 ||nip23.com^
 ||nip24.com^
 ||nip26.com^
@@ -540,16 +544,13 @@
 ||nip5.com^
 ||nip57.com^
 ||nip69.com^
-||nip7.com^
 ||nip8.com^
 ||nip84.com^
-||nip85.com^
 ||nip88.com^
 ||nip9.com^
 ||nirvezal.com^
 ||nldstore.com^
 ||nlepfpteg.com^
-||nlg-logisticsltd.com^
 ||noatopdesign.com^
 ||nofotballshop.com^
 ||nofotballstore.com^
@@ -566,7 +567,6 @@
 ||oablages.org.br^
 ||ocycling.com^
 ||odinpc.com^
-||officialyeti.com^
 ||oflike.com^
 ||ogogear.com^
 ||okdebrid.com^
@@ -591,7 +591,6 @@
 ||parisiporlin-ktki.kemkes.go.id^
 ||pateim.com^
 ||path2zillion.com^
-||paypartc.top^
 ||peppatees.com^
 ||perlatoshoe.com^
 ||personal84.com^
@@ -657,6 +656,7 @@
 ||salimusic.com^
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
+||scanoe.info^
 ||scribdbook.top^
 ||seasonsofficial.com^
 ||secure.staging.demo.www1.transaction-processing.one^
@@ -734,7 +734,6 @@
 ||tadarick.com^
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
-||tartanz.co^
 ||tecappcloud.com^
 ||tee24h.com^
 ||teearrow.com^
@@ -745,8 +744,8 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla2023.store^
 ||teslabrc.com^
-||teslacase.org^
 ||teslatucker.com^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
@@ -807,7 +806,6 @@
 ||vegamartz.com^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
-||vetoro.cc^
 ||vikingstore.co^
 ||vinisay.com^
 ||vip-yuki-shop.com^
@@ -840,6 +838,7 @@
 ||yofi-yofi.com^
 ||yoli.my.id^
 ||youdebrid.com^
+||youngtee.us^
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
