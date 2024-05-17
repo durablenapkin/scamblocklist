@@ -179,8 +179,6 @@
 0.0.0.0 avito.avito.avito.pay.booking.com-id809702.com
 0.0.0.0 www.avito.avito.avito.pay.booking.com-id809702.com
 0.0.0.0 store.avito.avito.avito.pay.booking.com-id809702.com
-0.0.0.0 avito.avito.avito.pay.booking.com-id809712.com
-0.0.0.0 www.avito.avito.avito.pay.booking.com-id809712.com
 0.0.0.0 avito.avito.avito.pay.com-id01251.info
 0.0.0.0 www.avito.avito.avito.pay.com-id01251.info
 0.0.0.0 store.avito.avito.avito.pay.com-id01251.info
@@ -262,15 +260,12 @@
 0.0.0.0 avito.avito.pay.com-id809702.com
 0.0.0.0 www.avito.avito.pay.com-id809702.com
 0.0.0.0 store.avito.avito.pay.com-id809702.com
-0.0.0.0 store.avito.avito.pay.com-id809712.com
 0.0.0.0 avito.avito.pay.www.booking.com-id20341.info
 0.0.0.0 www.avito.avito.pay.www.booking.com-id20341.info
 0.0.0.0 store.avito.avito.pay.www.booking.com-id20341.info
 0.0.0.0 avito.avito.pay.www.booking.com-id809702.com
 0.0.0.0 www.avito.avito.pay.www.booking.com-id809702.com
 0.0.0.0 store.avito.avito.pay.www.booking.com-id809702.com
-0.0.0.0 avito.avito.sber.avito.booking.com-id809712.com
-0.0.0.0 store.avito.avito.sber.avito.booking.com-id809712.com
 0.0.0.0 avito.avito.sber.avito.www.booking.com-id809702.com
 0.0.0.0 www.avito.avito.sber.avito.www.booking.com-id809702.com
 0.0.0.0 store.avito.avito.sber.avito.www.booking.com-id809702.com
@@ -283,8 +278,6 @@
 0.0.0.0 avito.avito.sber.booking.com-id809702.com
 0.0.0.0 www.avito.avito.sber.booking.com-id809702.com
 0.0.0.0 store.avito.avito.sber.booking.com-id809702.com
-0.0.0.0 www.avito.avito.sber.booking.com-id809712.com
-0.0.0.0 store.avito.avito.sber.booking.com-id809712.com
 0.0.0.0 avito.avito.sber.pay.booking.com-id809702.com
 0.0.0.0 www.avito.avito.sber.pay.booking.com-id809702.com
 0.0.0.0 store.avito.avito.sber.pay.booking.com-id809702.com
@@ -312,7 +305,6 @@
 0.0.0.0 avito.avito.www.booking.com-id23901.info
 0.0.0.0 www.avito.avito.www.booking.com-id23901.info
 0.0.0.0 store.avito.avito.www.booking.com-id23901.info
-0.0.0.0 www.avito.avito.www.booking.com-id809712.com
 0.0.0.0 avito.booking.com-id01251.info
 0.0.0.0 www.avito.booking.com-id01251.info
 0.0.0.0 store.avito.booking.com-id01251.info
@@ -328,8 +320,6 @@
 0.0.0.0 avito.booking.com-id334112.com
 0.0.0.0 www.avito.booking.com-id334112.com
 0.0.0.0 store.avito.booking.com-id334112.com
-0.0.0.0 www.avito.booking.com-id809712.com
-0.0.0.0 store.avito.booking.com-id809712.com
 0.0.0.0 avito.com-id15421.info
 0.0.0.0 www.avito.com-id15421.info
 0.0.0.0 store.avito.com-id15421.info
@@ -399,7 +389,6 @@
 0.0.0.0 avito.pay.booking.com-id809702.com
 0.0.0.0 www.avito.pay.booking.com-id809702.com
 0.0.0.0 store.avito.pay.booking.com-id809702.com
-0.0.0.0 www.avito.pay.booking.com-id809712.com
 0.0.0.0 avito.pay.booklng.com-id129041.info
 0.0.0.0 www.avito.pay.booklng.com-id129041.info
 0.0.0.0 store.avito.pay.booklng.com-id129041.info
@@ -424,7 +413,6 @@
 0.0.0.0 avito.pay.com-id809702.com
 0.0.0.0 www.avito.pay.com-id809702.com
 0.0.0.0 store.avito.pay.com-id809702.com
-0.0.0.0 www.avito.pay.com-id809712.com
 0.0.0.0 avito.pay.pay.www.booking.com-id20341.info
 0.0.0.0 www.avito.pay.pay.www.booking.com-id20341.info
 0.0.0.0 store.avito.pay.pay.www.booking.com-id20341.info
@@ -452,11 +440,9 @@
 0.0.0.0 avito.pay.www.booking.com-id20341.info
 0.0.0.0 www.avito.pay.www.booking.com-id20341.info
 0.0.0.0 store.avito.pay.www.booking.com-id20341.info
-0.0.0.0 avito.pay.www.booking.com-id329712.com
 0.0.0.0 avito.pay.www.booking.com-id809702.com
 0.0.0.0 www.avito.pay.www.booking.com-id809702.com
 0.0.0.0 store.avito.pay.www.booking.com-id809702.com
-0.0.0.0 store.avito.pay.www.booking.com-id809712.com
 0.0.0.0 avito.pay.www.www.com-id1800853.com
 0.0.0.0 www.avito.pay.www.www.com-id1800853.com
 0.0.0.0 store.avito.pay.www.www.com-id1800853.com
@@ -643,7 +629,6 @@
 0.0.0.0 boooodas.com
 0.0.0.0 www.boooodas.com
 0.0.0.0 store.boooodas.com
-0.0.0.0 www.boostrobux.com
 0.0.0.0 bossaving.com
 0.0.0.0 www.bossaving.com
 0.0.0.0 store.bossaving.com
@@ -674,6 +659,7 @@
 0.0.0.0 store.buzzazone.com
 0.0.0.0 by-emmamuller.de
 0.0.0.0 www.by-emmamuller.de
+0.0.0.0 store.c3scores.com
 0.0.0.0 campingsurfshop.com
 0.0.0.0 www.campingsurfshop.com
 0.0.0.0 canadapost.mydelivery1.com
@@ -683,7 +669,6 @@
 0.0.0.0 www.candlesbymadison.com
 0.0.0.0 canjaume.com
 0.0.0.0 www.canjaume.com
-0.0.0.0 store.caoefe.shop
 0.0.0.0 caraci.it
 0.0.0.0 www.caraci.it
 0.0.0.0 store.caraci.it
@@ -698,7 +683,6 @@
 0.0.0.0 casha.xyz
 0.0.0.0 www.casha.xyz
 0.0.0.0 store.casha.xyz
-0.0.0.0 www.catalogodecoracao.leroymerlin.pt
 0.0.0.0 cebesale.com
 0.0.0.0 www.cebesale.com
 0.0.0.0 chandeco.com
@@ -843,7 +827,6 @@
 0.0.0.0 dcsnowboard.com
 0.0.0.0 www.dcsnowboard.com
 0.0.0.0 store.dcsnowboard.com
-0.0.0.0 store.deceptivebuffalo.cn
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
@@ -870,6 +853,7 @@
 0.0.0.0 www.dleggere.com
 0.0.0.0 dogparadiseshop.com
 0.0.0.0 www.dogparadiseshop.com
+0.0.0.0 store.dogparadiseshop.com
 0.0.0.0 dogparadisestore.com
 0.0.0.0 www.dogparadisestore.com
 0.0.0.0 dolomiteoutlet.com
@@ -955,6 +939,7 @@
 0.0.0.0 www.expresscourier.delivery
 0.0.0.0 expressmovers.com
 0.0.0.0 www.expressmovers.com
+0.0.0.0 store.expressmovers.com
 0.0.0.0 familybakery.xyz
 0.0.0.0 www.familybakery.xyz
 0.0.0.0 familybestgifts.com
@@ -1015,14 +1000,12 @@
 0.0.0.0 faze70.com
 0.0.0.0 www.faze70.com
 0.0.0.0 faze71.com
-0.0.0.0 store.faze71.com
 0.0.0.0 faze76.com
 0.0.0.0 www.faze76.com
 0.0.0.0 faze80.com
 0.0.0.0 www.faze80.com
 0.0.0.0 faze88.com
 0.0.0.0 www.faze88.com
-0.0.0.0 store.faze88.com
 0.0.0.0 faze9.com
 0.0.0.0 www.faze9.com
 0.0.0.0 store.faze9.com
@@ -1052,7 +1035,6 @@
 0.0.0.0 store.fitgirl-repacks.vip
 0.0.0.0 fitgirlrepacksite.com
 0.0.0.0 www.fitgirlrepacksite.com
-0.0.0.0 fivent.info
 0.0.0.0 flattee.com
 0.0.0.0 www.flattee.com
 0.0.0.0 store.flattee.com
@@ -1066,7 +1048,7 @@
 0.0.0.0 freedom-5g.com
 0.0.0.0 www.freedom-5g.com
 0.0.0.0 store.freedom-5g.com
-0.0.0.0 store.freedomgift50.com
+0.0.0.0 www.freedomgift50.com
 0.0.0.0 freegiftscards.shop
 0.0.0.0 www.freegiftscards.shop
 0.0.0.0 friday89.com
@@ -1209,7 +1191,6 @@
 0.0.0.0 store.ikoee.com
 0.0.0.0 ilpollenza-sorso23.it
 0.0.0.0 www.ilpollenza-sorso23.it
-0.0.0.0 store.ilpollenza-sorso23.it
 0.0.0.0 imagemotorcycles.co.nz
 0.0.0.0 www.imagemotorcycles.co.nz
 0.0.0.0 imlb2c.com
@@ -1225,8 +1206,6 @@
 0.0.0.0 instant-e-app-for-campaign.github.io
 0.0.0.0 www.instant-e-app-for-campaign.github.io
 0.0.0.0 store.instant-e-app-for-campaign.github.io
-0.0.0.0 investama92.com
-0.0.0.0 www.investama92.com
 0.0.0.0 iphone.quiztionnaire.biz
 0.0.0.0 www.iphone.quiztionnaire.biz
 0.0.0.0 store.iphone.quiztionnaire.biz
@@ -1237,7 +1216,6 @@
 0.0.0.0 www.italyworldbaseballclassic.com
 0.0.0.0 iteeus.com
 0.0.0.0 www.iteeus.com
-0.0.0.0 www.itsthetrendydealstore.com
 0.0.0.0 jagkart.com
 0.0.0.0 www.jagkart.com
 0.0.0.0 jellystores.com
@@ -1245,7 +1223,6 @@
 0.0.0.0 store.jellystores.com
 0.0.0.0 jfremovals.com
 0.0.0.0 www.jfremovals.com
-0.0.0.0 www.jne-express.my.id
 0.0.0.0 jollyfamilygifts.net
 0.0.0.0 www.jollyfamilygifts.net
 0.0.0.0 jonausa.com
@@ -1278,9 +1255,6 @@
 0.0.0.0 www.kopisusu.co.id
 0.0.0.0 kredit-rupiah.com
 0.0.0.0 www.kredit-rupiah.com
-0.0.0.0 krediteasypro.com
-0.0.0.0 www.krediteasypro.com
-0.0.0.0 store.krediteasypro.com
 0.0.0.0 krediteksklusif.com
 0.0.0.0 www.krediteksklusif.com
 0.0.0.0 kuyhaa.cc
@@ -1417,16 +1391,12 @@
 0.0.0.0 store.mujib-store28.blogspot.com
 0.0.0.0 museuw.com
 0.0.0.0 www.museuw.com
-0.0.0.0 musk-aigpt.com
-0.0.0.0 www.musk-aigpt.com
-0.0.0.0 store.musk-aigpt.com
 0.0.0.0 muskai.net
 0.0.0.0 www.muskai.net
 0.0.0.0 store.muskai.net
 0.0.0.0 muskbtc.io
 0.0.0.0 www.muskbtc.io
 0.0.0.0 store.muskbtc.io
-0.0.0.0 store.musklink.org
 0.0.0.0 muthaafoundation.org
 0.0.0.0 www.muthaafoundation.org
 0.0.0.0 store.muthaafoundation.org
@@ -1521,6 +1491,8 @@
 0.0.0.0 navi40.com
 0.0.0.0 www.navi40.com
 0.0.0.0 store.navi40.com
+0.0.0.0 navi42.ru
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi45.ru
 0.0.0.0 www.navi45.ru
 0.0.0.0 navi47.com
@@ -1558,6 +1530,7 @@
 0.0.0.0 store.navi72.ru
 0.0.0.0 navi73.com
 0.0.0.0 www.navi73.com
+0.0.0.0 navi73.ru
 0.0.0.0 navi74.com
 0.0.0.0 www.navi74.com
 0.0.0.0 navi75.com
@@ -1573,7 +1546,6 @@
 0.0.0.0 navi8.com
 0.0.0.0 www.navi8.com
 0.0.0.0 store.navi8.com
-0.0.0.0 www.navi81.ru
 0.0.0.0 navi85.com
 0.0.0.0 www.navi85.com
 0.0.0.0 store.navi85.com
@@ -1589,6 +1561,7 @@
 0.0.0.0 navi94.com
 0.0.0.0 www.navi94.com
 0.0.0.0 navi96.com
+0.0.0.0 navi97.com
 0.0.0.0 navi98.com
 0.0.0.0 www.navi98.com
 0.0.0.0 navi99.com
@@ -1718,6 +1691,7 @@
 0.0.0.0 store.oldcube.com
 0.0.0.0 www.oncloudrun.shop
 0.0.0.0 store.oncloudrun.shop
+0.0.0.0 www.oneparttimejob.com
 0.0.0.0 online-binomo.com
 0.0.0.0 www.online-binomo.com
 0.0.0.0 onlineadid.com
@@ -1911,7 +1885,6 @@
 0.0.0.0 pay.avito.avito.avito.www.booking.com-id20341.info
 0.0.0.0 www.pay.avito.avito.avito.www.booking.com-id20341.info
 0.0.0.0 store.pay.avito.avito.avito.www.booking.com-id20341.info
-0.0.0.0 www.pay.avito.avito.avito.www.booking.com-id809712.com
 0.0.0.0 pay.avito.avito.avito.www.booking.com-id90123.info
 0.0.0.0 www.pay.avito.avito.avito.www.booking.com-id90123.info
 0.0.0.0 store.pay.avito.avito.avito.www.booking.com-id90123.info
@@ -1927,6 +1900,9 @@
 0.0.0.0 pay.avito.avito.booking.com-id23901.info
 0.0.0.0 www.pay.avito.avito.booking.com-id23901.info
 0.0.0.0 store.pay.avito.avito.booking.com-id23901.info
+0.0.0.0 pay.avito.avito.booking.com-id809712.com
+0.0.0.0 www.pay.avito.avito.booking.com-id809712.com
+0.0.0.0 store.pay.avito.avito.booking.com-id809712.com
 0.0.0.0 pay.avito.avito.com-id01251.info
 0.0.0.0 www.pay.avito.avito.com-id01251.info
 0.0.0.0 store.pay.avito.avito.com-id01251.info
@@ -1953,12 +1929,14 @@
 0.0.0.0 www.pay.avito.avito.pay.booking.com-id809702.com
 0.0.0.0 store.pay.avito.avito.pay.booking.com-id809702.com
 0.0.0.0 pay.avito.avito.pay.booking.com-id809712.com
+0.0.0.0 store.pay.avito.avito.pay.booking.com-id809712.com
 0.0.0.0 pay.avito.avito.pay.www.booking.com-id15421.info
 0.0.0.0 www.pay.avito.avito.pay.www.booking.com-id15421.info
 0.0.0.0 store.pay.avito.avito.pay.www.booking.com-id15421.info
 0.0.0.0 pay.avito.avito.pay.www.booking.com-id20341.info
 0.0.0.0 www.pay.avito.avito.pay.www.booking.com-id20341.info
 0.0.0.0 store.pay.avito.avito.pay.www.booking.com-id20341.info
+0.0.0.0 www.pay.avito.avito.pay.www.booking.com-id809712.com
 0.0.0.0 pay.avito.avito.sber.avito.www.booking.com-id809702.com
 0.0.0.0 www.pay.avito.avito.sber.avito.www.booking.com-id809702.com
 0.0.0.0 store.pay.avito.avito.sber.avito.www.booking.com-id809702.com
@@ -2031,7 +2009,7 @@
 0.0.0.0 pay.avito.booking.com-id809702.com
 0.0.0.0 www.pay.avito.booking.com-id809702.com
 0.0.0.0 store.pay.avito.booking.com-id809702.com
-0.0.0.0 pay.avito.booking.com-id809712.com
+0.0.0.0 store.pay.avito.booking.com-id809712.com
 0.0.0.0 pay.avito.booking.com-id90123.info
 0.0.0.0 www.pay.avito.booking.com-id90123.info
 0.0.0.0 store.pay.avito.booking.com-id90123.info
@@ -2060,10 +2038,10 @@
 0.0.0.0 www.pay.avito.com-id809702.com
 0.0.0.0 store.pay.avito.com-id809702.com
 0.0.0.0 pay.avito.com-id809712.com
-0.0.0.0 store.pay.avito.com-id809712.com
 0.0.0.0 pay.avito.com-id90123.info
 0.0.0.0 www.pay.avito.com-id90123.info
 0.0.0.0 store.pay.avito.com-id90123.info
+0.0.0.0 www.pay.avito.id5189145677.com
 0.0.0.0 pay.avito.pay.avito.avito.avito.avito.com-id809702.com
 0.0.0.0 www.pay.avito.pay.avito.avito.avito.avito.com-id809702.com
 0.0.0.0 store.pay.avito.pay.avito.avito.avito.avito.com-id809702.com
@@ -2146,9 +2124,6 @@
 0.0.0.0 pay.avito.sber.com-id809702.com
 0.0.0.0 www.pay.avito.sber.com-id809702.com
 0.0.0.0 store.pay.avito.sber.com-id809702.com
-0.0.0.0 pay.avito.sber.com-id809712.com
-0.0.0.0 www.pay.avito.sber.com-id809712.com
-0.0.0.0 store.pay.avito.sber.com-id809712.com
 0.0.0.0 pay.avito.sber.pay.booking.com-id809702.com
 0.0.0.0 www.pay.avito.sber.pay.booking.com-id809702.com
 0.0.0.0 store.pay.avito.sber.pay.booking.com-id809702.com
@@ -2248,6 +2223,7 @@
 0.0.0.0 pay.booking.com-id23901.info
 0.0.0.0 www.pay.booking.com-id23901.info
 0.0.0.0 store.pay.booking.com-id23901.info
+0.0.0.0 store.pay.booking.com-id809712.com
 0.0.0.0 pay.booklng.com-id129041.info
 0.0.0.0 www.pay.booklng.com-id129041.info
 0.0.0.0 store.pay.booklng.com-id129041.info
@@ -2281,8 +2257,6 @@
 0.0.0.0 pay.com-id809702.com
 0.0.0.0 www.pay.com-id809702.com
 0.0.0.0 store.pay.com-id809702.com
-0.0.0.0 pay.com-id809712.com
-0.0.0.0 www.pay.com-id809712.com
 0.0.0.0 pay.com-id90123.info
 0.0.0.0 www.pay.com-id90123.info
 0.0.0.0 store.pay.com-id90123.info
@@ -2385,7 +2359,8 @@
 0.0.0.0 pay.pay.booking.com-id809702.com
 0.0.0.0 www.pay.pay.booking.com-id809702.com
 0.0.0.0 store.pay.pay.booking.com-id809702.com
-0.0.0.0 store.pay.pay.booking.com-id809712.com
+0.0.0.0 pay.pay.booking.com-id809712.com
+0.0.0.0 www.pay.pay.booking.com-id809712.com
 0.0.0.0 pay.pay.booklng.com-id129041.info
 0.0.0.0 www.pay.pay.booklng.com-id129041.info
 0.0.0.0 store.pay.pay.booklng.com-id129041.info
@@ -2416,7 +2391,8 @@
 0.0.0.0 pay.pay.www.booking.com-id23901.info
 0.0.0.0 www.pay.pay.www.booking.com-id23901.info
 0.0.0.0 store.pay.pay.www.booking.com-id23901.info
-0.0.0.0 pay.pay.www.booking.com-id809712.com
+0.0.0.0 www.pay.pay.www.booking.com-id809712.com
+0.0.0.0 store.pay.pay.www.booking.com-id809712.com
 0.0.0.0 pay.pay.www.booklng.com-id129041.info
 0.0.0.0 www.pay.pay.www.booklng.com-id129041.info
 0.0.0.0 store.pay.pay.www.booklng.com-id129041.info
@@ -2438,7 +2414,7 @@
 0.0.0.0 pay.sber.booking.com-id20341.info
 0.0.0.0 www.pay.sber.booking.com-id20341.info
 0.0.0.0 store.pay.sber.booking.com-id20341.info
-0.0.0.0 pay.sber.booking.com-id809712.com
+0.0.0.0 www.pay.sber.booking.com-id809712.com
 0.0.0.0 store.pay.sber.booking.com-id809712.com
 0.0.0.0 pay.sber.booking.com-id90123.info
 0.0.0.0 www.pay.sber.booking.com-id90123.info
@@ -2452,7 +2428,6 @@
 0.0.0.0 pay.sber.com-id20341.info
 0.0.0.0 www.pay.sber.com-id20341.info
 0.0.0.0 store.pay.sber.com-id20341.info
-0.0.0.0 store.pay.sber.com-id809712.com
 0.0.0.0 pay.sber.pay.www.booking.com-id15421.info
 0.0.0.0 www.pay.sber.pay.www.booking.com-id15421.info
 0.0.0.0 store.pay.sber.pay.www.booking.com-id15421.info
@@ -2537,8 +2512,6 @@
 0.0.0.0 pay.www.booking.com-id23901.info
 0.0.0.0 www.pay.www.booking.com-id23901.info
 0.0.0.0 store.pay.www.booking.com-id23901.info
-0.0.0.0 pay.www.booking.com-id809712.com
-0.0.0.0 www.pay.www.booking.com-id809712.com
 0.0.0.0 pay.www.booklng.com-id129041.info
 0.0.0.0 www.pay.www.booklng.com-id129041.info
 0.0.0.0 store.pay.www.booklng.com-id129041.info
@@ -2658,6 +2631,7 @@
 0.0.0.0 quitasueno.com
 0.0.0.0 www.quitasueno.com
 0.0.0.0 store.quitasueno.com
+0.0.0.0 www.qxowtod.cn
 0.0.0.0 rabamnetee.com
 0.0.0.0 www.rabamnetee.com
 0.0.0.0 store.rabamnetee.com
@@ -2755,8 +2729,6 @@
 0.0.0.0 sber.avito.avito.pay.booking.com-id01251.info
 0.0.0.0 www.sber.avito.avito.pay.booking.com-id01251.info
 0.0.0.0 store.sber.avito.avito.pay.booking.com-id01251.info
-0.0.0.0 sber.avito.avito.pay.booking.com-id809712.com
-0.0.0.0 store.sber.avito.avito.pay.booking.com-id809712.com
 0.0.0.0 sber.avito.avito.pay.com-id20341.info
 0.0.0.0 www.sber.avito.avito.pay.com-id20341.info
 0.0.0.0 store.sber.avito.avito.pay.com-id20341.info
@@ -2844,7 +2816,7 @@
 0.0.0.0 sber.avito.sber.booking.com-id809702.com
 0.0.0.0 www.sber.avito.sber.booking.com-id809702.com
 0.0.0.0 store.sber.avito.sber.booking.com-id809702.com
-0.0.0.0 www.sber.avito.sber.booking.com-id809712.com
+0.0.0.0 sber.avito.sber.booking.com-id809712.com
 0.0.0.0 sber.avito.sber.booking.com-id90123.info
 0.0.0.0 www.sber.avito.sber.booking.com-id90123.info
 0.0.0.0 store.sber.avito.sber.booking.com-id90123.info
@@ -2899,7 +2871,6 @@
 0.0.0.0 sber.booking.com-id23901.info
 0.0.0.0 www.sber.booking.com-id23901.info
 0.0.0.0 store.sber.booking.com-id23901.info
-0.0.0.0 sber.booking.com-id8439141.info
 0.0.0.0 sber.com-id129041.info
 0.0.0.0 www.sber.com-id129041.info
 0.0.0.0 store.sber.com-id129041.info
@@ -2930,7 +2901,7 @@
 0.0.0.0 sber.pay.avito.avito.avito.avito.sber.com-id02349.info
 0.0.0.0 www.sber.pay.avito.avito.avito.avito.sber.com-id02349.info
 0.0.0.0 store.sber.pay.avito.avito.avito.avito.sber.com-id02349.info
-0.0.0.0 www.sber.pay.avito.avito.avito.booking.com-id809712.com
+0.0.0.0 sber.pay.avito.avito.avito.booking.com-id809712.com
 0.0.0.0 sber.pay.avito.avito.avito.sber.booking.com-id809702.com
 0.0.0.0 www.sber.pay.avito.avito.avito.sber.booking.com-id809702.com
 0.0.0.0 store.sber.pay.avito.avito.avito.sber.booking.com-id809702.com
@@ -2985,7 +2956,6 @@
 0.0.0.0 sber.pay.booking.com-id809702.com
 0.0.0.0 www.sber.pay.booking.com-id809702.com
 0.0.0.0 store.sber.pay.booking.com-id809702.com
-0.0.0.0 store.sber.pay.booking.com-id809712.com
 0.0.0.0 sber.pay.booklng.com-id129041.info
 0.0.0.0 www.sber.pay.booklng.com-id129041.info
 0.0.0.0 store.sber.pay.booklng.com-id129041.info
@@ -3043,6 +3013,7 @@
 0.0.0.0 sber.pay.www.booking.com-id809702.com
 0.0.0.0 www.sber.pay.www.booking.com-id809702.com
 0.0.0.0 store.sber.pay.www.booking.com-id809702.com
+0.0.0.0 www.sber.pay.www.booking.com-id809712.com
 0.0.0.0 sber.pay.www.booklng.com-id129041.info
 0.0.0.0 www.sber.pay.www.booklng.com-id129041.info
 0.0.0.0 store.sber.pay.www.booklng.com-id129041.info
@@ -3208,6 +3179,7 @@
 0.0.0.0 sberbank.avito.avito.avito.booking.com-id809702.com
 0.0.0.0 www.sberbank.avito.avito.avito.booking.com-id809702.com
 0.0.0.0 store.sberbank.avito.avito.avito.booking.com-id809702.com
+0.0.0.0 www.sberbank.avito.avito.avito.booking.com-id809712.com
 0.0.0.0 sberbank.avito.avito.avito.booklng.com-id16313.info
 0.0.0.0 www.sberbank.avito.avito.avito.booklng.com-id16313.info
 0.0.0.0 store.sberbank.avito.avito.avito.booklng.com-id16313.info
@@ -3220,8 +3192,6 @@
 0.0.0.0 sberbank.avito.avito.avito.com-id20341.info
 0.0.0.0 www.sberbank.avito.avito.avito.com-id20341.info
 0.0.0.0 store.sberbank.avito.avito.avito.com-id20341.info
-0.0.0.0 www.sberbank.avito.avito.avito.com-id809712.com
-0.0.0.0 store.sberbank.avito.avito.avito.com-id809712.com
 0.0.0.0 sberbank.avito.avito.avito.pay.booking.com-id20341.info
 0.0.0.0 www.sberbank.avito.avito.avito.pay.booking.com-id20341.info
 0.0.0.0 store.sberbank.avito.avito.avito.pay.booking.com-id20341.info
@@ -3282,6 +3252,7 @@
 0.0.0.0 sberbank.avito.avito.booking.com-id20341.info
 0.0.0.0 www.sberbank.avito.avito.booking.com-id20341.info
 0.0.0.0 store.sberbank.avito.avito.booking.com-id20341.info
+0.0.0.0 sberbank.avito.avito.booking.com-id809712.com
 0.0.0.0 sberbank.avito.avito.booking.com-id90123.info
 0.0.0.0 www.sberbank.avito.avito.booking.com-id90123.info
 0.0.0.0 store.sberbank.avito.avito.booking.com-id90123.info
@@ -3291,9 +3262,6 @@
 0.0.0.0 sberbank.avito.avito.com-id23901.info
 0.0.0.0 www.sberbank.avito.avito.com-id23901.info
 0.0.0.0 store.sberbank.avito.avito.com-id23901.info
-0.0.0.0 sberbank.avito.avito.com-id809712.com
-0.0.0.0 www.sberbank.avito.avito.com-id809712.com
-0.0.0.0 store.sberbank.avito.avito.com-id809712.com
 0.0.0.0 sberbank.avito.avito.pay.booking.com-id809702.com
 0.0.0.0 www.sberbank.avito.avito.pay.booking.com-id809702.com
 0.0.0.0 store.sberbank.avito.avito.pay.booking.com-id809702.com
@@ -3309,6 +3277,8 @@
 0.0.0.0 sberbank.avito.avito.sber.avito.com-id02349.info
 0.0.0.0 www.sberbank.avito.avito.sber.avito.com-id02349.info
 0.0.0.0 store.sberbank.avito.avito.sber.avito.com-id02349.info
+0.0.0.0 sberbank.avito.avito.sber.avito.com-id809712.com
+0.0.0.0 store.sberbank.avito.avito.sber.avito.com-id809712.com
 0.0.0.0 sberbank.avito.avito.sber.avito.www.booking.com-id809702.com
 0.0.0.0 www.sberbank.avito.avito.sber.avito.www.booking.com-id809702.com
 0.0.0.0 store.sberbank.avito.avito.sber.avito.www.booking.com-id809702.com
@@ -3360,6 +3330,7 @@
 0.0.0.0 sberbank.avito.avito.www.booking.com-id809702.com
 0.0.0.0 www.sberbank.avito.avito.www.booking.com-id809702.com
 0.0.0.0 store.sberbank.avito.avito.www.booking.com-id809702.com
+0.0.0.0 sberbank.avito.avito.www.booking.com-id809712.com
 0.0.0.0 sberbank.avito.avito.www.com-id1800853.com
 0.0.0.0 www.sberbank.avito.avito.www.com-id1800853.com
 0.0.0.0 store.sberbank.avito.avito.www.com-id1800853.com
@@ -3381,6 +3352,7 @@
 0.0.0.0 sberbank.avito.booking.com-id809702.com
 0.0.0.0 www.sberbank.avito.booking.com-id809702.com
 0.0.0.0 store.sberbank.avito.booking.com-id809702.com
+0.0.0.0 sberbank.avito.booking.com-id809712.com
 0.0.0.0 sberbank.avito.booking.com-id90123.info
 0.0.0.0 www.sberbank.avito.booking.com-id90123.info
 0.0.0.0 store.sberbank.avito.booking.com-id90123.info
@@ -3390,6 +3362,7 @@
 0.0.0.0 sberbank.avito.booklng.com-id16313.info
 0.0.0.0 www.sberbank.avito.booklng.com-id16313.info
 0.0.0.0 store.sberbank.avito.booklng.com-id16313.info
+0.0.0.0 store.sberbank.avito.booklng.com-id802912.com
 0.0.0.0 sberbank.avito.com-id15421.info
 0.0.0.0 www.sberbank.avito.com-id15421.info
 0.0.0.0 store.sberbank.avito.com-id15421.info
@@ -3468,6 +3441,8 @@
 0.0.0.0 sberbank.avito.sber.booking.com-id809702.com
 0.0.0.0 www.sberbank.avito.sber.booking.com-id809702.com
 0.0.0.0 store.sberbank.avito.sber.booking.com-id809702.com
+0.0.0.0 www.sberbank.avito.sber.booking.com-id809712.com
+0.0.0.0 store.sberbank.avito.sber.booking.com-id809712.com
 0.0.0.0 sberbank.avito.sber.booking.com-id90123.info
 0.0.0.0 www.sberbank.avito.sber.booking.com-id90123.info
 0.0.0.0 store.sberbank.avito.sber.booking.com-id90123.info
@@ -3525,10 +3500,10 @@
 0.0.0.0 sberbank.avito.www.booking.com-id23901.info
 0.0.0.0 www.sberbank.avito.www.booking.com-id23901.info
 0.0.0.0 store.sberbank.avito.www.booking.com-id23901.info
-0.0.0.0 www.sberbank.avito.www.booking.com-id334212.com
 0.0.0.0 sberbank.avito.www.booking.com-id809702.com
 0.0.0.0 www.sberbank.avito.www.booking.com-id809702.com
 0.0.0.0 store.sberbank.avito.www.booking.com-id809702.com
+0.0.0.0 store.sberbank.avito.www.booking.com-id809712.com
 0.0.0.0 sberbank.avito.www.booklng.com-id334112.com
 0.0.0.0 www.sberbank.avito.www.booklng.com-id334112.com
 0.0.0.0 store.sberbank.avito.www.booklng.com-id334112.com
@@ -3553,6 +3528,9 @@
 0.0.0.0 sberbank.booking.com-id809702.com
 0.0.0.0 www.sberbank.booking.com-id809702.com
 0.0.0.0 store.sberbank.booking.com-id809702.com
+0.0.0.0 sberbank.booking.com-id809712.com
+0.0.0.0 www.sberbank.booking.com-id809712.com
+0.0.0.0 store.sberbank.booking.com-id809712.com
 0.0.0.0 sberbank.booking.com-id90123.info
 0.0.0.0 www.sberbank.booking.com-id90123.info
 0.0.0.0 store.sberbank.booking.com-id90123.info
@@ -3583,6 +3561,7 @@
 0.0.0.0 sberbank.com-id409712.com
 0.0.0.0 www.sberbank.com-id409712.com
 0.0.0.0 store.sberbank.com-id409712.com
+0.0.0.0 sberbank.com-id809712.com
 0.0.0.0 sberbank.com-id90123.info
 0.0.0.0 www.sberbank.com-id90123.info
 0.0.0.0 store.sberbank.com-id90123.info
@@ -3682,6 +3661,7 @@
 0.0.0.0 sberbank.pay.booking.com-id809702.com
 0.0.0.0 www.sberbank.pay.booking.com-id809702.com
 0.0.0.0 store.sberbank.pay.booking.com-id809702.com
+0.0.0.0 www.sberbank.pay.booking.com-id809712.com
 0.0.0.0 sberbank.pay.booklng.com-id129041.info
 0.0.0.0 www.sberbank.pay.booklng.com-id129041.info
 0.0.0.0 store.sberbank.pay.booklng.com-id129041.info
@@ -3727,6 +3707,7 @@
 0.0.0.0 sberbank.pay.www.booking.com-id809702.com
 0.0.0.0 www.sberbank.pay.www.booking.com-id809702.com
 0.0.0.0 store.sberbank.pay.www.booking.com-id809702.com
+0.0.0.0 sberbank.pay.www.booking.com-id809712.com
 0.0.0.0 sberbank.pay.www.booklng.com-id129041.info
 0.0.0.0 www.sberbank.pay.www.booklng.com-id129041.info
 0.0.0.0 store.sberbank.pay.www.booklng.com-id129041.info
@@ -3739,6 +3720,7 @@
 0.0.0.0 sberbank.sber.booking.com-id20341.info
 0.0.0.0 www.sberbank.sber.booking.com-id20341.info
 0.0.0.0 store.sberbank.sber.booking.com-id20341.info
+0.0.0.0 www.sberbank.sber.booking.com-id809712.com
 0.0.0.0 sberbank.sber.booking.com-id90123.info
 0.0.0.0 www.sberbank.sber.booking.com-id90123.info
 0.0.0.0 store.sberbank.sber.booking.com-id90123.info
@@ -3841,7 +3823,6 @@
 0.0.0.0 sberbank.www70.com-id23901.info
 0.0.0.0 www.sberbank.www70.com-id23901.info
 0.0.0.0 store.sberbank.www70.com-id23901.info
-0.0.0.0 store.scanoe.info
 0.0.0.0 scribdbook.top
 0.0.0.0 www.scribdbook.top
 0.0.0.0 seasonsofficial.com
@@ -3861,6 +3842,7 @@
 0.0.0.0 store.sentees.com
 0.0.0.0 serengetidiscount.com
 0.0.0.0 www.serengetidiscount.com
+0.0.0.0 store.shirtforfan.com
 0.0.0.0 shirttest.com
 0.0.0.0 www.shirttest.com
 0.0.0.0 store.shirttest.com
@@ -3985,6 +3967,7 @@
 0.0.0.0 streamloot.co
 0.0.0.0 www.streamloot.co
 0.0.0.0 store.streamloot.co
+0.0.0.0 strogame.com
 0.0.0.0 stunningstuffs.com
 0.0.0.0 www.stunningstuffs.com
 0.0.0.0 store.stunningstuffs.com
@@ -4043,7 +4026,6 @@
 0.0.0.0 www.teezill.com
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
-0.0.0.0 store.tesla2023.store
 0.0.0.0 teslabrc.com
 0.0.0.0 www.teslabrc.com
 0.0.0.0 store.teslabrc.com
@@ -4125,6 +4107,7 @@
 0.0.0.0 www.tripinpremiumsnacks.com
 0.0.0.0 tromselementbygg.no
 0.0.0.0 www.tromselementbygg.no
+0.0.0.0 store.tromselementbygg.no
 0.0.0.0 tslawill.com
 0.0.0.0 www.tslawill.com
 0.0.0.0 store.tslawill.com
@@ -4214,6 +4197,7 @@
 0.0.0.0 www.wadahlapak.top
 0.0.0.0 walkinshoe.com
 0.0.0.0 www.walkinshoe.com
+0.0.0.0 warm-gifts.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 www.wavetshirt.com
 0.0.0.0 werfew.com
@@ -4289,6 +4273,8 @@
 0.0.0.0 yandex.avito.avito.avito.avito.booking.com-id809702.com
 0.0.0.0 www.yandex.avito.avito.avito.avito.booking.com-id809702.com
 0.0.0.0 store.yandex.avito.avito.avito.avito.booking.com-id809702.com
+0.0.0.0 yandex.avito.avito.avito.avito.booking.com-id809712.com
+0.0.0.0 www.yandex.avito.avito.avito.avito.booking.com-id809712.com
 0.0.0.0 store.yandex.avito.avito.avito.avito.booking.com-id809712.com
 0.0.0.0 yandex.avito.avito.avito.avito.com-id1800853.com
 0.0.0.0 www.yandex.avito.avito.avito.avito.com-id1800853.com
@@ -4401,6 +4387,8 @@
 0.0.0.0 yandex.avito.avito.pay.booking.com-id809702.com
 0.0.0.0 www.yandex.avito.avito.pay.booking.com-id809702.com
 0.0.0.0 store.yandex.avito.avito.pay.booking.com-id809702.com
+0.0.0.0 yandex.avito.avito.pay.booking.com-id809712.com
+0.0.0.0 www.yandex.avito.avito.pay.booking.com-id809712.com
 0.0.0.0 yandex.avito.avito.pay.com-id15421.info
 0.0.0.0 www.yandex.avito.avito.pay.com-id15421.info
 0.0.0.0 store.yandex.avito.avito.pay.com-id15421.info
@@ -4416,6 +4404,7 @@
 0.0.0.0 yandex.avito.avito.pay.www.booking.com-id809702.com
 0.0.0.0 www.yandex.avito.avito.pay.www.booking.com-id809702.com
 0.0.0.0 store.yandex.avito.avito.pay.www.booking.com-id809702.com
+0.0.0.0 yandex.avito.avito.pay.www.booking.com-id809712.com
 0.0.0.0 yandex.avito.avito.sber.pay.booking.com-id809702.com
 0.0.0.0 www.yandex.avito.avito.sber.pay.booking.com-id809702.com
 0.0.0.0 store.yandex.avito.avito.sber.pay.booking.com-id809702.com
@@ -4524,6 +4513,9 @@
 0.0.0.0 yandex.avito.pay.booking.com-id809702.com
 0.0.0.0 www.yandex.avito.pay.booking.com-id809702.com
 0.0.0.0 store.yandex.avito.pay.booking.com-id809702.com
+0.0.0.0 yandex.avito.pay.booking.com-id809712.com
+0.0.0.0 www.yandex.avito.pay.booking.com-id809712.com
+0.0.0.0 store.yandex.avito.pay.booking.com-id809712.com
 0.0.0.0 yandex.avito.pay.com-id01251.info
 0.0.0.0 www.yandex.avito.pay.com-id01251.info
 0.0.0.0 store.yandex.avito.pay.com-id01251.info
@@ -4548,6 +4540,7 @@
 0.0.0.0 yandex.avito.pay.www.booking.com-id809702.com
 0.0.0.0 www.yandex.avito.pay.www.booking.com-id809702.com
 0.0.0.0 store.yandex.avito.pay.www.booking.com-id809702.com
+0.0.0.0 www.yandex.avito.sber.avito.booking.com-id809712.com
 0.0.0.0 yandex.avito.sber.avito.www.booking.com-id20341.info
 0.0.0.0 www.yandex.avito.sber.avito.www.booking.com-id20341.info
 0.0.0.0 store.yandex.avito.sber.avito.www.booking.com-id20341.info
@@ -4608,6 +4601,9 @@
 0.0.0.0 yandex.avito.www.booking.com-id809702.com
 0.0.0.0 www.yandex.avito.www.booking.com-id809702.com
 0.0.0.0 store.yandex.avito.www.booking.com-id809702.com
+0.0.0.0 yandex.avito.www.booking.com-id809712.com
+0.0.0.0 www.yandex.avito.www.booking.com-id809712.com
+0.0.0.0 store.yandex.avito.www.booking.com-id809712.com
 0.0.0.0 yandex.avito.www.com-id1800853.com
 0.0.0.0 www.yandex.avito.www.com-id1800853.com
 0.0.0.0 store.yandex.avito.www.com-id1800853.com
@@ -4626,7 +4622,9 @@
 0.0.0.0 yandex.booking.com-id334112.com
 0.0.0.0 www.yandex.booking.com-id334112.com
 0.0.0.0 store.yandex.booking.com-id334112.com
+0.0.0.0 yandex.booking.com-id809712.com
 0.0.0.0 www.yandex.booking.com-id809712.com
+0.0.0.0 store.yandex.booking.com-id809712.com
 0.0.0.0 yandex.com-id20341.info
 0.0.0.0 www.yandex.com-id20341.info
 0.0.0.0 store.yandex.com-id20341.info
@@ -4693,7 +4691,7 @@
 0.0.0.0 yandex.pay.avito.avito.booking.com-id809702.com
 0.0.0.0 www.yandex.pay.avito.avito.booking.com-id809702.com
 0.0.0.0 store.yandex.pay.avito.avito.booking.com-id809702.com
-0.0.0.0 yandex.pay.avito.avito.booking.com-id809712.com
+0.0.0.0 store.yandex.pay.avito.avito.booking.com-id809712.com
 0.0.0.0 yandex.pay.avito.avito.com-id809702.com
 0.0.0.0 www.yandex.pay.avito.avito.com-id809702.com
 0.0.0.0 store.yandex.pay.avito.avito.com-id809702.com
@@ -4725,6 +4723,8 @@
 0.0.0.0 www.yandex.pay.booking.com-id809702.com
 0.0.0.0 store.yandex.pay.booking.com-id809702.com
 0.0.0.0 yandex.pay.booking.com-id809712.com
+0.0.0.0 www.yandex.pay.booking.com-id809712.com
+0.0.0.0 store.yandex.pay.booking.com-id809712.com
 0.0.0.0 yandex.pay.booklng.com-id129041.info
 0.0.0.0 www.yandex.pay.booklng.com-id129041.info
 0.0.0.0 store.yandex.pay.booklng.com-id129041.info
@@ -4743,8 +4743,6 @@
 0.0.0.0 yandex.pay.com-id409712.com
 0.0.0.0 www.yandex.pay.com-id409712.com
 0.0.0.0 store.yandex.pay.com-id409712.com
-0.0.0.0 www.yandex.pay.com-id809712.com
-0.0.0.0 store.yandex.pay.com-id809712.com
 0.0.0.0 yandex.pay.pay.www.booking.com-id20341.info
 0.0.0.0 www.yandex.pay.pay.www.booking.com-id20341.info
 0.0.0.0 store.yandex.pay.pay.www.booking.com-id20341.info
@@ -4776,12 +4774,15 @@
 0.0.0.0 www.yandex.sber.avito.avito.avito.booking.com-id20341.info
 0.0.0.0 store.yandex.sber.avito.avito.avito.booking.com-id20341.info
 0.0.0.0 yandex.sber.avito.booking.com-id809712.com
+0.0.0.0 store.yandex.sber.avito.booking.com-id809712.com
 0.0.0.0 yandex.sber.booking.com-id20341.info
 0.0.0.0 www.yandex.sber.booking.com-id20341.info
 0.0.0.0 store.yandex.sber.booking.com-id20341.info
 0.0.0.0 yandex.sber.booking.com-id809702.com
 0.0.0.0 www.yandex.sber.booking.com-id809702.com
 0.0.0.0 store.yandex.sber.booking.com-id809702.com
+0.0.0.0 yandex.sber.booking.com-id809712.com
+0.0.0.0 www.yandex.sber.booking.com-id809712.com
 0.0.0.0 store.yandex.sber.booking.com-id809712.com
 0.0.0.0 yandex.sber.com-id01251.info
 0.0.0.0 www.yandex.sber.com-id01251.info
@@ -4863,7 +4864,6 @@
 0.0.0.0 www.yoli.my.id
 0.0.0.0 youdebrid.com
 0.0.0.0 www.youdebrid.com
-0.0.0.0 store.youngtee.us
 0.0.0.0 youtubee.com
 0.0.0.0 www.youtubee.com
 0.0.0.0 store.youtubee.com

@@ -94,7 +94,6 @@
 ||booking.transaction-processing.one^
 ||booliving.com^
 ||boooodas.com^
-||boostrobux.com^
 ||bossaving.com^
 ||botsuanah.com^
 ||boutiqueondemand.com^
@@ -108,17 +107,16 @@
 ||buyyeezy2023.com^
 ||buzzazone.com^
 ||by-emmamuller.de^
+||c3scores.com^
 ||campingsurfshop.com^
 ||canadapost.mydelivery1.com^
 ||candlesbymadison.com^
 ||canjaume.com^
-||caoefe.shop^
 ||caraci.it^
 ||cardadvantagecast.com^
 ||cargotrustcourier.com^
 ||carsaratek.com^
 ||casha.xyz^
-||catalogodecoracao.leroymerlin.pt^
 ||cebesale.com^
 ||chandeco.com^
 ||charmsection.com^
@@ -180,7 +178,6 @@
 ||dautee.com^
 ||dbmobile-phototan.de^
 ||dcsnowboard.com^
-||deceptivebuffalo.cn^
 ||decoryourhome.store^
 ||deergift.com^
 ||defcon7.com.br^
@@ -275,7 +272,6 @@
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.vip^
 ||fitgirlrepacksite.com^
-||fivent.info^
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
@@ -349,16 +345,13 @@
 ||innewstyle.com^
 ||innomediacreate.com^
 ||instant-e-app-for-campaign.github.io^
-||investama92.com^
 ||iphone.quiztionnaire.biz^
 ||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
-||itsthetrendydealstore.com^
 ||jagkart.com^
 ||jellystores.com^
 ||jfremovals.com^
-||jne-express.my.id^
 ||jollyfamilygifts.net^
 ||jonausa.com^
 ||keenfootwearsale.com^
@@ -376,7 +369,6 @@
 ||koperasi.naricash.com^
 ||kopisusu.co.id^
 ||kredit-rupiah.com^
-||krediteasypro.com^
 ||krediteksklusif.com^
 ||kuyhaa.cc^
 ||ladamustore.com^
@@ -439,10 +431,8 @@
 ||msmcompare.com^
 ||mujib-store28.blogspot.com^
 ||museuw.com^
-||musk-aigpt.com^
 ||muskai.net^
 ||muskbtc.io^
-||musklink.org^
 ||muthaafoundation.org^
 ||mybestautologin567.com^
 ||myfunfarm.com^
@@ -480,6 +470,7 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi47.com^
 ||navi5.com^
@@ -498,6 +489,7 @@
 ||navi72.com^
 ||navi72.ru^
 ||navi73.com^
+||navi73.ru^
 ||navi74.com^
 ||navi75.com^
 ||navi76.com^
@@ -505,7 +497,6 @@
 ||navi78.ru^
 ||navi79.com^
 ||navi8.com^
-||navi81.ru^
 ||navi85.com^
 ||navi86.ru^
 ||navi87.com^
@@ -514,6 +505,7 @@
 ||navi90.com^
 ||navi94.com^
 ||navi96.com^
+||navi97.com^
 ||navi98.com^
 ||navi99.com^
 ||nbdiscount.com^
@@ -572,6 +564,7 @@
 ||okdebrid.com^
 ||oldcube.com^
 ||oncloudrun.shop^
+||oneparttimejob.com^
 ||online-binomo.com^
 ||onlineadid.com^
 ||onlinehome.us^
@@ -591,6 +584,7 @@
 ||parisiporlin-ktki.kemkes.go.id^
 ||pateim.com^
 ||path2zillion.com^
+||pay.avito.id5189145677.com^
 ||peppatees.com^
 ||perlatoshoe.com^
 ||personal84.com^
@@ -632,6 +626,7 @@
 ||q3i5q2r6.stackpathcdn.com^
 ||queenscattery.com^
 ||quitasueno.com^
+||qxowtod.cn^
 ||rabamnetee.com^
 ||radiatorcrate.com^
 ||reanimando.org^
@@ -656,7 +651,6 @@
 ||salimusic.com^
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
-||scanoe.info^
 ||scribdbook.top^
 ||seasonsofficial.com^
 ||secure.staging.demo.www1.transaction-processing.one^
@@ -665,6 +659,7 @@
 ||sellfox.com^
 ||sentees.com^
 ||serengetidiscount.com^
+||shirtforfan.com^
 ||shirttest.com^
 ||shoeaddic.com^
 ||shop.spreadshirt.com^
@@ -719,6 +714,7 @@
 ||storeskiwear.com^
 ||storesp.com^
 ||streamloot.co^
+||strogame.com^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
 ||successglossary.com^
@@ -744,7 +740,6 @@
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla2023.store^
 ||teslabrc.com^
 ||teslatucker.com^
 ||theeaglebrand.company.site^
@@ -816,6 +811,7 @@
 ||voucheras.com^
 ||wadahlapak.top^
 ||walkinshoe.com^
+||warm-gifts.com^
 ||wavetshirt.com^
 ||werfew.com^
 ||westernhats.net^
@@ -838,7 +834,6 @@
 ||yofi-yofi.com^
 ||yoli.my.id^
 ||youdebrid.com^
-||youngtee.us^
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
