@@ -59,6 +59,7 @@
 ||bcb.game^
 ||beaswan.com^
 ||beautysolution24.com^
+||beautyt.shop^
 ||beecrave.com^
 ||benecharm.com^
 ||bigappboi.com^
@@ -113,6 +114,7 @@
 ||carsaratek.com^
 ||casha.xyz^
 ||cebesale.com^
+||charmingmonica.com^
 ||charmsection.com^
 ||chat-o-live.com^
 ||cheat-on.com^
@@ -173,7 +175,6 @@
 ||dautee.com^
 ||dbmobile-phototan.de^
 ||dcsnowboard.com^
-||debridlink.com^
 ||decoryourhome.store^
 ||deergift.com^
 ||defcon7.com.br^
@@ -194,7 +195,6 @@
 ||draxu.com^
 ||dreamgreenshoe.com^
 ||dreamstees.com^
-||duckydecor.store^
 ||duitpanas.top^
 ||dxraceroutlet.com^
 ||easynatures.com^
@@ -204,6 +204,7 @@
 ||ecs-online.ffm.to^
 ||ed0.it^
 ||ekommmedia.com^
+||ekyfoa.shop^
 ||elitestrustonline.biz^
 ||elitestrustonline.com^
 ||ellezz.com^
@@ -300,7 +301,6 @@
 ||gimboy.com^
 ||gladiadormalas.com.br^
 ||gload.info^
-||globalexpresscarriers.com^
 ||globe.sxlph.site^
 ||godeskonettbutikk.com^
 ||goglle.com^
@@ -309,7 +309,6 @@
 ||gotoperfection.com^
 ||gowarehouse.net^
 ||goyourheart.com^
-||gpt-open23.com^
 ||graciaszone.com^
 ||gratis-eltern-produkttests.com^
 ||gsport.com^
@@ -389,7 +388,6 @@
 ||livecato.com^
 ||lojaacasa.com.br^
 ||lomipod.com^
-||lomoor.com^
 ||look-like-star.myshopify.com^
 ||lootcrate.com^
 ||lovegoldsale.com^
@@ -412,6 +410,7 @@
 ||meaningift.com^
 ||megoindonesia.com^
 ||meminjamsaya.com^
+||meowpinky.com^
 ||metachartview.com^
 ||microgull.com^
 ||microngroup.pro^
@@ -425,10 +424,11 @@
 ||modmobile24.com^
 ||monkstars.co^
 ||monkstars.com^
+||morlyes.com^
 ||motovinreports.com^
+||msaylor2x.com^
 ||msmcompare.com^
 ||mujib-store28.blogspot.com^
-||muscleforlive.online^
 ||museuw.com^
 ||musk-aigpt.com^
 ||muskbtc.io^
@@ -440,16 +440,20 @@
 ||n24-news.com^
 ||nabaza.shop^
 ||nalzahqp.page.link^
+||nanoweb3-rarityledgertech.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
 ||natistore.us^
 ||navi1.com^
 ||navi10.com^
+||navi10.ru^
 ||navi100.com^
-||navi11.com^
+||navi100.ru^
 ||navi12.com^
 ||navi18.com^
+||navi19.com^
 ||navi2.com^
+||navi2.ru^
 ||navi20.com^
 ||navi20.ru^
 ||navi21.com^
@@ -457,10 +461,12 @@
 ||navi22.ru^
 ||navi23.com^
 ||navi23.ru^
+||navi24.com^
 ||navi24.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
+||navi32.ru^
 ||navi33.com^
 ||navi35.com^
 ||navi36.ru^
@@ -471,10 +477,8 @@
 ||navi42.ru^
 ||navi45.ru^
 ||navi47.com^
-||navi48.ru^
 ||navi5.com^
 ||navi50.com^
-||navi50.ru^
 ||navi53.com^
 ||navi56.com^
 ||navi58.com^
@@ -504,7 +508,6 @@
 ||navi9.com^
 ||navi90.com^
 ||navi94.com^
-||navi94.ru^
 ||navi96.com^
 ||navi98.com^
 ||navi99.com^
@@ -532,10 +535,8 @@
 ||nip3.com^
 ||nip4.com^
 ||nip44.com^
-||nip48.com^
 ||nip5.com^
 ||nip57.com^
-||nip62.com^
 ||nip69.com^
 ||nip8.com^
 ||nip84.com^
@@ -571,8 +572,6 @@
 ||onlyfanstake.pro^
 ||ontario-energy.com^
 ||open-cbd.de^
-||openai.reisen^
-||orami.one^
 ||orderquilt.com^
 ||origin.tnail.cc^
 ||outdoorwintersports.com^
@@ -624,6 +623,7 @@
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||q3i5q2r6.stackpathcdn.com^
 ||queenscattery.com^
+||quintrendy.com^
 ||quitasueno.com^
 ||rabamnetee.com^
 ||radiatorcrate.com^
@@ -670,7 +670,6 @@
 ||sigmaoffers.com^
 ||signpify.com^
 ||silverlanetrading.com^
-||simplewhales.com^
 ||singingfiles.com^
 ||skincheap.com^
 ||skinszone.net^
@@ -694,7 +693,6 @@
 ||staging.zendrop.com^
 ||startjacket.com^
 ||startuplatte.com^
-||steamgateways.com^
 ||steamunlock.com^
 ||steamunlock.gifts^
 ||stellara.de^
@@ -719,7 +717,6 @@
 ||sugarandpearl.com^
 ||supercutestuff.com^
 ||supperbrand.company.site^
-||support.login.dev.id601294105.date^
 ||supreme-adblocker.net^
 ||survivalcatsupply.com^
 ||sweepbuzz.buzz^
@@ -822,7 +819,6 @@
 ||wpclick.cc^
 ||xajzfwgs.com^
 ||xn4iqv.succyarthyry.com^
-||xrp-give.pro^
 ||xunlei.it^
 ||yahhhoo.com^
 ||yeezysofficial.us.com^
@@ -830,12 +826,14 @@
 ||yeyvibe.com^
 ||yofi-yofi.com^
 ||yoli.my.id^
+||yomoun.com^
 ||youdebrid.com^
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
 ||z-lib.is^
 ||zat.io^
+||zech-company.com^
 ||zedbubble.com^
 ||zerowasteinitiative.com^
 ||zgalaxytee.com^
