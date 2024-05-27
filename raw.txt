@@ -4041,6 +4041,9 @@
 0.0.0.0 musk-event.xyz
 0.0.0.0 www.musk-event.xyz
 0.0.0.0 store.musk-event.xyz
+0.0.0.0 musk-project.com
+0.0.0.0 www.musk-project.com
+0.0.0.0 store.musk-project.com
 0.0.0.0 muskai.net
 0.0.0.0 www.muskai.net
 0.0.0.0 store.muskai.net
