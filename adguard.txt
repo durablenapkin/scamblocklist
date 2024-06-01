@@ -21,7 +21,6 @@
 ||ahundredphotos.com^
 ||airmaxskobillige.com^
 ||akebicycle.com^
-||aldi-life.vip^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allergyfl.com^
@@ -154,13 +153,13 @@
 ||cracksway.com^
 ||crocssalenz.com^
 ||crypto022.online^
+||crypto023.online^
 ||crypto030.online^
 ||cryptot.net^
 ||csbo.shop^
 ||csmoney.trade^
 ||customizerbox.com^
 ||customurink.com^
-||cuteclub.org^
 ||cutty.app^
 ||cycle100percent.com^
 ||czwcvfbc.page.link^
@@ -239,7 +238,6 @@
 ||favoritehardware.com^
 ||faze1.com^
 ||faze11.com^
-||faze12.com^
 ||faze19.com^
 ||faze2.com^
 ||faze24.com^
@@ -352,7 +350,9 @@
 ||k-tozluxury.shop^
 ||keenfootwearsale.com^
 ||keltysale.com^
+||kewal.shop^
 ||kidsmama.online^
+||kielorelief.io^
 ||kigurumi-usa.com^
 ||killtee.com^
 ||kingcampoutdoors.co.jp^
@@ -414,7 +414,6 @@
 ||microngroup.pro^
 ||mila-vica.de^
 ||milgenial.uy^
-||millabay.com^
 ||miucart.com^
 ||miuprints.com^
 ||mizunsports.com^
@@ -426,7 +425,6 @@
 ||msmcompare.com^
 ||mujib-store28.blogspot.com^
 ||museuw.com^
-||musk-bit.com^
 ||musk-project.com^
 ||muskbtc.io^
 ||muthaafoundation.org^
@@ -464,7 +462,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.com^
 ||navi45.ru^
 ||navi47.com^
 ||navi5.com^
@@ -488,6 +485,7 @@
 ||navi75.com^
 ||navi76.com^
 ||navi77.com^
+||navi78.com^
 ||navi78.ru^
 ||navi79.com^
 ||navi8.com^
@@ -504,6 +502,7 @@
 ||nbdiscount.com^
 ||neozor.com^
 ||netcotto.com^
+||new-s24.click^
 ||new.bestageoffers22.com^
 ||newdompet.com^
 ||newfootwearshop.com^
@@ -537,7 +536,6 @@
 ||nlepfpteg.com^
 ||noatopdesign.com^
 ||nofotballshop.com^
-||nofotballstore.com^
 ||nonofy.com^
 ||norfotball.com^
 ||norgefotball.com^
@@ -562,7 +560,6 @@
 ||ontario-energy.com^
 ||open-cbd.de^
 ||orderquilt.com^
-||orderstee.com^
 ||origin.tnail.cc^
 ||outdoorwintersports.com^
 ||outlet-alfresco.com^
@@ -573,7 +570,6 @@
 ||parcelprocessingredelivery1.info^
 ||pateim.com^
 ||path2zillion.com^
-||pay.blablacar.id05196219.com^
 ||peppatees.com^
 ||perlatoshoe.com^
 ||personal84.com^
@@ -582,7 +578,6 @@
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
-||phpmyadmin.gitlab.dev.id601294105.date^
 ||phpmyadmin.staging.demo.www1.transaction-processing.one^
 ||pickablegift.com^
 ||pictureoutdoor.com^
@@ -655,7 +650,6 @@
 ||shopyourturn.com^
 ||showapparels.com^
 ||si.factorysale2023.com^
-||sieuto.com^
 ||sigmaoffers.com^
 ||signpify.com^
 ||silverlanetrading.com^
@@ -799,6 +793,8 @@
 ||westernhats.net^
 ||wezpod.com^
 ||whbinder.com^
+||whm.drivetime.com^
+||wichky.info^
 ||wikeb.com^
 ||wind88.shop^
 ||wintexfashions.com^
