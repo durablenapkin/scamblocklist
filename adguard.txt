@@ -252,6 +252,7 @@
 ||faze67.com^
 ||faze70.com^
 ||faze71.com^
+||faze74.com^
 ||faze76.com^
 ||faze80.com^
 ||faze88.com^
@@ -370,7 +371,6 @@
 ||ladamustore.com^
 ||lamotee.com^
 ||lasercutjewelry.net^
-||ledger-liveweb3app.com^
 ||ledgerlivewallets.com^
 ||legarralazcoz.com^
 ||lemstore.com^
@@ -429,6 +429,7 @@
 ||museuw.com^
 ||musk-project.com^
 ||muskbtc.io^
+||muskweb.net^
 ||muthaafoundation.org^
 ||mybestautologin567.com^
 ||myfunfarm.com^
@@ -442,6 +443,7 @@
 ||natistore.us^
 ||navi1.com^
 ||navi10.com^
+||navi10.ru^
 ||navi100.com^
 ||navi12.com^
 ||navi18.com^
@@ -463,8 +465,10 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi4.ru^
 ||navi40.com^
 ||navi42.ru^
+||navi43.com^
 ||navi45.ru^
 ||navi47.com^
 ||navi5.com^
@@ -523,7 +527,6 @@
 ||nip26.com^
 ||nip28.com^
 ||nip3.com^
-||nip30.com^
 ||nip4.com^
 ||nip44.com^
 ||nip5.com^
@@ -572,6 +575,7 @@
 ||parcelprocessingredelivery1.info^
 ||pateim.com^
 ||path2zillion.com^
+||pay.www.cdek.id19845672.info^
 ||peppatees.com^
 ||perlatoshoe.com^
 ||personal84.com^
@@ -632,6 +636,7 @@
 ||salimusic.com^
 ||saveeeee.myshopify.com^
 ||sayhellorugs.com^
+||sberbank.booking.id3410894.com^
 ||scribdbook.top^
 ||seasonsofficial.com^
 ||secure.staging.demo.www1.transaction-processing.one^
@@ -713,6 +718,7 @@
 ||tecappcloud.com^
 ||tee24h.com^
 ||teearrow.com^
+||teeboss.us^
 ||teechip.online^
 ||teefoody.com^
 ||teemax.store^
@@ -765,6 +771,7 @@
 ||ultraboxlab.com^
 ||um-bs.com^
 ||unifully.com^
+||uniqueshirt.shop^
 ||universityofqatarrectorate.godaddysites.com^
 ||unkinerecle.com^
 ||uplevelreward.com^
