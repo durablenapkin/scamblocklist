@@ -3039,6 +3039,9 @@
 0.0.0.0 gimboy.com
 0.0.0.0 www.gimboy.com
 0.0.0.0 store.gimboy.com
+0.0.0.0 gimp.zendesk.com
+0.0.0.0 www.gimp.zendesk.com
+0.0.0.0 store.gimp.zendesk.com
 0.0.0.0 gitlab.admin.id601294105.date
 0.0.0.0 www.gitlab.admin.id601294105.date
 0.0.0.0 store.gitlab.admin.id601294105.date
