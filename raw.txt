@@ -10839,6 +10839,9 @@
 0.0.0.0 wdamp.info
 0.0.0.0 www.wdamp.info
 0.0.0.0 store.wdamp.info
+0.0.0.0 wealth.1simple-access.com
+0.0.0.0 www.wealth.1simple-access.com
+0.0.0.0 store.wealth.1simple-access.com
 0.0.0.0 wealth.simple-auth1.com
 0.0.0.0 www.wealth.simple-auth1.com
 0.0.0.0 store.wealth.simple-auth1.com
