@@ -144,6 +144,7 @@
 ||com-id1800853.com^
 ||com-id23901.info^
 ||com-id334112.com^
+||com-id38106146.date^
 ||compoundexotics.com^
 ||cooeedesignshop.com^
 ||cookietee.com^
@@ -477,7 +478,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -507,6 +507,7 @@
 ||navi88.com^
 ||navi90.com^
 ||navi96.com^
+||navi97.com^
 ||navi99.com^
 ||nbdiscount.com^
 ||neozor.com^
@@ -619,7 +620,6 @@
 ||queenscattery.com^
 ||quitasueno.com^
 ||radiatorcrate.com^
-||raif.easypayment.me^
 ||re-captha-version-3-277.buzz^
 ||reanimando.org^
 ||reforest-iita.org^
@@ -630,6 +630,7 @@
 ||robinmooreband.com^
 ||rockchief.com^
 ||rosateeshop.com^
+||royaldecorcollection.com^
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rozaholshouser.cfd^
@@ -807,7 +808,6 @@
 ||wintexfashions.com^
 ||wisdomganga.com^
 ||woadoodles.com^
-||worthas.shop^
 ||wpclick.cc^
 ||xajzfwgs.com^
 ||xn4iqv.succyarthyry.com^
