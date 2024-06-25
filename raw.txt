@@ -3981,6 +3981,9 @@
 0.0.0.0 microstrategy2023.net
 0.0.0.0 www.microstrategy2023.net
 0.0.0.0 store.microstrategy2023.net
+0.0.0.0 midnightsociety-x.com
+0.0.0.0 www.midnightsociety-x.com
+0.0.0.0 store.midnightsociety-x.com
 0.0.0.0 mila-vica.de
 0.0.0.0 www.mila-vica.de
 0.0.0.0 store.mila-vica.de
