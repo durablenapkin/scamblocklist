@@ -2292,6 +2292,9 @@
 0.0.0.0 elontsla.com
 0.0.0.0 www.elontsla.com
 0.0.0.0 store.elontsla.com
+0.0.0.0 elonweb.org
+0.0.0.0 www.elonweb.org
+0.0.0.0 store.elonweb.org
 0.0.0.0 elonx2tesla.com
 0.0.0.0 www.elonx2tesla.com
 0.0.0.0 store.elonx2tesla.com
