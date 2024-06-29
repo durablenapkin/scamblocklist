@@ -2223,6 +2223,9 @@
 0.0.0.0 earnpets.com
 0.0.0.0 www.earnpets.com
 0.0.0.0 store.earnpets.com
+0.0.0.0 earth-ling.org
+0.0.0.0 www.earth-ling.org
+0.0.0.0 store.earth-ling.org
 0.0.0.0 easyliving4you.com
 0.0.0.0 www.easyliving4you.com
 0.0.0.0 store.easyliving4you.com
@@ -3219,6 +3222,9 @@
 0.0.0.0 helgaz.com
 0.0.0.0 www.helgaz.com
 0.0.0.0 store.helgaz.com
+0.0.0.0 help.premium-x-notes.com
+0.0.0.0 www.help.premium-x-notes.com
+0.0.0.0 store.help.premium-x-notes.com
 0.0.0.0 helpnanacenter.helpscoutdocs.com
 0.0.0.0 www.helpnanacenter.helpscoutdocs.com
 0.0.0.0 store.helpnanacenter.helpscoutdocs.com
@@ -5493,6 +5499,9 @@
 0.0.0.0 pairmate.se
 0.0.0.0 www.pairmate.se
 0.0.0.0 store.pairmate.se
+0.0.0.0 pambi.tech
+0.0.0.0 www.pambi.tech
+0.0.0.0 store.pambi.tech
 0.0.0.0 pandzee.com
 0.0.0.0 www.pandzee.com
 0.0.0.0 store.pandzee.com
@@ -7146,6 +7155,9 @@
 0.0.0.0 preciouscutesy.com
 0.0.0.0 www.preciouscutesy.com
 0.0.0.0 store.preciouscutesy.com
+0.0.0.0 premium-x-notes.com
+0.0.0.0 www.premium-x-notes.com
+0.0.0.0 store.premium-x-notes.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 store.premiumqualityblanket.com
