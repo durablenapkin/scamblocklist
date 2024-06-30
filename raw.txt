@@ -282,6 +282,9 @@
 0.0.0.0 app.affixwallet.net
 0.0.0.0 www.app.affixwallet.net
 0.0.0.0 store.app.affixwallet.net
+0.0.0.0 app.jameswoof.com
+0.0.0.0 www.app.jameswoof.com
+0.0.0.0 store.app.jameswoof.com
 0.0.0.0 apple.com-coordinates.info
 0.0.0.0 www.apple.com-coordinates.info
 0.0.0.0 store.apple.com-coordinates.info
@@ -360,6 +363,9 @@
 0.0.0.0 auth.login.dev.id601294105.date
 0.0.0.0 www.auth.login.dev.id601294105.date
 0.0.0.0 store.auth.login.dev.id601294105.date
+0.0.0.0 avarik.web.app
+0.0.0.0 www.avarik.web.app
+0.0.0.0 store.avarik.web.app
 0.0.0.0 avito.avito.avito.avito.avito.avito.booking.com-id90123.info
 0.0.0.0 www.avito.avito.avito.avito.avito.avito.booking.com-id90123.info
 0.0.0.0 store.avito.avito.avito.avito.avito.avito.booking.com-id90123.info
@@ -2010,6 +2016,9 @@
 0.0.0.0 dash.fortissio-invest.com
 0.0.0.0 www.dash.fortissio-invest.com
 0.0.0.0 store.dash.fortissio-invest.com
+0.0.0.0 dash.pocketuniverse.app
+0.0.0.0 www.dash.pocketuniverse.app
+0.0.0.0 store.dash.pocketuniverse.app
 0.0.0.0 dashracegear.net
 0.0.0.0 www.dashracegear.net
 0.0.0.0 store.dashracegear.net
@@ -2046,6 +2055,9 @@
 0.0.0.0 ddoe.shop
 0.0.0.0 www.ddoe.shop
 0.0.0.0 store.ddoe.shop
+0.0.0.0 ddzk513bd.com
+0.0.0.0 www.ddzk513bd.com
+0.0.0.0 store.ddzk513bd.com
 0.0.0.0 de-expose.life
 0.0.0.0 www.de-expose.life
 0.0.0.0 store.de-expose.life
@@ -3297,6 +3309,9 @@
 0.0.0.0 howarco.com
 0.0.0.0 www.howarco.com
 0.0.0.0 store.howarco.com
+0.0.0.0 hsuitehub.com
+0.0.0.0 www.hsuitehub.com
+0.0.0.0 store.hsuitehub.com
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
 0.0.0.0 store.hugetrump.com
@@ -4011,6 +4026,9 @@
 0.0.0.0 mila-vica.de
 0.0.0.0 www.mila-vica.de
 0.0.0.0 store.mila-vica.de
+0.0.0.0 miles.plumenetwork.xyz
+0.0.0.0 www.miles.plumenetwork.xyz
+0.0.0.0 store.miles.plumenetwork.xyz
 0.0.0.0 milgenial.uy
 0.0.0.0 www.milgenial.uy
 0.0.0.0 store.milgenial.uy
@@ -5475,6 +5493,9 @@
 0.0.0.0 otakupuzzle.com
 0.0.0.0 www.otakupuzzle.com
 0.0.0.0 store.otakupuzzle.com
+0.0.0.0 ousd-vault.com
+0.0.0.0 www.ousd-vault.com
+0.0.0.0 store.ousd-vault.com
 0.0.0.0 outdoorscarpa.com
 0.0.0.0 www.outdoorscarpa.com
 0.0.0.0 store.outdoorscarpa.com
@@ -5493,6 +5514,12 @@
 0.0.0.0 p8ydfra.lvditoys.com
 0.0.0.0 www.p8ydfra.lvditoys.com
 0.0.0.0 store.p8ydfra.lvditoys.com
+0.0.0.0 pacmoonn.icu
+0.0.0.0 www.pacmoonn.icu
+0.0.0.0 store.pacmoonn.icu
+0.0.0.0 padsims.com
+0.0.0.0 www.padsims.com
+0.0.0.0 store.padsims.com
 0.0.0.0 paintitblackfurniture.com
 0.0.0.0 www.paintitblackfurniture.com
 0.0.0.0 store.paintitblackfurniture.com
@@ -7104,6 +7131,9 @@
 0.0.0.0 pjs.outlet.com
 0.0.0.0 www.pjs.outlet.com
 0.0.0.0 store.pjs.outlet.com
+0.0.0.0 pl-2906.com
+0.0.0.0 www.pl-2906.com
+0.0.0.0 store.pl-2906.com
 0.0.0.0 platform.crypto1capital-trade.com
 0.0.0.0 www.platform.crypto1capital-trade.com
 0.0.0.0 store.platform.crypto1capital-trade.com
@@ -7239,6 +7269,9 @@
 0.0.0.0 pumb.fasterpays.me
 0.0.0.0 www.pumb.fasterpays.me
 0.0.0.0 store.pumb.fasterpays.me
+0.0.0.0 pump.fun
+0.0.0.0 www.pump.fun
+0.0.0.0 store.pump.fun
 0.0.0.0 punyauang.xyz
 0.0.0.0 www.punyauang.xyz
 0.0.0.0 store.punyauang.xyz
@@ -9837,6 +9870,9 @@
 0.0.0.0 snowroxy.com
 0.0.0.0 www.snowroxy.com
 0.0.0.0 store.snowroxy.com
+0.0.0.0 sntander.pl-2906.com
+0.0.0.0 www.sntander.pl-2906.com
+0.0.0.0 store.sntander.pl-2906.com
 0.0.0.0 soaplooparrowstereo.click
 0.0.0.0 www.soaplooparrowstereo.click
 0.0.0.0 store.soaplooparrowstereo.click
@@ -10299,6 +10335,9 @@
 0.0.0.0 teslaev.d1v854kgghhsze.amplifyapp.com
 0.0.0.0 www.teslaev.d1v854kgghhsze.amplifyapp.com
 0.0.0.0 store.teslaev.d1v854kgghhsze.amplifyapp.com
+0.0.0.0 teslafond.io
+0.0.0.0 www.teslafond.io
+0.0.0.0 store.teslafond.io
 0.0.0.0 teslafuture.io
 0.0.0.0 www.teslafuture.io
 0.0.0.0 store.teslafuture.io
@@ -10695,6 +10734,9 @@
 0.0.0.0 uplevelreward.com
 0.0.0.0 www.uplevelreward.com
 0.0.0.0 store.uplevelreward.com
+0.0.0.0 uprising.kip.pro
+0.0.0.0 www.uprising.kip.pro
+0.0.0.0 store.uprising.kip.pro
 0.0.0.0 upstrick.com
 0.0.0.0 www.upstrick.com
 0.0.0.0 store.upstrick.com
