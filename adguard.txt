@@ -21,7 +21,6 @@
 ||affordableforyouusa5.godaddysites.com^
 ||ahenana.com^
 ||akebicycle.com^
-||akjamv.shop^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allergyfl.com^
@@ -35,7 +34,6 @@
 ||anydebrid.com^
 ||anywherepastry.top^
 ||app.jameswoof.com^
-||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -369,7 +367,6 @@
 ||keltysale.com^
 ||kidsmama.online^
 ||kigurumi-usa.com^
-||killtee.com^
 ||kingcampoutdoors.co.jp^
 ||kingteestore.com^
 ||kisserine.com^
@@ -490,6 +487,7 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
