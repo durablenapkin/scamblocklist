@@ -3387,6 +3387,9 @@
 0.0.0.0 innomediacreate.com
 0.0.0.0 www.innomediacreate.com
 0.0.0.0 store.innomediacreate.com
+0.0.0.0 inpostcloud.buzz
+0.0.0.0 www.inpostcloud.buzz
+0.0.0.0 store.inpostcloud.buzz
 0.0.0.0 instant-e-app-for-campaign.github.io
 0.0.0.0 www.instant-e-app-for-campaign.github.io
 0.0.0.0 store.instant-e-app-for-campaign.github.io
