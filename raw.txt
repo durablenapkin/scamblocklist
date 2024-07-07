@@ -3063,6 +3063,9 @@
 0.0.0.0 getsupport-lcloud.com
 0.0.0.0 www.getsupport-lcloud.com
 0.0.0.0 store.getsupport-lcloud.com
+0.0.0.0 getwavemax.com
+0.0.0.0 www.getwavemax.com
+0.0.0.0 store.getwavemax.com
 0.0.0.0 getx2tesla.com
 0.0.0.0 www.getx2tesla.com
 0.0.0.0 store.getx2tesla.com
