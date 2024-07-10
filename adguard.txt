@@ -20,6 +20,7 @@
 ||acquatee.com^
 ||affordableforyouusa5.godaddysites.com^
 ||ahenana.com^
+||aichatgptforpc.com^
 ||akebicycle.com^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
@@ -35,7 +36,7 @@
 ||anydebrid.com^
 ||anywherepastry.top^
 ||app.jameswoof.com^
-||arduino.uk.eu.org^
+||apsehick.date^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
 ||artdecorhome.store^
@@ -161,6 +162,7 @@
 ||cracksway.com^
 ||crocssalenz.com^
 ||crypto022.online^
+||crypto026.online^
 ||crypto030.online^
 ||cryptot.net^
 ||csmoney.trade^
@@ -266,6 +268,8 @@
 ||fdrc-gov.org^
 ||felara.com.do^
 ||femalecozy.com^
+||fensh.online^
+||festmusikk.com^
 ||filedenzu.com^
 ||findglocal.com^
 ||finnews7.wordpress.com^
@@ -353,7 +357,6 @@
 ||injustice.site^
 ||innewstyle.com^
 ||innomediacreate.com^
-||inpostcloud.buzz^
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
 ||iqcreditcheck.com^
@@ -403,7 +406,6 @@
 ||letteringift.com^
 ||levelbash.com^
 ||librilibs.com^
-||lido-pass.org^
 ||lifestyletrading.co.za^
 ||lifewonderland.com^
 ||ligerking.com^
@@ -498,7 +500,6 @@
 ||navi50.com^
 ||navi53.com^
 ||navi56.com^
-||navi57.com^
 ||navi58.com^
 ||navi59.ru^
 ||navi6.com^
@@ -642,6 +643,7 @@
 ||re-captha-version-3-277.buzz^
 ||reanimando.org^
 ||reforest-iita.org^
+||resources4gaming.com^
 ||reviewshirts.com^
 ||rewardsgiantca.com^
 ||ringtoperfection.com^
@@ -660,6 +662,7 @@
 ||saleussports.com^
 ||salimusic.com^
 ||saveeeee.myshopify.com^
+||sberbank.sber.id90152861.com^
 ||scribdbook.top^
 ||seasonsofficial.com^
 ||secure.staging.demo.www1.transaction-processing.one^
@@ -819,6 +822,7 @@
 ||volcomofficial.com^
 ||wadahlapak.top^
 ||walkinshoe.com^
+||watchmark.shop^
 ||wavetshirt.com^
 ||werfew.com^
 ||westernhats.net^
