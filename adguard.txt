@@ -18,7 +18,6 @@
 ||aadirone.cc^
 ||abncbp.com^
 ||account-cfe.mx^
-||adidasko.com^
 ||affordableforyouusa5.godaddysites.com^
 ||ahenana.com^
 ||akebicycle.com^
@@ -26,7 +25,6 @@
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allergyfl.com^
-||allnewsready.com^
 ||allstarshirt.com^
 ||alohazing.com^
 ||altruetech.com^
@@ -35,6 +33,7 @@
 ||amznshirts.com^
 ||an1.is^
 ||andamente.pt^
+||animeshoppers.com^
 ||anydebrid.com^
 ||anywherepastry.top^
 ||app.jameswoof.com^
@@ -278,7 +277,6 @@
 ||faze71.com^
 ||faze80.com^
 ||faze88.com^
-||faze89.com^
 ||faze9.com^
 ||faze90.com^
 ||fazpowerdenet.tumblr.com^
@@ -300,6 +298,7 @@
 ||free.nf^
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
+||freedomgift50.com^
 ||freegiftscards.shop^
 ||frest.info^
 ||friday89.com^
@@ -331,6 +330,7 @@
 ||godeskonettbutikk.com^
 ||gogiworld.com^
 ||goglle.com^
+||goldtimeinvest.com^
 ||gossvibe.com^
 ||gotoperfection.com^
 ||govmedcareers.com^
@@ -374,7 +374,6 @@
 ||injustice.site^
 ||innewstyle.com^
 ||innomediacreate.com^
-||inpostcloud.buzz^
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
 ||iqcreditcheck.com^
@@ -414,6 +413,7 @@
 ||kopisusu.co.id^
 ||kredit-rupiah.com^
 ||krediteksklusif.com^
+||kreditmudah.shop^
 ||kuyhaa.cc^
 ||ladamustore.com^
 ||lamotee.com^
@@ -507,7 +507,6 @@
 ||navi24.com^
 ||navi24.ru^
 ||navi25.ru^
-||navi29.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
@@ -519,7 +518,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi40.ru^
 ||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
@@ -537,19 +535,15 @@
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
-||navi73.ru^
 ||navi74.com^
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
-||navi84.ru^
 ||navi86.ru^
 ||navi88.com^
-||navi92.com^
 ||navi92.ru^
 ||navi94.com^
 ||navi96.com^
-||navi97.com^
 ||navi99.com^
 ||nbdiscount.com^
 ||neozor.com^
@@ -575,7 +569,6 @@
 ||nip28.com^
 ||nip3.com^
 ||nip4.com^
-||nip41.com^
 ||nip44.com^
 ||nip5.com^
 ||nip57.com^
@@ -583,7 +576,6 @@
 ||nip8.com^
 ||nip84.com^
 ||nip9.com^
-||nirvezal.com^
 ||nldstore.com^
 ||nlepfpteg.com^
 ||nofotballshop.com^
@@ -632,6 +624,7 @@
 ||parisiporlin-ktki.kemkes.go.id^
 ||pateim.com^
 ||path2zillion.com^
+||pay.avito.id05196219.com^
 ||peppatees.com^
 ||perlatoshoe.com^
 ||personal84.com^
@@ -656,7 +649,6 @@
 ||poppee.online^
 ||poppop.online^
 ||powerboostup.com^
-||premium-x-notes.com^
 ||premiumqualityblanket.com^
 ||primeleech.com^
 ||printazest.com^
@@ -780,6 +772,7 @@
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
 ||tbao684tryo.com^
+||tdsintegrations11.online^
 ||tecappcloud.com^
 ||tee24h.com^
 ||teearrow.com^
@@ -873,7 +866,6 @@
 ||wintexfashions.com^
 ||wisdomganga.com^
 ||woadoodles.com^
-||worthas.shop^
 ||wpclick.cc^
 ||ww25.utilify.me^
 ||xajzfwgs.com^
@@ -888,7 +880,6 @@
 ||yofi-yofi.com^
 ||yoli.my.id^
 ||youdebrid.com^
-||yourdatefind.com^
 ||yoursecrethookup.com^
 ||youtubee.com^
 ||youtunbe.com^
