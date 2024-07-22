@@ -287,7 +287,6 @@
 ||findglocal.com^
 ||finnews7.wordpress.com^
 ||firersale.com^
-||firest.info^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.vip^
@@ -424,7 +423,6 @@
 ||lericettedifrancy74.com^
 ||letteringift.com^
 ||levelbash.com^
-||librilibs.com^
 ||lifestyletrading.co.za^
 ||lifewonderland.com^
 ||ligerking.com^
@@ -480,6 +478,7 @@
 ||mujib-store28.blogspot.com^
 ||museuw.com^
 ||musk-project.com^
+||muskusa.com^
 ||muthaafoundation.org^
 ||mybestautologin567.com^
 ||myfunfarm.com^
@@ -775,6 +774,7 @@
 ||tecappcloud.com^
 ||tee24h.com^
 ||teearrow.com^
+||teefoody.com^
 ||teemax.store^
 ||teenimo.com^
 ||teevpower.com^
@@ -782,7 +782,6 @@
 ||telemarktalk.com^
 ||tesla-online.net^
 ||teslafond.io^
-||teslahome.io^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
 ||thehappywood.com^
@@ -856,6 +855,7 @@
 ||wadahlapak.top^
 ||watchmark.shop^
 ||wavetshirt.com^
+||wealthsimple.mobile-id1.com^
 ||werfew.com^
 ||westernhats.net^
 ||wezpod.com^

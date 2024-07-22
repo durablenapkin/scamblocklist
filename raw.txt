@@ -4251,6 +4251,9 @@
 0.0.0.0 musklink.org
 0.0.0.0 www.musklink.org
 0.0.0.0 store.musklink.org
+0.0.0.0 muskusa.com
+0.0.0.0 www.muskusa.com
+0.0.0.0 store.muskusa.com
 0.0.0.0 muskweb.net
 0.0.0.0 www.muskweb.net
 0.0.0.0 store.muskweb.net
@@ -11055,6 +11058,9 @@
 0.0.0.0 wealthsimple.login1-id.com
 0.0.0.0 www.wealthsimple.login1-id.com
 0.0.0.0 store.wealthsimple.login1-id.com
+0.0.0.0 wealthsimple.mobile-id1.com
+0.0.0.0 www.wealthsimple.mobile-id1.com
+0.0.0.0 store.wealthsimple.mobile-id1.com
 0.0.0.0 web3ledger-app.online
 0.0.0.0 www.web3ledger-app.online
 0.0.0.0 store.web3ledger-app.online
