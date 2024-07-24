@@ -33,11 +33,11 @@
 ||amznshirts.com^
 ||an1.is^
 ||andamente.pt^
+||animeshoppers.com^
 ||anydebrid.com^
 ||anywherepastry.top^
 ||app.jameswoof.com^
 ||app.uniwspapp.com^
-||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -119,6 +119,7 @@
 ||btc9339.com^
 ||buddhakind.com^
 ||burgershirt.com^
+||buydubuy.com^
 ||buyfingermoney.company.com^
 ||buylikes.se^
 ||buyyeezy2023.com^
@@ -134,9 +135,9 @@
 ||cargotrustcourier.com^
 ||carsaratek.com^
 ||casha.xyz^
+||casualdating1.com^
 ||cebesale.com^
 ||charmsection.com^
-||charpente-ramel.com^
 ||chat-o-live.com^
 ||cheat-on.com^
 ||check-update-today.me^
@@ -288,6 +289,7 @@
 ||findglocal.com^
 ||finnews7.wordpress.com^
 ||firersale.com^
+||firest.info^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.vip^
@@ -373,6 +375,8 @@
 ||imlb2c.com^
 ||improtants.space^
 ||inboxtext.com^
+||info-flirtme.com^
+||info-milfroom.com^
 ||injustice.site^
 ||innewstyle.com^
 ||innomediacreate.com^
@@ -520,6 +524,7 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -577,6 +582,7 @@
 ||nip8.com^
 ||nip84.com^
 ||nip9.com^
+||nirvezal.com^
 ||nldstore.com^
 ||nlepfpteg.com^
 ||nofotballshop.com^
@@ -602,6 +608,7 @@
 ||oldcube.com^
 ||olymptrade-qid.com^
 ||olymptrade.com^
+||onenightchicko.com^
 ||online-binomo.com^
 ||onlineadid.com^
 ||onlinehome.us^
@@ -683,7 +690,6 @@
 ||rozaholshouser.cfd^
 ||rsaonlinenow.com.au^
 ||ruecksendungen-gratis.com^
-||rupiahpetiroiuy.xyz^
 ||rupiahsaku.com^
 ||sakuradate.com^
 ||salealfresco.com^
@@ -714,6 +720,7 @@
 ||signpify.com^
 ||silverlanetrading.com^
 ||singingfiles.com^
+||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
 ||sligen.com^
@@ -774,7 +781,6 @@
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
 ||tbao684tryo.com^
-||tbg-lmtd.xyz^
 ||tdsintegrations11.online^
 ||tecappcloud.com^
 ||tee24h.com^
@@ -809,6 +815,7 @@
 ||tiranaaquapark-eg.com^
 ||tlstoreonline.com^
 ||toddlershood.shop^
+||toko999.net^
 ||toko999.shop^
 ||tomadamsenergy.com^
 ||townaptdesk.info^
@@ -821,7 +828,6 @@
 ||tripinpremiumsnacks.com^
 ||tromselementbygg.no^
 ||tunaicair.com^
-||tunairupiah.xyz^
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
@@ -853,7 +859,6 @@
 ||vikingstore.co^
 ||vinisay.com^
 ||vip-yuki-shop.com^
-||vipdeit.com^
 ||vipticketgiveaway.com^
 ||visoedifica.com^
 ||volcomofficial.com^
@@ -874,6 +879,8 @@
 ||xajzfwgs.com^
 ||xn4iqv.succyarthyry.com^
 ||xunlei.it^
+||xvid.click-social-card.top^
+||xvid.social-previews.top^
 ||yahhhoo.com^
 ||yasir252.com^
 ||yeezysofficial.us.com^
@@ -892,6 +899,7 @@
 ||zat.io^
 ||zaz4o.securesolidlink.com^
 ||zedbubble.com^
+||zerdaliz.com^
 ||zerowasteinitiative.com^
 ||zillify.cfd^
 ||zolrqw.palatlaldate.com^

@@ -1617,6 +1617,9 @@
 0.0.0.0 castim.info
 0.0.0.0 www.castim.info
 0.0.0.0 store.castim.info
+0.0.0.0 casualdating1.com
+0.0.0.0 www.casualdating1.com
+0.0.0.0 store.casualdating1.com
 0.0.0.0 catalogodecoracao.leroymerlin.pt
 0.0.0.0 www.catalogodecoracao.leroymerlin.pt
 0.0.0.0 store.catalogodecoracao.leroymerlin.pt
@@ -3447,6 +3450,12 @@
 0.0.0.0 infinityto.com
 0.0.0.0 www.infinityto.com
 0.0.0.0 store.infinityto.com
+0.0.0.0 info-flirtme.com
+0.0.0.0 www.info-flirtme.com
+0.0.0.0 store.info-flirtme.com
+0.0.0.0 info-milfroom.com
+0.0.0.0 www.info-milfroom.com
+0.0.0.0 store.info-milfroom.com
 0.0.0.0 injustice.site
 0.0.0.0 www.injustice.site
 0.0.0.0 store.injustice.site
@@ -5493,6 +5502,9 @@
 0.0.0.0 oncloudrun.shop
 0.0.0.0 www.oncloudrun.shop
 0.0.0.0 store.oncloudrun.shop
+0.0.0.0 onenightchicko.com
+0.0.0.0 www.onenightchicko.com
+0.0.0.0 store.onenightchicko.com
 0.0.0.0 oneparttimejob.com
 0.0.0.0 www.oneparttimejob.com
 0.0.0.0 store.oneparttimejob.com
@@ -9909,6 +9921,9 @@
 0.0.0.0 singingfiles.com
 0.0.0.0 www.singingfiles.com
 0.0.0.0 store.singingfiles.com
+0.0.0.0 singleflirt.com
+0.0.0.0 www.singleflirt.com
+0.0.0.0 store.singleflirt.com
 0.0.0.0 skileki.com
 0.0.0.0 www.skileki.com
 0.0.0.0 store.skileki.com
@@ -11169,6 +11184,12 @@
 0.0.0.0 xunlei.it
 0.0.0.0 www.xunlei.it
 0.0.0.0 store.xunlei.it
+0.0.0.0 xvid.click-social-card.top
+0.0.0.0 www.xvid.click-social-card.top
+0.0.0.0 store.xvid.click-social-card.top
+0.0.0.0 xvid.social-previews.top
+0.0.0.0 www.xvid.social-previews.top
+0.0.0.0 store.xvid.social-previews.top
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
