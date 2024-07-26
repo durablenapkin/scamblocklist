@@ -10872,6 +10872,9 @@
 0.0.0.0 uprising.kip.pro
 0.0.0.0 www.uprising.kip.pro
 0.0.0.0 store.uprising.kip.pro
+0.0.0.0 upsbezorging.com
+0.0.0.0 www.upsbezorging.com
+0.0.0.0 store.upsbezorging.com
 0.0.0.0 upstrick.com
 0.0.0.0 www.upstrick.com
 0.0.0.0 store.upstrick.com
