@@ -18,6 +18,7 @@
 ||aadirone.cc^
 ||abncbp.com^
 ||account-cfe.mx^
+||adidasko.com^
 ||affordableforyouusa5.godaddysites.com^
 ||ahenana.com^
 ||akebicycle.com^
@@ -297,7 +298,6 @@
 ||free.nf^
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
-||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -355,6 +355,7 @@
 ||hookahheroes.com^
 ||hotbignews.com^
 ||hotdebrid.com^
+||hotmod.eu^
 ||hsuitehub.com^
 ||hugetrump.com^
 ||hushlove.com^
@@ -455,7 +456,6 @@
 ||maxearningcryp.com^
 ||mayor4london.com^
 ||mbtnorge.com^
-||mcsglobalcargo.com^
 ||meaningift.com^
 ||megoindonesia.com^
 ||meminjamsaya.com^
@@ -530,12 +530,10 @@
 ||navi66.com^
 ||navi66.ru^
 ||navi67.ru^
-||navi68.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
 ||navi74.com^
-||navi75.ru^
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
@@ -612,7 +610,6 @@
 ||ontario-energy.com^
 ||open-cbd.de^
 ||orderquilt.com^
-||origin.tnail.cc^
 ||ousd-vault.com^
 ||outdoorwintersports.com^
 ||outlet-alfresco.com^
@@ -729,7 +726,6 @@
 ||soreldiscount.com^
 ||souhoney.com^
 ||southernlife.net^
-||sportfirestore.com^
 ||sportsapparelmarket.com^
 ||sportsbrooks.com^
 ||sportswearfanatics.com^
