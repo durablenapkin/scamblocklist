@@ -11076,6 +11076,9 @@
 0.0.0.0 wealth.simpleonline-id.com
 0.0.0.0 www.wealth.simpleonline-id.com
 0.0.0.0 store.wealth.simpleonline-id.com
+0.0.0.0 wealthsimple.1online-id.com
+0.0.0.0 www.wealthsimple.1online-id.com
+0.0.0.0 store.wealthsimple.1online-id.com
 0.0.0.0 wealthsimple.login1-id.com
 0.0.0.0 www.wealthsimple.login1-id.com
 0.0.0.0 store.wealthsimple.login1-id.com
