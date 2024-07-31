@@ -40,6 +40,7 @@
 ||anywherepastry.top^
 ||app.jameswoof.com^
 ||app.uniwspapp.com^
+||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -104,7 +105,6 @@
 ||bknstore.com^
 ||blackabdo.company.site^
 ||blingyy.com^
-||bloomessentialsbrand.com^
 ||bloomingvibe.com^
 ||bncentertainment.com^
 ||bnidigital.com^
@@ -165,6 +165,9 @@
 ||coinreq.com^
 ||colorandcotton.com^
 ||com-id01251.info^
+||com-id129041.info^
+||com-id15421.info^
+||com-id16313.info^
 ||com-id1800853.com^
 ||com-id23901.info^
 ||com-id3212341.info^
@@ -481,6 +484,7 @@
 ||msmcompare.com^
 ||mujib-store28.blogspot.com^
 ||museuw.com^
+||musk-event.xyz^
 ||musk-project.com^
 ||muskusa.com^
 ||muthaafoundation.org^
@@ -521,7 +525,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -555,7 +558,6 @@
 ||newdompet.com^
 ||newincomingmessage.com^
 ||newlawngarden.com^
-||newoutdoorsale.com^
 ||nextmrolympia.com^
 ||ngreditinaja.top^
 ||nicelegant.com^
@@ -826,8 +828,6 @@
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
-||tx-rvref.me^
-||uange.shop^
 ||uangqu.online^
 ||ultimate-tech-products.myshopify.com^
 ||ultraboxlab.com^
@@ -846,7 +846,6 @@
 ||usplussports.com^
 ||ussportabout.com^
 ||ussportpioneer.com^
-||uu55111.com^
 ||valeofoodsgroup.com^
 ||vegamartz.com^
 ||veilcurtin.world^
