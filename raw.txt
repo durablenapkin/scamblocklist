@@ -5619,6 +5619,9 @@
 0.0.0.0 owlala.com
 0.0.0.0 www.owlala.com
 0.0.0.0 store.owlala.com
+0.0.0.0 own3d.tv
+0.0.0.0 www.own3d.tv
+0.0.0.0 store.own3d.tv
 0.0.0.0 p.arty2night.com
 0.0.0.0 www.p.arty2night.com
 0.0.0.0 store.p.arty2night.com
