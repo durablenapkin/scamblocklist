@@ -3348,9 +3348,6 @@
 0.0.0.0 hippie-pets.com
 0.0.0.0 www.hippie-pets.com
 0.0.0.0 store.hippie-pets.com
-0.0.0.0 hkdk.events
-0.0.0.0 www.hkdk.events
-0.0.0.0 store.hkdk.events
 0.0.0.0 hmccommerce.com
 0.0.0.0 www.hmccommerce.com
 0.0.0.0 store.hmccommerce.com
