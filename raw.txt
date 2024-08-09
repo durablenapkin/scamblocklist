@@ -144,6 +144,9 @@
 0.0.0.0 affordableforyouusa5.godaddysites.com
 0.0.0.0 www.affordableforyouusa5.godaddysites.com
 0.0.0.0 store.affordableforyouusa5.godaddysites.com
+0.0.0.0 afiletoget.click
+0.0.0.0 www.afiletoget.click
+0.0.0.0 store.afiletoget.click
 0.0.0.0 ahenana.com
 0.0.0.0 www.ahenana.com
 0.0.0.0 store.ahenana.com
@@ -2868,6 +2871,9 @@
 0.0.0.0 filedenzu.com
 0.0.0.0 www.filedenzu.com
 0.0.0.0 store.filedenzu.com
+0.0.0.0 filexstorage.site
+0.0.0.0 www.filexstorage.site
+0.0.0.0 store.filexstorage.site
 0.0.0.0 findglocal.com
 0.0.0.0 www.findglocal.com
 0.0.0.0 store.findglocal.com
@@ -3024,6 +3030,9 @@
 0.0.0.0 fundcash.id
 0.0.0.0 www.fundcash.id
 0.0.0.0 store.fundcash.id
+0.0.0.0 funfilenow.com
+0.0.0.0 www.funfilenow.com
+0.0.0.0 store.funfilenow.com
 0.0.0.0 furoshop.com
 0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
@@ -3573,6 +3582,9 @@
 0.0.0.0 joseph-holland.com
 0.0.0.0 www.joseph-holland.com
 0.0.0.0 store.joseph-holland.com
+0.0.0.0 jourl.live
+0.0.0.0 www.jourl.live
+0.0.0.0 store.jourl.live
 0.0.0.0 justbasicshop.com
 0.0.0.0 www.justbasicshop.com
 0.0.0.0 store.justbasicshop.com
@@ -7491,6 +7503,9 @@
 0.0.0.0 redchristmaswine.com
 0.0.0.0 www.redchristmaswine.com
 0.0.0.0 store.redchristmaswine.com
+0.0.0.0 redis08.sbs
+0.0.0.0 www.redis08.sbs
+0.0.0.0 store.redis08.sbs
 0.0.0.0 redwingshoes-usa.com
 0.0.0.0 www.redwingshoes-usa.com
 0.0.0.0 store.redwingshoes-usa.com
@@ -9963,6 +9978,9 @@
 0.0.0.0 sleepyfull.com
 0.0.0.0 www.sleepyfull.com
 0.0.0.0 store.sleepyfull.com
+0.0.0.0 sleetposition.website
+0.0.0.0 www.sleetposition.website
+0.0.0.0 store.sleetposition.website
 0.0.0.0 sligen.com
 0.0.0.0 www.sligen.com
 0.0.0.0 store.sligen.com
@@ -10014,6 +10032,9 @@
 0.0.0.0 software19797.blogspot.com
 0.0.0.0 www.software19797.blogspot.com
 0.0.0.0 store.software19797.blogspot.com
+0.0.0.0 softzspot.com
+0.0.0.0 www.softzspot.com
+0.0.0.0 store.softzspot.com
 0.0.0.0 soldtee.com
 0.0.0.0 www.soldtee.com
 0.0.0.0 store.soldtee.com
