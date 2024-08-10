@@ -2475,6 +2475,15 @@
 0.0.0.0 ezycases.com
 0.0.0.0 www.ezycases.com
 0.0.0.0 store.ezycases.com
+0.0.0.0 facebook-google-15oqyxwtkremqyujsm.vercel.app
+0.0.0.0 www.facebook-google-15oqyxwtkremqyujsm.vercel.app
+0.0.0.0 store.facebook-google-15oqyxwtkremqyujsm.vercel.app
+0.0.0.0 facebook-google-vptyyny63pwfipshmm.vercel.app
+0.0.0.0 www.facebook-google-vptyyny63pwfipshmm.vercel.app
+0.0.0.0 store.facebook-google-vptyyny63pwfipshmm.vercel.app
+0.0.0.0 facebook-google-ygggvmvciad74v9lhi.vercel.app
+0.0.0.0 www.facebook-google-ygggvmvciad74v9lhi.vercel.app
+0.0.0.0 store.facebook-google-ygggvmvciad74v9lhi.vercel.app
 0.0.0.0 facekac.com
 0.0.0.0 www.facekac.com
 0.0.0.0 store.facekac.com
