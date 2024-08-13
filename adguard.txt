@@ -529,6 +529,7 @@
 ||navi4.com^
 ||navi40.com^
 ||navi42.ru^
+||navi43.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -585,7 +586,6 @@
 ||nip84.com^
 ||nip89.com^
 ||nip9.com^
-||nip96.com^
 ||nirvezal.com^
 ||nldstore.com^
 ||nlepfpteg.com^
@@ -761,6 +761,7 @@
 ||store-swatch.com^
 ||store25848025.company.site^
 ||storeadid.com^
+||storeax.com^
 ||storecollegeonline.com^
 ||storedarkness.com^
 ||storeoregononline.com^
