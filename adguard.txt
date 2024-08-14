@@ -5,6 +5,7 @@
 ! License: MIT (https://mit-license.org/)
 
 ||1stireland.com^
+||1sttheglobal.com^
 ||1sttheworld.com^
 ||3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net^
 ||42gixk.98kk89.com^
@@ -41,7 +42,6 @@
 ||anywherepastry.top^
 ||app.jameswoof.com^
 ||app.uniwspapp.com^
-||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -137,6 +137,7 @@
 ||canjaume.com^
 ||caraci.it^
 ||cardadvantagecast.com^
+||cargotrustcourier.com^
 ||carsaratek.com^
 ||casha.xyz^
 ||casualdating1.com^
@@ -196,6 +197,7 @@
 ||dailygiftstore.com^
 ||danainstan.xyz^
 ||danapintar.club^
+||dancewithdream.com^
 ||danylevych.com^
 ||dash.pocketuniverse.app^
 ||dashracegear.net^
@@ -239,7 +241,6 @@
 ||ekommmedia.com^
 ||elitestrustonline.com^
 ||ellezz.com^
-||elon-bit.com^
 ||elonweb.org^
 ||emberio.com^
 ||en407etr.com^
@@ -504,7 +505,6 @@
 ||nationaladvancegroup.com^
 ||natistore.us^
 ||navi1.com^
-||navi10.com^
 ||navi100.com^
 ||navi12.com^
 ||navi18.com^
@@ -528,8 +528,8 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi43.ru^
+||navi44.com^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -636,6 +636,7 @@
 ||parisiporlin-ktki.kemkes.go.id^
 ||pateim.com^
 ||path2zillion.com^
+||pay.mvideo.id05196219.com^
 ||peppatees.com^
 ||perlatoshoe.com^
 ||personal84.com^
@@ -869,6 +870,8 @@
 ||visoedifica.com^
 ||volcomofficial.com^
 ||wadahlapak.top^
+||warm-gifts.com^
+||warriordecor.com^
 ||watchmark.shop^
 ||wavetshirt.com^
 ||werfew.com^
