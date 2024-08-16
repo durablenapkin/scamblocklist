@@ -3330,6 +3330,9 @@
 0.0.0.0 help.premium-x-notes.com
 0.0.0.0 www.help.premium-x-notes.com
 0.0.0.0 store.help.premium-x-notes.com
+0.0.0.0 help.record-x-center.com
+0.0.0.0 www.help.record-x-center.com
+0.0.0.0 store.help.record-x-center.com
 0.0.0.0 helpnanacenter.helpscoutdocs.com
 0.0.0.0 www.helpnanacenter.helpscoutdocs.com
 0.0.0.0 store.helpnanacenter.helpscoutdocs.com
@@ -7509,6 +7512,9 @@
 0.0.0.0 recade.info
 0.0.0.0 www.recade.info
 0.0.0.0 store.recade.info
+0.0.0.0 record-x-center.com
+0.0.0.0 www.record-x-center.com
+0.0.0.0 store.record-x-center.com
 0.0.0.0 redchristmaswine.com
 0.0.0.0 www.redchristmaswine.com
 0.0.0.0 store.redchristmaswine.com
