@@ -11067,6 +11067,9 @@
 0.0.0.0 vvebwizard.com
 0.0.0.0 www.vvebwizard.com
 0.0.0.0 store.vvebwizard.com
+0.0.0.0 w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app
+0.0.0.0 www.w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app
+0.0.0.0 store.w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app
 0.0.0.0 w6unwqusdqwuswqo.z13.web.core.windows.net
 0.0.0.0 www.w6unwqusdqwuswqo.z13.web.core.windows.net
 0.0.0.0 store.w6unwqusdqwuswqo.z13.web.core.windows.net
