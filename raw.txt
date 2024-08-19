@@ -378,6 +378,9 @@
 0.0.0.0 austrioclo.com
 0.0.0.0 www.austrioclo.com
 0.0.0.0 store.austrioclo.com
+0.0.0.0 auth.ggchallanger.world
+0.0.0.0 www.auth.ggchallanger.world
+0.0.0.0 store.auth.ggchallanger.world
 0.0.0.0 auth.login.dev.id601294105.date
 0.0.0.0 www.auth.login.dev.id601294105.date
 0.0.0.0 store.auth.login.dev.id601294105.date
@@ -1695,6 +1698,9 @@
 0.0.0.0 chipteeamz.com
 0.0.0.0 www.chipteeamz.com
 0.0.0.0 store.chipteeamz.com
+0.0.0.0 chromeweb-authenticators.com
+0.0.0.0 www.chromeweb-authenticators.com
+0.0.0.0 store.chromeweb-authenticators.com
 0.0.0.0 chsoop.robinhoodproz.com
 0.0.0.0 www.chsoop.robinhoodproz.com
 0.0.0.0 store.chsoop.robinhoodproz.com
