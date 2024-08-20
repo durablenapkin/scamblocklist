@@ -41,7 +41,6 @@
 ||anywherepastry.top^
 ||app.jameswoof.com^
 ||app.uniwspapp.com^
-||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -252,6 +251,7 @@
 ||eudoraz.com^
 ||evangeliostore.com^
 ||eviralstore.com^
+||exclusivebuyz4uu.shop^
 ||expertrader.me^
 ||expresscourier.delivery^
 ||expressmovers.com^
@@ -405,7 +405,6 @@
 ||jourl.live^
 ||karanpc.com^
 ||keltysale.com^
-||kewal.shop^
 ||kidsmama.online^
 ||kigurumi-usa.com^
 ||kingcampoutdoors.co.jp^
@@ -478,6 +477,7 @@
 ||metachartview.com^
 ||microgull.com^
 ||microngroup.pro^
+||microsoft-notifcation.com^
 ||midnightsociety-x.com^
 ||mila-vica.de^
 ||miles.plumenetwork.xyz^
@@ -530,7 +530,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi43.ru^
 ||navi45.ru^
 ||navi5.com^
@@ -565,6 +564,7 @@
 ||newincomingmessage.com^
 ||newlawngarden.com^
 ||newoutdoorsale.com^
+||next-cryptopod.xyz^
 ||nextmrolympia.com^
 ||ngreditinaja.top^
 ||nicelegant.com^
@@ -652,6 +652,7 @@
 ||pinjamanduit.lol^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
+||pinjamanrupiah.xyz^
 ||pinjamnow.my.id^
 ||pinjamteman.top^
 ||pinjamuang.top^
@@ -689,8 +690,8 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
-||rockchief.com^
 ||rosateeshop.com^
+||route2content.com^
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rozaholshouser.cfd^
