@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 5138
+# Domains: 5156
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -82,6 +82,8 @@
 0.0.0.0 app.uniwspapp.com
 0.0.0.0 www.app.uniwspapp.com
 0.0.0.0 store.app.uniwspapp.com
+0.0.0.0 apsehick.date
+0.0.0.0 www.apsehick.date
 0.0.0.0 arduino.uk.eu.org
 0.0.0.0 www.arduino.uk.eu.org
 0.0.0.0 army-shop.onshopbase.com
@@ -113,6 +115,7 @@
 0.0.0.0 www.aussiesportfashion.com
 0.0.0.0 austrioclo.com
 0.0.0.0 www.austrioclo.com
+0.0.0.0 auth.ggchallengemode.world
 0.0.0.0 avarik.web.app
 0.0.0.0 www.avarik.web.app
 0.0.0.0 store.avarik.web.app
@@ -269,6 +272,8 @@
 0.0.0.0 avito.avito.pay.com-id809702.com
 0.0.0.0 www.avito.avito.pay.com-id809702.com
 0.0.0.0 store.avito.avito.pay.com-id809702.com
+0.0.0.0 www.avito.avito.pay.com-id809712.com
+0.0.0.0 store.avito.avito.pay.com-id809712.com
 0.0.0.0 avito.avito.pay.www.booking.com-id20341.info
 0.0.0.0 www.avito.avito.pay.www.booking.com-id20341.info
 0.0.0.0 store.avito.avito.pay.www.booking.com-id20341.info
@@ -1090,6 +1095,7 @@
 0.0.0.0 www.faze60.com
 0.0.0.0 store.faze60.com
 0.0.0.0 faze66.com
+0.0.0.0 www.faze66.com
 0.0.0.0 store.faze66.com
 0.0.0.0 faze67.com
 0.0.0.0 www.faze67.com
@@ -1216,6 +1222,8 @@
 0.0.0.0 www.getkmspico.com
 0.0.0.0 getwavemax.com
 0.0.0.0 www.getwavemax.com
+0.0.0.0 ggchallengemode.world
+0.0.0.0 www.ggchallengemode.world
 0.0.0.0 giftyweb.com
 0.0.0.0 www.giftyweb.com
 0.0.0.0 gig-os.com
@@ -1479,6 +1487,7 @@
 0.0.0.0 lucchesedeal.store
 0.0.0.0 www.lucchesedeal.store
 0.0.0.0 store.lucchesedeal.store
+0.0.0.0 www.lucchesesale.shop
 0.0.0.0 lucidtiger.com
 0.0.0.0 www.lucidtiger.com
 0.0.0.0 store.lucidtiger.com
@@ -1495,6 +1504,8 @@
 0.0.0.0 maebl.com
 0.0.0.0 www.maebl.com
 0.0.0.0 store.maebl.com
+0.0.0.0 majucash.xyz
+0.0.0.0 www.majucash.xyz
 0.0.0.0 store.majucash.xyz
 0.0.0.0 mamapapaclothing.com
 0.0.0.0 www.mamapapaclothing.com
@@ -1514,6 +1525,7 @@
 0.0.0.0 www.megoindonesia.com
 0.0.0.0 meminjamsaya.com
 0.0.0.0 www.meminjamsaya.com
+0.0.0.0 store.meminjamsaya.com
 0.0.0.0 mercyzone.com
 0.0.0.0 metachartview.com
 0.0.0.0 www.metachartview.com
@@ -1581,6 +1593,9 @@
 0.0.0.0 nalzahqp.page.link
 0.0.0.0 www.nalzahqp.page.link
 0.0.0.0 store.nalzahqp.page.link
+0.0.0.0 nanistores.com
+0.0.0.0 www.nanistores.com
+0.0.0.0 store.nanistores.com
 0.0.0.0 natilove.com
 0.0.0.0 www.natilove.com
 0.0.0.0 store.natilove.com
@@ -1648,6 +1663,7 @@
 0.0.0.0 navi40.com
 0.0.0.0 www.navi40.com
 0.0.0.0 store.navi40.com
+0.0.0.0 navi42.ru
 0.0.0.0 navi43.ru
 0.0.0.0 www.navi43.ru
 0.0.0.0 store.navi43.ru
@@ -1726,7 +1742,6 @@
 0.0.0.0 www.newlawngarden.com
 0.0.0.0 newoutdoorsale.com
 0.0.0.0 www.newoutdoorsale.com
-0.0.0.0 store.next-cryptopod.xyz
 0.0.0.0 nextmrolympia.com
 0.0.0.0 www.nextmrolympia.com
 0.0.0.0 www.ngreditinaja.top
@@ -2751,7 +2766,6 @@
 0.0.0.0 www.pinjamanelit.top
 0.0.0.0 pinjamanplus.com
 0.0.0.0 www.pinjamanplus.com
-0.0.0.0 pinjamanrupiah.xyz
 0.0.0.0 www.pinjamnow.my.id
 0.0.0.0 pinjamteman.top
 0.0.0.0 www.pinjamteman.top
@@ -3375,6 +3389,7 @@
 0.0.0.0 sberbank.avito.avito.avito.booking.com-id809702.com
 0.0.0.0 www.sberbank.avito.avito.avito.booking.com-id809702.com
 0.0.0.0 store.sberbank.avito.avito.avito.booking.com-id809702.com
+0.0.0.0 sberbank.avito.avito.avito.booking.com-id809712.com
 0.0.0.0 sberbank.avito.avito.avito.booklng.com-id16313.info
 0.0.0.0 www.sberbank.avito.avito.avito.booklng.com-id16313.info
 0.0.0.0 store.sberbank.avito.avito.avito.booklng.com-id16313.info
@@ -3453,6 +3468,7 @@
 0.0.0.0 sberbank.avito.avito.booking.com-id3212341.info
 0.0.0.0 www.sberbank.avito.avito.booking.com-id3212341.info
 0.0.0.0 store.sberbank.avito.avito.booking.com-id3212341.info
+0.0.0.0 store.sberbank.avito.avito.booking.com-id809712.com
 0.0.0.0 sberbank.avito.avito.booking.com-id90123.info
 0.0.0.0 www.sberbank.avito.avito.booking.com-id90123.info
 0.0.0.0 store.sberbank.avito.avito.booking.com-id90123.info
@@ -3918,6 +3934,8 @@
 0.0.0.0 sberbank.pay.www.booking.com-id809702.com
 0.0.0.0 www.sberbank.pay.www.booking.com-id809702.com
 0.0.0.0 store.sberbank.pay.www.booking.com-id809702.com
+0.0.0.0 sberbank.pay.www.booking.com-id809712.com
+0.0.0.0 store.sberbank.pay.www.booking.com-id809712.com
 0.0.0.0 sberbank.pay.www.booklng.com-id129041.info
 0.0.0.0 www.sberbank.pay.www.booklng.com-id129041.info
 0.0.0.0 store.sberbank.pay.www.booklng.com-id129041.info
@@ -4230,6 +4248,7 @@
 0.0.0.0 www.tartannewzealand.myshopify.com
 0.0.0.0 store.tartannewzealand.myshopify.com
 0.0.0.0 tbao684tryo.com
+0.0.0.0 store.tbg-lmtd.xyz
 0.0.0.0 tdsintegrations11.online
 0.0.0.0 www.tdsintegrations11.online
 0.0.0.0 store.tdsintegrations11.online
@@ -4770,7 +4789,6 @@
 0.0.0.0 yandex.avito.pay.www.booking.com-id809702.com
 0.0.0.0 www.yandex.avito.pay.www.booking.com-id809702.com
 0.0.0.0 store.yandex.avito.pay.www.booking.com-id809702.com
-0.0.0.0 yandex.avito.sber.avito.booking.com-id809712.com
 0.0.0.0 yandex.avito.sber.avito.www.booking.com-id20341.info
 0.0.0.0 www.yandex.avito.sber.avito.www.booking.com-id20341.info
 0.0.0.0 store.yandex.avito.sber.avito.www.booking.com-id20341.info
