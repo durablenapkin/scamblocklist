@@ -11157,6 +11157,9 @@
 0.0.0.0 wealth.simple-auth1.com
 0.0.0.0 www.wealth.simple-auth1.com
 0.0.0.0 store.wealth.simple-auth1.com
+0.0.0.0 wealth.simpleid2.com
+0.0.0.0 www.wealth.simpleid2.com
+0.0.0.0 store.wealth.simpleid2.com
 0.0.0.0 wealth.simpleonline-id.com
 0.0.0.0 www.wealth.simpleonline-id.com
 0.0.0.0 store.wealth.simpleonline-id.com

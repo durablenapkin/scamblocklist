@@ -40,10 +40,8 @@
 ||animeshoppers.com^
 ||anydebrid.com^
 ||anywherepastry.top^
-||aoocib.com^
 ||app.jameswoof.com^
 ||app.uniwspapp.com^
-||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -317,7 +315,6 @@
 ||free.nf^
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
-||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -387,6 +384,7 @@
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
 ||iklrge.com^
+||ikoee.com^
 ||ilpollenza-sorso23.it^
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
@@ -401,7 +399,6 @@
 ||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
-||jaimerico.net^
 ||jellystores.com^
 ||jfremovals.com^
 ||jne-express.my.id^
@@ -466,7 +463,6 @@
 ||lucidtiger.com^
 ||lumustore.top^
 ||lunapresent.com^
-||luxsgear.com^
 ||madeinusas.com^
 ||maebl.com^
 ||mail-cytanet.pages.dev^
@@ -585,7 +581,6 @@
 ||nip28.com^
 ||nip3.com^
 ||nip4.com^
-||nip41.com^
 ||nip44.com^
 ||nip5.com^
 ||nip57.com^
@@ -806,6 +801,7 @@
 ||telemarktalk.com^
 ||tesla-online.net^
 ||teslafond.io^
+||thecustomee.com^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
 ||thehappywood.com^
@@ -876,8 +872,8 @@
 ||volcomofficial.com^
 ||w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app^
 ||wadahlapak.top^
-||walmartchina.top^
 ||wavetshirt.com^
+||wealth.simpleid2.com^
 ||werfew.com^
 ||westernhats.net^
 ||wezpod.com^
@@ -887,9 +883,9 @@
 ||wintexfashions.com^
 ||wisdomganga.com^
 ||woadoodles.com^
+||wowviral.net^
 ||wpclick.cc^
 ||ww25.utilify.me^
-||x-accountrecovery.com^
 ||xajzfwgs.com^
 ||xn4iqv.succyarthyry.com^
 ||xunlei.it^
