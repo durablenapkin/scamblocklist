@@ -195,6 +195,7 @@
 ||czwcvfbc.page.link^
 ||daftar-binomo.website^
 ||dailygiftstore.com^
+||danaaman.xyz^
 ||danainstan.xyz^
 ||danapintar.club^
 ||danylevych.com^
@@ -284,7 +285,6 @@
 ||faze40.com^
 ||faze47.com^
 ||faze5.com^
-||faze50.com^
 ||faze60.com^
 ||faze66.com^
 ||faze67.com^
@@ -325,7 +325,6 @@
 ||fundcash.id^
 ||funfilenow.com^
 ||furykms.com^
-||gamingbuffs.com^
 ||gamingtoolz.club^
 ||gcqcanada.com^
 ||gearanime.com^
@@ -546,6 +545,9 @@
 ||navi66.ru^
 ||navi67.ru^
 ||navi7.com^
+||navi7.ru^
+||navi70.ru^
+||navi71.ru^
 ||navi72.com^
 ||navi72.ru^
 ||navi74.com^
@@ -586,8 +588,6 @@
 ||nip57.com^
 ||nip69.com^
 ||nip8.com^
-||nip84.com^
-||nip89.com^
 ||nip9.com^
 ||nirvezal.com^
 ||nldstore.com^
@@ -704,6 +704,7 @@
 ||saleussports.com^
 ||salimusic.com^
 ||saveeeee.myshopify.com^
+||sberbank.avito.avito.blablacar.id05196219.com^
 ||scribdbook.top^
 ||seasonsofficial.com^
 ||secure.staging.demo.www1.transaction-processing.one^
@@ -883,7 +884,6 @@
 ||wintexfashions.com^
 ||wisdomganga.com^
 ||woadoodles.com^
-||wowviral.net^
 ||wpclick.cc^
 ||ww25.utilify.me^
 ||xajzfwgs.com^
