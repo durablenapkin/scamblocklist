@@ -2406,6 +2406,9 @@
 0.0.0.0 elonx2tesla.com
 0.0.0.0 www.elonx2tesla.com
 0.0.0.0 store.elonx2tesla.com
+0.0.0.0 eltacosu.lol
+0.0.0.0 www.eltacosu.lol
+0.0.0.0 store.eltacosu.lol
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 store.emberio.com
@@ -5694,6 +5697,9 @@
 0.0.0.0 padsims.com
 0.0.0.0 www.padsims.com
 0.0.0.0 store.padsims.com
+0.0.0.0 pages.tempisite.com
+0.0.0.0 www.pages.tempisite.com
+0.0.0.0 store.pages.tempisite.com
 0.0.0.0 paintitblackfurniture.com
 0.0.0.0 www.paintitblackfurniture.com
 0.0.0.0 store.paintitblackfurniture.com
