@@ -3897,6 +3897,9 @@
 0.0.0.0 link-etsy.com
 0.0.0.0 www.link-etsy.com
 0.0.0.0 store.link-etsy.com
+0.0.0.0 link.kemkes.go.id
+0.0.0.0 www.link.kemkes.go.id
+0.0.0.0 store.link.kemkes.go.id
 0.0.0.0 linkshe.com
 0.0.0.0 www.linkshe.com
 0.0.0.0 store.linkshe.com
@@ -10344,6 +10347,9 @@
 0.0.0.0 sunleaftravel.com
 0.0.0.0 www.sunleaftravel.com
 0.0.0.0 store.sunleaftravel.com
+0.0.0.0 sunpass-etoll-id.kupu.desa.id
+0.0.0.0 www.sunpass-etoll-id.kupu.desa.id
+0.0.0.0 store.sunpass-etoll-id.kupu.desa.id
 0.0.0.0 sunsetstore.net
 0.0.0.0 www.sunsetstore.net
 0.0.0.0 store.sunsetstore.net
