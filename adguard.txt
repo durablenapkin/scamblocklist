@@ -115,7 +115,6 @@
 ||bonrbox.com^
 ||booking.transaction-processing.one^
 ||booliving.com^
-||bossaving.com^
 ||botsuanah.com^
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
@@ -205,6 +204,7 @@
 ||dataid-subsidies.click^
 ||datempire.com^
 ||dautee.com^
+||dbkdsale.com^
 ||dbmobile-phototan.de^
 ||dcsnowboard.com^
 ||ddcad3.reviewgiftfb.com^
@@ -468,7 +468,6 @@
 ||luxsgear.com^
 ||madeinusas.com^
 ||maebl.com^
-||magnite.shop^
 ||mail-cytanet.pages.dev^
 ||majucash.xyz^
 ||mamapapaclothing.com^
@@ -525,7 +524,6 @@
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
-||navi27.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
@@ -537,6 +535,7 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi43.ru^
 ||navi45.ru^
 ||navi5.com^
@@ -566,6 +565,7 @@
 ||netcotto.com^
 ||netfucks1.com^
 ||new.bestageoffers22.com^
+||newdompet.com^
 ||newfootwearshop.com^
 ||newincomingmessage.com^
 ||newlawngarden.com^
@@ -808,7 +808,6 @@
 ||telemarktalk.com^
 ||tesla-online.net^
 ||teslafond.io^
-||thecustomee.com^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
 ||thehappywood.com^
@@ -879,7 +878,6 @@
 ||volcomofficial.com^
 ||w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app^
 ||wadahlapak.top^
-||warriordecor.com^
 ||wavetshirt.com^
 ||werfew.com^
 ||westernhats.net^
