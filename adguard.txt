@@ -42,6 +42,7 @@
 ||anywherepastry.top^
 ||app.jameswoof.com^
 ||app.uniwspapp.com^
+||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -61,7 +62,6 @@
 ||azvclothing.com^
 ||babybeddingdesign.com^
 ||bagsdeuter.com^
-||bakeryxswap.org^
 ||balkeryswep.online^
 ||baltic-pipe-finansowy.blogspot.com^
 ||baltic79.wordpress.com^
@@ -89,7 +89,6 @@
 ||binomo1.com^
 ||binomo2.zendesk.com^
 ||binomo2022.net^
-||binomogoo.com^
 ||binomoidr.com^
 ||binomoindonesia.com^
 ||binomorupiah-id.com^
@@ -209,6 +208,8 @@
 ||dcsnowboard.com^
 ||ddcad3.reviewgiftfb.com^
 ||ddzk513bd.com^
+||deadlockbeta.com^
+||deadlockplay.com^
 ||decoryourhome.store^
 ||deergift.com^
 ||defcon7.com.br^
@@ -222,7 +223,6 @@
 ||discounthoneywell.com^
 ||dkfodboldstore.com^
 ||dleggere.com^
-||dogecoinevents.org^
 ||dogparadiseshop.com^
 ||dogparadisestore.com^
 ||dolomiteoutlet.com^
@@ -348,7 +348,6 @@
 ||govmedcareers.com^
 ||gowarehouse.net^
 ||goyourheart.com^
-||graciaszone.com^
 ||gratis-eltern-produkttests.com^
 ||gsport.com^
 ||gunstee.com^
@@ -528,8 +527,8 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi43.ru^
-||navi44.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -540,6 +539,7 @@
 ||navi59.ru^
 ||navi6.com^
 ||navi61.com^
+||navi63.ru^
 ||navi66.ru^
 ||navi67.ru^
 ||navi7.com^
@@ -551,7 +551,6 @@
 ||navi8.com^
 ||navi86.ru^
 ||navi88.com^
-||navi91.ru^
 ||navi94.com^
 ||navi99.com^
 ||nbdiscount.com^
@@ -753,6 +752,8 @@
 ||staging.zendrop.com^
 ||startjacket.com^
 ||startuplatte.com^
+||steamcommnunjity.com^
+||steamcommunijtly.com^
 ||steamgateways.com^
 ||steamunlock.com^
 ||stellara.de^
@@ -794,7 +795,6 @@
 ||tecappcloud.com^
 ||tee24h.com^
 ||teearrow.com^
-||teefoody.com^
 ||teemax.store^
 ||teenimo.com^
 ||teevpower.com^
@@ -841,12 +841,12 @@
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
+||uangmudahapp.com^
 ||uangqu.online^
 ||ultimate-tech-products.myshopify.com^
 ||ultraboxlab.com^
 ||ultrasonica.info^
 ||unifully.com^
-||uniqueshirt.shop^
 ||universityofqatarrectorate.godaddysites.com^
 ||unkinerecle.com^
 ||uplevelreward.com^
@@ -904,7 +904,6 @@
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
-||yyderfreap.shop^
 ||z-lib.is^
 ||zat.io^
 ||zaz4o.securesolidlink.com^
