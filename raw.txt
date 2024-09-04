@@ -10257,6 +10257,9 @@
 0.0.0.0 steammcommunuty.ru
 0.0.0.0 www.steammcommunuty.ru
 0.0.0.0 store.steammcommunuty.ru
+0.0.0.0 steampowered.cn.com
+0.0.0.0 www.steampowered.cn.com
+0.0.0.0 store.steampowered.cn.com
 0.0.0.0 steamunlock.com
 0.0.0.0 www.steamunlock.com
 0.0.0.0 store.steamunlock.com
