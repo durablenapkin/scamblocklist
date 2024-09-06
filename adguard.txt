@@ -43,7 +43,6 @@
 ||anywherepastry.top^
 ||app.jameswoof.com^
 ||app.uniwspapp.com^
-||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -73,6 +72,7 @@
 ||beautysolution24.com^
 ||beecrave.com^
 ||benecharm.com^
+||betadeadlock.com^
 ||bigappboi.com^
 ||bikehotsale.com^
 ||binggrondahlshop.com^
@@ -128,7 +128,6 @@
 ||buylikes.se^
 ||buyyeezy2023.com^
 ||buzzazone.com^
-||buzzdeal.com^
 ||by-emmamuller.de^
 ||c.dreamdating1.fun^
 ||c0nt4ct-me.pages.dev^
@@ -183,6 +182,7 @@
 ||corg.co^
 ||couponxoo.com^
 ||courier-tracking.com^
+||crackedpc.org^
 ||cracksway.com^
 ||crocssalenz.com^
 ||crypto022.online^
@@ -313,6 +313,7 @@
 ||free.nf^
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
+||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -321,7 +322,6 @@
 ||fulfillgift.com^
 ||fundanemt.org^
 ||fundcash.id^
-||funfilenow.com^
 ||furykms.com^
 ||gamingbuffs.com^
 ||gamingtoolz.club^
@@ -557,6 +557,7 @@
 ||navi86.ru^
 ||navi88.com^
 ||navi94.com^
+||navi98.ru^
 ||navi99.com^
 ||nbdiscount.com^
 ||neozor.com^

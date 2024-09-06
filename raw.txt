@@ -1185,6 +1185,9 @@
 0.0.0.0 bestmoonshop.com
 0.0.0.0 www.bestmoonshop.com
 0.0.0.0 store.bestmoonshop.com
+0.0.0.0 betadeadlock.com
+0.0.0.0 www.betadeadlock.com
+0.0.0.0 store.betadeadlock.com
 0.0.0.0 bigappboi.com
 0.0.0.0 www.bigappboi.com
 0.0.0.0 store.bigappboi.com
