@@ -11055,6 +11055,9 @@
 0.0.0.0 ussportpioneer.com
 0.0.0.0 www.ussportpioneer.com
 0.0.0.0 store.ussportpioneer.com
+0.0.0.0 uszjj.fyjkxzq.shop
+0.0.0.0 www.uszjj.fyjkxzq.shop
+0.0.0.0 store.uszjj.fyjkxzq.shop
 0.0.0.0 uu55111.com
 0.0.0.0 www.uu55111.com
 0.0.0.0 store.uu55111.com
