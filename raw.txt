@@ -2022,6 +2022,9 @@
 0.0.0.0 cryptot.net
 0.0.0.0 www.cryptot.net
 0.0.0.0 store.cryptot.net
+0.0.0.0 csbestplayers.com
+0.0.0.0 www.csbestplayers.com
+0.0.0.0 store.csbestplayers.com
 0.0.0.0 csbo.shop
 0.0.0.0 www.csbo.shop
 0.0.0.0 store.csbo.shop
@@ -2493,6 +2496,9 @@
 0.0.0.0 exelsures.com
 0.0.0.0 www.exelsures.com
 0.0.0.0 store.exelsures.com
+0.0.0.0 expert.lunarbattle.pro
+0.0.0.0 www.expert.lunarbattle.pro
+0.0.0.0 store.expert.lunarbattle.pro
 0.0.0.0 expertrader.me
 0.0.0.0 www.expertrader.me
 0.0.0.0 store.expertrader.me
@@ -4194,6 +4200,9 @@
 0.0.0.0 midnightsociety-x.com
 0.0.0.0 www.midnightsociety-x.com
 0.0.0.0 store.midnightsociety-x.com
+0.0.0.0 midway-canada.midwayauth.pro
+0.0.0.0 www.midway-canada.midwayauth.pro
+0.0.0.0 store.midway-canada.midwayauth.pro
 0.0.0.0 mila-vica.de
 0.0.0.0 www.mila-vica.de
 0.0.0.0 store.mila-vica.de
