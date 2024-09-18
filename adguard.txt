@@ -46,7 +46,6 @@
 ||anywherepastry.top^
 ||app.jameswoof.com^
 ||app.uniwspapp.com^
-||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -183,6 +182,7 @@
 ||corg.co^
 ||couponxoo.com^
 ||courier-tracking.com^
+||crackedpc.org^
 ||cracksway.com^
 ||crocssalenz.com^
 ||crypto022.online^
@@ -256,7 +256,6 @@
 ||ercnnier.com^
 ||esl-gaming.com^
 ||eudoraz.com^
-||evangeliostore.com^
 ||eviralstore.com^
 ||exclusivebuyz4uu.shop^
 ||expertrader.me^
@@ -290,7 +289,6 @@
 ||faze5.com^
 ||faze71.com^
 ||faze9.com^
-||faze94.com^
 ||fazpowerdenet.tumblr.com^
 ||fdrc-gov.org^
 ||felara.com.do^
@@ -535,7 +533,6 @@
 ||navi5.com^
 ||navi50.com^
 ||navi53.com^
-||navi53.ru^
 ||navi54.com^
 ||navi56.com^
 ||navi58.com^
@@ -552,6 +549,7 @@
 ||navi8.com^
 ||navi86.ru^
 ||navi88.com^
+||navi95.ru^
 ||navi99.com^
 ||nbdiscount.com^
 ||neozor.com^
@@ -581,6 +579,7 @@
 ||nip44.com^
 ||nip5.com^
 ||nip57.com^
+||nip58.com^
 ||nip69.com^
 ||nip8.com^
 ||nip89.com^
@@ -799,6 +798,7 @@
 ||teezill.com^
 ||telemarktalk.com^
 ||tesla-online.net^
+||tesla4eth.net^
 ||teslafond.io^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
