@@ -46,6 +46,7 @@
 ||anywherepastry.top^
 ||app.jameswoof.com^
 ||app.uniwspapp.com^
+||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -157,6 +158,7 @@
 ||cityofdream.co.uk^
 ||clearance-bike.com^
 ||clemoa.com^
+||cloverszone.com^
 ||cluckergifts.ecwid.com^
 ||cma88.vip^
 ||cmoboy.com^
@@ -211,7 +213,6 @@
 ||dcsnowboard.com^
 ||ddcad3.reviewgiftfb.com^
 ||ddzk513bd.com^
-||deadlockbeta.com^
 ||deadlockplay.com^
 ||decompraschile.com^
 ||decoryourhome.store^
@@ -242,6 +243,7 @@
 ||easynatures.com^
 ||easypayment.me^
 ||easyshopper.org^
+||ebuy8.shop^
 ||ecs-online.ffm.to^
 ||ed0.it^
 ||ekommmedia.com^
@@ -344,7 +346,6 @@
 ||gossvibe.com^
 ||gotoperfection.com^
 ||govmedcareers.com^
-||gowarehouse.net^
 ||goyourheart.com^
 ||gratis-eltern-produkttests.com^
 ||gsport.com^
@@ -372,7 +373,6 @@
 ||husqvarnaoutlet.shop^
 ||hyndtren25.pages.dev^
 ||i-grade.online^
-||i.fundatingquest.fun^
 ||iaqorwr.com^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
@@ -476,7 +476,6 @@
 ||microngroup.pro^
 ||microsoft-notifcation.com^
 ||midnightsociety-x.com^
-||midway-canada.midwayauth.pro^
 ||mila-vica.de^
 ||miles.plumenetwork.xyz^
 ||milgenial.uy^
@@ -536,11 +535,11 @@
 ||navi54.com^
 ||navi56.com^
 ||navi58.com^
+||navi58.ru^
 ||navi59.ru^
 ||navi6.com^
 ||navi65.com^
 ||navi66.ru^
-||navi67.ru^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -549,7 +548,6 @@
 ||navi8.com^
 ||navi86.ru^
 ||navi88.com^
-||navi95.ru^
 ||navi99.com^
 ||nbdiscount.com^
 ||neozor.com^
@@ -579,7 +577,6 @@
 ||nip44.com^
 ||nip5.com^
 ||nip57.com^
-||nip58.com^
 ||nip69.com^
 ||nip8.com^
 ||nip89.com^
@@ -728,7 +725,6 @@
 ||singingfiles.com^
 ||singleflirt.com^
 ||skincheap.com^
-||skinszone.net^
 ||sleetposition.website^
 ||sligen.com^
 ||smartokids.com^
@@ -798,7 +794,6 @@
 ||teezill.com^
 ||telemarktalk.com^
 ||tesla-online.net^
-||tesla4eth.net^
 ||teslafond.io^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
@@ -862,7 +857,6 @@
 ||veilcurtin.world^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
-||vikingstore.co^
 ||vinisay.com^
 ||vip-yuki-shop.com^
 ||vipticketgiveaway.com^
@@ -899,6 +893,7 @@
 ||yoli.my.id^
 ||youdebrid.com^
 ||yoursecrethookup.com^
+||youtubebplan.com^
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
