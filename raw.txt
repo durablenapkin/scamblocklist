@@ -3015,6 +3015,9 @@
 0.0.0.0 free.nf
 0.0.0.0 www.free.nf
 0.0.0.0 store.free.nf
+0.0.0.0 freebitcoin.pages.dev
+0.0.0.0 www.freebitcoin.pages.dev
+0.0.0.0 store.freebitcoin.pages.dev
 0.0.0.0 freedom-5g.com
 0.0.0.0 www.freedom-5g.com
 0.0.0.0 store.freedom-5g.com
@@ -5553,6 +5556,9 @@
 0.0.0.0 official.olymptrade-my.com
 0.0.0.0 www.official.olymptrade-my.com
 0.0.0.0 store.official.olymptrade-my.com
+0.0.0.0 officialconbase.schtwalter.xyz
+0.0.0.0 www.officialconbase.schtwalter.xyz
+0.0.0.0 store.officialconbase.schtwalter.xyz
 0.0.0.0 officialkmspico.com
 0.0.0.0 www.officialkmspico.com
 0.0.0.0 store.officialkmspico.com
