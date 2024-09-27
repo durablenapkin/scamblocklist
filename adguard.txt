@@ -46,7 +46,6 @@
 ||anywherepastry.top^
 ||app.jameswoof.com^
 ||app.uniwspapp.com^
-||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -154,7 +153,6 @@
 ||cipustar.com^
 ||cition.info^
 ||cityofdream.co.uk^
-||ckkebt.shop^
 ||clearance-bike.com^
 ||clemoa.com^
 ||cluckergifts.ecwid.com^
@@ -282,7 +280,6 @@
 ||faze40.com^
 ||faze47.com^
 ||faze5.com^
-||faze71.com^
 ||faze9.com^
 ||fazpowerdenet.tumblr.com^
 ||fdrc-gov.org^
@@ -404,6 +401,7 @@
 ||kisserine.com^
 ||kitchendecor.shop^
 ||kleankanteenbottle.com^
+||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -439,7 +437,6 @@
 ||linostee.com^
 ||lisabuddy.com^
 ||litcomplex.com^
-||livecato.com^
 ||lojaacasa.com.br^
 ||look-like-star.myshopify.com^
 ||lootcrate.com^
@@ -515,7 +512,6 @@
 ||navi30.ru^
 ||navi32.com^
 ||navi33.com^
-||navi33.ru^
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
@@ -663,6 +659,7 @@
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||pump.fun^
 ||queenscattery.com^
+||quitasueno.com^
 ||quotex.com.in^
 ||radiatorcrate.com^
 ||re-captha-version-3-277.buzz^
@@ -684,7 +681,6 @@
 ||rsaonlinenow.com.au^
 ||ruecksendungen-gratis.com^
 ||rupiahsaku.com^
-||s3-poshmark.id829.com^
 ||sakuradate.com^
 ||salealfresco.com^
 ||saleplaymobil.com^
