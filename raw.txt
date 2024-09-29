@@ -1947,6 +1947,9 @@
 0.0.0.0 costcotee.com
 0.0.0.0 www.costcotee.com
 0.0.0.0 store.costcotee.com
+0.0.0.0 costssco.com
+0.0.0.0 www.costssco.com
+0.0.0.0 store.costssco.com
 0.0.0.0 couponxoo.com
 0.0.0.0 www.couponxoo.com
 0.0.0.0 store.couponxoo.com

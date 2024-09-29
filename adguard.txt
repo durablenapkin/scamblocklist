@@ -113,7 +113,6 @@
 ||bolejug.us^
 ||bombardina.pl^
 ||bonrbox.com^
-||booking.id05196219.com^
 ||booliving.com^
 ||botsuanah.com^
 ||boutiqueondemand.com^
@@ -178,6 +177,7 @@
 ||coolest3d.com^
 ||coolestpod.com^
 ||corg.co^
+||costssco.com^
 ||couponxoo.com^
 ||courier-tracking.com^
 ||crackedpc.org^
@@ -268,7 +268,6 @@
 ||familyshark.com^
 ||familystore.com^
 ||fancycentral.com^
-||fapst.com^
 ||fashionadid.com^
 ||fashionshawaii.com^
 ||favoritehardware.com^
@@ -303,6 +302,7 @@
 ||freebitcoin.pages.dev^
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
+||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -439,7 +439,6 @@
 ||linostee.com^
 ||lisabuddy.com^
 ||litcomplex.com^
-||load.365analytics.xyz^
 ||lojaacasa.com.br^
 ||look-like-star.myshopify.com^
 ||lootcrate.com^
@@ -522,6 +521,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi4.ru^
 ||navi40.com^
 ||navi42.ru^
 ||navi45.ru^
@@ -535,7 +535,6 @@
 ||navi6.com^
 ||navi65.com^
 ||navi66.ru^
-||navi69.ru^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -544,6 +543,7 @@
 ||navi8.com^
 ||navi86.ru^
 ||navi88.com^
+||navi96.ru^
 ||navi99.com^
 ||nbdiscount.com^
 ||neozor.com^
@@ -639,6 +639,7 @@
 ||pinjamanduit.lol^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
+||pinjamanrupiah.xyz^
 ||pinjamnow.my.id^
 ||pinjamteman.top^
 ||pinjamuang.top^
@@ -663,6 +664,7 @@
 ||prorify.de^
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||pump.fun^
+||punyauang.xyz^
 ||queenscattery.com^
 ||quitasueno.com^
 ||quotex.com.in^
@@ -814,7 +816,6 @@
 ||toko999.net^
 ||toko999.shop^
 ||tomadamsenergy.com^
-||townaptdesk.info^
 ||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
