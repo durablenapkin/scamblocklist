@@ -10683,6 +10683,9 @@
 0.0.0.0 teslax2claim.org
 0.0.0.0 www.teslax2claim.org
 0.0.0.0 store.teslax2claim.org
+0.0.0.0 the-north-face.gr
+0.0.0.0 www.the-north-face.gr
+0.0.0.0 store.the-north-face.gr
 0.0.0.0 thecabinas.com
 0.0.0.0 www.thecabinas.com
 0.0.0.0 store.thecabinas.com
@@ -10728,6 +10731,9 @@
 0.0.0.0 theniemannbest.com
 0.0.0.0 www.theniemannbest.com
 0.0.0.0 store.theniemannbest.com
+0.0.0.0 thenorthfacegreece.com
+0.0.0.0 www.thenorthfacegreece.com
+0.0.0.0 store.thenorthfacegreece.com
 0.0.0.0 theoceanest.com
 0.0.0.0 www.theoceanest.com
 0.0.0.0 store.theoceanest.com

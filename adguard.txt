@@ -222,6 +222,7 @@
 ||discounthoneywell.com^
 ||dkfodboldstore.com^
 ||dleggere.com^
+||dogecoinevents.org^
 ||dogparadiseshop.com^
 ||dogparadisestore.com^
 ||dolomiteoutlet.com^
@@ -237,6 +238,7 @@
 ||easynatures.com^
 ||easypayment.me^
 ||easyshopper.org^
+||easyshoppingus.com^
 ||ecs-online.ffm.to^
 ||ed0.it^
 ||ekommmedia.com^
@@ -379,7 +381,6 @@
 ||info-flirtme.com^
 ||info-milfroom.com^
 ||injustice.site^
-||innewstyle.com^
 ||innomediacreate.com^
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
@@ -403,6 +404,7 @@
 ||kisserine.com^
 ||kitchendecor.shop^
 ||kleankanteenbottle.com^
+||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -439,6 +441,7 @@
 ||linostee.com^
 ||lisabuddy.com^
 ||litcomplex.com^
+||livecato.com^
 ||lojaacasa.com.br^
 ||look-like-star.myshopify.com^
 ||lootcrate.com^
@@ -521,7 +524,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi4.ru^
 ||navi40.com^
 ||navi42.ru^
 ||navi45.ru^
@@ -543,7 +545,6 @@
 ||navi8.com^
 ||navi86.ru^
 ||navi88.com^
-||navi96.ru^
 ||navi99.com^
 ||nbdiscount.com^
 ||neozor.com^
@@ -639,7 +640,6 @@
 ||pinjamanduit.lol^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
-||pinjamanrupiah.xyz^
 ||pinjamnow.my.id^
 ||pinjamteman.top^
 ||pinjamuang.top^
@@ -664,7 +664,6 @@
 ||prorify.de^
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||pump.fun^
-||punyauang.xyz^
 ||queenscattery.com^
 ||quitasueno.com^
 ||quotex.com.in^
@@ -791,6 +790,7 @@
 ||telemarktalk.com^
 ||tesla-online.net^
 ||teslafond.io^
+||the-north-face.gr^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
 ||thehappywood.com^
@@ -799,6 +799,7 @@
 ||themountainus.com^
 ||theneurobalancetherapy.org^
 ||theniemannbest.com^
+||thenorthfacegreece.com^
 ||theonepercentcommunity.com^
 ||theoutdoorsgear.com^
 ||theshiny.store^
@@ -839,7 +840,6 @@
 ||uplevelreward.com^
 ||uprising.kip.pro^
 ||upsbezorging.com^
-||upstrick.com^
 ||ureashi.com^
 ||usakidsclothes.com^
 ||usasport247.com^
@@ -874,6 +874,7 @@
 ||wpclick.cc^
 ||ww25.utilify.me^
 ||x2-promo.net^
+||xajzfwgs.com^
 ||xn4iqv.succyarthyry.com^
 ||xunlei.it^
 ||xvid.click-social-card.top^
