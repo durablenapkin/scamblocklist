@@ -7701,6 +7701,9 @@
 0.0.0.0 royalkingsmail.co.uk
 0.0.0.0 www.royalkingsmail.co.uk
 0.0.0.0 store.royalkingsmail.co.uk
+0.0.0.0 royalmail.id-package-status.com
+0.0.0.0 www.royalmail.id-package-status.com
+0.0.0.0 store.royalmail.id-package-status.com
 0.0.0.0 rozaholshouser.cfd
 0.0.0.0 www.rozaholshouser.cfd
 0.0.0.0 store.rozaholshouser.cfd
