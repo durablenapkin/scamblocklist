@@ -3828,6 +3828,9 @@
 0.0.0.0 lasercutjewelry.net
 0.0.0.0 www.lasercutjewelry.net
 0.0.0.0 store.lasercutjewelry.net
+0.0.0.0 last-blink.com
+0.0.0.0 www.last-blink.com
+0.0.0.0 store.last-blink.com
 0.0.0.0 ledger-liveweb3app.com
 0.0.0.0 www.ledger-liveweb3app.com
 0.0.0.0 store.ledger-liveweb3app.com
@@ -11271,6 +11274,9 @@
 0.0.0.0 whm.drivetime.com
 0.0.0.0 www.whm.drivetime.com
 0.0.0.0 store.whm.drivetime.com
+0.0.0.0 whyareyouherewho.ru
+0.0.0.0 www.whyareyouherewho.ru
+0.0.0.0 store.whyareyouherewho.ru
 0.0.0.0 wichky.info
 0.0.0.0 www.wichky.info
 0.0.0.0 store.wichky.info
