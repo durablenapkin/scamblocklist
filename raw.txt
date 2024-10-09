@@ -162,6 +162,9 @@
 0.0.0.0 aichatgptforpc.com
 0.0.0.0 www.aichatgptforpc.com
 0.0.0.0 store.aichatgptforpc.com
+0.0.0.0 ailurophilestealer.shop
+0.0.0.0 www.ailurophilestealer.shop
+0.0.0.0 store.ailurophilestealer.shop
 0.0.0.0 aircgd.shop
 0.0.0.0 www.aircgd.shop
 0.0.0.0 store.aircgd.shop
@@ -396,6 +399,9 @@
 0.0.0.0 avarik.web.app
 0.0.0.0 www.avarik.web.app
 0.0.0.0 store.avarik.web.app
+0.0.0.0 avatrade-services.com
+0.0.0.0 www.avatrade-services.com
+0.0.0.0 store.avatrade-services.com
 0.0.0.0 avito.avito.avito.avito.avito.avito.booking.com-id90123.info
 0.0.0.0 www.avito.avito.avito.avito.avito.avito.booking.com-id90123.info
 0.0.0.0 store.avito.avito.avito.avito.avito.avito.booking.com-id90123.info
@@ -1113,6 +1119,9 @@
 0.0.0.0 bankruptcymelodious.cn
 0.0.0.0 www.bankruptcymelodious.cn
 0.0.0.0 store.bankruptcymelodious.cn
+0.0.0.0 banregio.com
+0.0.0.0 www.banregio.com
+0.0.0.0 store.banregio.com
 0.0.0.0 bantucepat.com
 0.0.0.0 www.bantucepat.com
 0.0.0.0 store.bantucepat.com
@@ -2292,6 +2301,9 @@
 0.0.0.0 dorothy86.store
 0.0.0.0 www.dorothy86.store
 0.0.0.0 store.dorothy86.store
+0.0.0.0 download.instructionclub.com
+0.0.0.0 www.download.instructionclub.com
+0.0.0.0 store.download.instructionclub.com
 0.0.0.0 dpsio.ink
 0.0.0.0 www.dpsio.ink
 0.0.0.0 store.dpsio.ink
