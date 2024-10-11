@@ -3546,6 +3546,9 @@
 0.0.0.0 infinityto.com
 0.0.0.0 www.infinityto.com
 0.0.0.0 store.infinityto.com
+0.0.0.0 info-animals.com
+0.0.0.0 www.info-animals.com
+0.0.0.0 store.info-animals.com
 0.0.0.0 info-flirtme.com
 0.0.0.0 www.info-flirtme.com
 0.0.0.0 store.info-flirtme.com
@@ -7314,6 +7317,9 @@
 0.0.0.0 phpmyadmin.staging.demo.www1.transaction-processing.one
 0.0.0.0 www.phpmyadmin.staging.demo.www1.transaction-processing.one
 0.0.0.0 store.phpmyadmin.staging.demo.www1.transaction-processing.one
+0.0.0.0 physiotherapyindhaka.com
+0.0.0.0 www.physiotherapyindhaka.com
+0.0.0.0 store.physiotherapyindhaka.com
 0.0.0.0 pickablegift.com
 0.0.0.0 www.pickablegift.com
 0.0.0.0 store.pickablegift.com
@@ -10977,6 +10983,9 @@
 0.0.0.0 tycomex.com
 0.0.0.0 www.tycomex.com
 0.0.0.0 store.tycomex.com
+0.0.0.0 tyoajanseuranta-sovellus-infi1.de
+0.0.0.0 www.tyoajanseuranta-sovellus-infi1.de
+0.0.0.0 store.tyoajanseuranta-sovellus-infi1.de
 0.0.0.0 u.infotrackcd.top
 0.0.0.0 www.u.infotrackcd.top
 0.0.0.0 store.u.infotrackcd.top
