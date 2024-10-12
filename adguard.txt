@@ -102,6 +102,7 @@
 ||binomoweb.org^
 ||binomoweblogin.com^
 ||binorobot.com^
+||bitcllpay.top^
 ||bite-life.com^
 ||bitsoft360.app^
 ||bitsoft360.com^
@@ -161,6 +162,7 @@
 ||cma88.vip^
 ||cmoboy.com^
 ||coco-vip-shop.com^
+||cofdeal.com^
 ||coffeeteaware.com^
 ||coinaps.com^
 ||coinreq.com^
@@ -219,7 +221,6 @@
 ||dgbdhvqpwvplersqjytw.dunkansp.info^
 ||dhlpost.top^
 ||dischargebackhanded.com^
-||discounthoneywell.com^
 ||distrochooser.snehit.dev^
 ||dkfodboldstore.com^
 ||dleggere.com^
@@ -264,7 +265,6 @@
 ||facebook-google-ygggvmvciad74v9lhi.vercel.app^
 ||factorysale2023.com^
 ||familybakery.xyz^
-||familybestgifts.com^
 ||familygiftlove.myshopify.com^
 ||familygiftville.com^
 ||familylovesgift.com^
@@ -575,7 +575,6 @@
 ||nip69.com^
 ||nip8.com^
 ||nip89.com^
-||nip9.com^
 ||nirvezal.com^
 ||nldstore.com^
 ||nlepfpteg.com^
@@ -665,6 +664,7 @@
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||pump.fun^
 ||queenscattery.com^
+||quitasueno.com^
 ||quotex.com.in^
 ||rabbit.tech^
 ||radiatorcrate.com^
