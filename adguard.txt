@@ -42,7 +42,6 @@
 ||amznshirts.com^
 ||an1.is^
 ||andamente.pt^
-||animeshoppers.com^
 ||anydebrid.com^
 ||anywherepastry.top^
 ||app.jameswoof.com^
@@ -102,7 +101,6 @@
 ||binomoweb.org^
 ||binomoweblogin.com^
 ||binorobot.com^
-||bitcllpay.top^
 ||bite-life.com^
 ||bitsoft360.app^
 ||bitsoft360.com^
@@ -123,6 +121,7 @@
 ||brttre.com^
 ||btc9339.com^
 ||buddhakind.com^
+||budm.shop^
 ||burgershirt.com^
 ||buydubuy.com^
 ||buyfingermoney.company.com^
@@ -221,6 +220,7 @@
 ||dgbdhvqpwvplersqjytw.dunkansp.info^
 ||dhlpost.top^
 ||dischargebackhanded.com^
+||discounthoneywell.com^
 ||distrochooser.snehit.dev^
 ||dkfodboldstore.com^
 ||dleggere.com^
@@ -265,6 +265,7 @@
 ||facebook-google-ygggvmvciad74v9lhi.vercel.app^
 ||factorysale2023.com^
 ||familybakery.xyz^
+||familybestgifts.com^
 ||familygiftlove.myshopify.com^
 ||familygiftville.com^
 ||familylovesgift.com^
@@ -404,7 +405,6 @@
 ||kingteestore.com^
 ||kisserine.com^
 ||kitchendecor.shop^
-||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -446,7 +446,6 @@
 ||look-like-star.myshopify.com^
 ||lootcrate.com^
 ||lootcs.com^
-||loveinbox.co.uk^
 ||lovelovegifts.com^
 ||lozly.com^
 ||lucatee.com^
