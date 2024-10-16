@@ -42,6 +42,7 @@
 ||amznshirts.com^
 ||an1.is^
 ||andamente.pt^
+||animeshoppers.com^
 ||anydebrid.com^
 ||anywherepastry.top^
 ||app.jameswoof.com^
@@ -171,7 +172,6 @@
 ||com-id23901.info^
 ||com-id334112.com^
 ||compoundexotics.com^
-||cooeedesignshop.com^
 ||cookietee.com^
 ||coolest3d.com^
 ||coolestpod.com^
@@ -298,6 +298,7 @@
 ||folkrbvi.pages.dev^
 ||foryourdears.com^
 ||fotballsko-salg.com^
+||frankgreenauonline.shop^
 ||free.nf^
 ||freebitcoin.pages.dev^
 ||freedom-5g.com^
@@ -403,6 +404,7 @@
 ||kingteestore.com^
 ||kisserine.com^
 ||kitchendecor.shop^
+||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -520,7 +522,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -633,6 +634,7 @@
 ||pickablegift.com^
 ||pinjamanduit.lol^
 ||pinjamanelit.top^
+||pinjamanpedia.xyz^
 ||pinjamanplus.com^
 ||pinjamnow.my.id^
 ||pinjamteman.top^
@@ -852,7 +854,6 @@
 ||veilcurtin.world^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
-||vicidola.com^
 ||vinisay.com^
 ||vipticketgiveaway.com^
 ||visoedifica.com^
