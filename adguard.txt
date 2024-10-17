@@ -72,7 +72,6 @@
 ||baltic79.wordpress.com^
 ||balticpipe.wordpress.com^
 ||banregio.com^
-||baroconcept.com^
 ||bcb.game^
 ||beacon.apsehick.date^
 ||beautysolution24.com^
@@ -297,13 +296,10 @@
 ||flattee.com^
 ||folkrbvi.pages.dev^
 ||foryourdears.com^
-||fotballsko-salg.com^
-||frankgreenauonline.shop^
 ||free.nf^
 ||freebitcoin.pages.dev^
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
-||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -522,6 +518,7 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -622,6 +619,7 @@
 ||parisiporlin-ktki.kemkes.go.id^
 ||pateim.com^
 ||path2zillion.com^
+||pay.avito.id90152861.com^
 ||peppatees.com^
 ||perlatoshoe.com^
 ||personal84.com^
@@ -634,7 +632,6 @@
 ||pickablegift.com^
 ||pinjamanduit.lol^
 ||pinjamanelit.top^
-||pinjamanpedia.xyz^
 ||pinjamanplus.com^
 ||pinjamnow.my.id^
 ||pinjamteman.top^
@@ -760,6 +757,7 @@
 ||storesp.com^
 ||stunningstuffs.com^
 ||stylegift.co.uk^
+||subsequentoven.info^
 ||successglossary.com^
 ||sugarandpearl.com^
 ||suitablepartner.life^
@@ -835,6 +833,7 @@
 ||ultraboxlab.com^
 ||ultrasonica.info^
 ||unifully.com^
+||unique3ds.com^
 ||universityofqatarrectorate.godaddysites.com^
 ||uplevelreward.com^
 ||uprising.kip.pro^
