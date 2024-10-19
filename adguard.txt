@@ -19,7 +19,6 @@
 ||93mobiles.com^
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
-||et-reliefgc-ca.info^
 ||aadirone.cc^
 ||abncbp.com^
 ||account-cfe.mx^
@@ -44,6 +43,7 @@
 ||amznshirts.com^
 ||an1.is^
 ||andamente.pt^
+||animeshoppers.com^
 ||anydebrid.com^
 ||anywherepastry.top^
 ||app.jameswoof.com^
@@ -244,6 +244,7 @@
 ||elitestrustonline.com^
 ||ellezz.com^
 ||elonweb.org^
+||elrifeno.com^
 ||emberio.com^
 ||en407etr.com^
 ||enchantestore.myshopify.com^
@@ -251,6 +252,7 @@
 ||equiwarmpro.co^
 ||ercnnier.com^
 ||esl-gaming.com^
+||et-reliefgc-ca.info^
 ||eudoraz.com^
 ||eviralstore.com^
 ||exclusivebuyz4uu.shop^
@@ -497,7 +499,9 @@
 ||navi10.ru^
 ||navi100.com^
 ||navi12.com^
+||navi12.ru^
 ||navi18.com^
+||navi19.ru^
 ||navi2.com^
 ||navi20.com^
 ||navi20.ru^
@@ -507,6 +511,7 @@
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
+||navi25.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
@@ -822,7 +827,6 @@
 ||trade-skins.net^
 ||treasurefan.com^
 ||trendsharks.com^
-||trendybuddystore.com^
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
 ||tromselementbygg.no^
@@ -831,6 +835,7 @@
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
+||twoter.info^
 ||tyoajanseuranta-sovellus-infi1.de^
 ||uangqu.online^
 ||ultimate-tech-products.myshopify.com^
@@ -867,7 +872,6 @@
 ||westernhats.net^
 ||wezpod.com^
 ||whbinder.com^
-||whyareyouherewho.ru^
 ||wikeb.com^
 ||wind88.shop^
 ||wintexfashions.com^
