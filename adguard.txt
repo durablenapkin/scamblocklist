@@ -343,7 +343,6 @@
 ||gotoperfection.com^
 ||govmedcareers.com^
 ||goyourheart.com^
-||gr.update-tracks.com^
 ||gratis-eltern-produkttests.com^
 ||gsport.com^
 ||gunstee.com^
@@ -403,6 +402,7 @@
 ||jourl.live^
 ||karanpc.com^
 ||keltysale.com^
+||kewal.shop^
 ||kidsmama.online^
 ||kigurumi-usa.com^
 ||kingcampoutdoors.co.jp^
@@ -484,6 +484,7 @@
 ||miningco.site^
 ||miucart.com^
 ||mizunsports.com^
+||modalsaya.xyz^
 ||moddetail.com^
 ||modmobile24.com^
 ||monkstars.co^
@@ -533,7 +534,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -847,6 +847,7 @@
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
+||twoter.info^
 ||tyoajanseuranta-sovellus-infi1.de^
 ||uangqu.online^
 ||ultimate-tech-products.myshopify.com^
@@ -913,7 +914,6 @@
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
-||yvjexi.shop^
 ||z-lib.is^
 ||zat.io^
 ||zaz4o.securesolidlink.com^
