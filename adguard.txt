@@ -46,6 +46,7 @@
 ||anywherepastry.top^
 ||app.jameswoof.com^
 ||app.uniwspapp.com^
+||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -308,6 +309,7 @@
 ||freedom.mobile-log-in.com^
 ||frest.info^
 ||friday89.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fujibikes.com^
@@ -347,6 +349,7 @@
 ||gsport.com^
 ||gunstee.com^
 ||habtoorloyal.com^
+||haceroberomaste.com^
 ||hairyfy.com^
 ||haowei.me^
 ||happylifetee.com^
@@ -393,6 +396,7 @@
 ||j-natural.com^
 ||jagkart.com^
 ||januashop.com^
+||jask.powerforxes.shop^
 ||jellystores.com^
 ||jewellvanmarter.za.com^
 ||jfremovals.com^
@@ -402,13 +406,13 @@
 ||jourl.live^
 ||karanpc.com^
 ||keltysale.com^
-||kewal.shop^
 ||kidsmama.online^
 ||kigurumi-usa.com^
 ||kingcampoutdoors.co.jp^
 ||kingteestore.com^
 ||kisserine.com^
 ||kitchendecor.shop^
+||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -484,12 +488,12 @@
 ||miningco.site^
 ||miucart.com^
 ||mizunsports.com^
-||modalsaya.xyz^
 ||moddetail.com^
 ||modmobile24.com^
 ||monkstars.co^
 ||monkstars.com^
 ||motovinreports.com^
+||mslfgl434.pages.dev^
 ||msmcompare.com^
 ||mujib-store28.blogspot.com^
 ||museuw.com^
@@ -552,6 +556,7 @@
 ||navi78.ru^
 ||navi8.com^
 ||navi86.ru^
+||navi87.ru^
 ||navi88.com^
 ||navi99.com^
 ||nbdiscount.com^
@@ -596,6 +601,7 @@
 ||novabeds.ca^
 ||nxtgenerator.top^
 ||nynextlevel.com^
+||nze0xw.haceroberomaste.com^
 ||nzxsxn.98kk89.com^
 ||oablages.org.br^
 ||ocycling.com^
@@ -609,6 +615,7 @@
 ||ogogear.com^
 ||okdebrid.com^
 ||oldcube.com^
+||olive121407.studio.site^
 ||olymptrade-qid.com^
 ||olymptrade.com^
 ||online-binomo.com^
@@ -635,6 +642,7 @@
 ||parisiporlin-ktki.kemkes.go.id^
 ||pateim.com^
 ||path2zillion.com^
+||pay.booklng.id-7144893.com^
 ||peppatees.com^
 ||perlatoshoe.com^
 ||personal84.com^
@@ -847,9 +855,9 @@
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
-||twoter.info^
 ||tyoajanseuranta-sovellus-infi1.de^
 ||uangqu.online^
+||uk-tweed-jackets.com^
 ||ultimate-tech-products.myshopify.com^
 ||ultraboxlab.com^
 ||ultrasonica.info^
