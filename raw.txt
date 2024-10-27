@@ -3729,6 +3729,9 @@
 0.0.0.0 jourl.live
 0.0.0.0 www.jourl.live
 0.0.0.0 store.jourl.live
+0.0.0.0 jtexpresss.icu
+0.0.0.0 www.jtexpresss.icu
+0.0.0.0 store.jtexpresss.icu
 0.0.0.0 justbasicshop.com
 0.0.0.0 www.justbasicshop.com
 0.0.0.0 store.justbasicshop.com
