@@ -42,7 +42,6 @@
 ||amznshirts.com^
 ||an1.is^
 ||andamente.pt^
-||animeshoppers.com^
 ||anydebrid.com^
 ||anywherepastry.top^
 ||app.jameswoof.com^
@@ -86,6 +85,7 @@
 ||binomo-id.pro^
 ||binomo.ai^
 ||binomo.app^
+||binomo.broker^
 ||binomo.com^
 ||binomo.in^
 ||binomo.info^
@@ -218,6 +218,7 @@
 ||dhlpost.top^
 ||dierdrecrisan.buzz^
 ||dischargebackhanded.com^
+||discounthoneywell.com^
 ||distrochooser.snehit.dev^
 ||dkfodboldstore.com^
 ||dleggere.com^
@@ -259,12 +260,14 @@
 ||eviralstore.com^
 ||exclusivebuyz4uu.shop^
 ||expertrader.me^
+||expresscourier.delivery^
 ||expressmovers.com^
 ||facebook-google-15oqyxwtkremqyujsm.vercel.app^
 ||facebook-google-vptyyny63pwfipshmm.vercel.app^
 ||facebook-google-ygggvmvciad74v9lhi.vercel.app^
 ||factorysale2023.com^
 ||familybakery.xyz^
+||familybestgifts.com^
 ||familygiftlove.myshopify.com^
 ||familygiftville.com^
 ||familylovesgift.com^
@@ -305,6 +308,7 @@
 ||freedom.mobile-log-in.com^
 ||frest.info^
 ||friday89.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fujibikes.com^
@@ -344,7 +348,6 @@
 ||gsport.com^
 ||gunstee.com^
 ||habtoorloyal.com^
-||haceroberomaste.com^
 ||hairyfy.com^
 ||haowei.me^
 ||happylifetee.com^
@@ -438,6 +441,7 @@
 ||lericettedifrancy74.com^
 ||lesliespracklen.sa.com^
 ||letteringift.com^
+||levastyle.com^
 ||levelbash.com^
 ||lifestyletrading.co.za^
 ||lifewonderland.com^
@@ -454,7 +458,6 @@
 ||look-like-star.myshopify.com^
 ||lootcrate.com^
 ||lootcs.com^
-||lovelovegifts.com^
 ||lozly.com^
 ||lucatee.com^
 ||lucchesedeal.store^
@@ -515,7 +518,6 @@
 ||navi12.com^
 ||navi18.com^
 ||navi2.com^
-||navi20.com^
 ||navi20.ru^
 ||navi21.com^
 ||navi22.com^
@@ -583,6 +585,7 @@
 ||nip5.com^
 ||nip57.com^
 ||nip69.com^
+||nip77.com^
 ||nip8.com^
 ||nip89.com^
 ||nirvezal.com^
@@ -597,7 +600,6 @@
 ||novabeds.ca^
 ||nxtgenerator.top^
 ||nynextlevel.com^
-||nze0xw.haceroberomaste.com^
 ||nzxsxn.98kk89.com^
 ||oablages.org.br^
 ||ocycling.com^
@@ -861,6 +863,7 @@
 ||upsbezorging.com^
 ||upstrick.com^
 ||ureashi.com^
+||usakidsclothes.com^
 ||usasport247.com^
 ||uschse04.my03.com^
 ||usnewoutdoor.com^
@@ -870,6 +873,7 @@
 ||ussportpioneer.com^
 ||uszjj.fyjkxzq.shop^
 ||valeofoodsgroup.com^
+||vegamartz.com^
 ||veilcurtin.world^
 ||velmaglendenning.ru.com^
 ||venezuelabaseballjerseys.com^
@@ -882,6 +886,7 @@
 ||wadahlapak.top^
 ||wavetshirt.com^
 ||werfew.com^
+||westernhats.net^
 ||wezpod.com^
 ||whbinder.com^
 ||wikeb.com^
