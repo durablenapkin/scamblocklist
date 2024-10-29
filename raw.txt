@@ -10134,9 +10134,6 @@
 0.0.0.0 shop.headline-journal.com
 0.0.0.0 www.shop.headline-journal.com
 0.0.0.0 store.shop.headline-journal.com
-0.0.0.0 shop.spreadshirt.com
-0.0.0.0 www.shop.spreadshirt.com
-0.0.0.0 store.shop.spreadshirt.com
 0.0.0.0 shopafricalimited.com
 0.0.0.0 www.shopafricalimited.com
 0.0.0.0 store.shopafricalimited.com
@@ -10710,6 +10707,12 @@
 0.0.0.0 terinaverkler.click
 0.0.0.0 www.terinaverkler.click
 0.0.0.0 store.terinaverkler.click
+0.0.0.0 terverystaio.info
+0.0.0.0 www.terverystaio.info
+0.0.0.0 store.terverystaio.info
+0.0.0.0 terveystalosasto.com
+0.0.0.0 www.terveystalosasto.com
+0.0.0.0 store.terveystalosasto.com
 0.0.0.0 tesla-bmw.com
 0.0.0.0 www.tesla-bmw.com
 0.0.0.0 store.tesla-bmw.com
