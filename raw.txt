@@ -5181,6 +5181,9 @@
 0.0.0.0 netcotto.com
 0.0.0.0 www.netcotto.com
 0.0.0.0 store.netcotto.com
+0.0.0.0 netflix-logariasmos.com
+0.0.0.0 www.netflix-logariasmos.com
+0.0.0.0 store.netflix-logariasmos.com
 0.0.0.0 netflix.update-payment1.com
 0.0.0.0 www.netflix.update-payment1.com
 0.0.0.0 store.netflix.update-payment1.com
@@ -11052,6 +11055,9 @@
 0.0.0.0 tromselementbygg.no
 0.0.0.0 www.tromselementbygg.no
 0.0.0.0 store.tromselementbygg.no
+0.0.0.0 trump-drop.org
+0.0.0.0 www.trump-drop.org
+0.0.0.0 store.trump-drop.org
 0.0.0.0 tshop688.com
 0.0.0.0 www.tshop688.com
 0.0.0.0 store.tshop688.com
