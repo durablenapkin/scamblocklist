@@ -78,7 +78,6 @@
 ||beecrave.com^
 ||benecharm.com^
 ||bigappboi.com^
-||bikehotsale.com^
 ||binom0-web.com^
 ||binomo-brokers.com^
 ||binomo-id.in^
@@ -131,7 +130,6 @@
 ||buzzazone.com^
 ||bwpkizpfms.funnelish.com^
 ||by-emmamuller.de^
-||c.dreamdating1.fun^
 ||c0nt4ct-me.pages.dev^
 ||campingsurfshop.com^
 ||canadapost.mydelivery1.com^
@@ -184,6 +182,7 @@
 ||cracksway.com^
 ||crocssalenz.com^
 ||crypto022.online^
+||crypto029.online^
 ||crypto030.online^
 ||cryptot.net^
 ||csbestplayers.com^
@@ -266,9 +265,9 @@
 ||facebook-google-15oqyxwtkremqyujsm.vercel.app^
 ||facebook-google-vptyyny63pwfipshmm.vercel.app^
 ||facebook-google-ygggvmvciad74v9lhi.vercel.app^
+||facebook-support-team-980.pages.med.br^
 ||factorysale2023.com^
 ||familybakery.xyz^
-||familybestgifts.com^
 ||familygiftlove.myshopify.com^
 ||familygiftville.com^
 ||familylovesgift.com^
@@ -288,7 +287,6 @@
 ||faze5.com^
 ||faze9.com^
 ||fazpowerdenet.tumblr.com^
-||fdrc-gov.org^
 ||felara.com.do^
 ||femalecozy.com^
 ||filedenzu.com^
@@ -309,7 +307,6 @@
 ||freedom-ca-5g.com^
 ||frest.info^
 ||friday89.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fujibikes.com^
@@ -412,6 +409,7 @@
 ||kingteestore.com^
 ||kisserine.com^
 ||kitchendecor.shop^
+||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -458,6 +456,7 @@
 ||lozly.com^
 ||lucatee.com^
 ||lucchesedeal.store^
+||luccheseoutlet.online^
 ||lucidtiger.com^
 ||lucysstyle.com^
 ||lumustore.top^
@@ -755,7 +754,6 @@
 ||startjacket.com^
 ||startuplatte.com^
 ||steamgateways.com^
-||steammcommunuty.ru^
 ||steamunlock.com^
 ||stearncommunjty.net^
 ||stellara.de^

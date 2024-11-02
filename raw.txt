@@ -2586,6 +2586,9 @@
 0.0.0.0 facebook-google-ygggvmvciad74v9lhi.vercel.app
 0.0.0.0 www.facebook-google-ygggvmvciad74v9lhi.vercel.app
 0.0.0.0 store.facebook-google-ygggvmvciad74v9lhi.vercel.app
+0.0.0.0 facebook-support-team-980.pages.med.br
+0.0.0.0 www.facebook-support-team-980.pages.med.br
+0.0.0.0 store.facebook-support-team-980.pages.med.br
 0.0.0.0 facekac.com
 0.0.0.0 www.facekac.com
 0.0.0.0 store.facekac.com
