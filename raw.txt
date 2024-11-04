@@ -81,6 +81,9 @@
 0.0.0.0 7laced.com
 0.0.0.0 www.7laced.com
 0.0.0.0 store.7laced.com
+0.0.0.0 7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
+0.0.0.0 www.7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
+0.0.0.0 store.7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
 0.0.0.0 7s4c.top
 0.0.0.0 www.7s4c.top
 0.0.0.0 store.7s4c.top
@@ -3894,6 +3897,9 @@
 0.0.0.0 kopisusu.co.id
 0.0.0.0 www.kopisusu.co.id
 0.0.0.0 store.kopisusu.co.id
+0.0.0.0 kra18.com
+0.0.0.0 www.kra18.com
+0.0.0.0 store.kra18.com
 0.0.0.0 kredit-rupiah.com
 0.0.0.0 www.kredit-rupiah.com
 0.0.0.0 store.kredit-rupiah.com
