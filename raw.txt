@@ -3915,6 +3915,9 @@
 0.0.0.0 iphone.quiztionnaire.biz
 0.0.0.0 www.iphone.quiztionnaire.biz
 0.0.0.0 store.iphone.quiztionnaire.biz
+0.0.0.0 iphonedefender.com
+0.0.0.0 www.iphonedefender.com
+0.0.0.0 store.iphonedefender.com
 0.0.0.0 iqcreditcheck.com
 0.0.0.0 www.iqcreditcheck.com
 0.0.0.0 store.iqcreditcheck.com
