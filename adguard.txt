@@ -110,7 +110,6 @@
 ||binomoweblogin.com^
 ||binorobot.com^
 ||bisertravel.com.mk^
-||bitdefender.top^
 ||bite-life.com^
 ||bitsoft360.app^
 ||bitsoft360.com^
@@ -142,7 +141,6 @@
 ||btc9339.com^
 ||btwvisas.com^
 ||buddhakind.com^
-||burgershirt.com^
 ||buydubuy.com^
 ||buyfingermoney.company.com^
 ||buylikes.se^
@@ -243,7 +241,6 @@
 ||dgbdhvqpwvplersqjytw.dunkansp.info^
 ||dierdrecrisan.buzz^
 ||dischargebackhanded.com^
-||discounthoneywell.com^
 ||distrochooser.snehit.dev^
 ||dkfodboldstore.com^
 ||dleggere.com^
@@ -342,6 +339,7 @@
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.vip^
 ||fitgirlrepacksite.com^
+||fkpgr.buzz^
 ||flattee.com^
 ||folkrbvi.pages.dev^
 ||foryourdears.com^
@@ -363,6 +361,7 @@
 ||gcqcanada.com^
 ||gearanime.com^
 ||gearhomies.com^
+||gearhuman.com^
 ||gearstastic.com^
 ||gearver.com^
 ||geldencosmeticos.com^
@@ -388,6 +387,7 @@
 ||gotoperfection.com^
 ||gov.carngr.sbs^
 ||gov.fgtgr.buzz^
+||gov.fkpgr.buzz^
 ||gov.hisgr.buzz^
 ||gov.howgr.buzz^
 ||gov.rvgr.buzz^
@@ -633,9 +633,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi4.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -679,6 +677,7 @@
 ||nip24.com^
 ||nip26.com^
 ||nip28.com^
+||nip29.com^
 ||nip3.com^
 ||nip4.com^
 ||nip5.com^
@@ -970,7 +969,6 @@
 ||uprising.kip.pro^
 ||upsbezorging.com^
 ||ureashi.com^
-||usakidsclothes.com^
 ||usasport247.com^
 ||uschse04.my03.com^
 ||usnewoutdoors.com^

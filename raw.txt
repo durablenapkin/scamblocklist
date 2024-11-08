@@ -3156,6 +3156,9 @@
 0.0.0.0 fixpub.com
 0.0.0.0 www.fixpub.com
 0.0.0.0 store.fixpub.com
+0.0.0.0 fkpgr.buzz
+0.0.0.0 www.fkpgr.buzz
+0.0.0.0 store.fkpgr.buzz
 0.0.0.0 flattee.com
 0.0.0.0 www.flattee.com
 0.0.0.0 store.flattee.com
@@ -3513,6 +3516,9 @@
 0.0.0.0 gov.fgtgr.buzz
 0.0.0.0 www.gov.fgtgr.buzz
 0.0.0.0 store.gov.fgtgr.buzz
+0.0.0.0 gov.fkpgr.buzz
+0.0.0.0 www.gov.fkpgr.buzz
+0.0.0.0 store.gov.fkpgr.buzz
 0.0.0.0 gov.hisgr.buzz
 0.0.0.0 www.gov.hisgr.buzz
 0.0.0.0 store.gov.hisgr.buzz
