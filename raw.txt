@@ -2037,6 +2037,9 @@
 0.0.0.0 corg.co
 0.0.0.0 www.corg.co
 0.0.0.0 store.corg.co
+0.0.0.0 correos-app.link
+0.0.0.0 www.correos-app.link
+0.0.0.0 store.correos-app.link
 0.0.0.0 corroercl.xyz
 0.0.0.0 www.corroercl.xyz
 0.0.0.0 store.corroercl.xyz
