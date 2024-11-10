@@ -109,6 +109,7 @@
 ||binomoweblogin.com^
 ||binorobot.com^
 ||bisertravel.com.mk^
+||bitdefender.top^
 ||bite-life.com^
 ||bitsoft360.app^
 ||bitsoft360.com^
@@ -187,17 +188,14 @@
 ||colorandcotton.com^
 ||com-id01251.info^
 ||com-id129041.info^
-||com-id15421.info^
 ||com-id16313.info^
 ||com-id3212341.info^
 ||com-id334112.com^
 ||compoundexotics.com^
 ||containably.com^
-||cookietee.com^
 ||coolest3d.com^
 ||coolestpod.com^
 ||corg.co^
-||correos-app.link^
 ||couponxoo.com^
 ||courier-tracking.com^
 ||covex.it^
@@ -221,7 +219,6 @@
 ||danainstan.xyz^
 ||danapintar.club^
 ||danylevych.com^
-||daradis.com^
 ||dash.pocketuniverse.app^
 ||dashracegear.net^
 ||dataid-subsidies.click^
@@ -266,7 +263,6 @@
 ||earth-ling.org^
 ||easynatures.com^
 ||easypayment.me^
-||easyshopper.org^
 ||easyshoppingus.com^
 ||ecs-online.ffm.to^
 ||ed0.it^
@@ -547,7 +543,6 @@
 ||lojaacasa.com.br^
 ||look-like-star.myshopify.com^
 ||lootcrate.com^
-||lootcs.com^
 ||lozly.com^
 ||lskg.shop^
 ||lucatee.com^
@@ -606,6 +601,7 @@
 ||nationaladvancegroup.com^
 ||natvisa.com^
 ||navi1.com^
+||navi1.ru^
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
@@ -624,6 +620,7 @@
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
+||navi32.ru^
 ||navi33.com^
 ||navi35.com^
 ||navi35.ru^
@@ -635,6 +632,7 @@
 ||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
+||navi5.ru^
 ||navi50.com^
 ||navi53.com^
 ||navi54.com^
@@ -682,6 +680,7 @@
 ||nip5.com^
 ||nip57.com^
 ||nip69.com^
+||nip76.com^
 ||nip8.com^
 ||nip89.com^
 ||nirvezal.com^
@@ -860,6 +859,7 @@
 ||startjacket.com^
 ||startuplatte.com^
 ||steamgateways.com^
+||steammcommunuty.ru^
 ||steamunlock.com^
 ||stearncommunjty.net^
 ||stellara.de^
@@ -870,7 +870,6 @@
 ||store25848025.company.site^
 ||storeax.com^
 ||storecollegeonline.com^
-||storecommuinityworkshop.com^
 ||storedarkness.com^
 ||storeoregononline.com^
 ||storeskiwear.com^
@@ -964,7 +963,6 @@
 ||ultraboxlab.com^
 ||ultrasonica.info^
 ||unifully.com^
-||uniqueshirt.shop^
 ||universityofqatarrectorate.godaddysites.com^
 ||uplevelreward.com^
 ||uprising.kip.pro^
