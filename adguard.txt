@@ -270,6 +270,7 @@
 ||elitestrustonline.biz^
 ||elitestrustonline.com^
 ||ellezz.com^
+||elonspace.org^
 ||elonweb.org^
 ||elrifeno.com^
 ||emberio.com^
@@ -344,6 +345,7 @@
 ||freedom-ca-5g.com^
 ||frest.info^
 ||friday89.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fujibikes.com^
@@ -383,12 +385,14 @@
 ||gov.carngr.sbs^
 ||gov.fgtgr.buzz^
 ||gov.fkpgr.buzz^
+||gov.gr93.sbs^
 ||gov.hisgr.buzz^
 ||gov.howgr.buzz^
 ||gov.rvgr.buzz^
 ||gov.scoigr.buzz^
 ||govmedcareers.com^
 ||goyourheart.com^
+||gr93.sbs^
 ||gratis-eltern-produkttests.com^
 ||gsport.com^
 ||gunstee.com^
@@ -552,6 +556,7 @@
 ||lucysstyle.com^
 ||lumustore.top^
 ||lunapresent.com^
+||luxsgear.com^
 ||madeinusas.com^
 ||maebl.com^
 ||mail-cytanet.pages.dev^
@@ -601,7 +606,6 @@
 ||nationaladvancegroup.com^
 ||natvisa.com^
 ||navi1.com^
-||navi1.ru^
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
@@ -620,7 +624,6 @@
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
-||navi32.ru^
 ||navi33.com^
 ||navi35.com^
 ||navi35.ru^
@@ -632,7 +635,6 @@
 ||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
-||navi5.ru^
 ||navi50.com^
 ||navi53.com^
 ||navi54.com^
@@ -680,7 +682,6 @@
 ||nip5.com^
 ||nip57.com^
 ||nip69.com^
-||nip76.com^
 ||nip8.com^
 ||nip89.com^
 ||nirvezal.com^
@@ -730,10 +731,12 @@
 ||pages.tempisite.com^
 ||pambi.tech^
 ||pandzee.com^
+||paquetsuivi7noti.com^
 ||parcelprocessingredelivery1.info^
 ||parisiporlin-ktki.kemkes.go.id^
 ||pateim.com^
 ||path2zillion.com^
+||pekanbaru.one^
 ||peppatees.com^
 ||perlatoshoe.com^
 ||personal84.com^
@@ -840,6 +843,7 @@
 ||smartokids.com^
 ||smartpower4all.org^
 ||smartproduct.site^
+||smithskigear.com^
 ||smvisa.co.il^
 ||snaklenest.com^
 ||sodipi.com^
@@ -859,7 +863,6 @@
 ||startjacket.com^
 ||startuplatte.com^
 ||steamgateways.com^
-||steammcommunuty.ru^
 ||steamunlock.com^
 ||stearncommunjty.net^
 ||stellara.de^
@@ -969,6 +972,7 @@
 ||upsbezorging.com^
 ||ureashi.com^
 ||usasport247.com^
+||usburtonsnowboard.com^
 ||uschse04.my03.com^
 ||usnewoutdoors.com^
 ||ussportabout.com^
@@ -997,7 +1001,6 @@
 ||wadahlapak.top^
 ||wavetshirt.com^
 ||werfew.com^
-||westernhats.net^
 ||wezpod.com^
 ||whbinder.com^
 ||wikeb.com^
