@@ -1743,6 +1743,12 @@
 0.0.0.0 catransfer.info
 0.0.0.0 www.catransfer.info
 0.0.0.0 store.catransfer.info
+0.0.0.0 cdn-defac13.techresource.shop
+0.0.0.0 www.cdn-defac13.techresource.shop
+0.0.0.0 store.cdn-defac13.techresource.shop
+0.0.0.0 cdn-defac18.studyzone-investmentguru.com
+0.0.0.0 www.cdn-defac18.studyzone-investmentguru.com
+0.0.0.0 store.cdn-defac18.studyzone-investmentguru.com
 0.0.0.0 cebesale.com
 0.0.0.0 www.cebesale.com
 0.0.0.0 store.cebesale.com
@@ -2025,6 +2031,9 @@
 0.0.0.0 coolztz.com
 0.0.0.0 www.coolztz.com
 0.0.0.0 store.coolztz.com
+0.0.0.0 cooperation-odoo.com
+0.0.0.0 www.cooperation-odoo.com
+0.0.0.0 store.cooperation-odoo.com
 0.0.0.0 copymyfx.com
 0.0.0.0 www.copymyfx.com
 0.0.0.0 store.copymyfx.com
@@ -2463,6 +2472,9 @@
 0.0.0.0 e-indianvisa.com
 0.0.0.0 www.e-indianvisa.com
 0.0.0.0 store.e-indianvisa.com
+0.0.0.0 e-investmentguru.com
+0.0.0.0 www.e-investmentguru.com
+0.0.0.0 store.e-investmentguru.com
 0.0.0.0 e-touristvisa.com
 0.0.0.0 www.e-touristvisa.com
 0.0.0.0 store.e-touristvisa.com
@@ -10419,6 +10431,9 @@
 0.0.0.0 secure.staging.demo.www1.transaction-processing.one
 0.0.0.0 www.secure.staging.demo.www1.transaction-processing.one
 0.0.0.0 store.secure.staging.demo.www1.transaction-processing.one
+0.0.0.0 securevault.top
+0.0.0.0 www.securevault.top
+0.0.0.0 store.securevault.top
 0.0.0.0 sedark.com
 0.0.0.0 www.sedark.com
 0.0.0.0 store.sedark.com
@@ -11523,6 +11538,9 @@
 0.0.0.0 udemy-creators.com
 0.0.0.0 www.udemy-creators.com
 0.0.0.0 store.udemy-creators.com
+0.0.0.0 udrop.com
+0.0.0.0 www.udrop.com
+0.0.0.0 store.udrop.com
 0.0.0.0 ug5m.guru
 0.0.0.0 www.ug5m.guru
 0.0.0.0 store.ug5m.guru
