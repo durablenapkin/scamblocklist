@@ -187,7 +187,6 @@
 ||coinaps.com^
 ||coinreq.com^
 ||colorandcotton.com^
-||com-id01251.info^
 ||com-id129041.info^
 ||com-id334112.com^
 ||compoundexotics.com^
@@ -268,7 +267,6 @@
 ||ecs-online.ffm.to^
 ||ed0.it^
 ||ekommmedia.com^
-||ekyfoa.shop^
 ||elitestrustonline.biz^
 ||elitestrustonline.com^
 ||ellezz.com^
@@ -347,7 +345,6 @@
 ||freedom-ca-5g.com^
 ||frest.info^
 ||friday89.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fujibikes.com^
@@ -507,7 +504,6 @@
 ||kingteestore.com^
 ||kisserine.com^
 ||kitchendecor.shop^
-||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -628,7 +624,6 @@
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
-||navi33.com^
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
@@ -636,6 +631,7 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -795,7 +791,6 @@
 ||robinmooreband.com^
 ||rockchief.com^
 ||rosateeshop.com^
-||route2content.com^
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rozaholshouser.cfd^
