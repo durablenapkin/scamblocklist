@@ -4731,6 +4731,15 @@
 0.0.0.0 mrarmstrongsclass.com
 0.0.0.0 www.mrarmstrongsclass.com
 0.0.0.0 store.mrarmstrongsclass.com
+0.0.0.0 ms-analytics.mywire.org
+0.0.0.0 www.ms-analytics.mywire.org
+0.0.0.0 store.ms-analytics.mywire.org
+0.0.0.0 ms-cdn.viewdns.net
+0.0.0.0 www.ms-cdn.viewdns.net
+0.0.0.0 store.ms-cdn.viewdns.net
+0.0.0.0 ms-defender-analytics.line.pm
+0.0.0.0 www.ms-defender-analytics.line.pm
+0.0.0.0 store.ms-defender-analytics.line.pm
 0.0.0.0 ms-event.tech
 0.0.0.0 www.ms-event.tech
 0.0.0.0 store.ms-event.tech
