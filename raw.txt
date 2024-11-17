@@ -195,9 +195,15 @@
 0.0.0.0 airup-bottlegreece.com
 0.0.0.0 www.airup-bottlegreece.com
 0.0.0.0 store.airup-bottlegreece.com
+0.0.0.0 airup-fi.com
+0.0.0.0 www.airup-fi.com
+0.0.0.0 store.airup-fi.com
 0.0.0.0 airup-gr.com
 0.0.0.0 www.airup-gr.com
 0.0.0.0 store.airup-gr.com
+0.0.0.0 airup-it.shop
+0.0.0.0 www.airup-it.shop
+0.0.0.0 store.airup-it.shop
 0.0.0.0 airup-nederland.com
 0.0.0.0 www.airup-nederland.com
 0.0.0.0 store.airup-nederland.com
@@ -4899,6 +4905,9 @@
 0.0.0.0 mythicalbattle.com
 0.0.0.0 www.mythicalbattle.com
 0.0.0.0 store.mythicalbattle.com
+0.0.0.0 myweaithsimple.com
+0.0.0.0 www.myweaithsimple.com
+0.0.0.0 store.myweaithsimple.com
 0.0.0.0 mywealth.simple-app1.com
 0.0.0.0 www.mywealth.simple-app1.com
 0.0.0.0 store.mywealth.simple-app1.com
