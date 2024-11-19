@@ -4128,9 +4128,12 @@
 0.0.0.0 kalugastore.com
 0.0.0.0 www.kalugastore.com
 0.0.0.0 store.kalugastore.com
-0.0.0.0 karanpc.com
-0.0.0.0 www.karanpc.com
-0.0.0.0 store.karanpc.com
+0.0.0.0 karan-pc.com
+0.0.0.0 www.karan-pc.com
+0.0.0.0 store.karan-pc.com
+0.0.0.0 karanpcofficial.blogspot.com
+0.0.0.0 www.karanpcofficial.blogspot.com
+0.0.0.0 store.karanpcofficial.blogspot.com
 0.0.0.0 karukuri.com
 0.0.0.0 www.karukuri.com
 0.0.0.0 store.karukuri.com
@@ -4140,6 +4143,9 @@
 0.0.0.0 keltysale.com
 0.0.0.0 www.keltysale.com
 0.0.0.0 store.keltysale.com
+0.0.0.0 kera99zx.com
+0.0.0.0 www.kera99zx.com
+0.0.0.0 store.kera99zx.com
 0.0.0.0 kewal.shop
 0.0.0.0 www.kewal.shop
 0.0.0.0 store.kewal.shop
