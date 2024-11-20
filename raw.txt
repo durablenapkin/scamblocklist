@@ -1296,6 +1296,9 @@
 0.0.0.0 bikehotsale.com
 0.0.0.0 www.bikehotsale.com
 0.0.0.0 store.bikehotsale.com
+0.0.0.0 bikewhenever.com
+0.0.0.0 www.bikewhenever.com
+0.0.0.0 store.bikewhenever.com
 0.0.0.0 billigesalg.com
 0.0.0.0 www.billigesalg.com
 0.0.0.0 store.billigesalg.com
@@ -3288,6 +3291,9 @@
 0.0.0.0 freedom.mobile-log-in.com
 0.0.0.0 www.freedom.mobile-log-in.com
 0.0.0.0 store.freedom.mobile-log-in.com
+0.0.0.0 freedom.service-update3.com
+0.0.0.0 www.freedom.service-update3.com
+0.0.0.0 store.freedom.service-update3.com
 0.0.0.0 freedomgift50.com
 0.0.0.0 www.freedomgift50.com
 0.0.0.0 store.freedomgift50.com
@@ -4593,6 +4599,9 @@
 0.0.0.0 makewallperfect.store
 0.0.0.0 www.makewallperfect.store
 0.0.0.0 store.makewallperfect.store
+0.0.0.0 makitfornows.com
+0.0.0.0 www.makitfornows.com
+0.0.0.0 store.makitfornows.com
 0.0.0.0 malgorzataschlegel.click
 0.0.0.0 www.malgorzataschlegel.click
 0.0.0.0 store.malgorzataschlegel.click
