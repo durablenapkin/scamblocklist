@@ -2415,6 +2415,9 @@
 0.0.0.0 distrochooser.snehit.dev
 0.0.0.0 www.distrochooser.snehit.dev
 0.0.0.0 store.distrochooser.snehit.dev
+0.0.0.0 diteringion.com
+0.0.0.0 www.diteringion.com
+0.0.0.0 store.diteringion.com
 0.0.0.0 dixlitle.com
 0.0.0.0 www.dixlitle.com
 0.0.0.0 store.dixlitle.com
