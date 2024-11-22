@@ -3471,6 +3471,9 @@
 0.0.0.0 getmsx2.com
 0.0.0.0 www.getmsx2.com
 0.0.0.0 store.getmsx2.com
+0.0.0.0 getmyweaithsimple.com
+0.0.0.0 www.getmyweaithsimple.com
+0.0.0.0 store.getmyweaithsimple.com
 0.0.0.0 getsupport-lcloud.com
 0.0.0.0 www.getsupport-lcloud.com
 0.0.0.0 store.getsupport-lcloud.com
