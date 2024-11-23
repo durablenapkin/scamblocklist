@@ -96,7 +96,6 @@
 ||baltic79.wordpress.com^
 ||balticpipe.wordpress.com^
 ||banregio.com^
-||bantucepat.com^
 ||bcb.game^
 ||beacon.apsehick.date^
 ||beautysolution24.com^
@@ -237,7 +236,6 @@
 ||dailygiftstore.com^
 ||danainstan.xyz^
 ||danapintar.club^
-||danarakyatol.com^
 ||danylevych.com^
 ||dash.pocketuniverse.app^
 ||dashracegear.net^
@@ -365,6 +363,7 @@
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
+||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -420,7 +419,6 @@
 ||haceroberomaste.com^
 ||hairyfy.com^
 ||haowei.me^
-||happylifetee.com^
 ||haruko.store^
 ||headsets4business.co.uk^
 ||help.premium-x-notes.com^
@@ -540,7 +538,6 @@
 ||kopisusu.co.id^
 ||kra18.com^
 ||kredit-rupiah.com^
-||krediteasypro.com^
 ||krediteksklusif.com^
 ||kuyhaa.cc^
 ||ladamustore.com^
@@ -602,8 +599,6 @@
 ||miningco.site^
 ||miucart.com^
 ||mizunsports.com^
-||modalsaya.xyz^
-||moddetail.com^
 ||modmobile24.com^
 ||monkstars.co^
 ||monkstars.com^
@@ -775,9 +770,6 @@
 ||pinjamanduit.lol^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
-||pinjamanrupiah.xyz^
-||pinjamantunai.xyz^
-||pinjamdana.live^
 ||pinjamnow.my.id^
 ||pinjamteman.top^
 ||pinjamuang.top^
@@ -846,7 +838,6 @@
 ||securevault.top^
 ||sedark.com^
 ||sehaleservices.com^
-||selamatpinjam.space^
 ||sellfox.com^
 ||sentees.com^
 ||serengetidiscount.com^
@@ -946,7 +937,6 @@
 ||tesla-online.net^
 ||teslafond.io^
 ||teslamaked.com^
-||the-north-face.gr^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
 ||thehappywood.com^
@@ -987,7 +977,6 @@
 ||tromselementbygg.no^
 ||trump-drop.org^
 ||tunaicair.com^
-||tunairupiah.xyz^
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
@@ -1075,6 +1064,7 @@
 ||zat.io^
 ||zaz4o.securesolidlink.com^
 ||zedbubble.com^
+||zerowasteinitiative.com^
 ||zillify.cfd^
 ||zolrqw.palatlaldate.com^
 ||zooger.space^
