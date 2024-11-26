@@ -97,7 +97,6 @@
 ||balticpipe.wordpress.com^
 ||banregio.com^
 ||bcb.game^
-||bcm8.shop^
 ||beacon.apsehick.date^
 ||beautysolution24.com^
 ||beeaar.com^
@@ -210,6 +209,7 @@
 ||com-id334112.com^
 ||compoundexotics.com^
 ||containably.com^
+||cooeedesignshop.com^
 ||coolest3d.com^
 ||coolestpod.com^
 ||cooperation-odoo.com^
@@ -271,7 +271,6 @@
 ||dreamstees.com^
 ||duitpanas.top^
 ||dunkansp.info^
-||dxraceroutlet.com^
 ||e-indianvisa.com^
 ||e-touristvisa.com^
 ||e-touristvisaindia.com^
@@ -283,6 +282,7 @@
 ||easynatures.com^
 ||easypayment.me^
 ||easyshoppingus.com^
+||ebuy8.shop^
 ||ecs-online.ffm.to^
 ||ed0.it^
 ||ekommmedia.com^
@@ -338,7 +338,6 @@
 ||faze40.com^
 ||faze47.com^
 ||faze5.com^
-||faze9.com^
 ||fazpowerdenet.tumblr.com^
 ||fdrc-gov.org^
 ||felara.com.do^
@@ -384,7 +383,6 @@
 ||get-kmspico.com^
 ||getintopc.today^
 ||getkmspico.com^
-||getmyweaithsimple.com^
 ||getwavemax.com^
 ||giftyweb.com^
 ||gig-os.com^
@@ -698,7 +696,6 @@
 ||nip3.com^
 ||nip4.com^
 ||nip5.com^
-||nip55.com^
 ||nip57.com^
 ||nip69.com^
 ||nip8.com^
@@ -929,7 +926,6 @@
 ||survivalcatsupply.com^
 ||sweepbuzz.buzz^
 ||sweet-bonanza-demo.gr^
-||swellsup.com^
 ||swuso.com^
 ||t-post.com^
 ||tamed-exotics.com^
@@ -1016,7 +1012,6 @@
 ||ussportpioneer.com^
 ||uszjj.fyjkxzq.shop^
 ||valeofoodsgroup.com^
-||vegamartz.com^
 ||veilcurtin.world^
 ||velmaglendenning.ru.com^
 ||venezuelabaseballjerseys.com^
@@ -1049,6 +1044,7 @@
 ||woadoodles.com^
 ||wpclick.cc^
 ||ww25.utilify.me^
+||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xcartpro.com^
 ||xn--airupespaa-19a.com^
