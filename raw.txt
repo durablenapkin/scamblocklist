@@ -1422,6 +1422,9 @@
 0.0.0.0 bknstore.com
 0.0.0.0 www.bknstore.com
 0.0.0.0 store.bknstore.com
+0.0.0.0 black-sales.cloud
+0.0.0.0 www.black-sales.cloud
+0.0.0.0 store.black-sales.cloud
 0.0.0.0 blackabdo.company.site
 0.0.0.0 www.blackabdo.company.site
 0.0.0.0 store.blackabdo.company.site
