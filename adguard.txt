@@ -64,6 +64,7 @@
 ||amznshirts.com^
 ||an1.is^
 ||andamente.pt^
+||animeshoppers.com^
 ||anydebrid.com^
 ||anywherepastry.top^
 ||app.uniwspapp.com^
@@ -360,7 +361,6 @@
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
-||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -702,6 +702,7 @@
 ||nip69.com^
 ||nip8.com^
 ||nip89.com^
+||nirvezal.com^
 ||nldstore.com^
 ||nlepfpteg.com^
 ||nofotballshop.com^
@@ -804,7 +805,6 @@
 ||rabbit.tech^
 ||radiatorcrate.com^
 ||re-captha-version-3-277.buzz^
-||reforest-iita.org^
 ||resources4gaming.com^
 ||reviewshirts.com^
 ||rewardsgiantca.com^
