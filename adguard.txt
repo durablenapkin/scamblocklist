@@ -362,7 +362,6 @@
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
-||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -649,7 +648,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi40.com^
 ||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
@@ -668,6 +666,7 @@
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
+||navi82.ru^
 ||navi86.ru^
 ||navi88.com^
 ||navi99.com^
@@ -1052,7 +1051,6 @@
 ||xcartpro.com^
 ||xn--airupespaa-19a.com^
 ||xn--airuptrkiye-yhb.com^
-||xn4iqv.succyarthyry.com^
 ||xunlei.it^
 ||xvid.click-social-card.top^
 ||xvid.social-previews.top^
