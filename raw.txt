@@ -1203,9 +1203,6 @@
 0.0.0.0 bankruptcymelodious.cn
 0.0.0.0 www.bankruptcymelodious.cn
 0.0.0.0 store.bankruptcymelodious.cn
-0.0.0.0 banregio.com
-0.0.0.0 www.banregio.com
-0.0.0.0 store.banregio.com
 0.0.0.0 bantucepat.com
 0.0.0.0 www.bantucepat.com
 0.0.0.0 store.bantucepat.com
