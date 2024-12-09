@@ -378,6 +378,9 @@
 0.0.0.0 app.affixwallet.net
 0.0.0.0 www.app.affixwallet.net
 0.0.0.0 store.app.affixwallet.net
+0.0.0.0 app.identity-nexo.xborders.io
+0.0.0.0 www.app.identity-nexo.xborders.io
+0.0.0.0 store.app.identity-nexo.xborders.io
 0.0.0.0 app.jameswoof.com
 0.0.0.0 www.app.jameswoof.com
 0.0.0.0 store.app.jameswoof.com
@@ -1176,6 +1179,9 @@
 0.0.0.0 babybeddingdesign.com
 0.0.0.0 www.babybeddingdesign.com
 0.0.0.0 store.babybeddingdesign.com
+0.0.0.0 backend.store.eset.co.il
+0.0.0.0 www.backend.store.eset.co.il
+0.0.0.0 store.backend.store.eset.co.il
 0.0.0.0 bagsdeuter.com
 0.0.0.0 www.bagsdeuter.com
 0.0.0.0 store.bagsdeuter.com
@@ -2670,6 +2676,9 @@
 0.0.0.0 ercnnier.com
 0.0.0.0 www.ercnnier.com
 0.0.0.0 store.ercnnier.com
+0.0.0.0 eset.co.il
+0.0.0.0 www.eset.co.il
+0.0.0.0 store.eset.co.il
 0.0.0.0 eshaalfawson.shop
 0.0.0.0 www.eshaalfawson.shop
 0.0.0.0 store.eshaalfawson.shop
@@ -11862,6 +11871,9 @@
 0.0.0.0 verfun.com
 0.0.0.0 www.verfun.com
 0.0.0.0 store.verfun.com
+0.0.0.0 verifymyweaithsimple.com
+0.0.0.0 www.verifymyweaithsimple.com
+0.0.0.0 store.verifymyweaithsimple.com
 0.0.0.0 vessisdeutschland.com
 0.0.0.0 www.vessisdeutschland.com
 0.0.0.0 store.vessisdeutschland.com
