@@ -2583,9 +2583,6 @@
 0.0.0.0 ecs-online.ffm.to
 0.0.0.0 www.ecs-online.ffm.to
 0.0.0.0 store.ecs-online.ffm.to
-0.0.0.0 ed0.it
-0.0.0.0 www.ed0.it
-0.0.0.0 store.ed0.it
 0.0.0.0 edgeupgrade.com
 0.0.0.0 www.edgeupgrade.com
 0.0.0.0 store.edgeupgrade.com
@@ -3285,9 +3282,6 @@
 0.0.0.0 frdmmobile.com
 0.0.0.0 www.frdmmobile.com
 0.0.0.0 store.frdmmobile.com
-0.0.0.0 free.nf
-0.0.0.0 www.free.nf
-0.0.0.0 store.free.nf
 0.0.0.0 freebitcoin.pages.dev
 0.0.0.0 www.freebitcoin.pages.dev
 0.0.0.0 store.freebitcoin.pages.dev
@@ -3309,6 +3303,9 @@
 0.0.0.0 freedomgift50.com
 0.0.0.0 www.freedomgift50.com
 0.0.0.0 store.freedomgift50.com
+0.0.0.0 freedommobile.ca-login.com
+0.0.0.0 www.freedommobile.ca-login.com
+0.0.0.0 store.freedommobile.ca-login.com
 0.0.0.0 freedommobile.syncreturn.ca
 0.0.0.0 www.freedommobile.syncreturn.ca
 0.0.0.0 store.freedommobile.syncreturn.ca
@@ -3354,9 +3351,6 @@
 0.0.0.0 fuhos.us
 0.0.0.0 www.fuhos.us
 0.0.0.0 store.fuhos.us
-0.0.0.0 fujibikes.com
-0.0.0.0 www.fujibikes.com
-0.0.0.0 store.fujibikes.com
 0.0.0.0 fulfillgift.com
 0.0.0.0 www.fulfillgift.com
 0.0.0.0 store.fulfillgift.com
@@ -4422,9 +4416,6 @@
 0.0.0.0 link-etsy.com
 0.0.0.0 www.link-etsy.com
 0.0.0.0 store.link-etsy.com
-0.0.0.0 link.kemkes.go.id
-0.0.0.0 www.link.kemkes.go.id
-0.0.0.0 store.link.kemkes.go.id
 0.0.0.0 linkshe.com
 0.0.0.0 www.linkshe.com
 0.0.0.0 store.linkshe.com
@@ -4494,9 +4485,6 @@
 0.0.0.0 lookinmylove.com
 0.0.0.0 www.lookinmylove.com
 0.0.0.0 store.lookinmylove.com
-0.0.0.0 lootcrate.com
-0.0.0.0 www.lootcrate.com
-0.0.0.0 store.lootcrate.com
 0.0.0.0 lootcs.com
 0.0.0.0 www.lootcs.com
 0.0.0.0 store.lootcs.com
@@ -6141,9 +6129,6 @@
 0.0.0.0 olymptrade-qid.com
 0.0.0.0 www.olymptrade-qid.com
 0.0.0.0 store.olymptrade-qid.com
-0.0.0.0 olymptrade.com
-0.0.0.0 www.olymptrade.com
-0.0.0.0 store.olymptrade.com
 0.0.0.0 omgrm.com
 0.0.0.0 www.omgrm.com
 0.0.0.0 store.omgrm.com
@@ -6165,9 +6150,6 @@
 0.0.0.0 onlineadid.com
 0.0.0.0 www.onlineadid.com
 0.0.0.0 store.onlineadid.com
-0.0.0.0 onlinehome.us
-0.0.0.0 www.onlinehome.us
-0.0.0.0 store.onlinehome.us
 0.0.0.0 onlinekohler.com
 0.0.0.0 www.onlinekohler.com
 0.0.0.0 store.onlinekohler.com
@@ -8073,9 +8055,6 @@
 0.0.0.0 pumb.fasterpays.me
 0.0.0.0 www.pumb.fasterpays.me
 0.0.0.0 store.pumb.fasterpays.me
-0.0.0.0 pump.fun
-0.0.0.0 www.pump.fun
-0.0.0.0 store.pump.fun
 0.0.0.0 punyauang.xyz
 0.0.0.0 www.punyauang.xyz
 0.0.0.0 store.punyauang.xyz
@@ -8136,9 +8115,6 @@
 0.0.0.0 rabamnetee.com
 0.0.0.0 www.rabamnetee.com
 0.0.0.0 store.rabamnetee.com
-0.0.0.0 rabbit.tech
-0.0.0.0 www.rabbit.tech
-0.0.0.0 store.rabbit.tech
 0.0.0.0 radiatorcrate.com
 0.0.0.0 www.radiatorcrate.com
 0.0.0.0 store.radiatorcrate.com
@@ -10551,6 +10527,9 @@
 0.0.0.0 secrity2redline.com
 0.0.0.0 www.secrity2redline.com
 0.0.0.0 store.secrity2redline.com
+0.0.0.0 secure-freedom-mobile.com
+0.0.0.0 www.secure-freedom-mobile.com
+0.0.0.0 store.secure-freedom-mobile.com
 0.0.0.0 secure.staging.demo.www1.transaction-processing.one
 0.0.0.0 www.secure.staging.demo.www1.transaction-processing.one
 0.0.0.0 store.secure.staging.demo.www1.transaction-processing.one
@@ -13113,6 +13092,12 @@
 0.0.0.0 yyderfreap.shop
 0.0.0.0 www.yyderfreap.shop
 0.0.0.0 store.yyderfreap.shop
+0.0.0.0 z-lib.id
+0.0.0.0 www.z-lib.id
+0.0.0.0 store.z-lib.id
+0.0.0.0 z-lib.io
+0.0.0.0 www.z-lib.io
+0.0.0.0 store.z-lib.io
 0.0.0.0 z-lib.is
 0.0.0.0 www.z-lib.is
 0.0.0.0 store.z-lib.is
@@ -13149,6 +13134,9 @@
 0.0.0.0 zizozuze.com
 0.0.0.0 www.zizozuze.com
 0.0.0.0 store.zizozuze.com
+0.0.0.0 zlibrary.to
+0.0.0.0 www.zlibrary.to
+0.0.0.0 store.zlibrary.to
 0.0.0.0 zolrqw.palatlaldate.com
 0.0.0.0 www.zolrqw.palatlaldate.com
 0.0.0.0 store.zolrqw.palatlaldate.com
