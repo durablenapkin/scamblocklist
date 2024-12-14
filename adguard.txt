@@ -287,7 +287,6 @@
 ||elitestrustonline.biz^
 ||elitestrustonline.com^
 ||ellezz.com^
-||elonmusk2x.org^
 ||elonweb.org^
 ||elrifeno.com^
 ||emberio.com^
@@ -343,6 +342,7 @@
 ||fdrc-gov.org^
 ||felara.com.do^
 ||femalecozy.com^
+||fement.info^
 ||fgtgr.buzz^
 ||filedenzu.com^
 ||filexstorage.site^
@@ -700,7 +700,6 @@
 ||nofotballshop.com^
 ||nofotballstore.com^
 ||norfotball.com^
-||norgefotball.com^
 ||norgeshoes.com^
 ||nosdaarte.com^
 ||novabeds.ca^
@@ -986,7 +985,6 @@
 ||ultrasonica.info^
 ||ultrawa.com^
 ||um-bs.com^
-||unifully.com^
 ||universityofqatarrectorate.godaddysites.com^
 ||uplevelreward.com^
 ||uprising.kip.pro^
@@ -995,7 +993,6 @@
 ||usasport247.com^
 ||usburtonsnowboard.com^
 ||uschse04.my03.com^
-||ushiro.org^
 ||ussportabout.com^
 ||ussportpioneer.com^
 ||uszjj.fyjkxzq.shop^
@@ -1060,7 +1057,6 @@
 ||zat.io^
 ||zaz4o.securesolidlink.com^
 ||zedbubble.com^
-||zerowasteinitiative.com^
 ||zillify.cfd^
 ||zlibrary.to^
 ||zolrqw.palatlaldate.com^
