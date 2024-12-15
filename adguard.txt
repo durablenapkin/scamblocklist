@@ -17,7 +17,9 @@
 ||5g-update.com^
 ||5wzgtq8dpk.com^
 ||65spy7rgcu.com^
+||68437w.top^
 ||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
+||7s4c.top^
 ||93mobiles.com^
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
@@ -60,6 +62,7 @@
 ||altruetech.com^
 ||am-freights.com^
 ||amcclothes.com^
+||amlbot.request.report^
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
@@ -129,6 +132,7 @@
 ||binomoweblogin.com^
 ||binorobot.com^
 ||bisertravel.com.mk^
+||bitcllpay.top^
 ||bitdefender.top^
 ||bite-life.com^
 ||bitsoft360.app^
@@ -147,8 +151,8 @@
 ||bolejug.us^
 ||bombardina.pl^
 ||bonrbox.com^
+||booking.com.id25106619.top^
 ||booliving.com^
-||bossaving.com^
 ||botsuanah.com^
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
@@ -342,7 +346,6 @@
 ||fdrc-gov.org^
 ||felara.com.do^
 ||femalecozy.com^
-||fement.info^
 ||fgtgr.buzz^
 ||filedenzu.com^
 ||filexstorage.site^
@@ -642,7 +645,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -692,7 +694,6 @@
 ||nip5.com^
 ||nip57.com^
 ||nip69.com^
-||nip8.com^
 ||nip89.com^
 ||nirvezal.com^
 ||nldstore.com^
@@ -789,6 +790,8 @@
 ||radiatorcrate.com^
 ||re-captha-version-3-277.buzz^
 ||reforest-iita.org^
+||request.report^
+||reschedulepostca.info^
 ||resources4gaming.com^
 ||reviewshirts.com^
 ||rewardsgiantca.com^

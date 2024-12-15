@@ -324,6 +324,9 @@
 0.0.0.0 amdestore.com
 0.0.0.0 www.amdestore.com
 0.0.0.0 store.amdestore.com
+0.0.0.0 amlbot.request.report
+0.0.0.0 www.amlbot.request.report
+0.0.0.0 store.amlbot.request.report
 0.0.0.0 amorpulse.com
 0.0.0.0 www.amorpulse.com
 0.0.0.0 store.amorpulse.com
@@ -8181,6 +8184,9 @@
 0.0.0.0 remote.app.admin.id601294105.date
 0.0.0.0 www.remote.app.admin.id601294105.date
 0.0.0.0 store.remote.app.admin.id601294105.date
+0.0.0.0 request.report
+0.0.0.0 www.request.report
+0.0.0.0 store.request.report
 0.0.0.0 rescheduledeliverycan-post.com
 0.0.0.0 www.rescheduledeliverycan-post.com
 0.0.0.0 store.rescheduledeliverycan-post.com
