@@ -6300,6 +6300,9 @@
 0.0.0.0 papeetee.com
 0.0.0.0 www.papeetee.com
 0.0.0.0 store.papeetee.com
+0.0.0.0 paquet1nfopabox.com
+0.0.0.0 www.paquet1nfopabox.com
+0.0.0.0 store.paquet1nfopabox.com
 0.0.0.0 paquetsuivi7noti.com
 0.0.0.0 www.paquetsuivi7noti.com
 0.0.0.0 store.paquetsuivi7noti.com
