@@ -289,7 +289,6 @@
 ||ellezz.com^
 ||elonweb.org^
 ||elrifeno.com^
-||emberio.com^
 ||en407etr.com^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
@@ -361,7 +360,6 @@
 ||freedom.service-update3.com^
 ||frest.info^
 ||friday89.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fulfillgift.com^
@@ -617,7 +615,6 @@
 ||nationaladvancegroup.com^
 ||natvisa.com^
 ||navi1.com^
-||navi1.ru^
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
@@ -642,7 +639,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi4.ru^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -652,7 +649,6 @@
 ||navi58.com^
 ||navi59.ru^
 ||navi6.com^
-||navi61.ru^
 ||navi63.ru^
 ||navi65.com^
 ||navi66.ru^
@@ -662,7 +658,6 @@
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
-||navi83.ru^
 ||navi86.ru^
 ||navi88.com^
 ||navi99.com^
@@ -791,6 +786,7 @@
 ||quotex.com.in^
 ||radiatorcrate.com^
 ||re-captha-version-3-277.buzz^
+||reanimando.org^
 ||reforest-iita.org^
 ||resources4gaming.com^
 ||reviewshirts.com^
@@ -1022,6 +1018,7 @@
 ||werfew.com^
 ||wezpod.com^
 ||whbinder.com^
+||whyareyouherewho.ru^
 ||wikeb.com^
 ||wind88.shop^
 ||wintexfashions.com^
