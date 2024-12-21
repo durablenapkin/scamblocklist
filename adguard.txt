@@ -155,7 +155,6 @@
 ||breakshirts.com^
 ||brttre.com^
 ||bsnl-tower.com^
-||bsnl-tower.in^
 ||bsnl5gtower.com^
 ||bsnltowerinstallations.com^
 ||bsnltowersite.in^
@@ -207,6 +206,7 @@
 ||coinaps.com^
 ||coinreq.com^
 ||colorandcotton.com^
+||com-id01251.info^
 ||comdinew.com^
 ||compoundexotics.com^
 ||containably.com^
@@ -219,6 +219,7 @@
 ||covex.it^
 ||crackedpc.org^
 ||cracksway.com^
+||crm-b2c-26477.de^
 ||crocssalenz.com^
 ||crypto022.online^
 ||crypto029.online^
@@ -238,7 +239,6 @@
 ||danylevych.com^
 ||dash.pocketuniverse.app^
 ||dashracegear.net^
-||dataid-subsidies.click^
 ||datempire.com^
 ||dautee.com^
 ||dbkdsale.com^
@@ -358,6 +358,7 @@
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
+||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -602,6 +603,7 @@
 ||museuw.com^
 ||musk-project.com^
 ||muskusa.com^
+||muthaafoundation.org^
 ||mybestautologin567.com^
 ||myblogshop.top^
 ||myfunfarm.com^
@@ -679,6 +681,7 @@
 ||nip1.com^
 ||nip10.com^
 ||nip12.com^
+||nip17.com^
 ||nip2.com^
 ||nip23.com^
 ||nip24.com^
@@ -786,7 +789,6 @@
 ||quotex.com.in^
 ||radiatorcrate.com^
 ||re-captha-version-3-277.buzz^
-||reanimando.org^
 ||reforest-iita.org^
 ||resources4gaming.com^
 ||reviewshirts.com^
@@ -976,6 +978,7 @@
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
+||uange.shop^
 ||ucureo.com^
 ||udemy-creators.com^
 ||udrop.com^
@@ -1018,7 +1021,6 @@
 ||werfew.com^
 ||wezpod.com^
 ||whbinder.com^
-||whyareyouherewho.ru^
 ||wikeb.com^
 ||wind88.shop^
 ||wintexfashions.com^
