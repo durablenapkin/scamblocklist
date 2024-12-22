@@ -3696,6 +3696,9 @@
 0.0.0.0 happylifetee.com
 0.0.0.0 www.happylifetee.com
 0.0.0.0 store.happylifetee.com
+0.0.0.0 happymod.cloud
+0.0.0.0 www.happymod.cloud
+0.0.0.0 store.happymod.cloud
 0.0.0.0 haruko.store
 0.0.0.0 www.haruko.store
 0.0.0.0 store.haruko.store
