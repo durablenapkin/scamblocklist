@@ -2220,6 +2220,9 @@
 0.0.0.0 csgoproleague.com
 0.0.0.0 www.csgoproleague.com
 0.0.0.0 store.csgoproleague.com
+0.0.0.0 cshrewards.net
+0.0.0.0 www.cshrewards.net
+0.0.0.0 store.cshrewards.net
 0.0.0.0 csmoney.trade
 0.0.0.0 www.csmoney.trade
 0.0.0.0 store.csmoney.trade
