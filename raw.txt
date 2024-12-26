@@ -12135,6 +12135,12 @@
 0.0.0.0 x2droptesla.com
 0.0.0.0 www.x2droptesla.com
 0.0.0.0 store.x2droptesla.com
+0.0.0.0 xai467k.com
+0.0.0.0 www.xai467k.com
+0.0.0.0 store.xai467k.com
+0.0.0.0 xaiwallets.net
+0.0.0.0 www.xaiwallets.net
+0.0.0.0 store.xaiwallets.net
 0.0.0.0 xajzfwgs.com
 0.0.0.0 www.xajzfwgs.com
 0.0.0.0 store.xajzfwgs.com
