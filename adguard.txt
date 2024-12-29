@@ -356,7 +356,6 @@
 ||freebitcoin.pages.dev^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
-||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -582,7 +581,6 @@
 ||microsoft-notifcation.com^
 ||midnightsociety-x.com^
 ||mila-vica.de^
-||miles.plumenetwork.xyz^
 ||milgenial.uy^
 ||miningco.site^
 ||miucart.com^
@@ -647,10 +645,10 @@
 ||navi58.com^
 ||navi59.ru^
 ||navi6.com^
+||navi61.ru^
 ||navi63.ru^
 ||navi65.com^
 ||navi66.ru^
-||navi68.ru^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -784,7 +782,6 @@
 ||quitasueno.com^
 ||quotex.com.in^
 ||radiatorcrate.com^
-||re-captha-version-3-277.buzz^
 ||reforest-iita.org^
 ||resources4gaming.com^
 ||reviewshirts.com^
@@ -972,7 +969,8 @@
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
-||uange.shop^
+||u.infotrackcd.top^
+||uangmu.top^
 ||ucureo.com^
 ||udemy-creators.com^
 ||udrop.com^
@@ -988,6 +986,8 @@
 ||ureashi.com^
 ||usasport247.com^
 ||uschse04.my03.com^
+||usps.com-tracking-helpsenf.xyz^
+||uspw.usspaqn.top^
 ||ussportabout.com^
 ||ussportpioneer.com^
 ||valeofoodsgroup.com^
@@ -1010,6 +1010,7 @@
 ||volcomofficial.com^
 ||w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app^
 ||wadahlapak.top^
+||walmartchina.top^
 ||wavetshirt.com^
 ||werfew.com^
 ||wezpod.com^
@@ -1047,7 +1048,6 @@
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
-||yvjexi.shop^
 ||z-lib.id^
 ||z-lib.io^
 ||z-lib.is^

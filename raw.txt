@@ -4728,9 +4728,6 @@
 0.0.0.0 mila-vica.de
 0.0.0.0 www.mila-vica.de
 0.0.0.0 store.mila-vica.de
-0.0.0.0 miles.plumenetwork.xyz
-0.0.0.0 www.miles.plumenetwork.xyz
-0.0.0.0 store.miles.plumenetwork.xyz
 0.0.0.0 milgenial.uy
 0.0.0.0 www.milgenial.uy
 0.0.0.0 store.milgenial.uy
@@ -11823,6 +11820,9 @@
 0.0.0.0 uspostalservice11.d74r.co
 0.0.0.0 www.uspostalservice11.d74r.co
 0.0.0.0 store.uspostalservice11.d74r.co
+0.0.0.0 usps.com-tracking-helpsenf.xyz
+0.0.0.0 www.usps.com-tracking-helpsenf.xyz
+0.0.0.0 store.usps.com-tracking-helpsenf.xyz
 0.0.0.0 uspsglobalexpress.com
 0.0.0.0 www.uspsglobalexpress.com
 0.0.0.0 store.uspsglobalexpress.com
