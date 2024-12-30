@@ -227,7 +227,6 @@
 ||csmoney.trade^
 ||customizerbox.com^
 ||customurink.com^
-||cutty.app^
 ||cycle100percent.com^
 ||czwcvfbc.page.link^
 ||dailygiftstore.com^
@@ -354,6 +353,7 @@
 ||flattee.com^
 ||folkrbvi.pages.dev^
 ||freebitcoin.pages.dev^
+||freedom-5g.com^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
 ||frest.info^
@@ -499,7 +499,6 @@
 ||jne-express.my.id^
 ||jollyfamilygifts.net^
 ||jonausa.com^
-||jourl.live^
 ||jsdimmigration.com^
 ||jsdimmigrations.com^
 ||jyfrsjdkkhue.com^
@@ -585,6 +584,7 @@
 ||miningco.site^
 ||miucart.com^
 ||mizunsports.com^
+||moddetail.com^
 ||modmobile24.com^
 ||monkstars.co^
 ||monkstars.com^
@@ -635,6 +635,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi4.ru^
 ||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
@@ -645,7 +646,6 @@
 ||navi58.com^
 ||navi59.ru^
 ||navi6.com^
-||navi61.ru^
 ||navi63.ru^
 ||navi65.com^
 ||navi66.ru^
@@ -795,6 +795,7 @@
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rozaholshouser.cfd^
+||rptbaa.shop^
 ||rsaonlinenow.com.au^
 ||ruecksendungen-gratis.com^
 ||rustdesk.co.nz^
@@ -852,7 +853,6 @@
 ||sodipi.com^
 ||software19797.blogspot.com^
 ||softzspot.com^
-||solution7energieqc.com^
 ||somethingapparel.com^
 ||souhoney.com^
 ||southernlife.net^
@@ -969,8 +969,6 @@
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
-||u.infotrackcd.top^
-||uangmu.top^
 ||ucureo.com^
 ||udemy-creators.com^
 ||udrop.com^
@@ -986,8 +984,6 @@
 ||ureashi.com^
 ||usasport247.com^
 ||uschse04.my03.com^
-||usps.com-tracking-helpsenf.xyz^
-||uspw.usspaqn.top^
 ||ussportabout.com^
 ||ussportpioneer.com^
 ||valeofoodsgroup.com^
@@ -1010,10 +1006,8 @@
 ||volcomofficial.com^
 ||w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app^
 ||wadahlapak.top^
-||walmartchina.top^
 ||wavetshirt.com^
 ||werfew.com^
-||wezpod.com^
 ||whbinder.com^
 ||wikeb.com^
 ||wind88.shop^
