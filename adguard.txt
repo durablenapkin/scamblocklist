@@ -65,7 +65,7 @@
 ||amznshirts.com^
 ||an1.is^
 ||andamente.pt^
-||animeshoppers.com^
+||annualwealthsimplereview.info^
 ||anydebrid.com^
 ||anywherepastry.top^
 ||app.identity-nexo.xborders.io^
@@ -499,9 +499,11 @@
 ||jne-express.my.id^
 ||jollyfamilygifts.net^
 ||jonausa.com^
+||jourl.live^
 ||jsdimmigration.com^
 ||jsdimmigrations.com^
 ||jyfrsjdkkhue.com^
+||k-tozluxury.shop^
 ||karan-pc.com^
 ||karanpcofficial.blogspot.com^
 ||keltysale.com^
@@ -610,6 +612,7 @@
 ||natilove.com^
 ||nationaladvancegroup.com^
 ||natvisa.com^
+||navi0.ru^
 ||navi1.com^
 ||navi10.com^
 ||navi10.ru^
@@ -635,7 +638,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi4.ru^
 ||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
@@ -795,7 +797,6 @@
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rozaholshouser.cfd^
-||rptbaa.shop^
 ||rsaonlinenow.com.au^
 ||ruecksendungen-gratis.com^
 ||rustdesk.co.nz^
@@ -825,7 +826,6 @@
 ||sellfox.com^
 ||sentees.com^
 ||serengetidiscount.com^
-||shiptop.delivery^
 ||shirttest.com^
 ||shoeaddic.com^
 ||shopperexpress.shop^
@@ -982,7 +982,6 @@
 ||uprising.kip.pro^
 ||upsbezorging.com^
 ||ureashi.com^
-||usasport247.com^
 ||uschse04.my03.com^
 ||ussportabout.com^
 ||ussportpioneer.com^
@@ -1008,6 +1007,7 @@
 ||wadahlapak.top^
 ||wavetshirt.com^
 ||werfew.com^
+||wezpod.com^
 ||whbinder.com^
 ||wikeb.com^
 ||wind88.shop^

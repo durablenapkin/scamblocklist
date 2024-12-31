@@ -357,6 +357,9 @@
 0.0.0.0 annemus.com
 0.0.0.0 www.annemus.com
 0.0.0.0 store.annemus.com
+0.0.0.0 annualwealthsimplereview.info
+0.0.0.0 www.annualwealthsimplereview.info
+0.0.0.0 store.annualwealthsimplereview.info
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
 0.0.0.0 store.anydebrid.com
