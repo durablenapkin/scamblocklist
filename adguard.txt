@@ -99,6 +99,7 @@
 ||baltic79.wordpress.com^
 ||balticpipe.wordpress.com^
 ||bantucepat.com^
+||baroconcept.com^
 ||bcb.game^
 ||beacon.apsehick.date^
 ||beautysolution24.com^
@@ -349,9 +350,11 @@
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.vip^
 ||fitgirlrepacksite.com^
+||fix-live.tech^
 ||fkpgr.buzz^
 ||flattee.com^
 ||folkrbvi.pages.dev^
+||foxzily.xyz^
 ||freebitcoin.pages.dev^
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
@@ -541,6 +544,7 @@
 ||lesliespracklen.sa.com^
 ||letteringift.com^
 ||levelbash.com^
+||levelupstore.xyz^
 ||lifestyletrading.co.za^
 ||likenu.se^
 ||limitalfresco.com^
@@ -598,7 +602,6 @@
 ||museuw.com^
 ||musk-project.com^
 ||muskusa.com^
-||muthaafoundation.org^
 ||mybestautologin567.com^
 ||myblogshop.top^
 ||myfunfarm.com^
@@ -636,13 +639,11 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
 ||navi53.com^
 ||navi54.com^
-||navi55.ru^
 ||navi56.com^
 ||navi58.com^
 ||navi59.ru^
@@ -918,7 +919,6 @@
 ||teezill.com^
 ||telemarktalk.com^
 ||terinaverkler.click^
-||terverystaio.info^
 ||tesla-online.net^
 ||teslafond.io^
 ||teslamaked.com^
@@ -1009,6 +1009,7 @@
 ||werfew.com^
 ||wezpod.com^
 ||whbinder.com^
+||whyareyouherewho.ru^
 ||wikeb.com^
 ||wind88.shop^
 ||wintexfashions.com^
