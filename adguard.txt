@@ -213,13 +213,13 @@
 ||coolestpod.com^
 ||cooperation-odoo.com^
 ||corg.co^
-||corroercl.xyz^
 ||couponxoo.com^
 ||courier-tracking.com^
 ||covex.it^
 ||crackedpc.org^
 ||cracksway.com^
 ||crm-b2c-26477.de^
+||crm2.tbg-lmtd.xyz^
 ||crocssalenz.com^
 ||crypto022.online^
 ||crypto029.online^
@@ -231,6 +231,7 @@
 ||csmoney.trade^
 ||customizerbox.com^
 ||customurink.com^
+||cuteclub.org^
 ||cycle100percent.com^
 ||czwcvfbc.page.link^
 ||dailygiftstore.com^
@@ -242,7 +243,6 @@
 ||dashracegear.net^
 ||datempire.com^
 ||dautee.com^
-||dbhmnp.shop^
 ||dbkdsale.com^
 ||ddcad3.reviewgiftfb.com^
 ||ddzk513bd.com^
@@ -265,6 +265,7 @@
 ||dogparadisestore.com^
 ||dolomiteoutlet.com^
 ||dolystore.com^
+||dopestore.pl^
 ||download.instructionclub.com^
 ||draxu.com^
 ||dreamgreenshoe.com^
@@ -356,11 +357,11 @@
 ||fkpgr.buzz^
 ||flattee.com^
 ||folkrbvi.pages.dev^
-||foxzily.xyz^
 ||freebitcoin.pages.dev^
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
+||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -392,7 +393,6 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
-||godsfillingstation.org^
 ||gogiworld.com^
 ||goglle.com^
 ||goindiavisa.com^
@@ -486,6 +486,7 @@
 ||info-animals.com^
 ||info-flirtme.com^
 ||info-milfroom.com^
+||informed.updateicybd.top^
 ||injustice.site^
 ||innomediacreate.com^
 ||instant-e-app-for-campaign.github.io^
@@ -588,23 +589,19 @@
 ||miles.plumenetwork.xyz^
 ||milgenial.uy^
 ||miningco.site^
-||missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop^
 ||miucart.com^
 ||mizunsports.com^
 ||moddetail.com^
 ||modmobile24.com^
 ||monkstars.co^
 ||monkstars.com^
-||mononus.com^
 ||monpaquet9trackpobox.com^
 ||motovinreports.com^
 ||movica.us^
 ||ms-analytics.mywire.org^
 ||mslfgl434.pages.dev^
-||msmcompare.com^
 ||mujib-store28.blogspot.com^
 ||museuw.com^
-||musk-event.xyz^
 ||musk-project.com^
 ||muskusa.com^
 ||mybestautologin567.com^
@@ -655,7 +652,6 @@
 ||navi59.ru^
 ||navi6.com^
 ||navi63.ru^
-||navi65.com^
 ||navi66.ru^
 ||navi7.com^
 ||navi72.com^
@@ -722,6 +718,7 @@
 ||oldcube.com^
 ||olive121407.studio.site^
 ||olymptrade-qid.com^
+||omgrm.com^
 ||online-binomo.com^
 ||online-eta.com^
 ||onlinestores.factorysale2023.com^
@@ -778,6 +775,7 @@
 ||printkay.com^
 ||produktretter.at^
 ||produktretter.com^
+||produktretter.org^
 ||produkttest-anmeldung.com^
 ||produkttester-anmeldung.com^
 ||produkttester-werden.org^
@@ -862,6 +860,7 @@
 ||somethingapparel.com^
 ||souhoney.com^
 ||southernlife.net^
+||sportfanvoice.com^
 ||sportsapparelmarket.com^
 ||sportsbrooks.com^
 ||sportswearfanatics.com^
@@ -878,7 +877,6 @@
 ||stage3sale2024.online^
 ||stage3x.site^
 ||stage3x.store^
-||staging.app.admin.id601294105.date^
 ||staging.zendrop.com^
 ||stallioncredit.com^
 ||startjacket.com^
@@ -909,6 +907,7 @@
 ||supercutestuff.com^
 ||superofferte.shop^
 ||supperbrand.company.site^
+||supporthubcenter.eu^
 ||supreme-adblocker.net^
 ||survivalcatsupply.com^
 ||sweepbuzz.buzz^
@@ -922,13 +921,14 @@
 ||tecappcloud.com^
 ||tee24h.com^
 ||teearrow.com^
-||teeslegendary.com^
 ||teezill.com^
 ||telemarktalk.com^
 ||terinaverkler.click^
 ||tesla-online.net^
 ||teslafond.io^
+||teslalnc.org^
 ||teslamaked.com^
+||teslax2claim.org^
 ||the-north-face.gr^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
@@ -990,7 +990,6 @@
 ||ussportabout.com^
 ||ussportpioneer.com^
 ||valeofoodsgroup.com^
-||vegamartz.com^
 ||veilcurtin.world^
 ||velmaglendenning.ru.com^
 ||venezuelabaseballjerseys.com^
@@ -1005,11 +1004,13 @@
 ||visagov.com^
 ||visahq.com^
 ||visasimple.com^
+||visatoindia.org^
 ||visumbuitenland.nl^
 ||volcomofficial.com^
 ||w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app^
 ||wadahlapak.top^
 ||wavetshirt.com^
+||webmail.processing-transaction.info^
 ||werfew.com^
 ||wezpod.com^
 ||whbinder.com^
@@ -1052,6 +1053,7 @@
 ||zat.io^
 ||zaz4o.securesolidlink.com^
 ||zedbubble.com^
+||zerowasteinitiative.com^
 ||zillify.cfd^
 ||zlibrary.to^
 ||zolrqw.palatlaldate.com^
