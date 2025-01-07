@@ -12018,6 +12018,9 @@
 0.0.0.0 wavetshirt.com
 0.0.0.0 www.wavetshirt.com
 0.0.0.0 store.wavetshirt.com
+0.0.0.0 wazofurniture.com
+0.0.0.0 www.wazofurniture.com
+0.0.0.0 store.wazofurniture.com
 0.0.0.0 wbebellmail.z13.web.core.windows.net
 0.0.0.0 www.wbebellmail.z13.web.core.windows.net
 0.0.0.0 store.wbebellmail.z13.web.core.windows.net
