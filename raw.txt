@@ -252,9 +252,6 @@
 0.0.0.0 akatee.com
 0.0.0.0 www.akatee.com
 0.0.0.0 store.akatee.com
-0.0.0.0 akbartravels.com
-0.0.0.0 www.akbartravels.com
-0.0.0.0 store.akbartravels.com
 0.0.0.0 akebicycle.com
 0.0.0.0 www.akebicycle.com
 0.0.0.0 store.akebicycle.com
@@ -1668,9 +1665,6 @@
 0.0.0.0 btc9339.com
 0.0.0.0 www.btc9339.com
 0.0.0.0 store.btc9339.com
-0.0.0.0 btwvisas.com
-0.0.0.0 www.btwvisas.com
-0.0.0.0 store.btwvisas.com
 0.0.0.0 buckeyesstore.online
 0.0.0.0 www.buckeyesstore.online
 0.0.0.0 store.buckeyesstore.online
@@ -3846,6 +3840,9 @@
 0.0.0.0 id51051062.date
 0.0.0.0 www.id51051062.date
 0.0.0.0 store.id51051062.date
+0.0.0.0 igloaptopto.net
+0.0.0.0 www.igloaptopto.net
+0.0.0.0 store.igloaptopto.net
 0.0.0.0 ihuers.com
 0.0.0.0 www.ihuers.com
 0.0.0.0 store.ihuers.com
@@ -6066,6 +6063,9 @@
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 store.nosdaarte.com
+0.0.0.0 notify-user-adjustments.vercel.app
+0.0.0.0 www.notify-user-adjustments.vercel.app
+0.0.0.0 store.notify-user-adjustments.vercel.app
 0.0.0.0 novabeds.ca
 0.0.0.0 www.novabeds.ca
 0.0.0.0 store.novabeds.ca
@@ -10605,6 +10605,9 @@
 0.0.0.0 sharonup.com
 0.0.0.0 www.sharonup.com
 0.0.0.0 store.sharonup.com
+0.0.0.0 shaughixefooz.net
+0.0.0.0 www.shaughixefooz.net
+0.0.0.0 store.shaughixefooz.net
 0.0.0.0 shinepuzzle.com
 0.0.0.0 www.shinepuzzle.com
 0.0.0.0 store.shinepuzzle.com
@@ -11250,6 +11253,9 @@
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
 0.0.0.0 store.teezill.com
+0.0.0.0 telegramweb.vercel.app
+0.0.0.0 www.telegramweb.vercel.app
+0.0.0.0 store.telegramweb.vercel.app
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
 0.0.0.0 store.telemarktalk.com
@@ -11619,6 +11625,9 @@
 0.0.0.0 tritino.net
 0.0.0.0 www.tritino.net
 0.0.0.0 store.tritino.net
+0.0.0.0 trivo.uk
+0.0.0.0 www.trivo.uk
+0.0.0.0 store.trivo.uk
 0.0.0.0 trkucibqy.com
 0.0.0.0 www.trkucibqy.com
 0.0.0.0 store.trkucibqy.com
@@ -11949,9 +11958,6 @@
 0.0.0.0 visagov.com
 0.0.0.0 www.visagov.com
 0.0.0.0 store.visagov.com
-0.0.0.0 visahq.com
-0.0.0.0 www.visahq.com
-0.0.0.0 store.visahq.com
 0.0.0.0 visasimple.com
 0.0.0.0 www.visasimple.com
 0.0.0.0 store.visasimple.com
