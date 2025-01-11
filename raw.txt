@@ -4638,6 +4638,9 @@
 0.0.0.0 mangacos.com
 0.0.0.0 www.mangacos.com
 0.0.0.0 store.mangacos.com
+0.0.0.0 mansion-xenarthran.info
+0.0.0.0 www.mansion-xenarthran.info
+0.0.0.0 store.mansion-xenarthran.info
 0.0.0.0 markethops.com
 0.0.0.0 www.markethops.com
 0.0.0.0 store.markethops.com
@@ -10845,6 +10848,9 @@
 0.0.0.0 spacexpump23.com
 0.0.0.0 www.spacexpump23.com
 0.0.0.0 store.spacexpump23.com
+0.0.0.0 spark.kindpickle.info
+0.0.0.0 www.spark.kindpickle.info
+0.0.0.0 store.spark.kindpickle.info
 0.0.0.0 sparka-tan.info
 0.0.0.0 www.sparka-tan.info
 0.0.0.0 store.sparka-tan.info
