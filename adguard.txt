@@ -25,6 +25,7 @@
 ||aadirone.cc^
 ||abncbp.com^
 ||account-cfe.mx^
+||account.ws-reward.com^
 ||adidasko.com^
 ||adzfree-watch.net^
 ||affordableforyouusa5.godaddysites.com^
@@ -153,6 +154,7 @@
 ||brttre.com^
 ||bsnl-tower.com^
 ||bsnl5gtower.com^
+||bsnltower5g.com^
 ||bsnltowerinstallations.com^
 ||bsnltowersite.in^
 ||btc9339.com^
@@ -402,6 +404,7 @@
 ||goyourheart.com^
 ||gratis-eltern-produkttests.com^
 ||gsport.com^
+||gtltowerinfratel.in^
 ||gunstee.com^
 ||habtoorloyal.com^
 ||haceroberomaste.com^
@@ -641,7 +644,6 @@
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
-||navi50.ru^
 ||navi53.com^
 ||navi54.com^
 ||navi56.com^
@@ -668,7 +670,6 @@
 ||newgstore.com^
 ||newincomingmessage.com^
 ||newoutdoorsale.com^
-||next-cryptopod.xyz^
 ||nextmrolympia.com^
 ||nextstephire.net^
 ||ngreditinaja.top^
@@ -742,7 +743,6 @@
 ||parcelprocessingredelivery1.info^
 ||pateim.com^
 ||path2zillion.com^
-||pay.www.www.id19045617.info^
 ||pekanbaru.one^
 ||peppatees.com^
 ||perlatoshoe.com^
@@ -784,6 +784,7 @@
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||punyauang.xyz^
 ||queenscattery.com^
+||quitasueno.com^
 ||quotex.com.in^
 ||radiatorcrate.com^
 ||reforest-iita.org^
@@ -952,6 +953,7 @@
 ||tomadamsenergy.com^
 ||touristvisaonline.com^
 ||towerinstallation5g.com^
+||towerinstalltion5g.in^
 ||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
@@ -1019,6 +1021,7 @@
 ||withyotta.com^
 ||woadoodles.com^
 ||wpclick.cc^
+||ws.existingcustomer.live^
 ||ww25.utilify.me^
 ||wyzia-orderdeposits.com^
 ||x2-promo.net^
