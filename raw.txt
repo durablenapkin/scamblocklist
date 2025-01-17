@@ -12153,6 +12153,9 @@
 0.0.0.0 wowviral.net
 0.0.0.0 www.wowviral.net
 0.0.0.0 store.wowviral.net
+0.0.0.0 wp3.xyz
+0.0.0.0 www.wp3.xyz
+0.0.0.0 store.wp3.xyz
 0.0.0.0 wpclick.cc
 0.0.0.0 www.wpclick.cc
 0.0.0.0 store.wpclick.cc

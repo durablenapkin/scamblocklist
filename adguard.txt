@@ -153,7 +153,6 @@
 ||breakshirts.com^
 ||brttre.com^
 ||bsnl-tower.com^
-||bsnl5gtower.com^
 ||bsnltower5g.com^
 ||bsnltowerinstallations.com^
 ||bsnltowersite.in^
@@ -641,7 +640,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -761,6 +759,7 @@
 ||pinjamuang.top^
 ||pipopi.com^
 ||pjs.outlet.com^
+||pn10.xyz^
 ||polish-money-matters.blogspot.com^
 ||popeurope.com^
 ||poppee.online^
@@ -956,6 +955,7 @@
 ||touristvisaonline.com^
 ||towerinstallation5g.com^
 ||towerinstalltion5g.in^
+||townaptdesk.info^
 ||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
@@ -1022,6 +1022,7 @@
 ||wisdomganga.com^
 ||withyotta.com^
 ||woadoodles.com^
+||wp3.xyz^
 ||wpclick.cc^
 ||ws.existingcustomer.live^
 ||ww25.utilify.me^
