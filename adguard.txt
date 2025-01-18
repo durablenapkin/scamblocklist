@@ -64,7 +64,6 @@
 ||amznshirts.com^
 ||an1.is^
 ||andamente.pt^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app.identity-nexo.xborders.io^
 ||app.uniwspapp.com^
@@ -119,6 +118,7 @@
 ||binomo.vip^
 ||binomo1.com^
 ||binomo2.zendesk.com^
+||binomo2022.net^
 ||binomoidr.com^
 ||binomoindonesia.com^
 ||binomorupiah-id.com^
@@ -310,6 +310,7 @@
 ||expertrader.me^
 ||expresscourier.delivery^
 ||expressmovers.com^
+||ezdrivema.com-customerhnz.top^
 ||facebook-google-15oqyxwtkremqyujsm.vercel.app^
 ||facebook-google-vptyyny63pwfipshmm.vercel.app^
 ||facebook-google-ygggvmvciad74v9lhi.vercel.app^
@@ -334,6 +335,7 @@
 ||faze40.com^
 ||faze47.com^
 ||faze5.com^
+||faze8.com^
 ||fazpowerdenet.tumblr.com^
 ||fdrc-gov.org^
 ||felara.com.do^
@@ -608,6 +610,7 @@
 ||myfunfarm.com^
 ||myhandshops.myshopify.com^
 ||mystitich4u.com^
+||mysuperdatingforyou.life^
 ||n24-news.com^
 ||nabaza.shop^
 ||nalzahqp.page.link^
@@ -642,6 +645,7 @@
 ||navi4.com^
 ||navi45.ru^
 ||navi5.com^
+||navi5.ru^
 ||navi50.com^
 ||navi53.com^
 ||navi54.com^
@@ -659,6 +663,7 @@
 ||navi8.com^
 ||navi86.ru^
 ||navi88.com^
+||navi94.ru^
 ||navi99.com^
 ||nayatowerinstallation.in.net^
 ||neozor.com^
@@ -759,7 +764,6 @@
 ||pinjamuang.top^
 ||pipopi.com^
 ||pjs.outlet.com^
-||pn10.xyz^
 ||polish-money-matters.blogspot.com^
 ||popeurope.com^
 ||poppee.online^
@@ -796,7 +800,6 @@
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
 ||rockchief.com^
-||ronagoupil.ca^
 ||rosateeshop.com^
 ||royaldecorhome.store^
 ||royalhedgies.com^
@@ -884,6 +887,7 @@
 ||startjacket.com^
 ||startuplatte.com^
 ||steamgateways.com^
+||steammcommunuty.ru^
 ||steamunlock.com^
 ||stearncommunjty.net^
 ||stellara.de^
@@ -955,7 +959,6 @@
 ||touristvisaonline.com^
 ||towerinstallation5g.com^
 ||towerinstalltion5g.in^
-||townaptdesk.info^
 ||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
@@ -1026,7 +1029,6 @@
 ||wpclick.cc^
 ||ws.existingcustomer.live^
 ||ww25.utilify.me^
-||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
 ||xaiwallets.net^

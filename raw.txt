@@ -2793,6 +2793,9 @@
 0.0.0.0 extradevip.com
 0.0.0.0 www.extradevip.com
 0.0.0.0 store.extradevip.com
+0.0.0.0 ezdrivema.com-customerhnz.top
+0.0.0.0 www.ezdrivema.com-customerhnz.top
+0.0.0.0 store.ezdrivema.com-customerhnz.top
 0.0.0.0 ezycases.com
 0.0.0.0 www.ezycases.com
 0.0.0.0 store.ezycases.com
@@ -8301,9 +8304,6 @@
 0.0.0.0 rockinlives.com
 0.0.0.0 www.rockinlives.com
 0.0.0.0 store.rockinlives.com
-0.0.0.0 ronagoupil.ca
-0.0.0.0 www.ronagoupil.ca
-0.0.0.0 store.ronagoupil.ca
 0.0.0.0 rosateeshop.com
 0.0.0.0 www.rosateeshop.com
 0.0.0.0 store.rosateeshop.com
