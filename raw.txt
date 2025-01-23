@@ -3861,6 +3861,9 @@
 0.0.0.0 id51051062.date
 0.0.0.0 www.id51051062.date
 0.0.0.0 store.id51051062.date
+0.0.0.0 ieztoskbcoalf.z13.web.core.windows.net
+0.0.0.0 www.ieztoskbcoalf.z13.web.core.windows.net
+0.0.0.0 store.ieztoskbcoalf.z13.web.core.windows.net
 0.0.0.0 igloaptopto.net
 0.0.0.0 www.igloaptopto.net
 0.0.0.0 store.igloaptopto.net
