@@ -141,6 +141,9 @@
 0.0.0.0 adidasko.com
 0.0.0.0 www.adidasko.com
 0.0.0.0 store.adidasko.com
+0.0.0.0 adlndb2k9too7vt.top
+0.0.0.0 www.adlndb2k9too7vt.top
+0.0.0.0 store.adlndb2k9too7vt.top
 0.0.0.0 admin.id601294105.date
 0.0.0.0 www.admin.id601294105.date
 0.0.0.0 store.admin.id601294105.date
@@ -4419,6 +4422,9 @@
 0.0.0.0 leverage-btc.com
 0.0.0.0 www.leverage-btc.com
 0.0.0.0 store.leverage-btc.com
+0.0.0.0 lggknhaffleahbh.top
+0.0.0.0 www.lggknhaffleahbh.top
+0.0.0.0 store.lggknhaffleahbh.top
 0.0.0.0 librilibs.com
 0.0.0.0 www.librilibs.com
 0.0.0.0 store.librilibs.com
@@ -4743,6 +4749,12 @@
 0.0.0.0 microsoft-notifcation.com
 0.0.0.0 www.microsoft-notifcation.com
 0.0.0.0 store.microsoft-notifcation.com
+0.0.0.0 microsoft-teams-download.burleson-appliance.net
+0.0.0.0 www.microsoft-teams-download.burleson-appliance.net
+0.0.0.0 store.microsoft-teams-download.burleson-appliance.net
+0.0.0.0 microsoft.teams-live.com
+0.0.0.0 www.microsoft.teams-live.com
+0.0.0.0 store.microsoft.teams-live.com
 0.0.0.0 microstrategy2023.net
 0.0.0.0 www.microstrategy2023.net
 0.0.0.0 store.microstrategy2023.net
@@ -6261,6 +6273,9 @@
 0.0.0.0 openaiteam.space
 0.0.0.0 www.openaiteam.space
 0.0.0.0 store.openaiteam.space
+0.0.0.0 openline.cyou
+0.0.0.0 www.openline.cyou
+0.0.0.0 store.openline.cyou
 0.0.0.0 optimusconstructora.com.pe
 0.0.0.0 www.optimusconstructora.com.pe
 0.0.0.0 store.optimusconstructora.com.pe
@@ -8112,6 +8127,9 @@
 0.0.0.0 proudofyournation.com
 0.0.0.0 www.proudofyournation.com
 0.0.0.0 store.proudofyournation.com
+0.0.0.0 prpages.com
+0.0.0.0 www.prpages.com
+0.0.0.0 store.prpages.com
 0.0.0.0 pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
 0.0.0.0 www.pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
 0.0.0.0 store.pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
@@ -8322,6 +8340,12 @@
 0.0.0.0 rosateeshop.com
 0.0.0.0 www.rosateeshop.com
 0.0.0.0 store.rosateeshop.com
+0.0.0.0 rosettahome.cn
+0.0.0.0 www.rosettahome.cn
+0.0.0.0 store.rosettahome.cn
+0.0.0.0 rosettahome.top
+0.0.0.0 www.rosettahome.top
+0.0.0.0 store.rosettahome.top
 0.0.0.0 rossignol-ski.com
 0.0.0.0 www.rossignol-ski.com
 0.0.0.0 store.rossignol-ski.com
