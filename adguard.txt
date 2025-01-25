@@ -307,6 +307,7 @@
 ||expertrader.me^
 ||expresscourier.delivery^
 ||expressmovers.com^
+||ezdrive.com-wfyu.xin^
 ||ezdrivema.com-customerhnz.top^
 ||f4jozsdvxv210624xg.xyz^
 ||facebook-google-15oqyxwtkremqyujsm.vercel.app^
@@ -553,7 +554,6 @@
 ||linostee.com^
 ||lisabuddy.com^
 ||litcomplex.com^
-||lojaacasa.com.br^
 ||look-like-star.myshopify.com^
 ||lootcs.com^
 ||lozly.com^
@@ -625,8 +625,9 @@
 ||navi100.com^
 ||navi11.com^
 ||navi12.com^
+||navi13.ru^
+||navi14.ru^
 ||navi18.com^
-||navi18.ru^
 ||navi2.com^
 ||navi20.ru^
 ||navi21.com^
@@ -636,6 +637,7 @@
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
+||navi26.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
@@ -646,10 +648,11 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi42.ru^
+||navi43.ru^
 ||navi45.ru^
-||navi48.ru^
 ||navi5.com^
 ||navi50.com^
+||navi50.ru^
 ||navi53.com^
 ||navi56.com^
 ||navi58.com^
@@ -661,6 +664,7 @@
 ||navi72.com^
 ||navi72.ru^
 ||navi77.com^
+||navi77.ru^
 ||navi78.ru^
 ||navi8.com^
 ||navi86.ru^
@@ -1028,7 +1032,6 @@
 ||wavetshirt.com^
 ||wazofurniture.com^
 ||werfew.com^
-||wezpod.com^
 ||whbinder.com^
 ||wikeb.com^
 ||wintexfashions.com^
@@ -1061,6 +1064,7 @@
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
+||yyderfreap.shop^
 ||z-lib.id^
 ||z-lib.io^
 ||z-lib.is^
