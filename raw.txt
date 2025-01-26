@@ -2229,6 +2229,9 @@
 0.0.0.0 csmoney.trade
 0.0.0.0 www.csmoney.trade
 0.0.0.0 store.csmoney.trade
+0.0.0.0 cual3up029pc73fi5jug.ucapsidop.info
+0.0.0.0 www.cual3up029pc73fi5jug.ucapsidop.info
+0.0.0.0 store.cual3up029pc73fi5jug.ucapsidop.info
 0.0.0.0 customizerbox.com
 0.0.0.0 www.customizerbox.com
 0.0.0.0 store.customizerbox.com
@@ -11808,6 +11811,9 @@
 0.0.0.0 uangqu.online
 0.0.0.0 www.uangqu.online
 0.0.0.0 store.uangqu.online
+0.0.0.0 ucapsidop.info
+0.0.0.0 www.ucapsidop.info
+0.0.0.0 store.ucapsidop.info
 0.0.0.0 ucureo.com
 0.0.0.0 www.ucureo.com
 0.0.0.0 store.ucureo.com
