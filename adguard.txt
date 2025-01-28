@@ -242,6 +242,7 @@
 ||cycle100percent.com^
 ||czwcvfbc.page.link^
 ||dailygiftstore.com^
+||danaaman.xyz^
 ||danainstan.xyz^
 ||danapintar.club^
 ||danylevych.com^
@@ -323,7 +324,6 @@
 ||expresscourier.delivery^
 ||expressmovers.com^
 ||ezdrive.com-wfyu.xin^
-||ezdrivema.com-customerhnz.top^
 ||f4jozsdvxv210624xg.xyz^
 ||facebook-google-15oqyxwtkremqyujsm.vercel.app^
 ||facebook-google-vptyyny63pwfipshmm.vercel.app^
@@ -349,6 +349,7 @@
 ||faze40.com^
 ||faze47.com^
 ||faze5.com^
+||faze8.com^
 ||fazpowerdenet.tumblr.com^
 ||fdrc-gov.org^
 ||felara.com.do^
@@ -501,7 +502,6 @@
 ||info-flirtme.com^
 ||info-milfroom.com^
 ||informed.updateicybd.top^
-||infreedommobile.com^
 ||injustice.site^
 ||innomediacreate.com^
 ||instant-e-app-for-campaign.github.io^
@@ -570,7 +570,6 @@
 ||linostee.com^
 ||lisabuddy.com^
 ||litcomplex.com^
-||log.infreedommobile.com^
 ||look-like-star.myshopify.com^
 ||lootcs.com^
 ||lozly.com^
@@ -918,6 +917,7 @@
 ||storagestory.com^
 ||store-aleteia.org^
 ||store-swatch.com^
+||store-uni-app.com^
 ||store25848025.company.site^
 ||storeax.com^
 ||storecollegeonline.com^
@@ -1017,7 +1017,6 @@
 ||uni-swap.online^
 ||uni-swap.space^
 ||uniswap-e.com^
-||uniswap-io.online^
 ||uniswap-official.com^
 ||uniswap-v3.com^
 ||uniswap.cool^
@@ -1085,7 +1084,6 @@
 ||uniswapcapital.xyz^
 ||uniswapclient.com^
 ||uniswapcoin.xyz^
-||uniswapconnect.cloud^
 ||uniswapcriteria.com^
 ||uniswapcriteria.net^
 ||uniswapcriteria.org^
