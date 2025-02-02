@@ -75,7 +75,6 @@
 ||app-uniswap.uno^
 ||app-uniswapping.org^
 ||app.identity-nexo.xborders.io^
-||app.uniwspapp.com^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -105,7 +104,6 @@
 ||balticpipe.wordpress.com^
 ||bantucepat.com^
 ||bcb.game^
-||bcm8.shop^
 ||beacon.apsehick.date^
 ||beautysolution24.com^
 ||beeaar.com^
@@ -167,7 +165,6 @@
 ||bsnltowersite.in^
 ||btc9339.com^
 ||buddhakind.com^
-||budm.shop^
 ||buyfingermoney.company.com^
 ||buylikes.se^
 ||buyyeezy2023.com^
@@ -442,7 +439,6 @@
 ||hugetrump.com^
 ||hunden.info^
 ||hushlove.com^
-||husqvarnaoutlet.shop^
 ||hyndtren25.pages.dev^
 ||i-grade.online^
 ||i-visaindia.com^
@@ -648,12 +644,11 @@
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
+||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
-||navi50.com^
 ||navi53.com^
 ||navi56.com^
 ||navi58.com^
@@ -865,6 +860,7 @@
 ||sligen.com^
 ||smartokids.com^
 ||smartpower4all.org^
+||smartproduct.site^
 ||smvisa.co.il^
 ||snaklenest.com^
 ||sodipi.com^
@@ -991,7 +987,6 @@
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
-||u.umax-pro.ru^
 ||ucapsidop.info^
 ||ucureo.com^
 ||udemy-creators.com^
