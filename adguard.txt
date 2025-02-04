@@ -37,6 +37,7 @@
 ||ailurophilestealer.shop^
 ||air-up-turkiye.com^
 ||air-upfrance.com^
+||aircgd.shop^
 ||airtoff.com^
 ||airup-bottlegreece.com^
 ||airup-fi.com^
@@ -69,7 +70,6 @@
 ||amznshirts.com^
 ||an1.is^
 ||andamente.pt^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswap-pro.online^
 ||app-uniswap.icu^
@@ -292,11 +292,13 @@
 ||easyshoppingus.com^
 ||ebuy8.shop^
 ||ecs-online.ffm.to^
+||eggdy.shop^
 ||ekommmedia.com^
 ||elitestrustonline.biz^
 ||ellezz.com^
 ||elonweb.org^
 ||elrifeno.com^
+||en407etr.com^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
 ||equiwarmpro.co^
@@ -328,7 +330,6 @@
 ||familybestgifts.com^
 ||familygiftlove.myshopify.com^
 ||familygiftville.com^
-||familylovesgift.com^
 ||familyshark.com^
 ||familystore.com^
 ||fashionshawaii.com^
@@ -575,6 +576,7 @@
 ||madeinusas.com^
 ||maebl.com^
 ||mail-cytanet.pages.dev^
+||majucash.xyz^
 ||malgorzataschlegel.click^
 ||manageyourorder.com^
 ||mansion-xenarthran.info^
@@ -610,6 +612,7 @@
 ||mslfgl434.pages.dev^
 ||mujib-store28.blogspot.com^
 ||museuw.com^
+||musk-event.xyz^
 ||musk-project.com^
 ||muskusa.com^
 ||mybestautologin567.com^
@@ -659,7 +662,6 @@
 ||navi6.com^
 ||navi63.ru^
 ||navi66.ru^
-||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -794,6 +796,7 @@
 ||queenscattery.com^
 ||quitasueno.com^
 ||quotex.com.in^
+||ra-bp0000.com^
 ||radiatorcrate.com^
 ||reforest-iita.org^
 ||resources4gaming.com^
