@@ -37,7 +37,6 @@
 ||ailurophilestealer.shop^
 ||air-up-turkiye.com^
 ||air-upfrance.com^
-||aircgd.shop^
 ||airtoff.com^
 ||airup-bottlegreece.com^
 ||airup-fi.com^
@@ -70,6 +69,7 @@
 ||amznshirts.com^
 ||an1.is^
 ||andamente.pt^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswap-pro.online^
 ||app-uniswap.icu^
@@ -292,7 +292,6 @@
 ||easyshoppingus.com^
 ||ebuy8.shop^
 ||ecs-online.ffm.to^
-||eggdy.shop^
 ||ekommmedia.com^
 ||elitestrustonline.biz^
 ||ellezz.com^
@@ -428,6 +427,7 @@
 ||helpnanacenter.helpscoutdocs.com^
 ||hernoclothing.com^
 ||heukmsactivator.com^
+||heyfusio.com^
 ||hfr67jhqrw8.com^
 ||hippie-pets.com^
 ||hisgr.buzz^
@@ -576,7 +576,6 @@
 ||madeinusas.com^
 ||maebl.com^
 ||mail-cytanet.pages.dev^
-||majucash.xyz^
 ||malgorzataschlegel.click^
 ||manageyourorder.com^
 ||mansion-xenarthran.info^
@@ -612,7 +611,6 @@
 ||mslfgl434.pages.dev^
 ||mujib-store28.blogspot.com^
 ||museuw.com^
-||musk-event.xyz^
 ||musk-project.com^
 ||muskusa.com^
 ||mybestautologin567.com^
@@ -662,6 +660,7 @@
 ||navi6.com^
 ||navi63.ru^
 ||navi66.ru^
+||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -1122,7 +1121,6 @@
 ||visafirst.com^
 ||visagov.com^
 ||visasimple.com^
-||visatoindia.org^
 ||visumbuitenland.nl^
 ||volcomofficial.com^
 ||w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app^
@@ -1149,6 +1147,7 @@
 ||xcartpro.com^
 ||xn--airupespaa-19a.com^
 ||xn--airuptrkiye-yhb.com^
+||xn4iqv.succyarthyry.com^
 ||xunlei.it^
 ||xvid.click-social-card.top^
 ||xvid.social-previews.top^
@@ -1171,7 +1170,6 @@
 ||zat.io^
 ||zaz4o.securesolidlink.com^
 ||zeqxamvh.glousism.co.in^
-||zerowasteinitiative.com^
 ||zillify.cfd^
 ||zlibrary.to^
 ||zolrqw.palatlaldate.com^
