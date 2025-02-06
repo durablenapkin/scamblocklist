@@ -173,6 +173,7 @@
 ||bwpkizpfms.funnelish.com^
 ||by-emmamuller.de^
 ||c0nt4ct-me.pages.dev^
+||camerotica.cfd^
 ||campingsurfshop.com^
 ||canadapost.mydelivery1.com^
 ||candlesbymadison.com^
@@ -364,8 +365,10 @@
 ||freebitcoin.pages.dev^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
+||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fulfillgift.com^
@@ -971,6 +974,7 @@
 ||touristvisaonline.com^
 ||towerinstallation5g.com^
 ||towerinstalltion5g.in^
+||townaptdesk.info^
 ||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
@@ -1090,7 +1094,6 @@
 ||uniswaps.tech^
 ||uniswapstake.xyz^
 ||uniswapstaking.xyz^
-||uniswapsupport.online^
 ||uniswaptoken.xyz^
 ||uniswaptrading.xyz^
 ||uniswapv3.xyz^
@@ -1128,6 +1131,7 @@
 ||warriordecor.com^
 ||wavetshirt.com^
 ||wazofurniture.com^
+||webcamsfans.cfd^
 ||werfew.com^
 ||whbinder.com^
 ||wikeb.com^
@@ -1136,6 +1140,10 @@
 ||withyotta.com^
 ||woadoodles.com^
 ||worthas.shop^
+||wpad.casa^
+||wpad.ru^
+||wpad.top^
+||wpad.xyz^
 ||wpclick.cc^
 ||ww25.utilify.me^
 ||wyzia-orderdeposits.com^
