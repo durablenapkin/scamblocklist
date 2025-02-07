@@ -2124,6 +2124,9 @@
 0.0.0.0 comdinew.com
 0.0.0.0 www.comdinew.com
 0.0.0.0 store.comdinew.com
+0.0.0.0 commerztan.com
+0.0.0.0 www.commerztan.com
+0.0.0.0 store.commerztan.com
 0.0.0.0 compoundexotics.com
 0.0.0.0 www.compoundexotics.com
 0.0.0.0 store.compoundexotics.com
@@ -4914,6 +4917,9 @@
 0.0.0.0 moslt.com
 0.0.0.0 www.moslt.com
 0.0.0.0 store.moslt.com
+0.0.0.0 mot73yi07.info
+0.0.0.0 www.mot73yi07.info
+0.0.0.0 store.mot73yi07.info
 0.0.0.0 moteshoes.com
 0.0.0.0 www.moteshoes.com
 0.0.0.0 store.moteshoes.com
@@ -5790,6 +5796,9 @@
 0.0.0.0 newoutdoorsale.com
 0.0.0.0 www.newoutdoorsale.com
 0.0.0.0 store.newoutdoorsale.com
+0.0.0.0 newpipe.app
+0.0.0.0 www.newpipe.app
+0.0.0.0 store.newpipe.app
 0.0.0.0 news-rebit.com
 0.0.0.0 www.news-rebit.com
 0.0.0.0 store.news-rebit.com
@@ -8352,6 +8361,9 @@
 0.0.0.0 retoaudi.com
 0.0.0.0 www.retoaudi.com
 0.0.0.0 store.retoaudi.com
+0.0.0.0 revanced-extended.com
+0.0.0.0 www.revanced-extended.com
+0.0.0.0 store.revanced-extended.com
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
 0.0.0.0 store.reviewshirts.com
@@ -12441,6 +12453,9 @@
 0.0.0.0 velmaglendenning.ru.com
 0.0.0.0 www.velmaglendenning.ru.com
 0.0.0.0 store.velmaglendenning.ru.com
+0.0.0.0 vencord.app
+0.0.0.0 www.vencord.app
+0.0.0.0 store.vencord.app
 0.0.0.0 venezuelabaseballjerseys.com
 0.0.0.0 www.venezuelabaseballjerseys.com
 0.0.0.0 store.venezuelabaseballjerseys.com
