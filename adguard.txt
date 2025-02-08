@@ -14,7 +14,6 @@
 ||365uniswap.xyz^
 ||3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev^
 ||3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net^
-||407etr.click^
 ||42gixk.98kk89.com^
 ||4556.de^
 ||555sq.com.cn^
@@ -53,6 +52,7 @@
 ||airupnederlands.com^
 ||airupromania.ro^
 ||airupsrbija.com^
+||aizipai.cn^
 ||aldofashion.com^
 ||alindflepkaty14.pages.dev^
 ||aliseshop.com^
@@ -100,6 +100,7 @@
 ||backend.store.eset.co.il^
 ||bagsdeuter.com^
 ||balkeryswep.online^
+||ballsbags.com^
 ||baltic-pipe-finansowy.blogspot.com^
 ||baltic79.wordpress.com^
 ||balticpipe.wordpress.com^
@@ -525,7 +526,6 @@
 ||kigurumi-usa.com^
 ||kingcampoutdoors.co.jp^
 ||kingteestore.com^
-||kiophsx9.sa.com^
 ||kisserine.com^
 ||kitchendecor.shop^
 ||kms-full.com^
@@ -577,7 +577,6 @@
 ||madeinusas.com^
 ||maebl.com^
 ||mail-cytanet.pages.dev^
-||malgorzataschlegel.click^
 ||manageyourorder.com^
 ||mansion-xenarthran.info^
 ||maxdebrid.com^
@@ -653,7 +652,9 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi45.ru^
+||navi49.ru^
 ||navi5.com^
 ||navi53.com^
 ||navi56.com^
@@ -666,6 +667,7 @@
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
+||navi75.ru^
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
@@ -943,7 +945,6 @@
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
-||terinaverkler.click^
 ||tesla-online.net^
 ||teslafond.io^
 ||teslamaked.com^
@@ -1085,7 +1086,6 @@
 ||uniswapgo.com^
 ||uniswaphub.xyz^
 ||uniswaplabs.xyz^
-||uniswaplender.xyz^
 ||uniswaplending.xyz^
 ||uniswapnft.xyz^
 ||uniswapr.org^
@@ -1178,7 +1178,6 @@
 ||zat.io^
 ||zaz4o.securesolidlink.com^
 ||zeqxamvh.glousism.co.in^
-||zerowasteinitiative.com^
 ||zillify.cfd^
 ||zlibrary.to^
 ||zolrqw.palatlaldate.com^
