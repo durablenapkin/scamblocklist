@@ -69,6 +69,9 @@
 0.0.0.0 4556.de
 0.0.0.0 www.4556.de
 0.0.0.0 store.4556.de
+0.0.0.0 47n78xprrvp1.top
+0.0.0.0 www.47n78xprrvp1.top
+0.0.0.0 store.47n78xprrvp1.top
 0.0.0.0 555sq.com.cn
 0.0.0.0 www.555sq.com.cn
 0.0.0.0 store.555sq.com.cn
@@ -8364,6 +8367,9 @@
 0.0.0.0 revanced-extended.com
 0.0.0.0 www.revanced-extended.com
 0.0.0.0 store.revanced-extended.com
+0.0.0.0 revancedmusic.com
+0.0.0.0 www.revancedmusic.com
+0.0.0.0 store.revancedmusic.com
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
 0.0.0.0 store.reviewshirts.com
@@ -11340,6 +11346,9 @@
 0.0.0.0 tamed-exotics.com
 0.0.0.0 www.tamed-exotics.com
 0.0.0.0 store.tamed-exotics.com
+0.0.0.0 taramatikarou.com
+0.0.0.0 www.taramatikarou.com
+0.0.0.0 store.taramatikarou.com
 0.0.0.0 tartannewzealand.myshopify.com
 0.0.0.0 www.tartannewzealand.myshopify.com
 0.0.0.0 store.tartannewzealand.myshopify.com
@@ -11664,6 +11673,9 @@
 0.0.0.0 tikgeeker.com
 0.0.0.0 www.tikgeeker.com
 0.0.0.0 store.tikgeeker.com
+0.0.0.0 tikinew.club
+0.0.0.0 www.tikinew.club
+0.0.0.0 store.tikinew.club
 0.0.0.0 timebestbuy.com
 0.0.0.0 www.timebestbuy.com
 0.0.0.0 store.timebestbuy.com
@@ -12432,6 +12444,9 @@
 0.0.0.0 valeofoodsgroup.com
 0.0.0.0 www.valeofoodsgroup.com
 0.0.0.0 store.valeofoodsgroup.com
+0.0.0.0 vanced-official.com
+0.0.0.0 www.vanced-official.com
+0.0.0.0 store.vanced-official.com
 0.0.0.0 vansnorge.com
 0.0.0.0 www.vansnorge.com
 0.0.0.0 store.vansnorge.com
@@ -13728,6 +13743,9 @@
 0.0.0.0 youutube.com
 0.0.0.0 www.youutube.com
 0.0.0.0 store.youutube.com
+0.0.0.0 ytvancedpro.com
+0.0.0.0 www.ytvancedpro.com
+0.0.0.0 store.ytvancedpro.com
 0.0.0.0 yuynstore.com
 0.0.0.0 www.yuynstore.com
 0.0.0.0 store.yuynstore.com
