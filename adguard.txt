@@ -69,7 +69,6 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswap.icu^
 ||app-uniswap.uno^
@@ -652,6 +651,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi53.com^
@@ -1169,7 +1169,6 @@
 ||yofi-yofi.com^
 ||youdebrid.com^
 ||yoursecrethookup.com^
-||youthfy.shop^
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
