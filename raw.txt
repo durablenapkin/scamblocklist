@@ -1212,6 +1212,9 @@
 0.0.0.0 azitecs.com
 0.0.0.0 www.azitecs.com
 0.0.0.0 store.azitecs.com
+0.0.0.0 azsolver.com
+0.0.0.0 www.azsolver.com
+0.0.0.0 store.azsolver.com
 0.0.0.0 azuretipsandtrick101.z13.web.core.windows.net
 0.0.0.0 www.azuretipsandtrick101.z13.web.core.windows.net
 0.0.0.0 store.azuretipsandtrick101.z13.web.core.windows.net
@@ -8505,6 +8508,9 @@
 0.0.0.0 s3-poshmark.id829.com
 0.0.0.0 www.s3-poshmark.id829.com
 0.0.0.0 store.s3-poshmark.id829.com
+0.0.0.0 sailiabot.com
+0.0.0.0 www.sailiabot.com
+0.0.0.0 store.sailiabot.com
 0.0.0.0 sakuradate.com
 0.0.0.0 www.sakuradate.com
 0.0.0.0 store.sakuradate.com
