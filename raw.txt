@@ -8208,6 +8208,9 @@
 0.0.0.0 proudofyournation.com
 0.0.0.0 www.proudofyournation.com
 0.0.0.0 store.proudofyournation.com
+0.0.0.0 providedexcitingcritical.pro
+0.0.0.0 www.providedexcitingcritical.pro
+0.0.0.0 store.providedexcitingcritical.pro
 0.0.0.0 prpages.com
 0.0.0.0 www.prpages.com
 0.0.0.0 store.prpages.com
