@@ -2496,6 +2496,9 @@
 0.0.0.0 designbyus.online
 0.0.0.0 www.designbyus.online
 0.0.0.0 store.designbyus.online
+0.0.0.0 desiupload.in
+0.0.0.0 www.desiupload.in
+0.0.0.0 store.desiupload.in
 0.0.0.0 dev.id601294105.date
 0.0.0.0 www.dev.id601294105.date
 0.0.0.0 store.dev.id601294105.date
@@ -2838,6 +2841,9 @@
 0.0.0.0 etv-in.com
 0.0.0.0 www.etv-in.com
 0.0.0.0 store.etv-in.com
+0.0.0.0 eu-playstore.com
+0.0.0.0 www.eu-playstore.com
+0.0.0.0 store.eu-playstore.com
 0.0.0.0 eudoraz.com
 0.0.0.0 www.eudoraz.com
 0.0.0.0 store.eudoraz.com
@@ -3984,6 +3990,9 @@
 0.0.0.0 hsuitehub.com
 0.0.0.0 www.hsuitehub.com
 0.0.0.0 store.hsuitehub.com
+0.0.0.0 hubfiles.ws
+0.0.0.0 www.hubfiles.ws
+0.0.0.0 store.hubfiles.ws
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
 0.0.0.0 store.hugetrump.com
@@ -5886,6 +5895,9 @@
 0.0.0.0 new.bestageoffers22.com
 0.0.0.0 www.new.bestageoffers22.com
 0.0.0.0 store.new.bestageoffers22.com
+0.0.0.0 new.piratedrive.com
+0.0.0.0 www.new.piratedrive.com
+0.0.0.0 store.new.piratedrive.com
 0.0.0.0 newdompet.com
 0.0.0.0 www.newdompet.com
 0.0.0.0 store.newdompet.com
@@ -8187,6 +8199,9 @@
 0.0.0.0 pipopi.com
 0.0.0.0 www.pipopi.com
 0.0.0.0 store.pipopi.com
+0.0.0.0 piratedrive.com
+0.0.0.0 www.piratedrive.com
+0.0.0.0 store.piratedrive.com
 0.0.0.0 pjs.outlet.com
 0.0.0.0 www.pjs.outlet.com
 0.0.0.0 store.pjs.outlet.com
