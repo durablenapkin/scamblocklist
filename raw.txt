@@ -2526,6 +2526,9 @@
 0.0.0.0 dierdrecrisan.buzz
 0.0.0.0 www.dierdrecrisan.buzz
 0.0.0.0 store.dierdrecrisan.buzz
+0.0.0.0 dieserbenni.ru
+0.0.0.0 www.dieserbenni.ru
+0.0.0.0 store.dieserbenni.ru
 0.0.0.0 dischargebackhanded.com
 0.0.0.0 www.dischargebackhanded.com
 0.0.0.0 store.dischargebackhanded.com
@@ -8214,6 +8217,9 @@
 0.0.0.0 playdeadlock.lol
 0.0.0.0 www.playdeadlock.lol
 0.0.0.0 store.playdeadlock.lol
+0.0.0.0 player-qr.com
+0.0.0.0 www.player-qr.com
+0.0.0.0 store.player-qr.com
 0.0.0.0 plutostars.com
 0.0.0.0 www.plutostars.com
 0.0.0.0 store.plutostars.com
