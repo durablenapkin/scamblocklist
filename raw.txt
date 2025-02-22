@@ -11181,6 +11181,9 @@
 0.0.0.0 sponsor-usreward.click
 0.0.0.0 www.sponsor-usreward.click
 0.0.0.0 store.sponsor-usreward.click
+0.0.0.0 sport-specialoffers.shop
+0.0.0.0 www.sport-specialoffers.shop
+0.0.0.0 store.sport-specialoffers.shop
 0.0.0.0 sportfamily.us
 0.0.0.0 www.sportfamily.us
 0.0.0.0 store.sportfamily.us
