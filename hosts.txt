@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2780
+# Domains: 2784
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -368,8 +368,6 @@
 0.0.0.0 www.breakshirts.com
 0.0.0.0 brttre.com
 0.0.0.0 www.brttre.com
-0.0.0.0 bsnltower5g.com
-0.0.0.0 www.bsnltower5g.com
 0.0.0.0 bsnltower5g.in
 0.0.0.0 www.bsnltower5g.in
 0.0.0.0 bsnltowerinstallations.com
@@ -408,9 +406,6 @@
 0.0.0.0 caraci.it
 0.0.0.0 www.caraci.it
 0.0.0.0 store.caraci.it
-0.0.0.0 cardadvantagecast.com
-0.0.0.0 www.cardadvantagecast.com
-0.0.0.0 store.cardadvantagecast.com
 0.0.0.0 carngr.sbs
 0.0.0.0 www.carngr.sbs
 0.0.0.0 carsaratek.com
@@ -866,6 +861,8 @@
 0.0.0.0 furykms.com
 0.0.0.0 www.furykms.com
 0.0.0.0 store.furykms.com
+0.0.0.0 gamedrive.org
+0.0.0.0 www.gamedrive.org
 0.0.0.0 gamingbuffs.com
 0.0.0.0 www.gamingbuffs.com
 0.0.0.0 gamingtoolz.club
@@ -1034,7 +1031,6 @@
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
 0.0.0.0 hunden.info
-0.0.0.0 www.hunden.info
 0.0.0.0 hushlove.com
 0.0.0.0 www.hushlove.com
 0.0.0.0 hyndtren25.pages.dev
@@ -1201,6 +1197,7 @@
 0.0.0.0 store.jsdimmigration.com
 0.0.0.0 jsdimmigrations.com
 0.0.0.0 www.jsdimmigrations.com
+0.0.0.0 justdy.shop
 0.0.0.0 jyfrsjdkkhue.com
 0.0.0.0 karan-pc.com
 0.0.0.0 www.karan-pc.com
@@ -1407,6 +1404,7 @@
 0.0.0.0 store.mujib-store28.blogspot.com
 0.0.0.0 museuw.com
 0.0.0.0 www.museuw.com
+0.0.0.0 store.museuw.com
 0.0.0.0 musk-project.com
 0.0.0.0 muskusa.com
 0.0.0.0 www.muskusa.com
@@ -1508,7 +1506,7 @@
 0.0.0.0 www.navi39.ru
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
-0.0.0.0 store.navi4.com
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi45.ru
 0.0.0.0 www.navi45.ru
 0.0.0.0 store.navi45.ru
@@ -1549,7 +1547,6 @@
 0.0.0.0 navi8.com
 0.0.0.0 www.navi8.com
 0.0.0.0 store.navi8.com
-0.0.0.0 navi8.ru
 0.0.0.0 www.navi86.ru
 0.0.0.0 navi88.com
 0.0.0.0 www.navi88.com
@@ -1593,9 +1590,6 @@
 0.0.0.0 store.nip1.com
 0.0.0.0 nip10.com
 0.0.0.0 www.nip10.com
-0.0.0.0 nip12.com
-0.0.0.0 www.nip12.com
-0.0.0.0 store.nip12.com
 0.0.0.0 nip2.com
 0.0.0.0 www.nip2.com
 0.0.0.0 store.nip2.com
@@ -1735,6 +1729,7 @@
 0.0.0.0 www.pateim.com
 0.0.0.0 store.pateim.com
 0.0.0.0 path2zillion.com
+0.0.0.0 www.pay.www.booking.id19045617.info
 0.0.0.0 pekanbaru.one
 0.0.0.0 www.pekanbaru.one
 0.0.0.0 peppatees.com
@@ -1940,6 +1935,7 @@
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
+0.0.0.0 sberbank.avito.avito.com-id15421.info
 0.0.0.0 scoigr.buzz
 0.0.0.0 www.scoigr.buzz
 0.0.0.0 scottfamilyministries.org
@@ -2049,8 +2045,6 @@
 0.0.0.0 www.sportsbrooks.com
 0.0.0.0 sportswearfanatics.com
 0.0.0.0 www.sportswearfanatics.com
-0.0.0.0 sportswearforfans.com
-0.0.0.0 www.sportswearforfans.com
 0.0.0.0 spotgee.com
 0.0.0.0 www.spotgee.com
 0.0.0.0 spreadstores.com
@@ -2243,6 +2237,8 @@
 0.0.0.0 store.tiranaaquapark-eg.com
 0.0.0.0 tlstoreonline.com
 0.0.0.0 www.tlstoreonline.com
+0.0.0.0 toko999.net
+0.0.0.0 www.toko999.net
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 www.tomadamsenergy.com
 0.0.0.0 too-gle.com
@@ -2256,6 +2252,7 @@
 0.0.0.0 towerdepartment.com
 0.0.0.0 www.towerdepartment.com
 0.0.0.0 towerinstallation5g.com
+0.0.0.0 www.towerinstallation5g.com
 0.0.0.0 towerinstalltion5g.in
 0.0.0.0 www.towerinstalltion5g.in
 0.0.0.0 townaptdesk.info
@@ -2309,6 +2306,7 @@
 0.0.0.0 twitterr.com
 0.0.0.0 www.twitterr.com
 0.0.0.0 store.twitterr.com
+0.0.0.0 txtag.org-txtagstorefrontaab.xin
 0.0.0.0 www.ucapsidop.info
 0.0.0.0 store.ucapsidop.info
 0.0.0.0 ucureo.com
@@ -2600,6 +2598,7 @@
 0.0.0.0 uschse04.my03.com
 0.0.0.0 www.uschse04.my03.com
 0.0.0.0 store.uschse04.my03.com
+0.0.0.0 store.ushiro.org
 0.0.0.0 ussportabout.com
 0.0.0.0 www.ussportabout.com
 0.0.0.0 ussportpioneer.com
@@ -2656,6 +2655,8 @@
 0.0.0.0 store.w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app
 0.0.0.0 wadahlapak.top
 0.0.0.0 www.wadahlapak.top
+0.0.0.0 wallpaperflare.com
+0.0.0.0 www.wallpaperflare.com
 0.0.0.0 warriordecor.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 www.wavetshirt.com
@@ -2776,6 +2777,9 @@
 0.0.0.0 store.zeqxamvh.glousism.co.in
 0.0.0.0 zerorolex.com
 0.0.0.0 www.zerorolex.com
+0.0.0.0 zerowasteinitiative.com
+0.0.0.0 www.zerowasteinitiative.com
+0.0.0.0 store.zerowasteinitiative.com
 0.0.0.0 zillify.cfd
 0.0.0.0 www.zillify.cfd
 0.0.0.0 zlibrary.to
