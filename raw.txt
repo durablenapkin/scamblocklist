@@ -360,6 +360,9 @@
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
 0.0.0.0 store.altruetech.com
+0.0.0.0 altwi-zgs.com
+0.0.0.0 www.altwi-zgs.com
+0.0.0.0 store.altwi-zgs.com
 0.0.0.0 am-freights.com
 0.0.0.0 www.am-freights.com
 0.0.0.0 store.am-freights.com
@@ -453,6 +456,9 @@
 0.0.0.0 app.uniwspapp.com
 0.0.0.0 www.app.uniwspapp.com
 0.0.0.0 store.app.uniwspapp.com
+0.0.0.0 appdrive.info
+0.0.0.0 www.appdrive.info
+0.0.0.0 store.appdrive.info
 0.0.0.0 apple.com-coordinates.info
 0.0.0.0 www.apple.com-coordinates.info
 0.0.0.0 store.apple.com-coordinates.info
@@ -4890,6 +4896,9 @@
 0.0.0.0 mangacos.com
 0.0.0.0 www.mangacos.com
 0.0.0.0 store.mangacos.com
+0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
+0.0.0.0 www.mango-desert-09ebb4010.4.azurestaticapps.net
+0.0.0.0 store.mango-desert-09ebb4010.4.azurestaticapps.net
 0.0.0.0 mansion-xenarthran.info
 0.0.0.0 www.mansion-xenarthran.info
 0.0.0.0 store.mansion-xenarthran.info
@@ -5928,9 +5937,15 @@
 0.0.0.0 new.bestageoffers22.com
 0.0.0.0 www.new.bestageoffers22.com
 0.0.0.0 store.new.bestageoffers22.com
+0.0.0.0 new.gdtot.me
+0.0.0.0 www.new.gdtot.me
+0.0.0.0 store.new.gdtot.me
 0.0.0.0 new.piratedrive.com
 0.0.0.0 www.new.piratedrive.com
 0.0.0.0 store.new.piratedrive.com
+0.0.0.0 new2.gdtot.sbs
+0.0.0.0 www.new2.gdtot.sbs
+0.0.0.0 store.new2.gdtot.sbs
 0.0.0.0 newdompet.com
 0.0.0.0 www.newdompet.com
 0.0.0.0 store.newdompet.com
@@ -12723,6 +12738,9 @@
 0.0.0.0 valeofoodsgroup.com
 0.0.0.0 www.valeofoodsgroup.com
 0.0.0.0 store.valeofoodsgroup.com
+0.0.0.0 validsteamkeys.com
+0.0.0.0 www.validsteamkeys.com
+0.0.0.0 store.validsteamkeys.com
 0.0.0.0 vanced-official.com
 0.0.0.0 www.vanced-official.com
 0.0.0.0 store.vanced-official.com

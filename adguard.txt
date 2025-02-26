@@ -33,6 +33,7 @@
 ||account.ws-reward.com^
 ||adidasko.com^
 ||adminicesm.life^
+||adzfree-watch.net^
 ||affordableforyouusa5.godaddysites.com^
 ||ahenana.com^
 ||ailurophilestealer.shop^
@@ -67,17 +68,20 @@
 ||alohazing.com^
 ||alphatowercompany.in^
 ||altruetech.com^
+||altwi-zgs.com^
 ||am-freights.com^
 ||amcclothes.com^
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswap.icu^
 ||app-uniswap.uno^
 ||app-uniswapping.org^
 ||app.identity-nexo.xborders.io^
 ||app.uniwspapp.com^
+||appdrive.info^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -190,7 +194,6 @@
 ||charmsection.com^
 ||chat-o-live.com^
 ||cheat-on.com^
-||check-update-today.me^
 ||chesssorrydescend.com^
 ||chiclife.co.uk^
 ||chikepod.com^
@@ -224,6 +227,7 @@
 ||couponxoo.com^
 ||courier-tracking.com^
 ||covex.it^
+||crackedpc.org^
 ||cracksway.com^
 ||crocssalenz.com^
 ||crypto022.online^
@@ -254,7 +258,6 @@
 ||dbphototans.com^
 ||ddcad3.reviewgiftfb.com^
 ||ddzk513bd.com^
-||de-phototanapp.com^
 ||decompraschile.com^
 ||decoryourhome.store^
 ||deergift.com^
@@ -263,6 +266,7 @@
 ||devifoodgrains.com^
 ||deytee.com^
 ||dezpez.com^
+||dgbdhvqpwvplersqjytw.dunkansp.info^
 ||dierdrecrisan.buzz^
 ||dieserbenni.ru^
 ||dischargebackhanded.com^
@@ -284,6 +288,7 @@
 ||dressesloves.com^
 ||dresseslovesootd.com^
 ||duitpanas.top^
+||dunkansp.info^
 ||dwlae.top^
 ||e-indianvisa.com^
 ||e-touristvisa.com^
@@ -370,9 +375,11 @@
 ||folkrbvi.pages.dev^
 ||foreveusps.com^
 ||freebitcoin.pages.dev^
+||freedom-ca-5g.com^
 ||freedom.service-update3.com^
 ||frest.info^
 ||friday89.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fulfillgift.com^
@@ -532,7 +539,6 @@
 ||jourl.live^
 ||jsdimmigration.com^
 ||jsdimmigrations.com^
-||justdy.shop^
 ||jyfrsjdkkhue.com^
 ||karan-pc.com^
 ||karanpcofficial.blogspot.com^
@@ -581,6 +587,7 @@
 ||look-like-star.myshopify.com^
 ||lootcs.com^
 ||lozly.com^
+||lskg.shop^
 ||lucatee.com^
 ||lucchesedeal.store^
 ||luccheseoutlet.online^
@@ -592,6 +599,7 @@
 ||maebl.com^
 ||mail-cytanet.pages.dev^
 ||manageyourorder.com^
+||mango-desert-09ebb4010.4.azurestaticapps.net^
 ||mansion-xenarthran.info^
 ||maxdebrid.com^
 ||maxearningcryp.com^
@@ -668,7 +676,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi53.com^
@@ -693,7 +700,9 @@
 ||netcotto.com^
 ||netfucks1.com^
 ||nevaon.com^
+||new.gdtot.me^
 ||new.piratedrive.com^
+||new2.gdtot.sbs^
 ||newfootwearshop.com^
 ||newgstore.com^
 ||newincomingmessage.com^
@@ -769,11 +778,11 @@
 ||paradisevs.com^
 ||pateim.com^
 ||path2zillion.com^
-||pay.www.booking.id19045617.info^
 ||pekanbaru.one^
 ||peppatees.com^
 ||perlatoshoe.com^
 ||personal84.com^
+||petparty.store^
 ||petsimulator.live^
 ||pharaohstore.com^
 ||phgliders.com^
@@ -955,13 +964,13 @@
 ||superofferte.shop^
 ||superuniswap.xyz^
 ||supperbrand.company.site^
+||supreme-adblocker.net^
 ||survivalcatsupply.com^
 ||sweepbuzz.buzz^
 ||sweet-bonanza-demo.gr^
 ||swuso.com^
 ||t-post.com^
 ||tamed-exotics.com^
-||taramatikarou.com^
 ||tartannewzealand.myshopify.com^
 ||tatatowers.com^
 ||tbao684tryo.com^
@@ -1136,11 +1145,11 @@
 ||upsbezorging.com^
 ||ureashi.com^
 ||uschse04.my03.com^
-||ushiro.org^
 ||ussportabout.com^
 ||ussportpioneer.com^
 ||v5-uniswap.info^
 ||valeofoodsgroup.com^
+||validsteamkeys.com^
 ||vanced-official.com^
 ||vegamartz.com^
 ||veilcurtin.world^
