@@ -1359,6 +1359,9 @@
 0.0.0.0 bestbabyyoda.com
 0.0.0.0 www.bestbabyyoda.com
 0.0.0.0 store.bestbabyyoda.com
+0.0.0.0 bestiamos.com
+0.0.0.0 www.bestiamos.com
+0.0.0.0 store.bestiamos.com
 0.0.0.0 bestmoonshop.com
 0.0.0.0 www.bestmoonshop.com
 0.0.0.0 store.bestmoonshop.com
@@ -8109,6 +8112,9 @@
 0.0.0.0 pearstee.com
 0.0.0.0 www.pearstee.com
 0.0.0.0 store.pearstee.com
+0.0.0.0 peaveymartca.com
+0.0.0.0 www.peaveymartca.com
+0.0.0.0 store.peaveymartca.com
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
 0.0.0.0 store.peekpok.com
@@ -8466,6 +8472,9 @@
 0.0.0.0 qooraa.com
 0.0.0.0 www.qooraa.com
 0.0.0.0 store.qooraa.com
+0.0.0.0 qq51f.short.gy
+0.0.0.0 www.qq51f.short.gy
+0.0.0.0 store.qq51f.short.gy
 0.0.0.0 qttlpn.shop
 0.0.0.0 www.qttlpn.shop
 0.0.0.0 store.qttlpn.shop

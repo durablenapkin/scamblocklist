@@ -75,6 +75,7 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswap.icu^
 ||app-uniswap.uno^
@@ -118,6 +119,7 @@
 ||beecrave.com^
 ||benecharm.com^
 ||bertasxt.com^
+||bestiamos.com^
 ||bigappboi.com^
 ||bikewhenever.com^
 ||binom0-web.com^
@@ -136,8 +138,6 @@
 ||binomo2022.net^
 ||binomoidr.com^
 ||binomoindonesia.com^
-||binomorupiah-id.com^
-||binomorush.in^
 ||binomotop.com^
 ||binomoweb.org^
 ||binomoweblogin.com^
@@ -185,6 +185,7 @@
 ||candlesbymadison.com^
 ||canjaume.com^
 ||caraci.it^
+||cardadvantagecast.com^
 ||carngr.sbs^
 ||carsaratek.com^
 ||casha.xyz^
@@ -379,9 +380,9 @@
 ||freebitcoin.pages.dev^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
+||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fulfillgift.com^
@@ -419,6 +420,7 @@
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
+||gourmetkitchenhouse.shop^
 ||gov.carngr.sbs^
 ||gov.fgtgr.buzz^
 ||gov.fkpgr.buzz^
@@ -466,7 +468,6 @@
 ||hsuitehub.com^
 ||hubfiles.ws^
 ||hugetrump.com^
-||hunden.info^
 ||hushlove.com^
 ||hyndtren25.pages.dev^
 ||i-grade.online^
@@ -545,6 +546,7 @@
 ||jyfrsjdkkhue.com^
 ||karan-pc.com^
 ||karanpcofficial.blogspot.com^
+||keenfootwearsale.com^
 ||keltysale.com^
 ||kera99zx.com^
 ||kidsmama.online^
@@ -562,7 +564,6 @@
 ||kmspicoofficial.com^
 ||knightmods.com^
 ||koinprime.com^
-||kontakt-vszp.com^
 ||kontribusiuang.top^
 ||koperasi.naricash.com^
 ||kopisusu.co.id^
@@ -640,6 +641,7 @@
 ||museuw.com^
 ||musk-project.com^
 ||muskusa.com^
+||muskweb.net^
 ||mybestautologin567.com^
 ||myblogshop.top^
 ||myfunfarm.com^
@@ -679,7 +681,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi53.com^
@@ -720,6 +721,7 @@
 ||ninzatool.pw^
 ||nip1.com^
 ||nip10.com^
+||nip12.com^
 ||nip2.com^
 ||nip23.com^
 ||nip24.com^
@@ -783,6 +785,7 @@
 ||pateim.com^
 ||path2zillion.com^
 ||pay.iagadvanced.com^
+||peaveymartca.com^
 ||pekanbaru.one^
 ||peppatees.com^
 ||perlatoshoe.com^
@@ -834,6 +837,7 @@
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||punyauang.xyz^
 ||qbnwf061124g.cfd^
+||qq51f.short.gy^
 ||queenscattery.com^
 ||quotex.com.in^
 ||ra-bp0000.com^
