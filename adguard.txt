@@ -217,6 +217,7 @@
 ||colorandcotton.com^
 ||commerz-phototans.com^
 ||compoundexotics.com^
+||comprehension.unstal.cfd^
 ||containably.com^
 ||coolest3d.com^
 ||coolestpod.com^
@@ -320,7 +321,6 @@
 ||etaindia.org^
 ||etaindiaonline.com^
 ||etv-in.com^
-||eu-playstore.com^
 ||eviralstore.com^
 ||evisa-india-online.com^
 ||evisa-indian.com^
@@ -379,6 +379,7 @@
 ||freedom.service-update3.com^
 ||frest.info^
 ||friday89.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fulfillgift.com^
@@ -872,6 +873,7 @@
 ||salealfresco.com^
 ||saleussports.com^
 ||salimusic.com^
+||sanla-tan.net^
 ||saveeeee.myshopify.com^
 ||scoigr.buzz^
 ||scottfamilyministries.org^
@@ -899,7 +901,6 @@
 ||signal-confirm.site^
 ||signalgroup.site^
 ||signpify.com^
-||signwdocu.com^
 ||silverlanetrading.com^
 ||singingfiles.com^
 ||singleflirt.com^
@@ -1039,7 +1040,6 @@
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
-||txtag.org-txtagstorefrontaab.xin^
 ||ucapsidop.info^
 ||ucureo.com^
 ||udemy-creators.com^
@@ -1049,6 +1049,7 @@
 ||ultrasonica.info^
 ||ultrawa.com^
 ||um-bs.com^
+||unambia.orchael.fun^
 ||unho.unhesiss.shop^
 ||uni-swap.online^
 ||uni-swap.space^
@@ -1124,7 +1125,6 @@
 ||uniswapcriterion.com^
 ||uniswapcriterion.net^
 ||uniswapcriterion.org^
-||uniswapdao.xyz^
 ||uniswapdefi.xyz^
 ||uniswapetf.xyz^
 ||uniswapfund.xyz^
