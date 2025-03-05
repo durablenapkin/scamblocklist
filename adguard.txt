@@ -229,6 +229,7 @@
 ||covex.it^
 ||crackedpc.org^
 ||cracksway.com^
+||crm2.tbg-lmtd.xyz^
 ||crocssalenz.com^
 ||crypto022.online^
 ||crypto029.online^
@@ -381,6 +382,7 @@
 ||freebitcoin.pages.dev^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
+||freedomgift50.com^
 ||freegiftscards.shop^
 ||frest.info^
 ||friday89.com^
@@ -663,7 +665,6 @@
 ||navi2.com^
 ||navi20.ru^
 ||navi21.com^
-||navi22.com^
 ||navi22.ru^
 ||navi23.com^
 ||navi23.ru^
@@ -822,7 +823,6 @@
 ||presale-friday.pro^
 ||primeleech.com^
 ||printkay.com^
-||printteestore.com^
 ||produktretter.at^
 ||produktretter.com^
 ||produkttest-anmeldung.com^
@@ -963,7 +963,6 @@
 ||stylegift.co.uk^
 ||subsequentoven.info^
 ||successglossary.com^
-||sugarandpearl.com^
 ||suitablepartner.life^
 ||summersale.online^
 ||sunpass-etoll-id.kupu.desa.id^
@@ -1015,6 +1014,7 @@
 ||tiranaaquapark-eg.com^
 ||tlstoreonline.com^
 ||toko999.net^
+||toko999.shop^
 ||tomadamsenergy.com^
 ||too-gle.com^
 ||touristvisaonline.com^
@@ -1045,6 +1045,7 @@
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
+||ubnuntu.com^
 ||ucapsidop.info^
 ||ucureo.com^
 ||udemy-creators.com^
@@ -1188,7 +1189,6 @@
 ||werfew.com^
 ||whbinder.com^
 ||whitewebcams.fun^
-||wikeb.com^
 ||wintexfashions.com^
 ||wisdomganga.com^
 ||withyotta.com^

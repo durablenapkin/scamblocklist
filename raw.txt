@@ -12252,6 +12252,9 @@
 0.0.0.0 uangqu.online
 0.0.0.0 www.uangqu.online
 0.0.0.0 store.uangqu.online
+0.0.0.0 ubnuntu.com
+0.0.0.0 www.ubnuntu.com
+0.0.0.0 store.ubnuntu.com
 0.0.0.0 ucapsidop.info
 0.0.0.0 www.ucapsidop.info
 0.0.0.0 store.ucapsidop.info
