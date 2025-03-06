@@ -75,6 +75,7 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswap.icu^
 ||app-uniswap.uno^
@@ -229,7 +230,6 @@
 ||covex.it^
 ||crackedpc.org^
 ||cracksway.com^
-||crm2.tbg-lmtd.xyz^
 ||crocssalenz.com^
 ||crypto022.online^
 ||crypto029.online^
@@ -382,10 +382,10 @@
 ||freebitcoin.pages.dev^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
-||freedomgift50.com^
 ||freegiftscards.shop^
 ||frest.info^
 ||friday89.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuckmebaby.click^
 ||fulfillgift.com^
@@ -665,6 +665,7 @@
 ||navi2.com^
 ||navi20.ru^
 ||navi21.com^
+||navi22.com^
 ||navi22.ru^
 ||navi23.com^
 ||navi23.ru^
@@ -687,6 +688,7 @@
 ||navi58.com^
 ||navi59.ru^
 ||navi6.com^
+||navi60.ru^
 ||navi63.ru^
 ||navi66.ru^
 ||navi69.com^
@@ -855,6 +857,7 @@
 ||rosateeshop.com^
 ||rosettahome.cn^
 ||rosettahome.top^
+||roulecams.sbs^
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rozaholshouser.cfd^
@@ -1029,7 +1032,6 @@
 ||trade-skins.net^
 ||traveldocs.com^
 ||travelexpress.us.com^
-||traveltolls.com^
 ||travelvisabookings.com^
 ||travisa.com^
 ||trendsharks.com^

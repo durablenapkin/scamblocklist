@@ -8691,6 +8691,9 @@
 0.0.0.0 rossignol-ski.com
 0.0.0.0 www.rossignol-ski.com
 0.0.0.0 store.rossignol-ski.com
+0.0.0.0 roulecams.sbs
+0.0.0.0 www.roulecams.sbs
+0.0.0.0 store.roulecams.sbs
 0.0.0.0 route2content.com
 0.0.0.0 www.route2content.com
 0.0.0.0 store.route2content.com
