@@ -56,7 +56,6 @@
 ||airupgreece.net^
 ||airupitaly.it^
 ||airupnederlands.com^
-||airupromania.ro^
 ||airupsrbija.com^
 ||aizipai.cn^
 ||aldofashion.com^
@@ -660,6 +659,7 @@
 ||navi10.ru^
 ||navi100.com^
 ||navi11.com^
+||navi11.ru^
 ||navi12.com^
 ||navi18.com^
 ||navi2.com^
@@ -688,7 +688,6 @@
 ||navi58.com^
 ||navi59.ru^
 ||navi6.com^
-||navi60.ru^
 ||navi63.ru^
 ||navi66.ru^
 ||navi69.com^
