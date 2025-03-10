@@ -3375,6 +3375,9 @@
 0.0.0.0 fgtgr.buzz
 0.0.0.0 www.fgtgr.buzz
 0.0.0.0 store.fgtgr.buzz
+0.0.0.0 field-garnet-duckling.glitch.me
+0.0.0.0 www.field-garnet-duckling.glitch.me
+0.0.0.0 store.field-garnet-duckling.glitch.me
 0.0.0.0 fiewatch.com
 0.0.0.0 www.fiewatch.com
 0.0.0.0 store.fiewatch.com
@@ -3891,6 +3894,9 @@
 0.0.0.0 guccitees.com
 0.0.0.0 www.guccitees.com
 0.0.0.0 store.guccitees.com
+0.0.0.0 guildmerger.me
+0.0.0.0 www.guildmerger.me
+0.0.0.0 store.guildmerger.me
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
 0.0.0.0 store.gunstee.com
@@ -4353,6 +4359,9 @@
 0.0.0.0 jask.powerforxes.shop
 0.0.0.0 www.jask.powerforxes.shop
 0.0.0.0 store.jask.powerforxes.shop
+0.0.0.0 jasper-lilac-van.glitch.me
+0.0.0.0 www.jasper-lilac-van.glitch.me
+0.0.0.0 store.jasper-lilac-van.glitch.me
 0.0.0.0 jellyfishstat.live
 0.0.0.0 www.jellyfishstat.live
 0.0.0.0 store.jellyfishstat.live
