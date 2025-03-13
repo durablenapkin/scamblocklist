@@ -6516,6 +6516,9 @@
 0.0.0.0 ohmysweetromancespot.life
 0.0.0.0 www.ohmysweetromancespot.life
 0.0.0.0 store.ohmysweetromancespot.life
+0.0.0.0 ojlkimed.vip
+0.0.0.0 www.ojlkimed.vip
+0.0.0.0 store.ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 www.okdebrid.com
 0.0.0.0 store.okdebrid.com
