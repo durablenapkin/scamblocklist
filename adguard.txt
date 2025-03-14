@@ -74,7 +74,6 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswap.icu^
 ||app-uniswap.uno^
@@ -312,6 +311,7 @@
 ||edecher.com^
 ||edwardjhutley107375938786edwardjrhutley70205433153583usps.com^
 ||ekommmedia.com^
+||ekyfoa.shop^
 ||elitestrustonline.biz^
 ||elitestrustonline.com^
 ||ellezz.com^
@@ -545,7 +545,6 @@
 ||j-natural.com^
 ||jagkart.com^
 ||januashop.com^
-||jask.powerforxes.shop^
 ||jasper-lilac-van.glitch.me^
 ||jellystores.com^
 ||jne-express.my.id^
@@ -587,7 +586,6 @@
 ||ladamustore.com^
 ||lakersfanshoponline.com^
 ||lasercutjewelry.net^
-||ledgerlives.live^
 ||ledgerlivewallets.com^
 ||lemstore.com^
 ||lericettedifrancy74.com^
@@ -686,6 +684,7 @@
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
+||navi25.com^
 ||navi26.ru^
 ||navi3.com^
 ||navi30.ru^
@@ -696,6 +695,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi53.com^
@@ -1250,6 +1250,7 @@
 ||youtunbe.com^
 ||youutube.com^
 ||ytvancedpro.com^
+||yvjexi.shop^
 ||z-lib.id^
 ||z-lib.io^
 ||z-lib.is^
