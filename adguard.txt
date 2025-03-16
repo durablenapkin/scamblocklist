@@ -74,9 +74,7 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
-||app-uniswap.icu^
 ||app-uniswap.uno^
 ||app-uniswapping.org^
 ||app.uniwspapp.com^
@@ -193,6 +191,7 @@
 ||casualdating1.com^
 ||cdn-defac13.techresource.shop^
 ||cdn-defac18.studyzone-investmentguru.com^
+||certified-sale.com^
 ||charmsection.com^
 ||chat-o-live.com^
 ||cheat-on.com^
@@ -403,7 +402,6 @@
 ||gearanime.com^
 ||gearhomies.com^
 ||gearhuman.com^
-||gearstastic.com^
 ||gearver.com^
 ||geekupdates.notion.site^
 ||geldencosmeticos.com^
@@ -1002,7 +1000,6 @@
 ||tatatowers.com^
 ||tbao684tryo.com^
 ||tdsintegrations11.online^
-||tecappcloud.com^
 ||tee24h.com^
 ||teearrow.com^
 ||teezill.com^
@@ -1153,14 +1150,12 @@
 ||uniswapdefi.xyz^
 ||uniswapetf.xyz^
 ||uniswapfund.xyz^
-||uniswapgo.com^
 ||uniswaphub.xyz^
 ||uniswaplabs.xyz^
 ||uniswaplender.xyz^
 ||uniswaplending.xyz^
 ||uniswapnft.xyz^
 ||uniswapr.org^
-||uniswaps.tech^
 ||uniswapstake.xyz^
 ||uniswapstaking.xyz^
 ||uniswaptoken.xyz^
@@ -1255,11 +1250,8 @@
 ||zat.io^
 ||zaz4o.securesolidlink.com^
 ||zeqxamvh.glousism.co.in^
-||zerdaliz.com^
-||zeredress.com^
 ||zerorolex.com^
 ||zerowasteinitiative.com^
-||zgalaxytee.com^
 ||zhongda.info^
 ||zillify.cfd^
 ||zlibrary.to^

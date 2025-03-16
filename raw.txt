@@ -1923,6 +1923,9 @@
 0.0.0.0 celebtoysshop.com
 0.0.0.0 www.celebtoysshop.com
 0.0.0.0 store.celebtoysshop.com
+0.0.0.0 certified-sale.com
+0.0.0.0 www.certified-sale.com
+0.0.0.0 store.certified-sale.com
 0.0.0.0 cgibinrbaccess-801.com
 0.0.0.0 www.cgibinrbaccess-801.com
 0.0.0.0 store.cgibinrbaccess-801.com
@@ -4086,6 +4089,9 @@
 0.0.0.0 hsuitehub.com
 0.0.0.0 www.hsuitehub.com
 0.0.0.0 store.hsuitehub.com
+0.0.0.0 http://brandplan.com.tw/
+0.0.0.0 www.http://brandplan.com.tw/
+0.0.0.0 store.http://brandplan.com.tw/
 0.0.0.0 hubfiles.ws
 0.0.0.0 www.hubfiles.ws
 0.0.0.0 store.hubfiles.ws
