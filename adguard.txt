@@ -233,7 +233,6 @@
 ||crackedpc.org^
 ||cracksway.com^
 ||crocssalenz.com^
-||crypto022.online^
 ||crypto029.online^
 ||crypto030.online^
 ||cryptot.net^
@@ -402,6 +401,7 @@
 ||gearanime.com^
 ||gearhomies.com^
 ||gearhuman.com^
+||gearstastic.com^
 ||gearver.com^
 ||geekupdates.notion.site^
 ||geldencosmeticos.com^
@@ -412,6 +412,7 @@
 ||getkmspico.com^
 ||getsupport-lcloud.com^
 ||getwavemax.com^
+||getxi.store^
 ||giftyweb.com^
 ||gig-os.com^
 ||gimboy.com^
@@ -683,6 +684,7 @@
 ||navi24.ru^
 ||navi25.com^
 ||navi26.ru^
+||navi27.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
@@ -732,7 +734,6 @@
 ||niche3d.us^
 ||ninzatool.pw^
 ||nip1.com^
-||nip10.com^
 ||nip12.com^
 ||nip2.com^
 ||nip23.com^
@@ -1206,6 +1207,7 @@
 ||werfew.com^
 ||whbinder.com^
 ||whitewebcams.fun^
+||windbellstore.com^
 ||wintexfashions.com^
 ||wisdomganga.com^
 ||withyotta.com^

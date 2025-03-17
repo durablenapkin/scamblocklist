@@ -3729,6 +3729,9 @@
 0.0.0.0 getx2tesla.com
 0.0.0.0 www.getx2tesla.com
 0.0.0.0 store.getx2tesla.com
+0.0.0.0 getxi.store
+0.0.0.0 www.getxi.store
+0.0.0.0 store.getxi.store
 0.0.0.0 ggchallengemode.world
 0.0.0.0 www.ggchallengemode.world
 0.0.0.0 store.ggchallengemode.world
