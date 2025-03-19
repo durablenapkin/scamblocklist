@@ -311,6 +311,7 @@
 ||edecher.com^
 ||edwardjhutley107375938786edwardjrhutley70205433153583usps.com^
 ||ekommmedia.com^
+||elitestrustonline.biz^
 ||elitestrustonline.com^
 ||ellezz.com^
 ||elonweb.org^
@@ -678,6 +679,7 @@
 ||navi14.com^
 ||navi18.com^
 ||navi2.com^
+||navi20.com^
 ||navi20.ru^
 ||navi21.com^
 ||navi22.com^
@@ -689,6 +691,7 @@
 ||navi25.com^
 ||navi26.ru^
 ||navi3.com^
+||navi30.com^
 ||navi30.ru^
 ||navi32.com^
 ||navi35.com^
@@ -720,6 +723,7 @@
 ||neozor.com^
 ||netcotto.com^
 ||netfucks1.com^
+||netsugar.shop^
 ||nevaon.com^
 ||new.gdtot.me^
 ||new.piratedrive.com^
@@ -755,6 +759,7 @@
 ||nofotballstore.com^
 ||norfotball.com^
 ||norgefotball.com^
+||norgeshoes.com^
 ||nosdaarte.com^
 ||notify-user-adjustments.vercel.app^
 ||novabeds.ca^
@@ -1079,7 +1084,6 @@
 ||unho.unhesiss.shop^
 ||uni-swap.online^
 ||uni-swap.space^
-||uniswap-eth.com^
 ||uniswap-v3.com^
 ||uniswap.cool^
 ||uniswap.markets^
@@ -1174,6 +1178,7 @@
 ||uprising.kip.pro^
 ||upsbezorging.com^
 ||ureashi.com^
+||uscampinghiking.com^
 ||uschse04.my03.com^
 ||ussportabout.com^
 ||ussportpioneer.com^
