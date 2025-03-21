@@ -89,7 +89,6 @@
 ||asvbaen.info^
 ||atlaspvs.com^
 ||atoins.com^
-||atrendsz.com^
 ||attenstyle.com^
 ||au-bloomreach.com^
 ||audiosg.com.sg^
@@ -304,7 +303,6 @@
 ||easynatures.com^
 ||easypayment.me^
 ||easyshoppingus.com^
-||ebarrels4.store^
 ||ebuy8.shop^
 ||ecomicrolab.com^
 ||ecs-online.ffm.to^
@@ -414,7 +412,6 @@
 ||getkmspico.com^
 ||getsupport-lcloud.com^
 ||getwavemax.com^
-||getxi.store^
 ||giftyweb.com^
 ||gig-os.com^
 ||gimboy.com^
@@ -483,6 +480,7 @@
 ||hyndtren25.pages.dev^
 ||i-grade.online^
 ||i-visaindia.com^
+||iagadvanced.com^
 ||iaqorwr.com^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
@@ -567,7 +565,6 @@
 ||kisserine.com^
 ||kitchendecor.shop^
 ||klelnanzeigen-deutch.confirm542351.info^
-||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -602,7 +599,6 @@
 ||litcomplex.com^
 ||lodrat.org^
 ||look-like-star.myshopify.com^
-||lootcs.com^
 ||lozly.com^
 ||lskg.shop^
 ||lucatee.com^
@@ -651,9 +647,7 @@
 ||msl-cf.id^
 ||mslfgl434.pages.dev^
 ||mujib-store28.blogspot.com^
-||museuw.com^
 ||musk-project.com^
-||musklink.org^
 ||muskusa.com^
 ||mybestautologin567.com^
 ||myblogshop.top^
@@ -701,8 +695,10 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi45.ru^
+||navi48.ru^
 ||navi5.com^
 ||navi53.com^
+||navi55.com^
 ||navi56.com^
 ||navi58.com^
 ||navi59.ru^
@@ -878,7 +874,6 @@
 ||rockchief.com^
 ||rosateeshop.com^
 ||rosettahome.cn^
-||rosettahome.top^
 ||roulecams.sbs^
 ||royaldecorhome.store^
 ||royalhedgies.com^
@@ -970,6 +965,7 @@
 ||stallioncredit.com^
 ||startuplatte.com^
 ||steamgateways.com^
+||steammcommunuty.ru^
 ||steamunlock.com^
 ||stearncommunjty.net^
 ||stellara.de^
