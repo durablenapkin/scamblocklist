@@ -65,7 +65,6 @@
 ||allnewsready.com^
 ||allocation-uniswap.co^
 ||allstarshirt.com^
-||alohazing.com^
 ||alphatowercompany.in^
 ||altruetech.com^
 ||altwi-zgs.com^
@@ -74,7 +73,6 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.uniwspapp.com^
@@ -383,7 +381,6 @@
 ||flattee.com^
 ||folkrbvi.pages.dev^
 ||foreveusps.com^
-||frankgreenauonline.shop^
 ||freebitcoin.pages.dev^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
@@ -584,7 +581,6 @@
 ||kredit-rupiah.com^
 ||krediteksklusif.com^
 ||kuyhaa.cc^
-||ladamustore.com^
 ||lakersfanshoponline.com^
 ||lasercutjewelry.net^
 ||lds.xyz^
@@ -638,6 +634,7 @@
 ||mizunsports.com^
 ||moddetail.com^
 ||modmobile24.com^
+||moneymm1688.shop^
 ||monkstars.co^
 ||monkstars.com^
 ||monpaquet9trackpobox.com^
@@ -654,6 +651,7 @@
 ||museuw.com^
 ||musk-project.com^
 ||muskusa.com^
+||muthaafoundation.org^
 ||mybestautologin567.com^
 ||myblogshop.top^
 ||myfunfarm.com^
@@ -698,7 +696,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi53.com^
 ||navi55.com^
