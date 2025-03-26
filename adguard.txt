@@ -62,7 +62,6 @@
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||all-tube.pl^
-||allcars.cn^
 ||allergyfl.com^
 ||allnewsready.com^
 ||allocation-uniswap.co^
@@ -75,7 +74,6 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.uniwspapp.com^
@@ -269,6 +267,7 @@
 ||dbkdsale.com^
 ||dbphototans.com^
 ||ddcad3.reviewgiftfb.com^
+||ddzk513bd.com^
 ||decompraschile.com^
 ||decoryourhome.store^
 ||deergift.com^
@@ -450,6 +449,7 @@
 ||globalvisacorp.com^
 ||glousism.co.in^
 ||gogiworld.com^
+||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -612,7 +612,6 @@
 ||kredit-rupiah.com^
 ||krediteksklusif.com^
 ||kuyhaa.cc^
-||lakersfanshoponline.com^
 ||lasercutjewelry.net^
 ||lds.xyz^
 ||ledgerlivewallets.com^
@@ -633,21 +632,17 @@
 ||lozly.com^
 ||lskg.shop^
 ||lucatee.com^
-||lucchesedeal.store^
 ||luccheseoutlet.online^
-||lucidtiger.com^
 ||lucysstyle.com^
 ||lumustore.top^
 ||luxsgear.com^
 ||madeinusas.com^
-||maebl.com^
 ||mail-cytanet.pages.dev^
 ||mail.zalukaj.cc^
 ||manageyourorder.com^
 ||mango-desert-09ebb4010.4.azurestaticapps.net^
 ||mansion-xenarthran.info^
 ||maxdebrid.com^
-||maxearningcryp.com^
 ||mayor4london.com^
 ||mcds100.com^
 ||mcsglobalcargo.com^
@@ -662,16 +657,13 @@
 ||midnightsociety-x.com^
 ||miles.plumenetwork.xyz^
 ||milgenial.uy^
-||miningco.site^
 ||miucart.com^
 ||mizunsports.com^
 ||moddetail.com^
-||modmobile24.com^
 ||monkstars.co^
 ||monkstars.com^
 ||monpaquet9trackpobox.com^
 ||mot73yi07.info^
-||motovinreports.com^
 ||movica.us^
 ||moviemania.pl^
 ||ms-analytics.mywire.org^
@@ -691,7 +683,6 @@
 ||myhandshops.myshopify.com^
 ||mypuregaming.com^
 ||mystitich4u.com^
-||mysuperdatingforyou.life^
 ||n24-news.com^
 ||nalzahqp.page.link^
 ||namewrimo.info^
@@ -729,6 +720,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi53.com^
 ||navi55.com^
@@ -787,6 +779,7 @@
 ||nofotballstore.com^
 ||norfotball.com^
 ||norgefotball.com^
+||norgeshoes.com^
 ||nosdaarte.com^
 ||notify-user-adjustments.vercel.app^
 ||novabeds.ca^
@@ -850,7 +843,6 @@
 ||philsshorthairorientalkittens.com^
 ||phirussacmush.net^
 ||phototan-cdirect.info^
-||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
@@ -1037,6 +1029,7 @@
 ||subsequentoven.info^
 ||successglossary.com^
 ||suitablepartner.life^
+||summersale.online^
 ||sunsetstore.net^
 ||supercutestuff.com^
 ||superofferte.shop^
@@ -1231,7 +1224,6 @@
 ||uydrnhsb.info^
 ||v5-uniswap.info^
 ||valeofoodsgroup.com^
-||validsteamkeys.com^
 ||vanced-official.com^
 ||vegamartz.com^
 ||veilcurtin.world^
@@ -1276,6 +1268,7 @@
 ||wazofurniture.com^
 ||webcamsfans.cfd^
 ||webvod.pl^
+||werfew.com^
 ||whbinder.com^
 ||whitewebcams.fun^
 ||wintexfashions.com^
@@ -1307,10 +1300,10 @@
 ||yeezysofficial.us.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
+||ygtube.xyz^
 ||yhdshop.com^
 ||yofi-yofi.com^
 ||youdebrid.com^
-||yourdatefind.com^
 ||yoursecrethookup.com^
 ||youtubee.com^
 ||youtunbe.com^
