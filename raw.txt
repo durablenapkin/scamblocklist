@@ -1413,6 +1413,9 @@
 0.0.0.0 bikewhenever.com
 0.0.0.0 www.bikewhenever.com
 0.0.0.0 store.bikewhenever.com
+0.0.0.0 billboardwring.com
+0.0.0.0 www.billboardwring.com
+0.0.0.0 store.billboardwring.com
 0.0.0.0 billigesalg.com
 0.0.0.0 www.billigesalg.com
 0.0.0.0 store.billigesalg.com
@@ -8646,6 +8649,9 @@
 0.0.0.0 pridesocial.net
 0.0.0.0 www.pridesocial.net
 0.0.0.0 store.pridesocial.net
+0.0.0.0 primakovreadings.info
+0.0.0.0 www.primakovreadings.info
+0.0.0.0 store.primakovreadings.info
 0.0.0.0 primeleech.com
 0.0.0.0 www.primeleech.com
 0.0.0.0 store.primeleech.com
@@ -13014,6 +13020,9 @@
 0.0.0.0 uplevelreward.com
 0.0.0.0 www.uplevelreward.com
 0.0.0.0 store.uplevelreward.com
+0.0.0.0 upnews.me
+0.0.0.0 www.upnews.me
+0.0.0.0 store.upnews.me
 0.0.0.0 uprising.kip.pro
 0.0.0.0 www.uprising.kip.pro
 0.0.0.0 store.uprising.kip.pro
@@ -13500,6 +13509,9 @@
 0.0.0.0 x2droptesla.com
 0.0.0.0 www.x2droptesla.com
 0.0.0.0 store.x2droptesla.com
+0.0.0.0 x2em.com
+0.0.0.0 www.x2em.com
+0.0.0.0 store.x2em.com
 0.0.0.0 xai467k.com
 0.0.0.0 www.xai467k.com
 0.0.0.0 store.xai467k.com
