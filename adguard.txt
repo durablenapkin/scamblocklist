@@ -74,7 +74,6 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.uniwspapp.com^
@@ -360,14 +359,12 @@
 ||familygiftville.com^
 ||familyshark.com^
 ||familystore.com^
-||fashionshawaii.com^
 ||faunugraipt.com^
 ||favoritehardware.com^
 ||faze1.com^
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
-||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -731,7 +728,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi45.com^
 ||navi45.ru^
 ||navi53.com^
@@ -854,7 +850,6 @@
 ||phirussacmush.net^
 ||photo-reaktivieren.org^
 ||phototan-cdirect.info^
-||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
