@@ -5,7 +5,6 @@
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
-||1000fapvids.online^
 ||10xuniswap.xyz^
 ||1bmo-reactivemyaccount0.com^
 ||1stfinancefirm.wixsite.com^
@@ -365,6 +364,7 @@
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
+||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -614,6 +614,7 @@
 ||lasercutjewelry.net^
 ||lds.xyz^
 ||ledgerlivewallets.com^
+||lemstore.com^
 ||lericettedifrancy74.com^
 ||letteringift.com^
 ||levelbash.com^
@@ -728,6 +729,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi45.com^
 ||navi45.ru^
 ||navi53.com^
@@ -850,6 +852,7 @@
 ||phirussacmush.net^
 ||photo-reaktivieren.org^
 ||phototan-cdirect.info^
+||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
@@ -903,6 +906,7 @@
 ||queenscattery.com^
 ||quotex.com.in^
 ||ra-bp0000.com^
+||radiatorcrate.com^
 ||reforest-iita.org^
 ||resources4gaming.com^
 ||revanced-extended.com^
