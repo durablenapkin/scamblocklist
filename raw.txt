@@ -13221,6 +13221,9 @@
 0.0.0.0 virtuectech.com
 0.0.0.0 www.virtuectech.com
 0.0.0.0 store.virtuectech.com
+0.0.0.0 virustoal.com
+0.0.0.0 www.virustoal.com
+0.0.0.0 store.virustoal.com
 0.0.0.0 visa-to-india.com
 0.0.0.0 www.visa-to-india.com
 0.0.0.0 store.visa-to-india.com
