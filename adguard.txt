@@ -73,7 +73,6 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.uniwspapp.com^
@@ -163,7 +162,6 @@
 ||bltskins.com^
 ||bolejug.us^
 ||bombardina.pl^
-||bonrbox.com^
 ||booliving.com^
 ||botsuanah.com^
 ||boutiqueondemand.com^
@@ -227,7 +225,6 @@
 ||coinaps.com^
 ||coinreq.com^
 ||colorandcotton.com^
-||commerz-phototans.com^
 ||compoundexotics.com^
 ||comprehension.unstal.cfd^
 ||containably.com^
@@ -263,9 +260,7 @@
 ||dashracegear.net^
 ||datempire.com^
 ||dautee.com^
-||db-phototans.com^
 ||dbkdsale.com^
-||dbphototans.com^
 ||ddcad3.reviewgiftfb.com^
 ||ddzk513bd.com^
 ||decompraschile.com^
@@ -365,7 +360,6 @@
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
-||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -413,6 +407,7 @@
 ||freegiftscards.shop^
 ||frest.info^
 ||friday89.com^
+||friday99.com^
 ||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuckmebaby.click^
@@ -450,7 +445,6 @@
 ||globalvisacorp.com^
 ||glousism.co.in^
 ||gogiworld.com^
-||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -789,7 +783,6 @@
 ||nofotballstore.com^
 ||norfotball.com^
 ||norgefotball.com^
-||norgeshoes.com^
 ||nosdaarte.com^
 ||notify-user-adjustments.vercel.app^
 ||novabeds.ca^
@@ -838,7 +831,6 @@
 ||paradisevs.com^
 ||pateim.com^
 ||path2zillion.com^
-||peaveymartca.com^
 ||pekanbaru.one^
 ||peppatees.com^
 ||perlatoshoe.com^
@@ -1085,7 +1077,6 @@
 ||tinkleo.com^
 ||tiranaaquapark-eg.com^
 ||tlstoreonline.com^
-||toko999.net^
 ||toko999.shop^
 ||tomadamsenergy.com^
 ||too-gle.com^
@@ -1346,6 +1337,7 @@
 ||zeqxamvh.glousism.co.in^
 ||zerknij-tv.pl^
 ||zerorolex.com^
+||zerowasteinitiative.com^
 ||zhongda.info^
 ||zillify.cfd^
 ||zlibrary.to^
