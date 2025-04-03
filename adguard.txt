@@ -360,6 +360,7 @@
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
+||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -443,8 +444,8 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
-||glousism.co.in^
 ||gogiworld.com^
+||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -456,7 +457,6 @@
 ||gov.rvgr.buzz^
 ||gov.scoigr.buzz^
 ||govmedcareers.com^
-||goyourheart.com^
 ||gratis-eltern-produkttests.com^
 ||greatoffersnow.com^
 ||group-signal.com^
@@ -550,7 +550,6 @@
 ||info-milfroom.com^
 ||informationpolicy.cloud^
 ||informed.updateicybd.top^
-||infosystemsllc.com^
 ||injustice.site^
 ||innomediacreate.com^
 ||instant-e-app-for-campaign.github.io^
@@ -724,7 +723,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi45.com^
 ||navi45.ru^
 ||navi53.com^
@@ -783,6 +781,7 @@
 ||nofotballstore.com^
 ||norfotball.com^
 ||norgefotball.com^
+||norgeshoes.com^
 ||nosdaarte.com^
 ||notify-user-adjustments.vercel.app^
 ||novabeds.ca^
@@ -831,6 +830,7 @@
 ||paradisevs.com^
 ||pateim.com^
 ||path2zillion.com^
+||paypays.shop^
 ||pekanbaru.one^
 ||peppatees.com^
 ||perlatoshoe.com^
@@ -843,6 +843,7 @@
 ||phirussacmush.net^
 ||photo-reaktivieren.org^
 ||phototan-cdirect.info^
+||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
@@ -1077,6 +1078,7 @@
 ||tinkleo.com^
 ||tiranaaquapark-eg.com^
 ||tlstoreonline.com^
+||toko999.net^
 ||toko999.shop^
 ||tomadamsenergy.com^
 ||too-gle.com^
@@ -1296,8 +1298,6 @@
 ||xaiwallets.net^
 ||xajzfwgs.com^
 ||xcartpro.com^
-||xn--airupespaa-19a.com^
-||xn--airuptrkiye-yhb.com^
 ||xunlei.it^
 ||xvid.click-social-card.top^
 ||xvid.social-previews.top^
@@ -1334,7 +1334,6 @@
 ||zalukaj.us^
 ||zat.io^
 ||zaz4o.securesolidlink.com^
-||zeqxamvh.glousism.co.in^
 ||zerknij-tv.pl^
 ||zerorolex.com^
 ||zerowasteinitiative.com^
