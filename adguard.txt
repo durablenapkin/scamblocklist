@@ -88,6 +88,7 @@
 ||asvbaen.info^
 ||atlaspvs.com^
 ||atoins.com^
+||atrendsz.com^
 ||attenstyle.com^
 ||au-bloomreach.com^
 ||audiosg.com.sg^
@@ -504,6 +505,7 @@
 ||i-visaindia.com^
 ||iagadvanced.com^
 ||iaqorwr.com^
+||iceao.shop^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
 ||iklrge.com^
@@ -723,6 +725,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi45.com^
 ||navi45.ru^
 ||navi53.com^
@@ -776,12 +779,10 @@
 ||nip5.com^
 ||nip57.com^
 ||nirvezal.com^
-||nldstore.com^
 ||nofotballshop.com^
 ||nofotballstore.com^
 ||norfotball.com^
 ||norgefotball.com^
-||norgeshoes.com^
 ||nosdaarte.com^
 ||notify-user-adjustments.vercel.app^
 ||novabeds.ca^
@@ -830,7 +831,6 @@
 ||paradisevs.com^
 ||pateim.com^
 ||path2zillion.com^
-||paypays.shop^
 ||pekanbaru.one^
 ||peppatees.com^
 ||perlatoshoe.com^
@@ -843,7 +843,6 @@
 ||phirussacmush.net^
 ||photo-reaktivieren.org^
 ||phototan-cdirect.info^
-||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
@@ -886,7 +885,6 @@
 ||promoalfresco.com^
 ||promotebuy.com^
 ||promotion40-form.com^
-||prorify.de^
 ||providedexcitingcritical.pro^
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||punyauang.xyz^
@@ -975,7 +973,6 @@
 ||smartpower4all.org^
 ||smartproduct.site^
 ||smvisa.co.il^
-||snaklenest.com^
 ||sodipi.com^
 ||softgetpc.com^
 ||software19797.blogspot.com^
@@ -1048,7 +1045,6 @@
 ||tatatowers.com^
 ||tbao684tryo.com^
 ||tdsintegrations11.online^
-||tee24h.com^
 ||teearrow.com^
 ||teezill.com^
 ||telegramweb.vercel.app^
@@ -1336,7 +1332,6 @@
 ||zaz4o.securesolidlink.com^
 ||zerknij-tv.pl^
 ||zerorolex.com^
-||zerowasteinitiative.com^
 ||zhongda.info^
 ||zillify.cfd^
 ||zlibrary.to^
