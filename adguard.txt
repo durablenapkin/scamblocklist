@@ -505,7 +505,6 @@
 ||i-visaindia.com^
 ||iagadvanced.com^
 ||iaqorwr.com^
-||iceao.shop^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
 ||iklrge.com^
@@ -644,7 +643,6 @@
 ||mango-desert-09ebb4010.4.azurestaticapps.net^
 ||mansion-xenarthran.info^
 ||maxdebrid.com^
-||maxearningcryp.com^
 ||mayor4london.com^
 ||mcds100.com^
 ||mcsglobalcargo.com^
@@ -783,6 +781,7 @@
 ||nofotballstore.com^
 ||norfotball.com^
 ||norgefotball.com^
+||norgeshoes.com^
 ||nosdaarte.com^
 ||notify-user-adjustments.vercel.app^
 ||novabeds.ca^
@@ -843,6 +842,7 @@
 ||phirussacmush.net^
 ||photo-reaktivieren.org^
 ||phototan-cdirect.info^
+||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
@@ -1033,7 +1033,6 @@
 ||superofferte.shop^
 ||superuniswap.xyz^
 ||supperbrand.company.site^
-||supreme-adblocker.net^
 ||survivalcatsupply.com^
 ||sweepbuzz.buzz^
 ||sweet-bonanza-demo.gr^
@@ -1332,6 +1331,7 @@
 ||zaz4o.securesolidlink.com^
 ||zerknij-tv.pl^
 ||zerorolex.com^
+||zerowasteinitiative.com^
 ||zhongda.info^
 ||zillify.cfd^
 ||zlibrary.to^
