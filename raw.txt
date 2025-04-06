@@ -6567,6 +6567,9 @@
 0.0.0.0 nonofy.com
 0.0.0.0 www.nonofy.com
 0.0.0.0 store.nonofy.com
+0.0.0.0 nopae.top
+0.0.0.0 www.nopae.top
+0.0.0.0 store.nopae.top
 0.0.0.0 nordartisan.com
 0.0.0.0 www.nordartisan.com
 0.0.0.0 store.nordartisan.com

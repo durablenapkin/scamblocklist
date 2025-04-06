@@ -73,6 +73,7 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.uniwspapp.com^
@@ -189,7 +190,6 @@
 ||candlesbymadison.com^
 ||canjaume.com^
 ||caraci.it^
-||cardadvantagecast.com^
 ||carngr.sbs^
 ||carsaratek.com^
 ||casha.xyz^
@@ -446,7 +446,6 @@
 ||gload.info^
 ||globalvisacorp.com^
 ||gogiworld.com^
-||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -639,6 +638,7 @@
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
 ||mail.zalukaj.cc^
+||malgorzataschlegel.click^
 ||manageyourorder.com^
 ||mango-desert-09ebb4010.4.azurestaticapps.net^
 ||mansion-xenarthran.info^
@@ -764,7 +764,6 @@
 ||niche3d.us^
 ||ninzatool.pw^
 ||nip1.com^
-||nip12.com^
 ||nip2.com^
 ||nip23.com^
 ||nip24.com^
@@ -779,9 +778,9 @@
 ||nirvezal.com^
 ||nofotballshop.com^
 ||nofotballstore.com^
+||nopae.top^
 ||norfotball.com^
 ||norgefotball.com^
-||norgeshoes.com^
 ||nosdaarte.com^
 ||notify-user-adjustments.vercel.app^
 ||novabeds.ca^
@@ -835,14 +834,12 @@
 ||perlatoshoe.com^
 ||personal84.com^
 ||petparty.store^
-||petsimulator.live^
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
 ||phirussacmush.net^
 ||photo-reaktivieren.org^
 ||phototan-cdirect.info^
-||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
@@ -937,10 +934,8 @@
 ||scribdbook.top^
 ||seans24.com.pl^
 ||seasonsofficial.com^
-||secrity2redline.com^
 ||securevault.top^
 ||security-meta.pages.app.br^
-||sedark.com^
 ||sellfox.com^
 ||sentees.com^
 ||serengetidiscount.com^
@@ -1033,6 +1028,7 @@
 ||superofferte.shop^
 ||superuniswap.xyz^
 ||supperbrand.company.site^
+||supreme-adblocker.net^
 ||survivalcatsupply.com^
 ||sweepbuzz.buzz^
 ||sweet-bonanza-demo.gr^
