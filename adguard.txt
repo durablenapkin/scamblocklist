@@ -36,7 +36,6 @@
 ||adminicesm.life^
 ||adzfree-watch.net^
 ||affordableforyouusa5.godaddysites.com^
-||ahenana.com^
 ||ailurophilestealer.shop^
 ||air-up-turkiye.com^
 ||air-upfrance.com^
@@ -73,7 +72,6 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.uniwspapp.com^
@@ -361,7 +359,6 @@
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
-||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -446,6 +443,7 @@
 ||gload.info^
 ||globalvisacorp.com^
 ||gogiworld.com^
+||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -749,6 +747,7 @@
 ||netcotto.com^
 ||netfucks1.com^
 ||nevaon.com^
+||new-s24.click^
 ||new.gdtot.me^
 ||new.piratedrive.com^
 ||new2.gdtot.sbs^
@@ -840,6 +839,7 @@
 ||phirussacmush.net^
 ||photo-reaktivieren.org^
 ||phototan-cdirect.info^
+||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
@@ -934,8 +934,10 @@
 ||scribdbook.top^
 ||seans24.com.pl^
 ||seasonsofficial.com^
+||secrity2redline.com^
 ||securevault.top^
 ||security-meta.pages.app.br^
+||sedark.com^
 ||sellfox.com^
 ||sentees.com^
 ||serengetidiscount.com^
