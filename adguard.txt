@@ -56,6 +56,9 @@
 ||airupnederlands.com^
 ||airupsrbija.com^
 ||aizipai.cn^
+||ajdta.com^
+||akatee.com^
+||akjamv.shop^
 ||aldofashion.com^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
@@ -72,7 +75,6 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.uniwspapp.com^
@@ -87,7 +89,6 @@
 ||astronomyfitmisguided.com^
 ||asvbaen.info^
 ||atlaspvs.com^
-||atoins.com^
 ||atrendsz.com^
 ||attenstyle.com^
 ||au-bloomreach.com^
@@ -163,7 +164,6 @@
 ||bltskins.com^
 ||bolejug.us^
 ||bombardina.pl^
-||booliving.com^
 ||botsuanah.com^
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
@@ -213,6 +213,7 @@
 ||cityofdream.co.uk^
 ||claim-uniswap.app^
 ||claims-uniswap.app^
+||claimsrobux.live^
 ||clearance-bike.com^
 ||cluckergifts.ecwid.com^
 ||cma88.vip^
@@ -324,7 +325,6 @@
 ||equiwarmpro.co^
 ||ercnnier.com^
 ||eset.co.il^
-||eshaalfawson.shop^
 ||esl-gaming.com^
 ||et-reliefgc-ca.info^
 ||etaindia.org^
@@ -400,6 +400,7 @@
 ||folkrbvi.pages.dev^
 ||food-network.fwh.is^
 ||foreveusps.com^
+||frankgreenauonline.shop^
 ||freebitcoin.pages.dev^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
@@ -444,6 +445,7 @@
 ||gload.info^
 ||globalvisacorp.com^
 ||gogiworld.com^
+||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -721,7 +723,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi45.com^
 ||navi45.ru^
 ||navi53.com^
@@ -834,6 +835,7 @@
 ||perlatoshoe.com^
 ||personal84.com^
 ||petparty.store^
+||petsimulator.live^
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
@@ -885,7 +887,6 @@
 ||providedexcitingcritical.pro^
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||punyauang.xyz^
-||qbnwf061124g.cfd^
 ||qq51f.short.gy^
 ||qriedf.info^
 ||queenscattery.com^
@@ -1030,7 +1031,6 @@
 ||superofferte.shop^
 ||superuniswap.xyz^
 ||supperbrand.company.site^
-||supreme-adblocker.net^
 ||survivalcatsupply.com^
 ||sweepbuzz.buzz^
 ||sweet-bonanza-demo.gr^
@@ -1110,7 +1110,6 @@
 ||udemy-creators.com^
 ||udrop.com^
 ||uk-tweed-jackets.com^
-||ukoutdoordeal.com^
 ||ultimate-tech-products.myshopify.com^
 ||ultra-cda.pl^
 ||ultrasonica.info^
@@ -1120,7 +1119,6 @@
 ||unho.unhesiss.shop^
 ||uni-swap.online^
 ||uni-swap.space^
-||unique3ds.com^
 ||uniswap-v3.com^
 ||uniswap.cool^
 ||uniswap.markets^
@@ -1216,7 +1214,6 @@
 ||uprising.kip.pro^
 ||upsbezorging.com^
 ||ureashi.com^
-||uredaka.com^
 ||uscampinghiking.com^
 ||uschse04.my03.com^
 ||usplussports.com^
@@ -1224,7 +1221,6 @@
 ||ussportpioneer.com^
 ||uydrnhsb.info^
 ||v5-uniswap.info^
-||v5chb4tty0611249p.cfd^
 ||valeofoodsgroup.com^
 ||validsteamkeys.com^
 ||vanced-official.com^
@@ -1281,7 +1277,6 @@
 ||withyotta.com^
 ||woadoodles.com^
 ||worthas.shop^
-||wp3.xyz^
 ||wpad.casa^
 ||wpad.ru^
 ||wpad.top^
@@ -1292,13 +1287,10 @@
 ||base-vod.pl^
 ||wyzia-orderdeposits.com^
 ||x2-promo.net^
-||x2droptesla.com^
 ||xai467k.com^
 ||xaiwallets.net^
 ||xajzfwgs.com^
 ||xcartpro.com^
-||xmasbauble.com^
-||xn--airuptrkiye-yhb.com^
 ||xunlei.it^
 ||xvid.click-social-card.top^
 ||xvid.social-previews.top^
