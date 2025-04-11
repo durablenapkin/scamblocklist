@@ -327,6 +327,7 @@
 ||etaindia.org^
 ||etaindiaonline.com^
 ||etv-in.com^
+||eudoraz.com^
 ||eviralstore.com^
 ||evisa-india-online.com^
 ||evisa-indian.com^
@@ -440,6 +441,7 @@
 ||gload.info^
 ||globalvisacorp.com^
 ||gogiworld.com^
+||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -777,7 +779,6 @@
 ||nopae.top^
 ||norfotball.com^
 ||norgefotball.com^
-||norgeshoes.com^
 ||nosdaarte.com^
 ||notify-user-adjustments.vercel.app^
 ||novabeds.ca^
