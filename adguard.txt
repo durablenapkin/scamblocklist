@@ -73,7 +73,6 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.uniwspapp.com^
@@ -180,7 +179,6 @@
 ||btc9339.com^
 ||buddhakind.com^
 ||buyfingermoney.company.com^
-||buylikes.se^
 ||buyyeezy2023.com^
 ||bwpkizpfms.funnelish.com^
 ||bwsvbk.info^
@@ -410,6 +408,7 @@
 ||firersale.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
+||fitgirl-repacks.vip^
 ||fitgirlrepacksite.com^
 ||fiusps.com^
 ||fkpgr.buzz^
@@ -478,6 +477,7 @@
 ||gtltelecomgroup.in^
 ||gtltower.com^
 ||gtltowerinfratel.in^
+||habilitacao.org^
 ||habtoorloyal.com^
 ||haceroberomaste.com^
 ||hairyfy.com^
@@ -524,7 +524,6 @@
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
 ||improtants.space^
-||inboxtext.com^
 ||india-e-visa.com^
 ||india-visa-online.com^
 ||india-visa-online.org^
@@ -739,6 +738,8 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
+||navi43.com^
 ||navi45.ru^
 ||navi52.com^
 ||navi53.com^
@@ -772,7 +773,6 @@
 ||new2.gdtot.sbs^
 ||newfootwearshop.com^
 ||newgstore.com^
-||newincomingmessage.com^
 ||newoutdoorsale.com^
 ||newpipe.app^
 ||nextmrolympia.com^
@@ -906,6 +906,7 @@
 ||punyauang.xyz^
 ||qq51f.short.gy^
 ||qriedf.info^
+||qttlpn.shop^
 ||queenscattery.com^
 ||quoka.dk9zc9.pro^
 ||quotex.com.in^

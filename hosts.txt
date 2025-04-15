@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3084
+# Domains: 3086
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -166,9 +166,6 @@
 0.0.0.0 www.amznshirts.com
 0.0.0.0 store.amznshirts.com
 0.0.0.0 an1.is
-0.0.0.0 animeshoppers.com
-0.0.0.0 www.animeshoppers.com
-0.0.0.0 store.animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
 0.0.0.0 app-uniswapping.org
@@ -370,7 +367,6 @@
 0.0.0.0 bombardina.pl
 0.0.0.0 www.bombardina.pl
 0.0.0.0 booliving.com
-0.0.0.0 www.booliving.com
 0.0.0.0 store.booliving.com
 0.0.0.0 botsuanah.com
 0.0.0.0 www.botsuanah.com
@@ -396,8 +392,6 @@
 0.0.0.0 www.buddhakind.com
 0.0.0.0 store.buddhakind.com
 0.0.0.0 buyfingermoney.company.com
-0.0.0.0 buylikes.se
-0.0.0.0 www.buylikes.se
 0.0.0.0 buyyeezy2023.com
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 bwsvbk.info
@@ -829,7 +823,7 @@
 0.0.0.0 faze24.com
 0.0.0.0 www.faze24.com
 0.0.0.0 store.faze24.com
-0.0.0.0 www.faze3.com
+0.0.0.0 faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze40.com
@@ -903,7 +897,12 @@
 0.0.0.0 fishingdaily.shop
 0.0.0.0 www.fishingdaily.shop
 0.0.0.0 fitgirl-repacks-site.org
+0.0.0.0 fitgirl-repacks.vip
+0.0.0.0 www.fitgirl-repacks.vip
+0.0.0.0 store.fitgirl-repacks.vip
 0.0.0.0 fitgirlrepacksite.com
+0.0.0.0 www.fitgirlrepacksite.com
+0.0.0.0 store.fitgirlrepacksite.com
 0.0.0.0 fiusps.com
 0.0.0.0 www.fiusps.com
 0.0.0.0 fkpgr.buzz
@@ -1050,6 +1049,9 @@
 0.0.0.0 www.gtltower.com
 0.0.0.0 gtltowerinfratel.in
 0.0.0.0 www.gtltowerinfratel.in
+0.0.0.0 habilitacao.org
+0.0.0.0 www.habilitacao.org
+0.0.0.0 store.habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 www.habtoorloyal.com
 0.0.0.0 haceroberomaste.com
@@ -1151,7 +1153,6 @@
 0.0.0.0 improtants.space
 0.0.0.0 www.improtants.space
 0.0.0.0 store.improtants.space
-0.0.0.0 inboxtext.com
 0.0.0.0 india-e-visa.com
 0.0.0.0 www.india-e-visa.com
 0.0.0.0 india-visa-online.com
@@ -1636,6 +1637,9 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
+0.0.0.0 navi42.ru
+0.0.0.0 www.navi42.ru
+0.0.0.0 navi43.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
@@ -1689,7 +1693,6 @@
 0.0.0.0 www.neozor.com
 0.0.0.0 netcotto.com
 0.0.0.0 www.netcotto.com
-0.0.0.0 store.netcotto.com
 0.0.0.0 netfucks1.com
 0.0.0.0 nevaon.com
 0.0.0.0 www.nevaon.com
@@ -1708,7 +1711,6 @@
 0.0.0.0 newfootwearshop.com
 0.0.0.0 www.newfootwearshop.com
 0.0.0.0 www.newgstore.com
-0.0.0.0 newincomingmessage.com
 0.0.0.0 newoutdoorsale.com
 0.0.0.0 www.newoutdoorsale.com
 0.0.0.0 newpipe.app
@@ -2005,8 +2007,10 @@
 0.0.0.0 www.qq51f.short.gy
 0.0.0.0 store.qq51f.short.gy
 0.0.0.0 qriedf.info
+0.0.0.0 store.qttlpn.shop
 0.0.0.0 queenscattery.com
 0.0.0.0 www.queenscattery.com
+0.0.0.0 store.queenscattery.com
 0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 www.quoka.dk9zc9.pro
 0.0.0.0 store.quoka.dk9zc9.pro
@@ -2268,6 +2272,7 @@
 0.0.0.0 steamunlock.com
 0.0.0.0 www.steamunlock.com
 0.0.0.0 stearncommunjty.net
+0.0.0.0 www.stearncommunjty.net
 0.0.0.0 store.stearncommunjty.net
 0.0.0.0 stellara.de
 0.0.0.0 www.stellara.de
@@ -2919,7 +2924,6 @@
 0.0.0.0 www.watchseniorfit.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 www.wavetshirt.com
-0.0.0.0 store.wavetshirt.com
 0.0.0.0 wazofurniture.com
 0.0.0.0 www.wazofurniture.com
 0.0.0.0 webcamsfans.cfd
@@ -3075,8 +3079,6 @@
 0.0.0.0 zerorolex.com
 0.0.0.0 www.zerorolex.com
 0.0.0.0 zerowasteinitiative.com
-0.0.0.0 www.zerowasteinitiative.com
-0.0.0.0 store.zerowasteinitiative.com
 0.0.0.0 zhongda.info
 0.0.0.0 zillify.cfd
 0.0.0.0 www.zillify.cfd
