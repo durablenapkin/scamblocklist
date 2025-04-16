@@ -345,6 +345,7 @@
 ||etaindiaonline.com^
 ||etv-in.com^
 ||eudoraz.com^
+||eventmusk-x.com^
 ||eviralstore.com^
 ||evisa-india-online.com^
 ||evisa-indian.com^
@@ -413,7 +414,6 @@
 ||fiusps.com^
 ||fkpgr.buzz^
 ||folkrbvi.pages.dev^
-||food-network.fwh.is^
 ||foreveusps.com^
 ||forumdetran.co^
 ||freebitcoin.pages.dev^
@@ -458,6 +458,7 @@
 ||gload.info^
 ||globalvisacorp.com^
 ||gogiworld.com^
+||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -524,6 +525,7 @@
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
 ||improtants.space^
+||inboxtext.com^
 ||india-e-visa.com^
 ||india-visa-online.com^
 ||india-visa-online.org^
@@ -628,6 +630,7 @@
 ||levelbash.com^
 ||lifestyletrading.co.za^
 ||likenu.se^
+||lillly.shop^
 ||limitalfresco.com^
 ||limited-promo.com^
 ||linkshe.com^
@@ -740,6 +743,7 @@
 ||navi4.com^
 ||navi42.ru^
 ||navi43.com^
+||navi45.com^
 ||navi45.ru^
 ||navi52.com^
 ||navi53.com^
@@ -860,6 +864,7 @@
 ||phirussacmush.net^
 ||photo-reaktivieren.org^
 ||phototan-cdirect.info^
+||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
@@ -873,7 +878,6 @@
 ||pl.wojewodapodlaski.pl^
 ||player-cda.pl^
 ||player-qr.com^
-||poistenie-sk.com^
 ||polish-money-matters.blogspot.com^
 ||popeurope.com^
 ||poppop.online^
@@ -906,7 +910,6 @@
 ||punyauang.xyz^
 ||qq51f.short.gy^
 ||qriedf.info^
-||qttlpn.shop^
 ||queenscattery.com^
 ||quoka.dk9zc9.pro^
 ||quotex.com.in^
@@ -1294,6 +1297,7 @@
 ||wavetshirt.com^
 ||wazofurniture.com^
 ||webcamsfans.cfd^
+||webcamstream.sbs^
 ||webvod.pl^
 ||werfew.com^
 ||whbinder.com^
@@ -1328,7 +1332,6 @@
 ||yeyvibe.com^
 ||ygtube.xyz^
 ||yhdshop.com^
-||yma.zdwtixh.xyz^
 ||yofi-yofi.com^
 ||youdebrid.com^
 ||yoursecrethookup.com^
@@ -1357,7 +1360,6 @@
 ||zaz4o.securesolidlink.com^
 ||zerknij-tv.pl^
 ||zerorolex.com^
-||zerowasteinitiative.com^
 ||zhongda.info^
 ||zillify.cfd^
 ||zlibrary.to^
