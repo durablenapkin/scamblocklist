@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3087
+# Domains: 3075
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -558,6 +558,7 @@
 0.0.0.0 store.customizerbox.com
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
+0.0.0.0 cuteclub.org
 0.0.0.0 cutty.app
 0.0.0.0 www.cutty.app
 0.0.0.0 store.cutty.app
@@ -719,7 +720,6 @@
 0.0.0.0 www.ekommmedia.com
 0.0.0.0 elitestrustonline.biz
 0.0.0.0 www.elitestrustonline.biz
-0.0.0.0 store.elitestrustonline.biz
 0.0.0.0 ellezz.com
 0.0.0.0 elonweb.org
 0.0.0.0 elrifeno.com
@@ -825,7 +825,9 @@
 0.0.0.0 faze24.com
 0.0.0.0 www.faze24.com
 0.0.0.0 store.faze24.com
+0.0.0.0 faze3.com
 0.0.0.0 www.faze3.com
+0.0.0.0 store.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze40.com
@@ -912,6 +914,8 @@
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 www.folkrbvi.pages.dev
 0.0.0.0 store.folkrbvi.pages.dev
+0.0.0.0 food-network.fwh.is
+0.0.0.0 www.food-network.fwh.is
 0.0.0.0 foreveusps.com
 0.0.0.0 www.foreveusps.com
 0.0.0.0 forumdetran.co
@@ -923,9 +927,6 @@
 0.0.0.0 www.freedom-ca-5g.com
 0.0.0.0 store.freedom-ca-5g.com
 0.0.0.0 freedom.service-update3.com
-0.0.0.0 freedomgift50.com
-0.0.0.0 www.freedomgift50.com
-0.0.0.0 store.freedomgift50.com
 0.0.0.0 frest.info
 0.0.0.0 www.frest.info
 0.0.0.0 store.frest.info
@@ -1017,7 +1018,6 @@
 0.0.0.0 www.globalvisacorp.com
 0.0.0.0 gogiworld.com
 0.0.0.0 www.gogiworld.com
-0.0.0.0 store.goglle.com
 0.0.0.0 goindiavisa.com
 0.0.0.0 www.goindiavisa.com
 0.0.0.0 gossvibe.com
@@ -1050,7 +1050,10 @@
 0.0.0.0 www.gtltower.com
 0.0.0.0 gtltowerinfratel.in
 0.0.0.0 www.gtltowerinfratel.in
-0.0.0.0 habilitacao.org
+0.0.0.0 gunstee.com
+0.0.0.0 www.gunstee.com
+0.0.0.0 store.gunstee.com
+0.0.0.0 store.habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 www.habtoorloyal.com
 0.0.0.0 haceroberomaste.com
@@ -1383,7 +1386,6 @@
 0.0.0.0 www.lifestyletrading.co.za
 0.0.0.0 likenu.se
 0.0.0.0 www.likenu.se
-0.0.0.0 store.lillly.shop
 0.0.0.0 limitalfresco.com
 0.0.0.0 www.limitalfresco.com
 0.0.0.0 store.limitalfresco.com
@@ -1640,9 +1642,8 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 www.navi42.ru
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
-0.0.0.0 store.navi45.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi52.com
 0.0.0.0 navi53.com
@@ -1772,6 +1773,7 @@
 0.0.0.0 www.norfotball.com
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
+0.0.0.0 norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 notasdenatran.co
@@ -1907,7 +1909,6 @@
 0.0.0.0 phototan-cdirect.info
 0.0.0.0 www.phototan-cdirect.info
 0.0.0.0 store.phototan-cdirect.info
-0.0.0.0 www.phototan.net
 0.0.0.0 pickablegift.com
 0.0.0.0 www.pickablegift.com
 0.0.0.0 store.pickablegift.com
@@ -1949,8 +1950,6 @@
 0.0.0.0 store.porkbunrr.web.app
 0.0.0.0 portal-canaa374-post835-info.com
 0.0.0.0 www.portal-canaa374-post835-info.com
-0.0.0.0 postova-uzivatel.com
-0.0.0.0 www.postova-uzivatel.com
 0.0.0.0 powerboostup.com
 0.0.0.0 www.powerboostup.com
 0.0.0.0 store.powerboostup.com
@@ -2155,9 +2154,6 @@
 0.0.0.0 www.shopraidlight.com
 0.0.0.0 shopsyracuseonline.com
 0.0.0.0 www.shopsyracuseonline.com
-0.0.0.0 shoptcuhornedonline.com
-0.0.0.0 www.shoptcuhornedonline.com
-0.0.0.0 store.shoptcuhornedonline.com
 0.0.0.0 shopyourturn.com
 0.0.0.0 www.shopyourturn.com
 0.0.0.0 showapparels.com
@@ -2271,6 +2267,7 @@
 0.0.0.0 store.startuplatte.com
 0.0.0.0 steamgateways.com
 0.0.0.0 www.steamgateways.com
+0.0.0.0 store.steamgateways.com
 0.0.0.0 steamunlock.com
 0.0.0.0 www.steamunlock.com
 0.0.0.0 stearncommunjty.net
@@ -2301,9 +2298,6 @@
 0.0.0.0 store.storeax.com
 0.0.0.0 storecollegeonline.com
 0.0.0.0 www.storecollegeonline.com
-0.0.0.0 storeoregononline.com
-0.0.0.0 www.storeoregononline.com
-0.0.0.0 store.storeoregononline.com
 0.0.0.0 storeskiwear.com
 0.0.0.0 www.storeskiwear.com
 0.0.0.0 storesp.com
@@ -2435,9 +2429,6 @@
 0.0.0.0 tiranaaquapark-eg.com
 0.0.0.0 www.tiranaaquapark-eg.com
 0.0.0.0 store.tiranaaquapark-eg.com
-0.0.0.0 tlstoreonline.com
-0.0.0.0 www.tlstoreonline.com
-0.0.0.0 store.tlstoreonline.com
 0.0.0.0 toko999.net
 0.0.0.0 www.toko999.net
 0.0.0.0 toko999.shop
@@ -2796,9 +2787,6 @@
 0.0.0.0 universityofqatarrectorate.godaddysites.com
 0.0.0.0 www.universityofqatarrectorate.godaddysites.com
 0.0.0.0 store.universityofqatarrectorate.godaddysites.com
-0.0.0.0 unlock2024app.world
-0.0.0.0 www.unlock2024app.world
-0.0.0.0 store.unlock2024app.world
 0.0.0.0 uplevelreward.com
 0.0.0.0 www.uplevelreward.com
 0.0.0.0 upnews.me
@@ -2856,6 +2844,7 @@
 0.0.0.0 vider.com.pl
 0.0.0.0 vider.info.pl
 0.0.0.0 www.vider.info.pl
+0.0.0.0 store.vider.info.pl
 0.0.0.0 vider.online
 0.0.0.0 www.vider.online
 0.0.0.0 vinisay.com
@@ -3005,8 +2994,6 @@
 0.0.0.0 ygtube.xyz
 0.0.0.0 www.ygtube.xyz
 0.0.0.0 store.ygtube.xyz
-0.0.0.0 yhdshop.com
-0.0.0.0 www.yhdshop.com
 0.0.0.0 store.yhdshop.com
 0.0.0.0 yofi-yofi.com
 0.0.0.0 www.yofi-yofi.com
@@ -3080,6 +3067,7 @@
 0.0.0.0 store.zerknij-tv.pl
 0.0.0.0 zerorolex.com
 0.0.0.0 www.zerorolex.com
+0.0.0.0 zerowasteinitiative.com
 0.0.0.0 zhongda.info
 0.0.0.0 zillify.cfd
 0.0.0.0 www.zillify.cfd
