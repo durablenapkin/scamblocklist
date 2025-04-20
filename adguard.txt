@@ -69,12 +69,12 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||am-freights.com^
-||amcclothes.com^
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
 ||anydebrid.com^
 ||app-uniswapping.org^
+||app.identity-nexo.xborders.io^
 ||app.uniwspapp.com^
 ||appbipa.com^
 ||appdrive.info^
@@ -474,13 +474,11 @@
 ||gratis-eltern-produkttests.com^
 ||greatoffersnow.com^
 ||group-signal.com^
-||group-teneta.online^
 ||gsport.com^
 ||gtlinfrastructurelimited.com^
 ||gtltelecomgroup.in^
 ||gtltower.com^
 ||gtltowerinfratel.in^
-||gunstee.com^
 ||habilitacao.org^
 ||habtoorloyal.com^
 ||haceroberomaste.com^
@@ -735,6 +733,7 @@
 ||navi30.com^
 ||navi30.ru^
 ||navi32.com^
+||navi33.com^
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
@@ -742,6 +741,8 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi43.com^
+||navi44.com^
+||navi45.com^
 ||navi45.ru^
 ||navi52.com^
 ||navi53.com^
@@ -762,6 +763,7 @@
 ||navi8.com^
 ||navi86.ru^
 ||navi88.com^
+||navi9.com^
 ||navi95.com^
 ||navi99.com^
 ||nayatowerinstallation.in.net^
@@ -919,7 +921,6 @@
 ||rastreiocorreio.co^
 ||reforest-iita.org^
 ||regularizedenatran.co^
-||relaxcsvote.shop^
 ||remessacorreio.site^
 ||resources4gaming.com^
 ||revanced-extended.com^
@@ -1090,6 +1091,7 @@
 ||theshirtyouneed.com^
 ||thevitic.com^
 ||thevitic.onshopbase.com^
+||thewindowsactivator.com^
 ||thuthuatxiaomi.com^
 ||tigerkash.com^
 ||tikgeeker.com^
@@ -1319,6 +1321,7 @@
 ||xai467k.com^
 ||xaiwallets.net^
 ||xajzfwgs.com^
+||xborders.io^
 ||xcartpro.com^
 ||xunlei.it^
 ||xvid.click-social-card.top^
@@ -1359,7 +1362,6 @@
 ||zedbubble.com^
 ||zerknij-tv.pl^
 ||zerorolex.com^
-||zerowasteinitiative.com^
 ||zhongda.info^
 ||zillify.cfd^
 ||zlibrary.to^
