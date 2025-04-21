@@ -72,6 +72,7 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.identity-nexo.xborders.io^
@@ -291,6 +292,7 @@
 ||displaymovies.pl^
 ||distrochooser.snehit.dev^
 ||distryct.shop^
+||diteringion.com^
 ||dkfodboldstore.com^
 ||dleggere.com^
 ||dogparadiseshop.com^
@@ -356,7 +358,6 @@
 ||ex-torrenty.org^
 ||exclusivebuyz4uu.shop^
 ||exfresutexi.info^
-||expertrader.me^
 ||expresscourier.delivery^
 ||expressmovers.com^
 ||ezycases.com^
@@ -375,7 +376,6 @@
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
-||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -459,7 +459,6 @@
 ||gload.info^
 ||globalvisacorp.com^
 ||gogiworld.com^
-||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -479,7 +478,6 @@
 ||gtltelecomgroup.in^
 ||gtltower.com^
 ||gtltowerinfratel.in^
-||habilitacao.org^
 ||habtoorloyal.com^
 ||haceroberomaste.com^
 ||hairyfy.com^
@@ -692,6 +690,8 @@
 ||msl-cf.id^
 ||mslfgl434.pages.dev^
 ||mujib-store28.blogspot.com^
+||mulllvad.org^
+||mullvaad.net^
 ||museuw.com^
 ||musk-project.com^
 ||muskusa.com^
@@ -740,9 +740,9 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi43.com^
 ||navi44.com^
-||navi45.com^
 ||navi45.ru^
 ||navi52.com^
 ||navi53.com^
@@ -761,6 +761,7 @@
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
+||navi85.com^
 ||navi86.ru^
 ||navi88.com^
 ||navi9.com^
@@ -771,7 +772,6 @@
 ||netcotto.com^
 ||netfucks1.com^
 ||nevaon.com^
-||new-s24.click^
 ||new.gdtot.me^
 ||new.piratedrive.com^
 ||new2.gdtot.sbs^
@@ -805,7 +805,6 @@
 ||nopae.top^
 ||norfotball.com^
 ||norgefotball.com^
-||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
@@ -1362,6 +1361,7 @@
 ||zedbubble.com^
 ||zerknij-tv.pl^
 ||zerorolex.com^
+||zerowasteinitiative.com^
 ||zhongda.info^
 ||zillify.cfd^
 ||zlibrary.to^
