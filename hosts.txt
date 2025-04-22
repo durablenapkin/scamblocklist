@@ -1014,8 +1014,6 @@
 0.0.0.0 store.gload.info
 0.0.0.0 globalvisacorp.com
 0.0.0.0 www.globalvisacorp.com
-0.0.0.0 gofoexpress.com
-0.0.0.0 www.gofoexpress.com
 0.0.0.0 gogiworld.com
 0.0.0.0 www.gogiworld.com
 0.0.0.0 goglle.com

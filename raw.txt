@@ -3981,9 +3981,6 @@
 0.0.0.0 goexpressparcel.com
 0.0.0.0 www.goexpressparcel.com
 0.0.0.0 store.goexpressparcel.com
-0.0.0.0 gofoexpress.com
-0.0.0.0 www.gofoexpress.com
-0.0.0.0 store.gofoexpress.com
 0.0.0.0 gofreeusps.com
 0.0.0.0 www.gofreeusps.com
 0.0.0.0 store.gofreeusps.com
