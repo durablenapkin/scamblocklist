@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3101
+# Domains: 3098
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -164,6 +164,9 @@
 0.0.0.0 www.amznshirts.com
 0.0.0.0 store.amznshirts.com
 0.0.0.0 an1.is
+0.0.0.0 animeshoppers.com
+0.0.0.0 www.animeshoppers.com
+0.0.0.0 store.animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
 0.0.0.0 app-uniswapping.org
@@ -721,6 +724,8 @@
 0.0.0.0 ekommmedia.com
 0.0.0.0 www.ekommmedia.com
 0.0.0.0 elitestrustonline.biz
+0.0.0.0 www.elitestrustonline.biz
+0.0.0.0 store.elitestrustonline.biz
 0.0.0.0 ellezz.com
 0.0.0.0 elonweb.org
 0.0.0.0 elrifeno.com
@@ -759,9 +764,6 @@
 0.0.0.0 www.eventmusk-x.com
 0.0.0.0 eviralstore.com
 0.0.0.0 www.eviralstore.com
-0.0.0.0 evisa-india-online.com
-0.0.0.0 www.evisa-india-online.com
-0.0.0.0 store.evisa-india-online.com
 0.0.0.0 evisa-indian.com
 0.0.0.0 www.evisa-indian.com
 0.0.0.0 evisa.express
@@ -826,9 +828,6 @@
 0.0.0.0 faze24.com
 0.0.0.0 www.faze24.com
 0.0.0.0 store.faze24.com
-0.0.0.0 faze3.com
-0.0.0.0 www.faze3.com
-0.0.0.0 store.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze40.com
@@ -929,6 +928,7 @@
 0.0.0.0 store.freedom-ca-5g.com
 0.0.0.0 freedom.service-update3.com
 0.0.0.0 freedomgift50.com
+0.0.0.0 www.freedomgift50.com
 0.0.0.0 store.freedomgift50.com
 0.0.0.0 frest.info
 0.0.0.0 www.frest.info
@@ -937,6 +937,7 @@
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 www.friday99.com
+0.0.0.0 www.fridaylocalmanager.duckdns.org
 0.0.0.0 store.fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
 0.0.0.0 www.frostgoddess.com
@@ -951,6 +952,9 @@
 0.0.0.0 store.fullview.pl
 0.0.0.0 fundanemt.org
 0.0.0.0 www.fundanemt.org
+0.0.0.0 funfilenow.com
+0.0.0.0 www.funfilenow.com
+0.0.0.0 store.funfilenow.com
 0.0.0.0 furykms.com
 0.0.0.0 www.furykms.com
 0.0.0.0 store.furykms.com
@@ -1014,11 +1018,10 @@
 0.0.0.0 store.gload.info
 0.0.0.0 globalvisacorp.com
 0.0.0.0 www.globalvisacorp.com
+0.0.0.0 gofoexpress.com
+0.0.0.0 www.gofoexpress.com
 0.0.0.0 gogiworld.com
 0.0.0.0 www.gogiworld.com
-0.0.0.0 goglle.com
-0.0.0.0 www.goglle.com
-0.0.0.0 store.goglle.com
 0.0.0.0 goindiavisa.com
 0.0.0.0 www.goindiavisa.com
 0.0.0.0 gossvibe.com
@@ -1052,8 +1055,6 @@
 0.0.0.0 store.gtltower.com
 0.0.0.0 gtltowerinfratel.in
 0.0.0.0 www.gtltowerinfratel.in
-0.0.0.0 habilitacao.org
-0.0.0.0 www.habilitacao.org
 0.0.0.0 store.habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 www.habtoorloyal.com
@@ -1343,8 +1344,6 @@
 0.0.0.0 kmspi.co
 0.0.0.0 www.kmspi.co
 0.0.0.0 kmspico.io
-0.0.0.0 www.kmspico.io
-0.0.0.0 store.kmspico.io
 0.0.0.0 kmspicoofficial.com
 0.0.0.0 www.kmspicoofficial.com
 0.0.0.0 knightmods.com
@@ -1401,6 +1400,7 @@
 0.0.0.0 lisabuddy.com
 0.0.0.0 litcomplex.com
 0.0.0.0 www.litcomplex.com
+0.0.0.0 load.365analytics.xyz
 0.0.0.0 lodrat.org
 0.0.0.0 www.lodrat.org
 0.0.0.0 store.lodrat.org
@@ -1409,10 +1409,12 @@
 0.0.0.0 look-like-star.myshopify.com
 0.0.0.0 www.look-like-star.myshopify.com
 0.0.0.0 store.look-like-star.myshopify.com
+0.0.0.0 www.lookinmyheart.com
 0.0.0.0 lootcs.com
 0.0.0.0 www.lootcs.com
 0.0.0.0 lozly.com
 0.0.0.0 www.lozly.com
+0.0.0.0 lrgst.com
 0.0.0.0 lskg.shop
 0.0.0.0 www.lskg.shop
 0.0.0.0 store.lskg.shop
@@ -1577,6 +1579,7 @@
 0.0.0.0 navi1.com
 0.0.0.0 www.navi1.com
 0.0.0.0 store.navi1.com
+0.0.0.0 www.navi1.ru
 0.0.0.0 navi10.com
 0.0.0.0 www.navi10.com
 0.0.0.0 store.navi10.com
@@ -1646,7 +1649,9 @@
 0.0.0.0 www.navi39.ru
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
-0.0.0.0 navi42.ru
+0.0.0.0 store.navi4.com
+0.0.0.0 www.navi42.ru
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 navi44.com
 0.0.0.0 navi45.ru
@@ -1784,9 +1789,6 @@
 0.0.0.0 www.norfotball.com
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
-0.0.0.0 norgeshoes.com
-0.0.0.0 www.norgeshoes.com
-0.0.0.0 store.norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 notasdenatran.co
@@ -2049,9 +2051,6 @@
 0.0.0.0 resources4gaming.com
 0.0.0.0 www.resources4gaming.com
 0.0.0.0 store.resources4gaming.com
-0.0.0.0 revanced-extended.com
-0.0.0.0 www.revanced-extended.com
-0.0.0.0 store.revanced-extended.com
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
 0.0.0.0 rewardsgiantca.com
@@ -2231,7 +2230,6 @@
 0.0.0.0 www.souhoney.com
 0.0.0.0 southernlife.net
 0.0.0.0 www.southernlife.net
-0.0.0.0 store.southernlife.net
 0.0.0.0 spark.kindpickle.info
 0.0.0.0 www.spark.kindpickle.info
 0.0.0.0 store.spark.kindpickle.info
@@ -3092,6 +3090,7 @@
 0.0.0.0 store.zerknij-tv.pl
 0.0.0.0 zerorolex.com
 0.0.0.0 www.zerorolex.com
+0.0.0.0 zerowasteinitiative.com
 0.0.0.0 zhongda.info
 0.0.0.0 zillify.cfd
 0.0.0.0 www.zillify.cfd

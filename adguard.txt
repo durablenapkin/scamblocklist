@@ -73,6 +73,7 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.identity-nexo.xborders.io^
@@ -349,7 +350,6 @@
 ||eudoraz.com^
 ||eventmusk-x.com^
 ||eviralstore.com^
-||evisa-india-online.com^
 ||evisa-indian.com^
 ||evisa.express^
 ||evisaindia.com^
@@ -376,7 +376,6 @@
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
-||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -431,6 +430,7 @@
 ||fulfillgift.com^
 ||fullview.pl^
 ||fundanemt.org^
+||funfilenow.com^
 ||furykms.com^
 ||gamedrive.org^
 ||gamingbuffs.com^
@@ -458,8 +458,8 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
+||gofoexpress.com^
 ||gogiworld.com^
-||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -637,11 +637,14 @@
 ||linostee.com^
 ||lisabuddy.com^
 ||litcomplex.com^
+||load.365analytics.xyz^
 ||lodrat.org^
 ||lojavariedadesvariedades.com^
 ||look-like-star.myshopify.com^
+||lookinmyheart.com^
 ||lootcs.com^
 ||lozly.com^
+||lrgst.com^
 ||lskg.shop^
 ||lucatee.com^
 ||lucchesedeal.store^
@@ -713,6 +716,7 @@
 ||nationaladvancegroup.com^
 ||natvisa.com^
 ||navi1.com^
+||navi1.ru^
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
@@ -809,7 +813,6 @@
 ||nopae.top^
 ||norfotball.com^
 ||norgefotball.com^
-||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
@@ -926,7 +929,6 @@
 ||regularizedenatran.co^
 ||remessacorreio.site^
 ||resources4gaming.com^
-||revanced-extended.com^
 ||reviewshirts.com^
 ||rewardsgiantca.com^
 ||ringtoperfection.com^
@@ -1365,6 +1367,7 @@
 ||zedbubble.com^
 ||zerknij-tv.pl^
 ||zerorolex.com^
+||zerowasteinitiative.com^
 ||zhongda.info^
 ||zillify.cfd^
 ||zlibrary.to^
