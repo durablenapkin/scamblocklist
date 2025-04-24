@@ -1,11 +1,14 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3098
+# Domains: 3093
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
+0.0.0.0 1000fapvids.online
+0.0.0.0 www.1000fapvids.online
+0.0.0.0 store.1000fapvids.online
 0.0.0.0 10xuniswap.xyz
 0.0.0.0 www.10xuniswap.xyz
 0.0.0.0 store.10xuniswap.xyz
@@ -164,9 +167,6 @@
 0.0.0.0 www.amznshirts.com
 0.0.0.0 store.amznshirts.com
 0.0.0.0 an1.is
-0.0.0.0 animeshoppers.com
-0.0.0.0 www.animeshoppers.com
-0.0.0.0 store.animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
 0.0.0.0 app-uniswapping.org
@@ -828,6 +828,7 @@
 0.0.0.0 faze24.com
 0.0.0.0 www.faze24.com
 0.0.0.0 store.faze24.com
+0.0.0.0 store.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze40.com
@@ -937,6 +938,7 @@
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 www.friday99.com
+0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 www.fridaylocalmanager.duckdns.org
 0.0.0.0 store.fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
@@ -1018,8 +1020,6 @@
 0.0.0.0 store.gload.info
 0.0.0.0 globalvisacorp.com
 0.0.0.0 www.globalvisacorp.com
-0.0.0.0 gofoexpress.com
-0.0.0.0 www.gofoexpress.com
 0.0.0.0 gogiworld.com
 0.0.0.0 www.gogiworld.com
 0.0.0.0 goindiavisa.com
@@ -1055,7 +1055,7 @@
 0.0.0.0 store.gtltower.com
 0.0.0.0 gtltowerinfratel.in
 0.0.0.0 www.gtltowerinfratel.in
-0.0.0.0 store.habilitacao.org
+0.0.0.0 www.habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 www.habtoorloyal.com
 0.0.0.0 haceroberomaste.com
@@ -1400,7 +1400,6 @@
 0.0.0.0 lisabuddy.com
 0.0.0.0 litcomplex.com
 0.0.0.0 www.litcomplex.com
-0.0.0.0 load.365analytics.xyz
 0.0.0.0 lodrat.org
 0.0.0.0 www.lodrat.org
 0.0.0.0 store.lodrat.org
@@ -1409,12 +1408,10 @@
 0.0.0.0 look-like-star.myshopify.com
 0.0.0.0 www.look-like-star.myshopify.com
 0.0.0.0 store.look-like-star.myshopify.com
-0.0.0.0 www.lookinmyheart.com
 0.0.0.0 lootcs.com
 0.0.0.0 www.lootcs.com
 0.0.0.0 lozly.com
 0.0.0.0 www.lozly.com
-0.0.0.0 lrgst.com
 0.0.0.0 lskg.shop
 0.0.0.0 www.lskg.shop
 0.0.0.0 store.lskg.shop
@@ -1579,7 +1576,6 @@
 0.0.0.0 navi1.com
 0.0.0.0 www.navi1.com
 0.0.0.0 store.navi1.com
-0.0.0.0 www.navi1.ru
 0.0.0.0 navi10.com
 0.0.0.0 www.navi10.com
 0.0.0.0 store.navi10.com
@@ -1611,8 +1607,6 @@
 0.0.0.0 store.navi22.com
 0.0.0.0 navi22.ru
 0.0.0.0 www.navi22.ru
-0.0.0.0 navi23.com
-0.0.0.0 www.navi23.com
 0.0.0.0 store.navi23.com
 0.0.0.0 navi23.ru
 0.0.0.0 www.navi23.ru
@@ -1634,7 +1628,6 @@
 0.0.0.0 www.navi30.ru
 0.0.0.0 navi32.com
 0.0.0.0 www.navi32.com
-0.0.0.0 store.navi32.com
 0.0.0.0 navi33.com
 0.0.0.0 www.navi33.com
 0.0.0.0 navi35.com
@@ -1651,7 +1644,6 @@
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
 0.0.0.0 www.navi42.ru
-0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 navi44.com
 0.0.0.0 navi45.ru
@@ -2051,6 +2043,9 @@
 0.0.0.0 resources4gaming.com
 0.0.0.0 www.resources4gaming.com
 0.0.0.0 store.resources4gaming.com
+0.0.0.0 revanced-extended.com
+0.0.0.0 www.revanced-extended.com
+0.0.0.0 store.revanced-extended.com
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
 0.0.0.0 rewardsgiantca.com
@@ -2215,8 +2210,6 @@
 0.0.0.0 www.smvisa.co.il
 0.0.0.0 sodipi.com
 0.0.0.0 www.sodipi.com
-0.0.0.0 softgetpc.com
-0.0.0.0 www.softgetpc.com
 0.0.0.0 software19797.blogspot.com
 0.0.0.0 www.software19797.blogspot.com
 0.0.0.0 store.software19797.blogspot.com
@@ -3091,6 +3084,8 @@
 0.0.0.0 zerorolex.com
 0.0.0.0 www.zerorolex.com
 0.0.0.0 zerowasteinitiative.com
+0.0.0.0 www.zerowasteinitiative.com
+0.0.0.0 store.zerowasteinitiative.com
 0.0.0.0 zhongda.info
 0.0.0.0 zillify.cfd
 0.0.0.0 www.zillify.cfd

@@ -5,6 +5,7 @@
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
+||1000fapvids.online^
 ||10xuniswap.xyz^
 ||1bmo-reactivemyaccount0.com^
 ||1stfinancefirm.wixsite.com^
@@ -73,7 +74,6 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.identity-nexo.xborders.io^
@@ -376,6 +376,7 @@
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
+||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -458,7 +459,6 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
-||gofoexpress.com^
 ||gogiworld.com^
 ||goindiavisa.com^
 ||gossvibe.com^
@@ -637,14 +637,11 @@
 ||linostee.com^
 ||lisabuddy.com^
 ||litcomplex.com^
-||load.365analytics.xyz^
 ||lodrat.org^
 ||lojavariedadesvariedades.com^
 ||look-like-star.myshopify.com^
-||lookinmyheart.com^
 ||lootcs.com^
 ||lozly.com^
-||lrgst.com^
 ||lskg.shop^
 ||lucatee.com^
 ||lucchesedeal.store^
@@ -716,7 +713,6 @@
 ||nationaladvancegroup.com^
 ||natvisa.com^
 ||navi1.com^
-||navi1.ru^
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
@@ -929,6 +925,7 @@
 ||regularizedenatran.co^
 ||remessacorreio.site^
 ||resources4gaming.com^
+||revanced-extended.com^
 ||reviewshirts.com^
 ||rewardsgiantca.com^
 ||ringtoperfection.com^
@@ -1004,7 +1001,6 @@
 ||smartproduct.site^
 ||smvisa.co.il^
 ||sodipi.com^
-||softgetpc.com^
 ||software19797.blogspot.com^
 ||softzspot.com^
 ||solution7energieqc.com^
