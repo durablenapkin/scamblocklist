@@ -253,6 +253,7 @@
 ||crypto030.online^
 ||cryptot.net^
 ||csbestplayers.com^
+||csbo.shop^
 ||cshrewards.net^
 ||csmoney.trade^
 ||cual3up029pc73fi5jug.ucapsidop.info^
@@ -419,7 +420,6 @@
 ||food-network.fwh.is^
 ||foreveusps.com^
 ||forumdetran.co^
-||frankgreenauonline.shop^
 ||freebitcoin.pages.dev^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
@@ -462,6 +462,7 @@
 ||gload.info^
 ||globalvisacorp.com^
 ||gogiworld.com^
+||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -749,6 +750,7 @@
 ||navi4.com^
 ||navi43.com^
 ||navi44.com^
+||navi45.com^
 ||navi45.ru^
 ||navi48.com^
 ||navi52.com^
@@ -776,7 +778,6 @@
 ||navi99.com^
 ||nayatowerinstallation.in.net^
 ||neozor.com^
-||netcotto.com^
 ||netfucks1.com^
 ||nevaon.com^
 ||new.gdtot.me^
@@ -812,6 +813,7 @@
 ||nopae.top^
 ||norfotball.com^
 ||norgefotball.com^
+||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
@@ -939,6 +941,7 @@
 ||rosateeshop.com^
 ||rosettahome.cn^
 ||roulecams.sbs^
+||route2content.com^
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rozaholshouser.cfd^
