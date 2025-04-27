@@ -1,5 +1,8 @@
 # IMPORTANT: this list is not for public consumption. Use https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt instead
 
+0.0.0.0 1.password-internal.com
+0.0.0.0 www.1.password-internal.com
+0.0.0.0 store.1.password-internal.com
 0.0.0.0 1000fapvids.online
 0.0.0.0 www.1000fapvids.online
 0.0.0.0 store.1000fapvids.online
@@ -7020,6 +7023,9 @@
 0.0.0.0 pasarkta.pasaruang.id
 0.0.0.0 www.pasarkta.pasaruang.id
 0.0.0.0 store.pasarkta.pasaruang.id
+0.0.0.0 password-internal.com
+0.0.0.0 www.password-internal.com
+0.0.0.0 store.password-internal.com
 0.0.0.0 pateim.com
 0.0.0.0 www.pateim.com
 0.0.0.0 store.pateim.com

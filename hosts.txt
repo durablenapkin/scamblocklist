@@ -1,11 +1,12 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3111
+# Domains: 3094
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
+0.0.0.0 1.password-internal.com
 0.0.0.0 1000fapvids.online
 0.0.0.0 www.1000fapvids.online
 0.0.0.0 store.1000fapvids.online
@@ -834,9 +835,6 @@
 0.0.0.0 faze24.com
 0.0.0.0 www.faze24.com
 0.0.0.0 store.faze24.com
-0.0.0.0 faze3.com
-0.0.0.0 www.faze3.com
-0.0.0.0 store.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze40.com
@@ -1030,9 +1028,6 @@
 0.0.0.0 www.globalvisacorp.com
 0.0.0.0 gogiworld.com
 0.0.0.0 www.gogiworld.com
-0.0.0.0 goglle.com
-0.0.0.0 www.goglle.com
-0.0.0.0 store.goglle.com
 0.0.0.0 goindiavisa.com
 0.0.0.0 www.goindiavisa.com
 0.0.0.0 gossvibe.com
@@ -1068,9 +1063,6 @@
 0.0.0.0 www.gtltowerinfratel.in
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
-0.0.0.0 habilitacao.org
-0.0.0.0 www.habilitacao.org
-0.0.0.0 store.habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 www.habtoorloyal.com
 0.0.0.0 haceroberomaste.com
@@ -1083,7 +1075,6 @@
 0.0.0.0 www.happymod.cloud
 0.0.0.0 haruko.store
 0.0.0.0 www.haruko.store
-0.0.0.0 store.haruko.store
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 www.headsets4business.co.uk
 0.0.0.0 help.premium-x-notes.com
@@ -1122,6 +1113,7 @@
 0.0.0.0 hostpoco.com
 0.0.0.0 www.hostpoco.com
 0.0.0.0 hotbignews.com
+0.0.0.0 www.hotbignews.com
 0.0.0.0 store.hotbignews.com
 0.0.0.0 hotdebrid.com
 0.0.0.0 www.hotdebrid.com
@@ -1367,6 +1359,8 @@
 0.0.0.0 kontribusiuang.top
 0.0.0.0 www.kontribusiuang.top
 0.0.0.0 koperasi.naricash.com
+0.0.0.0 www.koperasi.naricash.com
+0.0.0.0 store.koperasi.naricash.com
 0.0.0.0 www.kopisusu.co.id
 0.0.0.0 kra18.com
 0.0.0.0 www.kra18.com
@@ -1662,9 +1656,9 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 navi44.com
-0.0.0.0 navi45.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
 0.0.0.0 navi52.com
@@ -1799,7 +1793,6 @@
 0.0.0.0 www.norgefotball.com
 0.0.0.0 norgeshoes.com
 0.0.0.0 www.norgeshoes.com
-0.0.0.0 store.norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 notasdenatran.co
@@ -1910,6 +1903,7 @@
 0.0.0.0 store.paquetsuivi7noti.com
 0.0.0.0 paradisevs.com
 0.0.0.0 www.paradisevs.com
+0.0.0.0 password-internal.com
 0.0.0.0 pateim.com
 0.0.0.0 www.pateim.com
 0.0.0.0 store.pateim.com
@@ -1938,9 +1932,6 @@
 0.0.0.0 phototan-cdirect.info
 0.0.0.0 www.phototan-cdirect.info
 0.0.0.0 store.phototan-cdirect.info
-0.0.0.0 phototan.net
-0.0.0.0 www.phototan.net
-0.0.0.0 store.phototan.net
 0.0.0.0 pickablegift.com
 0.0.0.0 www.pickablegift.com
 0.0.0.0 store.pickablegift.com
@@ -2142,7 +2133,6 @@
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
-0.0.0.0 store.sber.pay.avito.pay.com-id20341.info
 0.0.0.0 scoigr.buzz
 0.0.0.0 www.scoigr.buzz
 0.0.0.0 scottfamilyministries.org
@@ -2472,6 +2462,7 @@
 0.0.0.0 touristvisaonline.com
 0.0.0.0 www.touristvisaonline.com
 0.0.0.0 tower5ginstallation.com
+0.0.0.0 www.tower5ginstallation.com
 0.0.0.0 toweragency.in
 0.0.0.0 www.toweragency.in
 0.0.0.0 towerdepartment.com
@@ -2497,8 +2488,6 @@
 0.0.0.0 travisa.com
 0.0.0.0 www.travisa.com
 0.0.0.0 store.travisa.com
-0.0.0.0 treasurefan.com
-0.0.0.0 www.treasurefan.com
 0.0.0.0 store.treasurefan.com
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
@@ -2980,9 +2969,6 @@
 0.0.0.0 wpad.xyz
 0.0.0.0 wpclick.cc
 0.0.0.0 wuqrie.info
-0.0.0.0 ww25.utilify.me
-0.0.0.0 www.ww25.utilify.me
-0.0.0.0 store.ww25.utilify.me
 0.0.0.0 www.base-vod.pl
 0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 www.wyzia-orderdeposits.com
@@ -3101,9 +3087,6 @@
 0.0.0.0 store.zerknij-tv.pl
 0.0.0.0 zerorolex.com
 0.0.0.0 www.zerorolex.com
-0.0.0.0 zerowasteinitiative.com
-0.0.0.0 www.zerowasteinitiative.com
-0.0.0.0 store.zerowasteinitiative.com
 0.0.0.0 zhongda.info
 0.0.0.0 zillify.cfd
 0.0.0.0 www.zillify.cfd

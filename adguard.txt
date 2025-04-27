@@ -5,6 +5,7 @@
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
+||1.password-internal.com^
 ||1000fapvids.online^
 ||10xuniswap.xyz^
 ||1bmo-reactivemyaccount0.com^
@@ -378,7 +379,6 @@
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
-||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -462,7 +462,6 @@
 ||gload.info^
 ||globalvisacorp.com^
 ||gogiworld.com^
-||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -483,7 +482,6 @@
 ||gtltower.com^
 ||gtltowerinfratel.in^
 ||gunstee.com^
-||habilitacao.org^
 ||habtoorloyal.com^
 ||haceroberomaste.com^
 ||hairyfy.com^
@@ -748,9 +746,9 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi43.com^
 ||navi44.com^
-||navi45.com^
 ||navi45.ru^
 ||navi48.com^
 ||navi52.com^
@@ -862,6 +860,7 @@
 ||paquet1nfopabox.com^
 ||paquetsuivi7noti.com^
 ||paradisevs.com^
+||password-internal.com^
 ||pateim.com^
 ||path2zillion.com^
 ||pekanbaru.one^
@@ -876,7 +875,6 @@
 ||phirussacmush.net^
 ||photo-reaktivieren.org^
 ||phototan-cdirect.info^
-||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
@@ -1319,7 +1317,6 @@
 ||wpad.xyz^
 ||wpclick.cc^
 ||wuqrie.info^
-||ww25.utilify.me^
 ||base-vod.pl^
 ||wyzia-orderdeposits.com^
 ||x2-promo.net^
@@ -1367,7 +1364,6 @@
 ||zedbubble.com^
 ||zerknij-tv.pl^
 ||zerorolex.com^
-||zerowasteinitiative.com^
 ||zhongda.info^
 ||zillify.cfd^
 ||zlibrary.to^
