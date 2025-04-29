@@ -213,7 +213,6 @@
 ||cibtvisas.com^
 ||cinemak.pl^
 ||cipustar.com^
-||cition.info^
 ||cityofdream.co.uk^
 ||claim-uniswap.app^
 ||claims-uniswap.app^
@@ -378,6 +377,7 @@
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
+||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -480,7 +480,6 @@
 ||gtltower.com^
 ||gtltowerinfratel.in^
 ||gunstee.com^
-||habilitacao.org^
 ||habtoorloyal.com^
 ||haceroberomaste.com^
 ||hairyfy.com^
@@ -622,7 +621,6 @@
 ||kuyhaa.cc^
 ||lakersfanshoponline.com^
 ||lasercutjewelry.net^
-||laterrhymeascertain.world^
 ||lds.xyz^
 ||ledgerlivewallets.com^
 ||lemstore.com^
@@ -771,10 +769,10 @@
 ||navi86.ru^
 ||navi88.com^
 ||navi9.com^
-||navi95.com^
 ||navi99.com^
 ||nayatowerinstallation.in.net^
 ||neozor.com^
+||netcotto.com^
 ||netfucks1.com^
 ||nevaon.com^
 ||new.gdtot.me^
@@ -810,7 +808,6 @@
 ||nopae.top^
 ||norfotball.com^
 ||norgefotball.com^
-||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
@@ -833,7 +830,6 @@
 ||olive121407.studio.site^
 ||olymptrade-qid.com^
 ||onary.info^
-||onemuffblind.digital^
 ||online-binomo.com^
 ||online-eta.com^
 ||onlinecda.pl^
