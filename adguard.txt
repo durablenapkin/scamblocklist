@@ -42,7 +42,6 @@
 ||air-up-turkiye.com^
 ||air-upfrance.com^
 ||airteltower.com^
-||airtoff.com^
 ||airup-fi.com^
 ||airup-gr.com^
 ||airup-it.shop^
@@ -74,6 +73,7 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.identity-nexo.xborders.io^
@@ -175,7 +175,6 @@
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
 ||brttre.com^
-||bsnltower5g.in^
 ||bsnltowerinstallations.com^
 ||bsnltowersite.in^
 ||bsntowoff.com^
@@ -460,6 +459,7 @@
 ||gload.info^
 ||globalvisacorp.com^
 ||gogiworld.com^
+||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -480,6 +480,7 @@
 ||gtltower.com^
 ||gtltowerinfratel.in^
 ||gunstee.com^
+||habilitacao.org^
 ||habtoorloyal.com^
 ||haceroberomaste.com^
 ||hairyfy.com^
@@ -808,6 +809,7 @@
 ||nopae.top^
 ||norfotball.com^
 ||norgefotball.com^
+||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
@@ -830,6 +832,7 @@
 ||olive121407.studio.site^
 ||olymptrade-qid.com^
 ||onary.info^
+||onenightchicko.com^
 ||online-binomo.com^
 ||online-eta.com^
 ||onlinecda.pl^
@@ -870,6 +873,7 @@
 ||phirussacmush.net^
 ||photo-reaktivieren.org^
 ||phototan-cdirect.info^
+||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
