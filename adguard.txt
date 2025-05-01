@@ -6,7 +6,6 @@
 ! License: MIT (https://mit-license.org/)
 
 ||1.password-internal.com^
-||1000fapvids.online^
 ||10xuniswap.xyz^
 ||1bmo-reactivemyaccount0.com^
 ||1stfinancefirm.wixsite.com^
@@ -31,6 +30,7 @@
 ||9vzn29.98kk89.com^
 ||aadirone.cc^
 ||abncbp.com^
+||accbing.com^
 ||account-cfe.mx^
 ||account.ws-reward.com^
 ||adflowtube.com^
@@ -73,9 +73,9 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
+||app.deflliama.tech^
 ||app.identity-nexo.xborders.io^
 ||app.uniwspapp.com^
 ||appbipa.com^
@@ -230,7 +230,9 @@
 ||cofdeal.com^
 ||coffeeteaware.com^
 ||cognatesyringe.com^
+||coiincmi.com^
 ||coinaps.com^
+||coinomi.ing^
 ||coinreq.com^
 ||colorandcotton.com^
 ||compoundexotics.com^
@@ -276,6 +278,7 @@
 ||decompraschile.com^
 ||decoryourhome.store^
 ||deergift.com^
+||defii-larna.net^
 ||deiongh.info^
 ||deluxdoll.com^
 ||denatranajuda.co^
@@ -336,6 +339,7 @@
 ||elonweb.org^
 ||elrifeno.com^
 ||emberio.com^
+||en-trezor.io^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
 ||equiwarmpro.co^
@@ -480,7 +484,6 @@
 ||gtltower.com^
 ||gtltowerinfratel.in^
 ||gunstee.com^
-||habilitacao.org^
 ||habtoorloyal.com^
 ||haceroberomaste.com^
 ||hairyfy.com^
@@ -596,7 +599,6 @@
 ||kidsmama.online^
 ||kigurumi-usa.com^
 ||kingcampoutdoors.co.jp^
-||kingteestore.com^
 ||kino-cda.pl^
 ||kinomaniak.cc^
 ||kinonline.pl^
@@ -659,6 +661,7 @@
 ||manageyourorder.com^
 ||mango-desert-09ebb4010.4.azurestaticapps.net^
 ||mansion-xenarthran.info^
+||manta-network-v2.us^
 ||maxdebrid.com^
 ||mayor4london.com^
 ||mcds100.com^
@@ -695,6 +698,7 @@
 ||mujib-store28.blogspot.com^
 ||mulllvad.org^
 ||mullvaad.net^
+||multifilmy.pl^
 ||museuw.com^
 ||musk-project.com^
 ||muskusa.com^
@@ -746,6 +750,7 @@
 ||navi42.ru^
 ||navi43.com^
 ||navi44.com^
+||navi45.com^
 ||navi45.ru^
 ||navi48.com^
 ||navi5.com^
@@ -761,15 +766,19 @@
 ||navi66.ru^
 ||navi69.com^
 ||navi7.com^
+||navi71.com^
 ||navi72.com^
 ||navi72.ru^
+||navi76.com^
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
 ||navi85.com^
 ||navi86.ru^
+||navi87.com^
 ||navi88.com^
 ||navi9.com^
+||navi98.com^
 ||navi99.com^
 ||nayatowerinstallation.in.net^
 ||neozor.com^
@@ -1111,6 +1120,7 @@
 ||toweragency.in^
 ||towerdepartment.com^
 ||towerinstalltion5g.in^
+||townaptdesk.info^
 ||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
@@ -1126,8 +1136,11 @@
 ||trkucibqy.com^
 ||trnzu.info^
 ||tromselementbygg.no^
+||tronilnk.com^
 ||trump-drop.org^
 ||trumpsupport.help^
+||trusltwcllet.com^
+||trust.wallet-web3.ing^
 ||tsla-stock.com^
 ||turtleclient.xyz^
 ||twiiiter.com^
@@ -1342,6 +1355,7 @@
 ||youtunbe.com^
 ||youutube.com^
 ||ytvancedpro.com^
+||yvjexi.shop^
 ||z-lib.id^
 ||z-lib.is^
 ||zalukaj-film.pl^
