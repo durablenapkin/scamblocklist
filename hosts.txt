@@ -7,6 +7,9 @@
 # License: MIT (https://mit-license.org/)
 
 0.0.0.0 1.password-internal.com
+0.0.0.0 1000fapvids.online
+0.0.0.0 www.1000fapvids.online
+0.0.0.0 store.1000fapvids.online
 0.0.0.0 10xuniswap.xyz
 0.0.0.0 www.10xuniswap.xyz
 0.0.0.0 store.10xuniswap.xyz
@@ -283,7 +286,6 @@
 0.0.0.0 www.bigappboi.com
 0.0.0.0 bikewhenever.com
 0.0.0.0 www.bikewhenever.com
-0.0.0.0 billboardwring.com
 0.0.0.0 www.billboardwring.com
 0.0.0.0 store.billboardwring.com
 0.0.0.0 binom0-web.com
@@ -502,9 +504,6 @@
 0.0.0.0 cognatesyringe.com
 0.0.0.0 www.cognatesyringe.com
 0.0.0.0 store.cognatesyringe.com
-0.0.0.0 coiincmi.com
-0.0.0.0 www.coiincmi.com
-0.0.0.0 store.coiincmi.com
 0.0.0.0 coinaps.com
 0.0.0.0 www.coinaps.com
 0.0.0.0 store.coinaps.com
@@ -542,6 +541,7 @@
 0.0.0.0 www.crocssalenz.com
 0.0.0.0 crypto029.online
 0.0.0.0 www.crypto029.online
+0.0.0.0 store.crypto029.online
 0.0.0.0 crypto030.online
 0.0.0.0 www.crypto030.online
 0.0.0.0 store.crypto030.online
@@ -729,6 +729,7 @@
 0.0.0.0 www.ekommmedia.com
 0.0.0.0 elitestrustonline.biz
 0.0.0.0 www.elitestrustonline.biz
+0.0.0.0 store.elitestrustonline.biz
 0.0.0.0 ellezz.com
 0.0.0.0 elonweb.org
 0.0.0.0 elrifeno.com
@@ -736,6 +737,8 @@
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 en-trezor.io
+0.0.0.0 www.en-trezor.io
+0.0.0.0 store.en-trezor.io
 0.0.0.0 enchantestore.myshopify.com
 0.0.0.0 www.enchantestore.myshopify.com
 0.0.0.0 store.enchantestore.myshopify.com
@@ -833,8 +836,6 @@
 0.0.0.0 www.faze24.com
 0.0.0.0 store.faze24.com
 0.0.0.0 faze3.com
-0.0.0.0 www.faze3.com
-0.0.0.0 store.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze40.com
@@ -935,6 +936,8 @@
 0.0.0.0 store.freedom-ca-5g.com
 0.0.0.0 freedom.service-update3.com
 0.0.0.0 freedomgift50.com
+0.0.0.0 www.freedomgift50.com
+0.0.0.0 store.freedomgift50.com
 0.0.0.0 frest.info
 0.0.0.0 www.frest.info
 0.0.0.0 store.frest.info
@@ -1023,8 +1026,6 @@
 0.0.0.0 www.globalvisacorp.com
 0.0.0.0 gogiworld.com
 0.0.0.0 www.gogiworld.com
-0.0.0.0 goglle.com
-0.0.0.0 www.goglle.com
 0.0.0.0 goindiavisa.com
 0.0.0.0 www.goindiavisa.com
 0.0.0.0 gossvibe.com
@@ -1060,6 +1061,9 @@
 0.0.0.0 www.gtltowerinfratel.in
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
+0.0.0.0 habilitacao.org
+0.0.0.0 www.habilitacao.org
+0.0.0.0 store.habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 www.habtoorloyal.com
 0.0.0.0 haceroberomaste.com
@@ -1365,8 +1369,6 @@
 0.0.0.0 kuyhaa.cc
 0.0.0.0 www.kuyhaa.cc
 0.0.0.0 lakersfanshoponline.com
-0.0.0.0 www.lakersfanshoponline.com
-0.0.0.0 store.lakersfanshoponline.com
 0.0.0.0 lasercutjewelry.net
 0.0.0.0 www.lasercutjewelry.net
 0.0.0.0 store.lasercutjewelry.net
@@ -1653,10 +1655,10 @@
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
 0.0.0.0 navi42.ru
+0.0.0.0 www.navi42.ru
 0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 navi44.com
-0.0.0.0 store.navi45.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
 0.0.0.0 navi5.com
@@ -1713,6 +1715,7 @@
 0.0.0.0 navi9.com
 0.0.0.0 www.navi9.com
 0.0.0.0 store.navi9.com
+0.0.0.0 www.navi95.com
 0.0.0.0 navi98.com
 0.0.0.0 navi99.com
 0.0.0.0 www.navi99.com
@@ -1800,7 +1803,7 @@
 0.0.0.0 www.norfotball.com
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
-0.0.0.0 www.norgeshoes.com
+0.0.0.0 norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 notasdenatran.co
@@ -1940,7 +1943,6 @@
 0.0.0.0 phototan-cdirect.info
 0.0.0.0 www.phototan-cdirect.info
 0.0.0.0 store.phototan-cdirect.info
-0.0.0.0 store.phototan.net
 0.0.0.0 pickablegift.com
 0.0.0.0 www.pickablegift.com
 0.0.0.0 store.pickablegift.com
@@ -2291,9 +2293,7 @@
 0.0.0.0 startuplatte.com
 0.0.0.0 www.startuplatte.com
 0.0.0.0 store.startuplatte.com
-0.0.0.0 steamgateways.com
 0.0.0.0 www.steamgateways.com
-0.0.0.0 store.steamgateways.com
 0.0.0.0 steamunlock.com
 0.0.0.0 www.steamunlock.com
 0.0.0.0 stearncommunjty.net
@@ -2339,7 +2339,6 @@
 0.0.0.0 strefaogladania.pl
 0.0.0.0 www.strefaogladania.pl
 0.0.0.0 stunningstuffs.com
-0.0.0.0 www.stunningstuffs.com
 0.0.0.0 store.stunningstuffs.com
 0.0.0.0 stylegift.co.uk
 0.0.0.0 www.stylegift.co.uk
@@ -2461,7 +2460,6 @@
 0.0.0.0 www.toko999.net
 0.0.0.0 toko999.shop
 0.0.0.0 www.toko999.shop
-0.0.0.0 store.toko999.shop
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 www.tomadamsenergy.com
 0.0.0.0 too-gle.com
@@ -2519,9 +2517,6 @@
 0.0.0.0 tronilnk.com
 0.0.0.0 trump-drop.org
 0.0.0.0 www.trumpsupport.help
-0.0.0.0 trusltwcllet.com
-0.0.0.0 www.trusltwcllet.com
-0.0.0.0 store.trusltwcllet.com
 0.0.0.0 trust.wallet-web3.ing
 0.0.0.0 tsla-stock.com
 0.0.0.0 www.tsla-stock.com
@@ -3032,12 +3027,16 @@
 0.0.0.0 ygtube.xyz
 0.0.0.0 www.ygtube.xyz
 0.0.0.0 store.ygtube.xyz
+0.0.0.0 yhdshop.com
 0.0.0.0 www.yhdshop.com
 0.0.0.0 store.yhdshop.com
 0.0.0.0 yofi-yofi.com
 0.0.0.0 www.yofi-yofi.com
 0.0.0.0 youdebrid.com
 0.0.0.0 www.youdebrid.com
+0.0.0.0 yourdatefind.com
+0.0.0.0 www.yourdatefind.com
+0.0.0.0 store.yourdatefind.com
 0.0.0.0 yoursecrethookup.com
 0.0.0.0 www.yoursecrethookup.com
 0.0.0.0 youtubee.com
@@ -3050,7 +3049,6 @@
 0.0.0.0 www.youutube.com
 0.0.0.0 ytvancedpro.com
 0.0.0.0 www.ytvancedpro.com
-0.0.0.0 yvjexi.shop
 0.0.0.0 z-lib.id
 0.0.0.0 www.z-lib.id
 0.0.0.0 z-lib.is
@@ -3109,6 +3107,8 @@
 0.0.0.0 store.zerknij-tv.pl
 0.0.0.0 zerorolex.com
 0.0.0.0 www.zerorolex.com
+0.0.0.0 zerowasteinitiative.com
+0.0.0.0 www.zerowasteinitiative.com
 0.0.0.0 store.zerowasteinitiative.com
 0.0.0.0 zhongda.info
 0.0.0.0 zillify.cfd
