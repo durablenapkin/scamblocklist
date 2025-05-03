@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3117
+# Domains: 3110
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -165,6 +165,9 @@
 0.0.0.0 www.amznshirts.com
 0.0.0.0 store.amznshirts.com
 0.0.0.0 an1.is
+0.0.0.0 animeshoppers.com
+0.0.0.0 www.animeshoppers.com
+0.0.0.0 store.animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
 0.0.0.0 app-uniswapping.org
@@ -275,8 +278,6 @@
 0.0.0.0 www.best-torrents.com
 0.0.0.0 store.best-torrents.com
 0.0.0.0 bestiamos.com
-0.0.0.0 bestpriceonline.store
-0.0.0.0 www.bestpriceonline.store
 0.0.0.0 bestvod.pl
 0.0.0.0 www.bestvod.pl
 0.0.0.0 store.bestvod.pl
@@ -286,6 +287,7 @@
 0.0.0.0 www.bigappboi.com
 0.0.0.0 bikewhenever.com
 0.0.0.0 www.bikewhenever.com
+0.0.0.0 billboardwring.com
 0.0.0.0 www.billboardwring.com
 0.0.0.0 store.billboardwring.com
 0.0.0.0 binom0-web.com
@@ -557,6 +559,7 @@
 0.0.0.0 www.cshrewards.net
 0.0.0.0 csmoney.trade
 0.0.0.0 www.csmoney.trade
+0.0.0.0 store.csmoney.trade
 0.0.0.0 cual3up029pc73fi5jug.ucapsidop.info
 0.0.0.0 www.cual3up029pc73fi5jug.ucapsidop.info
 0.0.0.0 store.cual3up029pc73fi5jug.ucapsidop.info
@@ -606,7 +609,6 @@
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
-0.0.0.0 store.deergift.com
 0.0.0.0 defii-larna.net
 0.0.0.0 www.defii-larna.net
 0.0.0.0 deiongh.info
@@ -737,8 +739,6 @@
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 en-trezor.io
-0.0.0.0 www.en-trezor.io
-0.0.0.0 store.en-trezor.io
 0.0.0.0 enchantestore.myshopify.com
 0.0.0.0 www.enchantestore.myshopify.com
 0.0.0.0 store.enchantestore.myshopify.com
@@ -778,9 +778,6 @@
 0.0.0.0 evisaindia.com
 0.0.0.0 www.evisaindia.com
 0.0.0.0 store.evisaindia.com
-0.0.0.0 evisaindia.org
-0.0.0.0 www.evisaindia.org
-0.0.0.0 store.evisaindia.org
 0.0.0.0 evisaindiaonline.org
 0.0.0.0 www.evisaindiaonline.org
 0.0.0.0 ex-torrenty.org
@@ -919,6 +916,9 @@
 0.0.0.0 www.fiusps.com
 0.0.0.0 fkpgr.buzz
 0.0.0.0 www.fkpgr.buzz
+0.0.0.0 flattee.com
+0.0.0.0 www.flattee.com
+0.0.0.0 store.flattee.com
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 www.folkrbvi.pages.dev
 0.0.0.0 store.folkrbvi.pages.dev
@@ -1062,7 +1062,6 @@
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
 0.0.0.0 habilitacao.org
-0.0.0.0 www.habilitacao.org
 0.0.0.0 store.habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 www.habtoorloyal.com
@@ -1369,6 +1368,8 @@
 0.0.0.0 kuyhaa.cc
 0.0.0.0 www.kuyhaa.cc
 0.0.0.0 lakersfanshoponline.com
+0.0.0.0 www.lakersfanshoponline.com
+0.0.0.0 store.lakersfanshoponline.com
 0.0.0.0 lasercutjewelry.net
 0.0.0.0 www.lasercutjewelry.net
 0.0.0.0 store.lasercutjewelry.net
@@ -1468,9 +1469,6 @@
 0.0.0.0 mcds100.com
 0.0.0.0 mcsglobalcargo.com
 0.0.0.0 www.mcsglobalcargo.com
-0.0.0.0 meaningift.com
-0.0.0.0 www.meaningift.com
-0.0.0.0 store.meaningift.com
 0.0.0.0 mega-heritage.com
 0.0.0.0 www.mega-heritage.com
 0.0.0.0 mega-kino.pl
@@ -1537,7 +1535,6 @@
 0.0.0.0 mujib-store28.blogspot.com
 0.0.0.0 www.mujib-store28.blogspot.com
 0.0.0.0 store.mujib-store28.blogspot.com
-0.0.0.0 mulllvad.org
 0.0.0.0 mullvaad.net
 0.0.0.0 multifilmy.pl
 0.0.0.0 www.multifilmy.pl
@@ -1655,8 +1652,6 @@
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
 0.0.0.0 navi42.ru
-0.0.0.0 www.navi42.ru
-0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 navi44.com
 0.0.0.0 navi45.ru
@@ -1715,7 +1710,6 @@
 0.0.0.0 navi9.com
 0.0.0.0 www.navi9.com
 0.0.0.0 store.navi9.com
-0.0.0.0 www.navi95.com
 0.0.0.0 navi98.com
 0.0.0.0 navi99.com
 0.0.0.0 www.navi99.com
@@ -1803,7 +1797,7 @@
 0.0.0.0 www.norfotball.com
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
-0.0.0.0 norgeshoes.com
+0.0.0.0 store.norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 notasdenatran.co
@@ -1943,6 +1937,8 @@
 0.0.0.0 phototan-cdirect.info
 0.0.0.0 www.phototan-cdirect.info
 0.0.0.0 store.phototan-cdirect.info
+0.0.0.0 phototan.net
+0.0.0.0 www.phototan.net
 0.0.0.0 pickablegift.com
 0.0.0.0 www.pickablegift.com
 0.0.0.0 store.pickablegift.com
@@ -2056,17 +2052,20 @@
 0.0.0.0 www.rastreiobrasil.co
 0.0.0.0 rastreiocorreio.co
 0.0.0.0 www.rastreiocorreio.co
+0.0.0.0 rbcdevices.com
+0.0.0.0 www.rbcdevices.com
+0.0.0.0 store.rbcdevices.com
 0.0.0.0 reforest-iita.org
 0.0.0.0 www.reforest-iita.org
 0.0.0.0 regularizedenatran.co
 0.0.0.0 www.regularizedenatran.co
 0.0.0.0 www.remessacorreio.site
-0.0.0.0 resources4gaming.com
-0.0.0.0 www.resources4gaming.com
-0.0.0.0 store.resources4gaming.com
 0.0.0.0 revanced-extended.com
 0.0.0.0 www.revanced-extended.com
 0.0.0.0 store.revanced-extended.com
+0.0.0.0 revancedmusic.com
+0.0.0.0 www.revancedmusic.com
+0.0.0.0 store.revancedmusic.com
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
 0.0.0.0 rewardsgiantca.com
@@ -2196,14 +2195,10 @@
 0.0.0.0 store.shy-boat-90ce.jiko728928922.workers.dev
 0.0.0.0 si.factorysale2023.com
 0.0.0.0 www.si.factorysale2023.com
-0.0.0.0 store.si.factorysale2023.com
 0.0.0.0 sieuto.com
 0.0.0.0 www.sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
-0.0.0.0 signal-confirm.site
-0.0.0.0 www.signal-confirm.site
-0.0.0.0 store.signal-confirm.site
 0.0.0.0 signalgroup.site
 0.0.0.0 www.signalgroup.site
 0.0.0.0 signpify.com
@@ -2293,7 +2288,9 @@
 0.0.0.0 startuplatte.com
 0.0.0.0 www.startuplatte.com
 0.0.0.0 store.startuplatte.com
+0.0.0.0 steamgateways.com
 0.0.0.0 www.steamgateways.com
+0.0.0.0 store.steamgateways.com
 0.0.0.0 steamunlock.com
 0.0.0.0 www.steamunlock.com
 0.0.0.0 stearncommunjty.net
@@ -2339,6 +2336,7 @@
 0.0.0.0 strefaogladania.pl
 0.0.0.0 www.strefaogladania.pl
 0.0.0.0 stunningstuffs.com
+0.0.0.0 www.stunningstuffs.com
 0.0.0.0 store.stunningstuffs.com
 0.0.0.0 stylegift.co.uk
 0.0.0.0 www.stylegift.co.uk
@@ -2422,9 +2420,6 @@
 0.0.0.0 www.thehappywood.com
 0.0.0.0 thehardcorehabits.com
 0.0.0.0 www.thehardcorehabits.com
-0.0.0.0 themountainus.com
-0.0.0.0 www.themountainus.com
-0.0.0.0 store.themountainus.com
 0.0.0.0 theneurobalancetherapy.org
 0.0.0.0 www.theneurobalancetherapy.org
 0.0.0.0 thenorthfacegreece.com
@@ -2460,6 +2455,7 @@
 0.0.0.0 www.toko999.net
 0.0.0.0 toko999.shop
 0.0.0.0 www.toko999.shop
+0.0.0.0 store.toko999.shop
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 www.tomadamsenergy.com
 0.0.0.0 too-gle.com
@@ -2498,9 +2494,6 @@
 0.0.0.0 travisa.com
 0.0.0.0 www.travisa.com
 0.0.0.0 store.travisa.com
-0.0.0.0 treasurefan.com
-0.0.0.0 www.treasurefan.com
-0.0.0.0 store.treasurefan.com
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 treverschmelerkris18.myshopify.com
