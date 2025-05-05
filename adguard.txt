@@ -205,7 +205,6 @@
 ||chat-o-live.com^
 ||cheat-on.com^
 ||chesssorrydescend.com^
-||chiclife.co.uk^
 ||chikepod.com^
 ||chipcy.com^
 ||chipteeamz.com^
@@ -278,6 +277,7 @@
 ||decompraschile.com^
 ||decoryourhome.store^
 ||deergift.com^
+||dein-rundfunkbeitrag.de^
 ||deiongh.info^
 ||deluxdoll.com^
 ||denatranajuda.co^
@@ -379,7 +379,6 @@
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
-||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -603,7 +602,6 @@
 ||kino-cda.pl^
 ||kinomaniak.cc^
 ||kinonline.pl^
-||kiophsx9.sa.com^
 ||kisserine.com^
 ||kitchendecor.shop^
 ||klasykavod.pl^
@@ -703,6 +701,7 @@
 ||museuw.com^
 ||musk-project.com^
 ||muskusa.com^
+||muthaafoundation.org^
 ||mybestautologin567.com^
 ||myblogshop.top^
 ||myfunfarm.com^
@@ -751,7 +750,6 @@
 ||navi42.ru^
 ||navi43.com^
 ||navi44.com^
-||navi45.com^
 ||navi45.ru^
 ||navi48.com^
 ||navi5.com^
@@ -779,7 +777,6 @@
 ||navi87.com^
 ||navi88.com^
 ||navi9.com^
-||navi95.com^
 ||navi98.com^
 ||navi99.com^
 ||nayatowerinstallation.in.net^
@@ -903,6 +900,7 @@
 ||poppop.online^
 ||porkbunrr.web.app^
 ||portal-canaa374-post835-info.com^
+||post-nachsenden.de^
 ||powerboostup.com^
 ||prawdziwefilmy.pl^
 ||premiumqualityblanket.com^
@@ -1130,6 +1128,7 @@
 ||travelexpress.us.com^
 ||travelvisabookings.com^
 ||travisa.com^
+||treasurefan.com^
 ||trendsharks.com^
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
@@ -1157,7 +1156,6 @@
 ||ultrasonica.info^
 ||ultrawa.com^
 ||um-bs.com^
-||unambia.orchael.fun^
 ||unho.unhesiss.shop^
 ||uni-swap.online^
 ||uni-swap.space^
@@ -1262,7 +1260,6 @@
 ||ussportabout.com^
 ||ussportpioneer.com^
 ||uydrnhsb.info^
-||v5-uniswap.info^
 ||valeofoodsgroup.com^
 ||validacaodetran.co^
 ||validsteamkeys.com^
