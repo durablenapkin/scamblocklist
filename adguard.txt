@@ -74,7 +74,6 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.deflliama.tech^
@@ -379,6 +378,7 @@
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
+||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -424,7 +424,6 @@
 ||freebitcoin.pages.dev^
 ||freedom-ca-5g.com^
 ||freedom.service-update3.com^
-||freedomgift50.com^
 ||frest.info^
 ||friday89.com^
 ||friday99.com^
@@ -462,7 +461,6 @@
 ||gload.info^
 ||globalvisacorp.com^
 ||gogiworld.com^
-||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -483,7 +481,6 @@
 ||gtltower.com^
 ||gtltowerinfratel.in^
 ||gunstee.com^
-||habilitacao.org^
 ||habtoorloyal.com^
 ||haceroberomaste.com^
 ||hairyfy.com^
@@ -669,6 +666,7 @@
 ||meaningift.com^
 ||mega-heritage.com^
 ||mega-kino.pl^
+||megoindonesia.com^
 ||mercyzone.com^
 ||meudetran.co^
 ||microgull.com^
@@ -701,7 +699,6 @@
 ||museuw.com^
 ||musk-project.com^
 ||muskusa.com^
-||muthaafoundation.org^
 ||mybestautologin567.com^
 ||myblogshop.top^
 ||myfunfarm.com^
@@ -747,9 +744,9 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi43.com^
 ||navi44.com^
+||navi45.com^
 ||navi45.ru^
 ||navi48.com^
 ||navi5.com^
@@ -817,7 +814,6 @@
 ||nopae.top^
 ||norfotball.com^
 ||norgefotball.com^
-||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
@@ -881,7 +877,6 @@
 ||phirussacmush.net^
 ||photo-reaktivieren.org^
 ||phototan-cdirect.info^
-||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
@@ -970,7 +965,6 @@
 ||sale-friday.pro^
 ||sale-friday.store^
 ||salealfresco.com^
-||saleussports.com^
 ||salimusic.com^
 ||sanla-tan.net^
 ||saveeeee.myshopify.com^
@@ -1046,7 +1040,6 @@
 ||stellara.de^
 ||stellasummer.com^
 ||stingcool-com.myshopify.com^
-||storagestory.com^
 ||store-aleteia.org^
 ||store-swatch.com^
 ||store-uni-app.com^
@@ -1090,6 +1083,7 @@
 ||teneta.add-group.site^
 ||tesla-online.net^
 ||teslafond.io^
+||teslalive23.pro^
 ||teslamaked.com^
 ||the-north-face.gr^
 ||theeaglebrand.company.site^
@@ -1110,7 +1104,6 @@
 ||tikinew.club^
 ||tinkleo.com^
 ||tiranaaquapark-eg.com^
-||toko999.net^
 ||toko999.shop^
 ||tomadamsenergy.com^
 ||too-gle.com^
@@ -1136,7 +1129,6 @@
 ||trkucibqy.com^
 ||trnzu.info^
 ||tromselementbygg.no^
-||tronilnk.com^
 ||trump-drop.org^
 ||trumpsupport.help^
 ||trust.wallet-web3.ing^
@@ -1156,6 +1148,7 @@
 ||ultrasonica.info^
 ||ultrawa.com^
 ||um-bs.com^
+||unambia.orchael.fun^
 ||unho.unhesiss.shop^
 ||uni-swap.online^
 ||uni-swap.space^
@@ -1257,8 +1250,6 @@
 ||uscampinghiking.com^
 ||uschse04.my03.com^
 ||usplussports.com^
-||ussportabout.com^
-||ussportpioneer.com^
 ||uydrnhsb.info^
 ||valeofoodsgroup.com^
 ||validacaodetran.co^
