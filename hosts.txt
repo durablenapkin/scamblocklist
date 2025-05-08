@@ -1,12 +1,11 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3085
+# Domains: 3091
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
-0.0.0.0 1.password-internal.com
 0.0.0.0 1000fapvids.online
 0.0.0.0 www.1000fapvids.online
 0.0.0.0 store.1000fapvids.online
@@ -370,9 +369,6 @@
 0.0.0.0 store.bolejug.us
 0.0.0.0 bombardina.pl
 0.0.0.0 www.bombardina.pl
-0.0.0.0 booliving.com
-0.0.0.0 www.booliving.com
-0.0.0.0 store.booliving.com
 0.0.0.0 botsuanah.com
 0.0.0.0 www.botsuanah.com
 0.0.0.0 boutiqueondemand.com
@@ -504,8 +500,6 @@
 0.0.0.0 coinaps.com
 0.0.0.0 www.coinaps.com
 0.0.0.0 store.coinaps.com
-0.0.0.0 coinomi.ing
-0.0.0.0 www.coinomi.ing
 0.0.0.0 coinreq.com
 0.0.0.0 www.coinreq.com
 0.0.0.0 store.coinreq.com
@@ -753,6 +747,8 @@
 0.0.0.0 eslgrandscup.com
 0.0.0.0 www.eslgrandscup.com
 0.0.0.0 store.eslgrandscup.com
+0.0.0.0 estiloserena.com.br
+0.0.0.0 www.estiloserena.com.br
 0.0.0.0 et-reliefgc-ca.info
 0.0.0.0 etaindia.org
 0.0.0.0 www.etaindia.org
@@ -848,9 +844,6 @@
 0.0.0.0 feevefouhe.net
 0.0.0.0 felara.com.do
 0.0.0.0 www.felara.com.do
-0.0.0.0 femalecozy.com
-0.0.0.0 www.femalecozy.com
-0.0.0.0 store.femalecozy.com
 0.0.0.0 fgtgr.buzz
 0.0.0.0 www.fgtgr.buzz
 0.0.0.0 field-garnet-duckling.glitch.me
@@ -955,9 +948,14 @@
 0.0.0.0 store.fullview.pl
 0.0.0.0 fundanemt.org
 0.0.0.0 www.fundanemt.org
+0.0.0.0 funfilenow.com
+0.0.0.0 www.funfilenow.com
+0.0.0.0 store.funfilenow.com
 0.0.0.0 furykms.com
 0.0.0.0 www.furykms.com
 0.0.0.0 store.furykms.com
+0.0.0.0 fveco.com
+0.0.0.0 www.fveco.com
 0.0.0.0 gamedrive.org
 0.0.0.0 www.gamedrive.org
 0.0.0.0 gamingbuffs.com
@@ -1106,6 +1104,11 @@
 0.0.0.0 www.hmccommerce.com
 0.0.0.0 hoka-us.com
 0.0.0.0 www.hoka-us.com
+0.0.0.0 homelarr.com.br
+0.0.0.0 www.homelarr.com.br
+0.0.0.0 hookahheroes.com
+0.0.0.0 www.hookahheroes.com
+0.0.0.0 store.hookahheroes.com
 0.0.0.0 hostpoco.com
 0.0.0.0 www.hostpoco.com
 0.0.0.0 hotbignews.com
@@ -1116,6 +1119,8 @@
 0.0.0.0 hotmod.eu
 0.0.0.0 www.hotmod.eu
 0.0.0.0 store.hotmod.eu
+0.0.0.0 houselar.com.br
+0.0.0.0 www.houselar.com.br
 0.0.0.0 howgr.buzz
 0.0.0.0 www.howgr.buzz
 0.0.0.0 hqnew.info
@@ -1342,8 +1347,6 @@
 0.0.0.0 kmspi.co
 0.0.0.0 www.kmspi.co
 0.0.0.0 kmspico.io
-0.0.0.0 kmspicoofficial.com
-0.0.0.0 www.kmspicoofficial.com
 0.0.0.0 knightmods.com
 0.0.0.0 www.knightmods.com
 0.0.0.0 koinprime.com
@@ -1386,9 +1389,6 @@
 0.0.0.0 www.lifestyletrading.co.za
 0.0.0.0 likenu.se
 0.0.0.0 www.likenu.se
-0.0.0.0 limitalfresco.com
-0.0.0.0 www.limitalfresco.com
-0.0.0.0 store.limitalfresco.com
 0.0.0.0 limited-promo.com
 0.0.0.0 linkshe.com
 0.0.0.0 www.linkshe.com
@@ -1407,6 +1407,8 @@
 0.0.0.0 store.look-like-star.myshopify.com
 0.0.0.0 lootcs.com
 0.0.0.0 www.lootcs.com
+0.0.0.0 lorenzettibrasil-vendas.com
+0.0.0.0 www.lorenzettibrasil-vendas.com
 0.0.0.0 lozly.com
 0.0.0.0 www.lozly.com
 0.0.0.0 lskg.shop
@@ -1418,6 +1420,7 @@
 0.0.0.0 www.lucchesedeal.store
 0.0.0.0 store.lucchesedeal.store
 0.0.0.0 luccheseoutlet.online
+0.0.0.0 www.luccheseoutlet.online
 0.0.0.0 store.luccheseoutlet.online
 0.0.0.0 lucidtiger.com
 0.0.0.0 www.lucidtiger.com
@@ -1647,7 +1650,8 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 navi43.com
+0.0.0.0 navi42.ru
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi44.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
@@ -1782,6 +1786,8 @@
 0.0.0.0 nip89.com
 0.0.0.0 nirvezal.com
 0.0.0.0 www.nirvezal.com
+0.0.0.0 nobrerefino.com
+0.0.0.0 www.nobrerefino.com
 0.0.0.0 nofotballshop.com
 0.0.0.0 www.nofotballshop.com
 0.0.0.0 nofotballstore.com
@@ -1792,9 +1798,6 @@
 0.0.0.0 www.norfotball.com
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
-0.0.0.0 norgeshoes.com
-0.0.0.0 www.norgeshoes.com
-0.0.0.0 store.norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 notasdenatran.co
@@ -1879,9 +1882,6 @@
 0.0.0.0 outarshop.fi
 0.0.0.0 www.outarshop.fi
 0.0.0.0 store.outarshop.fi
-0.0.0.0 outlet-alfresco.com
-0.0.0.0 www.outlet-alfresco.com
-0.0.0.0 store.outlet-alfresco.com
 0.0.0.0 owlala.com
 0.0.0.0 www.owlala.com
 0.0.0.0 own3d.tv
@@ -1905,7 +1905,6 @@
 0.0.0.0 store.paquetsuivi7noti.com
 0.0.0.0 paradisevs.com
 0.0.0.0 www.paradisevs.com
-0.0.0.0 password-internal.com
 0.0.0.0 pateim.com
 0.0.0.0 www.pateim.com
 0.0.0.0 store.pateim.com
@@ -2021,9 +2020,6 @@
 0.0.0.0 produkttester-werden.org
 0.0.0.0 www.produkttester-werden.org
 0.0.0.0 promo-offer.com
-0.0.0.0 promoalfresco.com
-0.0.0.0 www.promoalfresco.com
-0.0.0.0 store.promoalfresco.com
 0.0.0.0 promotebuy.com
 0.0.0.0 www.promotebuy.com
 0.0.0.0 promotion40-form.com
@@ -2050,9 +2046,6 @@
 0.0.0.0 www.rastreiobrasil.co
 0.0.0.0 rastreiocorreio.co
 0.0.0.0 www.rastreiocorreio.co
-0.0.0.0 rbcdevices.com
-0.0.0.0 www.rbcdevices.com
-0.0.0.0 store.rbcdevices.com
 0.0.0.0 reforest-iita.org
 0.0.0.0 www.reforest-iita.org
 0.0.0.0 regularizedenatran.co
@@ -2132,9 +2125,6 @@
 0.0.0.0 sale-friday.store
 0.0.0.0 www.sale-friday.store
 0.0.0.0 store.sale-friday.store
-0.0.0.0 salealfresco.com
-0.0.0.0 www.salealfresco.com
-0.0.0.0 store.salealfresco.com
 0.0.0.0 salimusic.com
 0.0.0.0 www.salimusic.com
 0.0.0.0 sanla-tan.net
@@ -2155,6 +2145,7 @@
 0.0.0.0 security-meta.pages.app.br
 0.0.0.0 www.security-meta.pages.app.br
 0.0.0.0 store.security-meta.pages.app.br
+0.0.0.0 sedark.com
 0.0.0.0 www.sedark.com
 0.0.0.0 sellfox.com
 0.0.0.0 www.sellfox.com
@@ -2297,6 +2288,8 @@
 0.0.0.0 store.stellara.de
 0.0.0.0 stellasummer.com
 0.0.0.0 www.stellasummer.com
+0.0.0.0 stiloautoparts.online
+0.0.0.0 www.stiloautoparts.online
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 www.stingcool-com.myshopify.com
 0.0.0.0 store.stingcool-com.myshopify.com
@@ -2398,6 +2391,8 @@
 0.0.0.0 tencheckit.org
 0.0.0.0 www.tencheckit.org
 0.0.0.0 teneta.add-group.site
+0.0.0.0 teodoroautopecas.com
+0.0.0.0 www.teodoroautopecas.com
 0.0.0.0 tesla-online.net
 0.0.0.0 www.tesla-online.net
 0.0.0.0 store.tesla-online.net
@@ -2425,6 +2420,7 @@
 0.0.0.0 www.theonepercentcommunity.com
 0.0.0.0 theoutdoorsgear.com
 0.0.0.0 www.theoutdoorsgear.com
+0.0.0.0 theshirtyouneed.com
 0.0.0.0 www.theshirtyouneed.com
 0.0.0.0 thevitic.com
 0.0.0.0 www.thevitic.com
@@ -2454,6 +2450,7 @@
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 www.tomadamsenergy.com
 0.0.0.0 too-gle.com
+0.0.0.0 www.too-gle.com
 0.0.0.0 torrenty-pl.cc
 0.0.0.0 www.torrenty-pl.cc
 0.0.0.0 touristvisaonline.com
@@ -2464,8 +2461,6 @@
 0.0.0.0 www.toweragency.in
 0.0.0.0 towerdepartment.com
 0.0.0.0 www.towerdepartment.com
-0.0.0.0 towerinstalltion5g.in
-0.0.0.0 www.towerinstalltion5g.in
 0.0.0.0 townaptdesk.info
 0.0.0.0 www.townaptdesk.info
 0.0.0.0 store.townaptdesk.info
@@ -2501,11 +2496,11 @@
 0.0.0.0 trivo.uk
 0.0.0.0 www.trivo.uk
 0.0.0.0 trkucibqy.com
+0.0.0.0 trnzu.info
 0.0.0.0 tromselementbygg.no
 0.0.0.0 www.tromselementbygg.no
 0.0.0.0 trump-drop.org
 0.0.0.0 www.trumpsupport.help
-0.0.0.0 trust.wallet-web3.ing
 0.0.0.0 tsla-stock.com
 0.0.0.0 www.tsla-stock.com
 0.0.0.0 turtleclient.xyz
@@ -2545,6 +2540,8 @@
 0.0.0.0 www.ultrawa.com
 0.0.0.0 um-bs.com
 0.0.0.0 www.um-bs.com
+0.0.0.0 unambia.orchael.fun
+0.0.0.0 unho.unhesiss.shop
 0.0.0.0 uni-swap.online
 0.0.0.0 www.uni-swap.online
 0.0.0.0 uni-swap.space
@@ -2819,12 +2816,16 @@
 0.0.0.0 usplussports.com
 0.0.0.0 www.usplussports.com
 0.0.0.0 store.usplussports.com
+0.0.0.0 uydrnhsb.info
 0.0.0.0 valeofoodsgroup.com
 0.0.0.0 www.valeofoodsgroup.com
 0.0.0.0 validacaodetran.co
 0.0.0.0 www.validacaodetran.co
 0.0.0.0 validsteamkeys.com
 0.0.0.0 www.validsteamkeys.com
+0.0.0.0 vanced-official.com
+0.0.0.0 www.vanced-official.com
+0.0.0.0 store.vanced-official.com
 0.0.0.0 vegamartz.com
 0.0.0.0 www.vegamartz.com
 0.0.0.0 veilcurtin.world
@@ -2875,6 +2876,7 @@
 0.0.0.0 visasimple.com
 0.0.0.0 www.visasimple.com
 0.0.0.0 visatoindia.org
+0.0.0.0 www.visatoindia.org
 0.0.0.0 store.visatoindia.org
 0.0.0.0 visumbuitenland.nl
 0.0.0.0 www.visumbuitenland.nl
@@ -2922,6 +2924,9 @@
 0.0.0.0 wazofurniture.com
 0.0.0.0 www.wazofurniture.com
 0.0.0.0 webcamsfans.cfd
+0.0.0.0 www.webcamsfans.cfd
+0.0.0.0 webcamstream.sbs
+0.0.0.0 www.webcamstream.sbs
 0.0.0.0 webvod.pl
 0.0.0.0 www.webvod.pl
 0.0.0.0 store.webvod.pl
@@ -2930,6 +2935,7 @@
 0.0.0.0 store.werfew.com
 0.0.0.0 whbinder.com
 0.0.0.0 www.whbinder.com
+0.0.0.0 whitewebcams.fun
 0.0.0.0 www.whitewebcams.fun
 0.0.0.0 wikeb.com
 0.0.0.0 www.wikeb.com
@@ -2951,6 +2957,7 @@
 0.0.0.0 wpad.top
 0.0.0.0 wpad.xyz
 0.0.0.0 wpclick.cc
+0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 www.ww25.utilify.me
 0.0.0.0 store.ww25.utilify.me
@@ -2962,7 +2969,6 @@
 0.0.0.0 store.x2-promo.net
 0.0.0.0 xai467k.com
 0.0.0.0 xaiwallets.net
-0.0.0.0 xajzfwgs.com
 0.0.0.0 www.xajzfwgs.com
 0.0.0.0 store.xajzfwgs.com
 0.0.0.0 xborders.io

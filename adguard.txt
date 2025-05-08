@@ -5,7 +5,6 @@
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
-||1.password-internal.com^
 ||1000fapvids.online^
 ||10xuniswap.xyz^
 ||1bmo-reactivemyaccount0.com^
@@ -169,7 +168,6 @@
 ||bltskins.com^
 ||bolejug.us^
 ||bombardina.pl^
-||booliving.com^
 ||botsuanah.com^
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
@@ -230,7 +228,6 @@
 ||coffeeteaware.com^
 ||cognatesyringe.com^
 ||coinaps.com^
-||coinomi.ing^
 ||coinreq.com^
 ||colorandcotton.com^
 ||compoundexotics.com^
@@ -345,6 +342,7 @@
 ||eset.co.il^
 ||esl-gaming.com^
 ||eslgrandscup.com^
+||estiloserena.com.br^
 ||et-reliefgc-ca.info^
 ||etaindia.org^
 ||etaindiaonline.com^
@@ -387,7 +385,6 @@
 ||fdrc-gov.org^
 ||feevefouhe.net^
 ||felara.com.do^
-||femalecozy.com^
 ||fgtgr.buzz^
 ||field-garnet-duckling.glitch.me^
 ||filedenzu.com^
@@ -432,7 +429,9 @@
 ||fulfillgift.com^
 ||fullview.pl^
 ||fundanemt.org^
+||funfilenow.com^
 ||furykms.com^
+||fveco.com^
 ||gamedrive.org^
 ||gamingbuffs.com^
 ||gamingtoolz.club^
@@ -504,10 +503,13 @@
 ||hityvod.pl^
 ||hmccommerce.com^
 ||hoka-us.com^
+||homelarr.com.br^
+||hookahheroes.com^
 ||hostpoco.com^
 ||hotbignews.com^
 ||hotdebrid.com^
 ||hotmod.eu^
+||houselar.com.br^
 ||howgr.buzz^
 ||hqnew.info^
 ||hsuitehub.com^
@@ -609,7 +611,6 @@
 ||kmsauto.info^
 ||kmspi.co^
 ||kmspico.io^
-||kmspicoofficial.com^
 ||knightmods.com^
 ||koinprime.com^
 ||kontribusiuang.top^
@@ -629,7 +630,6 @@
 ||librilibs.com^
 ||lifestyletrading.co.za^
 ||likenu.se^
-||limitalfresco.com^
 ||limited-promo.com^
 ||linkshe.com^
 ||linostee.com^
@@ -639,6 +639,7 @@
 ||lojavariedadesvariedades.com^
 ||look-like-star.myshopify.com^
 ||lootcs.com^
+||lorenzettibrasil-vendas.com^
 ||lozly.com^
 ||lskg.shop^
 ||lucatee.com^
@@ -743,7 +744,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi43.com^
+||navi42.ru^
 ||navi44.com^
 ||navi45.ru^
 ||navi48.com^
@@ -807,12 +808,12 @@
 ||nip57.com^
 ||nip89.com^
 ||nirvezal.com^
+||nobrerefino.com^
 ||nofotballshop.com^
 ||nofotballstore.com^
 ||nopae.top^
 ||norfotball.com^
 ||norgefotball.com^
-||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
@@ -849,7 +850,6 @@
 ||orderquilt.com^
 ||ousd-vault.com^
 ||outarshop.fi^
-||outlet-alfresco.com^
 ||owlala.com^
 ||own3d.tv^
 ||p.arty2night.com^
@@ -861,7 +861,6 @@
 ||paquet1nfopabox.com^
 ||paquetsuivi7noti.com^
 ||paradisevs.com^
-||password-internal.com^
 ||pateim.com^
 ||path2zillion.com^
 ||pekanbaru.one^
@@ -913,7 +912,6 @@
 ||produkttester-anmeldung.com^
 ||produkttester-werden.org^
 ||promo-offer.com^
-||promoalfresco.com^
 ||promotebuy.com^
 ||promotion40-form.com^
 ||providedexcitingcritical.pro^
@@ -926,7 +924,6 @@
 ||ra-bp0000.com^
 ||rastreiobrasil.co^
 ||rastreiocorreio.co^
-||rbcdevices.com^
 ||reforest-iita.org^
 ||regularizedenatran.co^
 ||remessacorreio.site^
@@ -963,7 +960,6 @@
 ||sale-friday.live^
 ||sale-friday.pro^
 ||sale-friday.store^
-||salealfresco.com^
 ||salimusic.com^
 ||sanla-tan.net^
 ||saveeeee.myshopify.com^
@@ -1037,6 +1033,7 @@
 ||stearncommunjty.net^
 ||stellara.de^
 ||stellasummer.com^
+||stiloautoparts.online^
 ||stingcool-com.myshopify.com^
 ||storagestory.com^
 ||store-aleteia.org^
@@ -1080,6 +1077,7 @@
 ||telemarktalk.com^
 ||tencheckit.org^
 ||teneta.add-group.site^
+||teodoroautopecas.com^
 ||tesla-online.net^
 ||teslafond.io^
 ||teslamaked.com^
@@ -1111,7 +1109,6 @@
 ||tower5ginstallation.com^
 ||toweragency.in^
 ||towerdepartment.com^
-||towerinstalltion5g.in^
 ||townaptdesk.info^
 ||toyrube.com^
 ||tpqcywcx.page.link^
@@ -1126,10 +1123,10 @@
 ||tripinpremiumsnacks.com^
 ||trivo.uk^
 ||trkucibqy.com^
+||trnzu.info^
 ||tromselementbygg.no^
 ||trump-drop.org^
 ||trumpsupport.help^
-||trust.wallet-web3.ing^
 ||tsla-stock.com^
 ||turtleclient.xyz^
 ||twiiiter.com^
@@ -1146,6 +1143,8 @@
 ||ultrasonica.info^
 ||ultrawa.com^
 ||um-bs.com^
+||unambia.orchael.fun^
+||unho.unhesiss.shop^
 ||uni-swap.online^
 ||uni-swap.space^
 ||uniswap-v3.com^
@@ -1246,9 +1245,11 @@
 ||uscampinghiking.com^
 ||uschse04.my03.com^
 ||usplussports.com^
+||uydrnhsb.info^
 ||valeofoodsgroup.com^
 ||validacaodetran.co^
 ||validsteamkeys.com^
+||vanced-official.com^
 ||vegamartz.com^
 ||veilcurtin.world^
 ||vencord.app^
@@ -1294,6 +1295,7 @@
 ||wavetshirt.com^
 ||wazofurniture.com^
 ||webcamsfans.cfd^
+||webcamstream.sbs^
 ||webvod.pl^
 ||werfew.com^
 ||whbinder.com^
@@ -1309,6 +1311,7 @@
 ||wpad.top^
 ||wpad.xyz^
 ||wpclick.cc^
+||wuqrie.info^
 ||ww25.utilify.me^
 ||base-vod.pl^
 ||wyzia-orderdeposits.com^
