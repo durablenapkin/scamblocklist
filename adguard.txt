@@ -292,6 +292,7 @@
 ||distrochooser.snehit.dev^
 ||distryct.shop^
 ||diteringion.com^
+||diytsi.shop^
 ||dkfodboldstore.com^
 ||dleggere.com^
 ||dogparadiseshop.com^
@@ -707,6 +708,7 @@
 ||mystitich4u.com^
 ||mysuperdatingforyou.life^
 ||n24-news.com^
+||nabaza.shop^
 ||nalzahqp.page.link^
 ||namewrimo.info^
 ||nanistores.com^
@@ -814,6 +816,7 @@
 ||nopae.top^
 ||norfotball.com^
 ||norgefotball.com^
+||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
