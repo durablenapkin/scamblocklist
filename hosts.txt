@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3094
+# Domains: 3061
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -383,6 +383,7 @@
 0.0.0.0 www.bsntowoff.com
 0.0.0.0 btc9339.com
 0.0.0.0 www.btc9339.com
+0.0.0.0 store.btc9339.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
 0.0.0.0 store.buddhakind.com
@@ -542,9 +543,6 @@
 0.0.0.0 store.csbo.shop
 0.0.0.0 cshrewards.net
 0.0.0.0 www.cshrewards.net
-0.0.0.0 csmoney.trade
-0.0.0.0 www.csmoney.trade
-0.0.0.0 store.csmoney.trade
 0.0.0.0 cual3up029pc73fi5jug.ucapsidop.info
 0.0.0.0 www.cual3up029pc73fi5jug.ucapsidop.info
 0.0.0.0 store.cual3up029pc73fi5jug.ucapsidop.info
@@ -577,6 +575,9 @@
 0.0.0.0 dash.pocketuniverse.app
 0.0.0.0 dashracegear.net
 0.0.0.0 www.dashracegear.net
+0.0.0.0 dat-ing.site
+0.0.0.0 www.dat-ing.site
+0.0.0.0 store.dat-ing.site
 0.0.0.0 datempire.com
 0.0.0.0 www.datempire.com
 0.0.0.0 dautee.com
@@ -750,9 +751,6 @@
 0.0.0.0 www.etaindia.org
 0.0.0.0 etaindiaonline.com
 0.0.0.0 www.etaindiaonline.com
-0.0.0.0 etv-in.com
-0.0.0.0 www.etv-in.com
-0.0.0.0 eudoraz.com
 0.0.0.0 www.eudoraz.com
 0.0.0.0 eventmusk-x.com
 0.0.0.0 www.eventmusk-x.com
@@ -774,7 +772,6 @@
 0.0.0.0 www.ex-torrenty.org
 0.0.0.0 store.ex-torrenty.org
 0.0.0.0 exclusivebuyz4uu.shop
-0.0.0.0 exfresutexi.info
 0.0.0.0 expressmovers.com
 0.0.0.0 www.expressmovers.com
 0.0.0.0 ezycases.com
@@ -805,7 +802,6 @@
 0.0.0.0 familyshark.com
 0.0.0.0 www.familyshark.com
 0.0.0.0 familystore.com
-0.0.0.0 www.familystore.com
 0.0.0.0 faze1.com
 0.0.0.0 www.faze1.com
 0.0.0.0 faze10.com
@@ -816,7 +812,6 @@
 0.0.0.0 faze24.com
 0.0.0.0 www.faze24.com
 0.0.0.0 store.faze24.com
-0.0.0.0 www.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze40.com
@@ -866,8 +861,6 @@
 0.0.0.0 www.filmobaza.pl
 0.0.0.0 filmy-online.eu
 0.0.0.0 www.filmy-online.eu
-0.0.0.0 filmy24.cc
-0.0.0.0 www.filmy24.cc
 0.0.0.0 filser.pl
 0.0.0.0 www.filser.pl
 0.0.0.0 store.filser.pl
@@ -903,8 +896,6 @@
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 www.folkrbvi.pages.dev
 0.0.0.0 store.folkrbvi.pages.dev
-0.0.0.0 food-network.fwh.is
-0.0.0.0 www.food-network.fwh.is
 0.0.0.0 foreveusps.com
 0.0.0.0 www.foreveusps.com
 0.0.0.0 forumdetran.co
@@ -919,8 +910,6 @@
 0.0.0.0 frest.info
 0.0.0.0 www.frest.info
 0.0.0.0 store.frest.info
-0.0.0.0 friday89.com
-0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 www.friday99.com
 0.0.0.0 fridaylocalmanager.duckdns.org
@@ -963,7 +952,6 @@
 0.0.0.0 gearhomies.com
 0.0.0.0 www.gearhomies.com
 0.0.0.0 store.gearhomies.com
-0.0.0.0 gearhuman.com
 0.0.0.0 gearver.com
 0.0.0.0 www.gearver.com
 0.0.0.0 geekupdates.notion.site
@@ -1009,11 +997,8 @@
 0.0.0.0 www.globalvisacorp.com
 0.0.0.0 gogiworld.com
 0.0.0.0 www.gogiworld.com
-0.0.0.0 goglle.com
-0.0.0.0 www.goglle.com
 0.0.0.0 goindiavisa.com
 0.0.0.0 www.goindiavisa.com
-0.0.0.0 gossvibe.com
 0.0.0.0 www.gossvibe.com
 0.0.0.0 gotoperfection.com
 0.0.0.0 www.gotoperfection.com
@@ -1046,7 +1031,6 @@
 0.0.0.0 www.gtltowerinfratel.in
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
-0.0.0.0 habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 www.habtoorloyal.com
 0.0.0.0 haceroberomaste.com
@@ -1081,7 +1065,6 @@
 0.0.0.0 hfr67jhqrw8.com
 0.0.0.0 hindustantowergroupltd.com
 0.0.0.0 www.hindustantowergroupltd.com
-0.0.0.0 hippie-pets.com
 0.0.0.0 www.hippie-pets.com
 0.0.0.0 hisgr.buzz
 0.0.0.0 www.hisgr.buzz
@@ -1291,7 +1274,6 @@
 0.0.0.0 store.jsdimmigration.com
 0.0.0.0 jsdimmigrations.com
 0.0.0.0 www.jsdimmigrations.com
-0.0.0.0 jyfrsjdkkhue.com
 0.0.0.0 karan-pc.com
 0.0.0.0 www.karan-pc.com
 0.0.0.0 karanpcofficial.blogspot.com
@@ -1349,8 +1331,6 @@
 0.0.0.0 www.kopisusu.co.id
 0.0.0.0 kra18.com
 0.0.0.0 www.kra18.com
-0.0.0.0 kredit-rupiah.com
-0.0.0.0 www.kredit-rupiah.com
 0.0.0.0 krediteksklusif.com
 0.0.0.0 www.krediteksklusif.com
 0.0.0.0 kuyhaa.cc
@@ -1379,7 +1359,6 @@
 0.0.0.0 www.lifestyletrading.co.za
 0.0.0.0 likenu.se
 0.0.0.0 www.likenu.se
-0.0.0.0 limited-promo.com
 0.0.0.0 linkshe.com
 0.0.0.0 www.linkshe.com
 0.0.0.0 linostee.com
@@ -1400,7 +1379,6 @@
 0.0.0.0 lorenzettibrasil-vendas.com
 0.0.0.0 www.lorenzettibrasil-vendas.com
 0.0.0.0 lozly.com
-0.0.0.0 www.lozly.com
 0.0.0.0 lskg.shop
 0.0.0.0 www.lskg.shop
 0.0.0.0 store.lskg.shop
@@ -1502,7 +1480,6 @@
 0.0.0.0 store.mot73yi07.info
 0.0.0.0 motovinreports.com
 0.0.0.0 www.motovinreports.com
-0.0.0.0 store.motovinreports.com
 0.0.0.0 movica.us
 0.0.0.0 www.movica.us
 0.0.0.0 moviemania.pl
@@ -1641,7 +1618,8 @@
 0.0.0.0 navi39.ru
 0.0.0.0 www.navi39.ru
 0.0.0.0 www.navi4.com
-0.0.0.0 navi42.ru
+0.0.0.0 store.navi4.com
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi44.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
@@ -1788,9 +1766,6 @@
 0.0.0.0 www.norfotball.com
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
-0.0.0.0 norgeshoes.com
-0.0.0.0 www.norgeshoes.com
-0.0.0.0 store.norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 notasdenatran.co
@@ -1902,7 +1877,6 @@
 0.0.0.0 www.pateim.com
 0.0.0.0 store.pateim.com
 0.0.0.0 path2zillion.com
-0.0.0.0 store.pay.pay.avito.avito.pay.com-id809702.com
 0.0.0.0 pekanbaru.one
 0.0.0.0 www.pekanbaru.one
 0.0.0.0 peppatees.com
@@ -2013,7 +1987,6 @@
 0.0.0.0 www.produkttester-anmeldung.com
 0.0.0.0 produkttester-werden.org
 0.0.0.0 www.produkttester-werden.org
-0.0.0.0 promo-offer.com
 0.0.0.0 promotebuy.com
 0.0.0.0 www.promotebuy.com
 0.0.0.0 promotion40-form.com
@@ -2040,6 +2013,8 @@
 0.0.0.0 www.rastreiobrasil.co
 0.0.0.0 rastreiocorreio.co
 0.0.0.0 www.rastreiocorreio.co
+0.0.0.0 rbcdevices.com
+0.0.0.0 www.rbcdevices.com
 0.0.0.0 reforest-iita.org
 0.0.0.0 www.reforest-iita.org
 0.0.0.0 regularizedenatran.co
@@ -2126,7 +2101,6 @@
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
-0.0.0.0 store.sberbank.pay.avito.avito.booking.com-id90123.info
 0.0.0.0 scoigr.buzz
 0.0.0.0 www.scoigr.buzz
 0.0.0.0 scottfamilyministries.org
@@ -2349,9 +2323,6 @@
 0.0.0.0 supperbrand.company.site
 0.0.0.0 www.supperbrand.company.site
 0.0.0.0 store.supperbrand.company.site
-0.0.0.0 supreme-adblocker.net
-0.0.0.0 www.supreme-adblocker.net
-0.0.0.0 store.supreme-adblocker.net
 0.0.0.0 survivalcatsupply.com
 0.0.0.0 www.survivalcatsupply.com
 0.0.0.0 sweepbuzz.buzz
@@ -2420,7 +2391,6 @@
 0.0.0.0 www.theshirtyouneed.com
 0.0.0.0 thevitic.com
 0.0.0.0 www.thevitic.com
-0.0.0.0 store.thevitic.com
 0.0.0.0 thevitic.onshopbase.com
 0.0.0.0 www.thevitic.onshopbase.com
 0.0.0.0 store.thevitic.onshopbase.com
@@ -2989,10 +2959,6 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
-0.0.0.0 www.yandex.avito.pay.avito.avito.com-id809712.com
-0.0.0.0 store.yandex.pay.avito.avito.avito.com-id02349.info
-0.0.0.0 yandex.pay.com-id20341.info
-0.0.0.0 store.yandex.sber.booking.com-id329712.com
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
 0.0.0.0 store.yasir252.com
@@ -3006,7 +2972,9 @@
 0.0.0.0 ygtube.xyz
 0.0.0.0 www.ygtube.xyz
 0.0.0.0 store.ygtube.xyz
+0.0.0.0 yhdshop.com
 0.0.0.0 www.yhdshop.com
+0.0.0.0 store.yhdshop.com
 0.0.0.0 yofi-yofi.com
 0.0.0.0 www.yofi-yofi.com
 0.0.0.0 youdebrid.com
@@ -3087,7 +3055,6 @@
 0.0.0.0 zerowasteinitiative.com
 0.0.0.0 www.zerowasteinitiative.com
 0.0.0.0 store.zerowasteinitiative.com
-0.0.0.0 zhongda.info
 0.0.0.0 zillify.cfd
 0.0.0.0 www.zillify.cfd
 0.0.0.0 zlibrary.to
