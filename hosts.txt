@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3088
+# Domains: 3087
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -181,6 +181,9 @@
 0.0.0.0 arnoldgloverruss58.myshopify.com
 0.0.0.0 www.arnoldgloverruss58.myshopify.com
 0.0.0.0 store.arnoldgloverruss58.myshopify.com
+0.0.0.0 artdecorhome.store
+0.0.0.0 www.artdecorhome.store
+0.0.0.0 store.artdecorhome.store
 0.0.0.0 arthoodie.com
 0.0.0.0 www.arthoodie.com
 0.0.0.0 arvetellefsen.no
@@ -695,7 +698,6 @@
 0.0.0.0 store.e-visa.ie
 0.0.0.0 e-visaindia.com
 0.0.0.0 www.e-visaindia.com
-0.0.0.0 store.e-visaindia.com
 0.0.0.0 e-visaindiaonline.com
 0.0.0.0 www.e-visaindiaonline.com
 0.0.0.0 e-visums.nl
@@ -729,8 +731,6 @@
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 en-trezor.io
-0.0.0.0 www.en-trezor.io
-0.0.0.0 store.en-trezor.io
 0.0.0.0 enchantestore.myshopify.com
 0.0.0.0 www.enchantestore.myshopify.com
 0.0.0.0 store.enchantestore.myshopify.com
@@ -823,6 +823,8 @@
 0.0.0.0 faze24.com
 0.0.0.0 www.faze24.com
 0.0.0.0 store.faze24.com
+0.0.0.0 www.faze3.com
+0.0.0.0 store.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze40.com
@@ -929,11 +931,15 @@
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 www.friday99.com
+0.0.0.0 fridaylocalmanager.duckdns.org
+0.0.0.0 www.fridaylocalmanager.duckdns.org
+0.0.0.0 store.fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
 0.0.0.0 www.frostgoddess.com
 0.0.0.0 store.frostgoddess.com
 0.0.0.0 fuckmebaby.click
 0.0.0.0 www.fuckmebaby.click
+0.0.0.0 store.fuckmebaby.click
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 www.fuehrungszeugnis-service.de
 0.0.0.0 fulfillgift.com
@@ -1096,9 +1102,6 @@
 0.0.0.0 www.hoka-us.com
 0.0.0.0 homelarr.com.br
 0.0.0.0 www.homelarr.com.br
-0.0.0.0 hookahheroes.com
-0.0.0.0 www.hookahheroes.com
-0.0.0.0 store.hookahheroes.com
 0.0.0.0 hostpoco.com
 0.0.0.0 www.hostpoco.com
 0.0.0.0 hotbignews.com
@@ -1638,9 +1641,7 @@
 0.0.0.0 navi39.ru
 0.0.0.0 www.navi39.ru
 0.0.0.0 navi4.com
-0.0.0.0 www.navi4.com
-0.0.0.0 navi42.ru
-0.0.0.0 store.navi42.ru
+0.0.0.0 store.navi4.com
 0.0.0.0 navi44.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
@@ -1711,7 +1712,6 @@
 0.0.0.0 www.netcotto.com
 0.0.0.0 store.netcotto.com
 0.0.0.0 netfucks1.com
-0.0.0.0 netsugar.shop
 0.0.0.0 nevaon.com
 0.0.0.0 www.nevaon.com
 0.0.0.0 new.gdtot.me
@@ -1900,6 +1900,7 @@
 0.0.0.0 www.pateim.com
 0.0.0.0 store.pateim.com
 0.0.0.0 path2zillion.com
+0.0.0.0 pay.booking.com-id16313.info
 0.0.0.0 pekanbaru.one
 0.0.0.0 www.pekanbaru.one
 0.0.0.0 peppatees.com
@@ -2080,7 +2081,6 @@
 0.0.0.0 rozaholshouser.cfd
 0.0.0.0 www.rozaholshouser.cfd
 0.0.0.0 rozomii.info
-0.0.0.0 rptbaa.shop
 0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 www.rsaonlinenow.com.au
 0.0.0.0 store.rsaonlinenow.com.au
@@ -2984,7 +2984,6 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
-0.0.0.0 yandex.avito.sber.booking.com-id02349.info
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
 0.0.0.0 store.yasir252.com
