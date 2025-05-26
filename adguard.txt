@@ -185,7 +185,6 @@
 ||canadapost.mydelivery1.com^
 ||candlesbymadison.com^
 ||canjaume.com^
-||caoefe.shop^
 ||caraci.it^
 ||carngr.sbs^
 ||carsaratek.com^
@@ -260,7 +259,6 @@
 ||daradis.com^
 ||dash.pocketuniverse.app^
 ||dashracegear.net^
-||dat-ing.site^
 ||datempire.com^
 ||dautee.com^
 ||dbkdsale.com^
@@ -325,7 +323,6 @@
 ||edecher.com^
 ||edwardjhutley107375938786edwardjrhutley70205433153583usps.com^
 ||ekommmedia.com^
-||elitestrustonline.biz^
 ||ellezz.com^
 ||elonweb.org^
 ||elrifeno.com^
@@ -370,7 +367,6 @@
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
-||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -614,7 +610,6 @@
 ||lasercutjewelry.net^
 ||lds.xyz^
 ||ledgerlivewallets.com^
-||ledgerrlivess.org^
 ||lericettedifrancy74.com^
 ||letteringift.com^
 ||levelbash.com^
@@ -635,7 +630,6 @@
 ||lucatee.com^
 ||lucchesedeal.store^
 ||luccheseoutlet.online^
-||lucidtiger.com^
 ||lucysstyle.com^
 ||lumustore.top^
 ||luxsgear.com^
@@ -750,7 +744,6 @@
 ||navi63.ru^
 ||navi66.com^
 ||navi66.ru^
-||navi69.com^
 ||navi7.com^
 ||navi71.com^
 ||navi72.com^
@@ -779,6 +772,7 @@
 ||newgstore.com^
 ||newoutdoorsale.com^
 ||newpipe.app^
+||news-rebit.com^
 ||nextmrolympia.com^
 ||nextstephire.net^
 ||ngreditinaja.top^
@@ -865,6 +859,7 @@
 ||phirussacmush.net^
 ||photo-reaktivieren.org^
 ||phototan-cdirect.info^
+||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
@@ -901,6 +896,7 @@
 ||produkttest-anmeldung.com^
 ||produkttester-anmeldung.com^
 ||produkttester-werden.org^
+||promotebuy.com^
 ||promotion40-form.com^
 ||providedexcitingcritical.pro^
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
@@ -957,6 +953,7 @@
 ||secrity2redline.com^
 ||security-meta.pages.app.br^
 ||sedark.com^
+||sehaleservices.com^
 ||sellfox.com^
 ||sentees.com^
 ||serengetidiscount.com^
@@ -985,7 +982,6 @@
 ||sligen.com^
 ||smartokids.com^
 ||smartpower4all.org^
-||smartproduct.site^
 ||smvisa.co.il^
 ||sodipi.com^
 ||software19797.blogspot.com^
@@ -1071,7 +1067,6 @@
 ||thegeekgifts.com^
 ||thehappywood.com^
 ||theneurobalancetherapy.org^
-||thenorthfacegreece.com^
 ||theonepercentcommunity.com^
 ||theoutdoorsgear.com^
 ||theshirtyouneed.com^
@@ -1107,7 +1102,6 @@
 ||tripinpremiumsnacks.com^
 ||trivo.uk^
 ||trkucibqy.com^
-||trnzu.info^
 ||tromselementbygg.no^
 ||trump-drop.org^
 ||trumpsupport.help^
@@ -1172,18 +1166,9 @@
 ||uniswap5.tokyo^
 ||uniswap5.website^
 ||uniswap5.work^
-||uniswap5.xyz^
-||uniswap7.biz^
-||uniswap7.buzz^
-||uniswap7.click^
 ||uniswap7.cloud^
-||uniswap7.info^
 ||uniswap7.life^
-||uniswap7.link^
-||uniswap7.love^
 ||uniswap7.online^
-||uniswap7.site^
-||uniswap7.space^
 ||uniswap7.tech^
 ||uniswap7.tokyo^
 ||uniswap7.website^
