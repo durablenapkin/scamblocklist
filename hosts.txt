@@ -1,13 +1,11 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3057
+# Domains: 3045
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
-0.0.0.0 1000fapvids.online
-0.0.0.0 www.1000fapvids.online
 0.0.0.0 store.1000fapvids.online
 0.0.0.0 10xuniswap.xyz
 0.0.0.0 www.10xuniswap.xyz
@@ -261,7 +259,6 @@
 0.0.0.0 www.benecharm.com
 0.0.0.0 store.benecharm.com
 0.0.0.0 benxi.info
-0.0.0.0 bertasxt.com
 0.0.0.0 best-torrents.com
 0.0.0.0 www.best-torrents.com
 0.0.0.0 store.best-torrents.com
@@ -308,6 +305,7 @@
 0.0.0.0 www.binomoidr.com
 0.0.0.0 binomotop.com
 0.0.0.0 www.binomotop.com
+0.0.0.0 binomoweb.org
 0.0.0.0 www.binomoweb.org
 0.0.0.0 binomoweblogin.com
 0.0.0.0 www.binomoweblogin.com
@@ -375,7 +373,6 @@
 0.0.0.0 budm.shop
 0.0.0.0 www.budm.shop
 0.0.0.0 store.budm.shop
-0.0.0.0 buyfingermoney.company.com
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 bwsvbk.info
 0.0.0.0 by-emmamuller.de
@@ -494,6 +491,7 @@
 0.0.0.0 confira.io
 0.0.0.0 containably.com
 0.0.0.0 www.containably.com
+0.0.0.0 www.coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 www.coolestpod.com
 0.0.0.0 cooperation-odoo.com
@@ -591,6 +589,8 @@
 0.0.0.0 www.denatranajuda.co
 0.0.0.0 denatranotificacao.co
 0.0.0.0 www.denatranotificacao.co
+0.0.0.0 designbyus.online
+0.0.0.0 www.designbyus.online
 0.0.0.0 desiupload.in
 0.0.0.0 www.desiupload.in
 0.0.0.0 store.desiupload.in
@@ -610,6 +610,7 @@
 0.0.0.0 www.dgbdhvqpwvplersqjytw.dunkansp.info
 0.0.0.0 store.dgbdhvqpwvplersqjytw.dunkansp.info
 0.0.0.0 dieserbenni.ru
+0.0.0.0 dischargebackhanded.com
 0.0.0.0 www.dischargebackhanded.com
 0.0.0.0 store.dischargebackhanded.com
 0.0.0.0 displaymovies.pl
@@ -721,7 +722,6 @@
 0.0.0.0 eset.co.il
 0.0.0.0 www.eset.co.il
 0.0.0.0 store.eset.co.il
-0.0.0.0 www.eshaalfawson.shop
 0.0.0.0 esl-gaming.com
 0.0.0.0 www.esl-gaming.com
 0.0.0.0 eslgrandscup.com
@@ -777,7 +777,6 @@
 0.0.0.0 store.facebook-support-team-980.pages.med.br
 0.0.0.0 factorysale2023.com
 0.0.0.0 www.factorysale2023.com
-0.0.0.0 store.factorysale2023.com
 0.0.0.0 familybestgifts.com
 0.0.0.0 www.familybestgifts.com
 0.0.0.0 store.familybestgifts.com
@@ -800,9 +799,6 @@
 0.0.0.0 faze24.com
 0.0.0.0 www.faze24.com
 0.0.0.0 store.faze24.com
-0.0.0.0 faze3.com
-0.0.0.0 www.faze3.com
-0.0.0.0 store.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze40.com
@@ -901,6 +897,7 @@
 0.0.0.0 www.freedom-ca-5g.com
 0.0.0.0 store.freedom-ca-5g.com
 0.0.0.0 freedom.service-update3.com
+0.0.0.0 www.freegiftscards.shop
 0.0.0.0 frest.info
 0.0.0.0 www.frest.info
 0.0.0.0 store.frest.info
@@ -997,9 +994,6 @@
 0.0.0.0 www.globalvisacorp.com
 0.0.0.0 gogiworld.com
 0.0.0.0 www.gogiworld.com
-0.0.0.0 goglle.com
-0.0.0.0 www.goglle.com
-0.0.0.0 store.goglle.com
 0.0.0.0 goindiavisa.com
 0.0.0.0 www.goindiavisa.com
 0.0.0.0 gossvibe.com
@@ -1142,7 +1136,6 @@
 0.0.0.0 www.imlb2c.com
 0.0.0.0 improtants.space
 0.0.0.0 www.improtants.space
-0.0.0.0 store.improtants.space
 0.0.0.0 india-e-visa.com
 0.0.0.0 www.india-e-visa.com
 0.0.0.0 india-visa-online.com
@@ -1329,6 +1322,7 @@
 0.0.0.0 www.kopisusu.co.id
 0.0.0.0 kra18.com
 0.0.0.0 www.kra18.com
+0.0.0.0 kredit-rupiah.com
 0.0.0.0 www.kredit-rupiah.com
 0.0.0.0 krediteksklusif.com
 0.0.0.0 www.krediteksklusif.com
@@ -1412,7 +1406,6 @@
 0.0.0.0 store.mail-cytanet.pages.dev
 0.0.0.0 mail.zalukaj.cc
 0.0.0.0 malgorzataschlegel.click
-0.0.0.0 www.malgorzataschlegel.click
 0.0.0.0 store.malgorzataschlegel.click
 0.0.0.0 manageyourorder.com
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
@@ -1496,6 +1489,7 @@
 0.0.0.0 mujib-store28.blogspot.com
 0.0.0.0 www.mujib-store28.blogspot.com
 0.0.0.0 store.mujib-store28.blogspot.com
+0.0.0.0 www.mulllvad.org
 0.0.0.0 mullvaad.net
 0.0.0.0 multifilmy.pl
 0.0.0.0 www.multifilmy.pl
@@ -1614,6 +1608,7 @@
 0.0.0.0 www.navi39.ru
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
+0.0.0.0 store.navi4.com
 0.0.0.0 www.navi42.ru
 0.0.0.0 store.navi42.ru
 0.0.0.0 navi44.com
@@ -1814,7 +1809,6 @@
 0.0.0.0 www.olymptrade-qid.com
 0.0.0.0 store.olymptrade-qid.com
 0.0.0.0 onary.info
-0.0.0.0 store.oncloudrun.shop
 0.0.0.0 onenightchicko.com
 0.0.0.0 www.onenightchicko.com
 0.0.0.0 store.onenightchicko.com
@@ -1830,9 +1824,6 @@
 0.0.0.0 onlinekino.pl
 0.0.0.0 www.onlinekino.pl
 0.0.0.0 store.onlinekino.pl
-0.0.0.0 onlinestores.factorysale2023.com
-0.0.0.0 www.onlinestores.factorysale2023.com
-0.0.0.0 store.onlinestores.factorysale2023.com
 0.0.0.0 onlinewideo.pl
 0.0.0.0 www.onlinewideo.pl
 0.0.0.0 store.onlinewideo.pl
@@ -2148,9 +2139,6 @@
 0.0.0.0 shy-boat-90ce.jiko728928922.workers.dev
 0.0.0.0 www.shy-boat-90ce.jiko728928922.workers.dev
 0.0.0.0 store.shy-boat-90ce.jiko728928922.workers.dev
-0.0.0.0 si.factorysale2023.com
-0.0.0.0 www.si.factorysale2023.com
-0.0.0.0 store.si.factorysale2023.com
 0.0.0.0 sieuto.com
 0.0.0.0 www.sieuto.com
 0.0.0.0 sigmaoffers.com
