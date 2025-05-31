@@ -340,7 +340,6 @@
 ||eudshop.shop^
 ||eventmusk-x.com^
 ||eviralstore.com^
-||evisa-india-online.com^
 ||evisa-indian.com^
 ||evisa.express^
 ||evisaindia.com^
@@ -469,6 +468,7 @@
 ||gtltower.com^
 ||gtltowerinfratel.in^
 ||gunstee.com^
+||habilitacao.org^
 ||habtoorloyal.com^
 ||haceroberomaste.com^
 ||hairyfy.com^
@@ -503,7 +503,6 @@
 ||hsuitehub.com^
 ||hubfiles.ws^
 ||hugetrump.com^
-||hunden.info^
 ||hushlove.com^
 ||hyndtren25.pages.dev^
 ||i-grade.online^
@@ -617,6 +616,7 @@
 ||linostee.com^
 ||lisabuddy.com^
 ||litcomplex.com^
+||liverepsae.adeftsolutions.com^
 ||lodrat.org^
 ||lojavariedadesvariedades.com^
 ||look-like-star.myshopify.com^
@@ -716,7 +716,6 @@
 ||navi3.com^
 ||navi30.com^
 ||navi30.ru^
-||navi32.com^
 ||navi33.com^
 ||navi35.com^
 ||navi35.ru^
@@ -1273,6 +1272,7 @@
 ||wavetshirt.com^
 ||wazofurniture.com^
 ||webcamsfans.cfd^
+||webcamstream.sbs^
 ||webvod.pl^
 ||werfew.com^
 ||whbinder.com^
@@ -1291,7 +1291,6 @@
 ||wuqrie.info^
 ||ww25.utilify.me^
 ||base-vod.pl^
-||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
 ||xajzfwgs.com^
