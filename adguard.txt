@@ -70,7 +70,6 @@
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.deflliama.tech^
-||app.identity-nexo.xborders.io^
 ||app.uniwspapp.com^
 ||appbipa.com^
 ||appdrive.info^
@@ -86,7 +85,6 @@
 ||atlaspvs.com^
 ||atrendsz.com^
 ||attenstyle.com^
-||au-bloomreach.com^
 ||audiosg.com.sg^
 ||augusthenri.be^
 ||aussiesportfashion.com^
@@ -137,6 +135,7 @@
 ||binomo1.com^
 ||binomo2.zendesk.com^
 ||binomoidr.com^
+||binomorupiah-id.com^
 ||binomotop.com^
 ||binomoweb.org^
 ||binomoweblogin.com^
@@ -182,7 +181,6 @@
 ||caraci.it^
 ||carngr.sbs^
 ||carsaratek.com^
-||casha.xyz^
 ||casualdating1.com^
 ||cda-zalukaj.prv.pl^
 ||cdn-defac13.techresource.shop^
@@ -234,6 +232,7 @@
 ||crocssalenz.com^
 ||crypto029.online^
 ||crypto030.online^
+||cryptogiveaway.host^
 ||cryptot.net^
 ||csbestplayers.com^
 ||csbo.shop^
@@ -295,7 +294,6 @@
 ||drama-queen.cc^
 ||draxu.com^
 ||dreamgreenshoe.com^
-||dreamstee.com^
 ||dreamstees.com^
 ||dresseloves.com^
 ||dressesloves.com^
@@ -429,6 +427,7 @@
 ||gearanime.com^
 ||gearhomies.com^
 ||gearhuman.com^
+||gearstastic.com^
 ||gearver.com^
 ||geekupdates.notion.site^
 ||geldencosmeticos.com^
@@ -503,6 +502,7 @@
 ||hsuitehub.com^
 ||hubfiles.ws^
 ||hugetrump.com^
+||hunden.info^
 ||hushlove.com^
 ||hyndtren25.pages.dev^
 ||i-grade.online^
@@ -886,7 +886,6 @@
 ||presale-friday.pro^
 ||primeleech.com^
 ||primevod.pl^
-||printkay.com^
 ||printteestore.com^
 ||produktretter.at^
 ||produktretter.com^
@@ -1291,10 +1290,10 @@
 ||wuqrie.info^
 ||ww25.utilify.me^
 ||base-vod.pl^
+||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
 ||xajzfwgs.com^
-||xborders.io^
 ||xcartpro.com^
 ||xunlei.it^
 ||xvid.click-social-card.top^
