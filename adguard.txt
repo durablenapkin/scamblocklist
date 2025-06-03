@@ -282,6 +282,7 @@
 ||distrochooser.snehit.dev^
 ||distryct.shop^
 ||diteringion.com^
+||diytsi.shop^
 ||dkfodboldstore.com^
 ||dleggere.com^
 ||dogparadiseshop.com^
@@ -598,7 +599,6 @@
 ||knightmods.com^
 ||koinprime.com^
 ||kontribusiuang.top^
-||koperasi.naricash.com^
 ||kopisusu.co.id^
 ||kra18.com^
 ||kredit-rupiah.com^
@@ -819,7 +819,6 @@
 ||olive121407.studio.site^
 ||olymptrade-qid.com^
 ||onary.info^
-||onenightchicko.com^
 ||online-binomo.com^
 ||online-eta.com^
 ||onlinecda.pl^
@@ -857,6 +856,7 @@
 ||phirussacmush.net^
 ||photo-reaktivieren.org^
 ||phototan-cdirect.info^
+||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
@@ -1101,6 +1101,7 @@
 ||tromselementbygg.no^
 ||trump-drop.org^
 ||trumpsupport.help^
+||trusltwcllet.com^
 ||tsla-stock.com^
 ||turtleclient.xyz^
 ||twiiiter.com^
