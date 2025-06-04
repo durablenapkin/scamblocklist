@@ -282,7 +282,6 @@
 ||distrochooser.snehit.dev^
 ||distryct.shop^
 ||diteringion.com^
-||diytsi.shop^
 ||dkfodboldstore.com^
 ||dleggere.com^
 ||dogparadiseshop.com^
@@ -331,7 +330,6 @@
 ||eset.co.il^
 ||esl-gaming.com^
 ||eslgrandscup.com^
-||estiloserena.com.br^
 ||et-reliefgc-ca.info^
 ||etaindia.org^
 ||etaindiaonline.com^
@@ -466,7 +464,6 @@
 ||gsport.com^
 ||gtlinfrastructurelimited.com^
 ||gtltelecomgroup.in^
-||gtltower.com^
 ||gtltowerinfratel.in^
 ||gunstee.com^
 ||habilitacao.org^
@@ -666,7 +663,6 @@
 ||monkstars.com^
 ||monpaquet9trackpobox.com^
 ||mot73yi07.info^
-||movica.us^
 ||moviemania.pl^
 ||ms-analytics.mywire.org^
 ||msgclick.top^
