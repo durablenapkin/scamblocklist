@@ -4314,6 +4314,9 @@
 0.0.0.0 hubfiles.ws
 0.0.0.0 www.hubfiles.ws
 0.0.0.0 store.hubfiles.ws
+0.0.0.0 hudson-bay.com
+0.0.0.0 www.hudson-bay.com
+0.0.0.0 store.hudson-bay.com
 0.0.0.0 hugetrump.com
 0.0.0.0 www.hugetrump.com
 0.0.0.0 store.hugetrump.com
