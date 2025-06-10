@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3021
+# Domains: 3036
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -132,8 +132,6 @@
 0.0.0.0 allstarshirt.com
 0.0.0.0 www.allstarshirt.com
 0.0.0.0 allupdatenow.com
-0.0.0.0 alphatowercompany.in
-0.0.0.0 www.alphatowercompany.in
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
 0.0.0.0 altwi-zgs.com
@@ -147,6 +145,9 @@
 0.0.0.0 www.amznshirts.com
 0.0.0.0 store.amznshirts.com
 0.0.0.0 an1.is
+0.0.0.0 animeshoppers.com
+0.0.0.0 www.animeshoppers.com
+0.0.0.0 store.animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
 0.0.0.0 app-uniswapping.org
@@ -158,6 +159,9 @@
 0.0.0.0 appdrive.info
 0.0.0.0 www.appdrive.info
 0.0.0.0 store.appdrive.info
+0.0.0.0 apsehick.date
+0.0.0.0 www.apsehick.date
+0.0.0.0 store.apsehick.date
 0.0.0.0 arduino.uk.eu.org
 0.0.0.0 www.arduino.uk.eu.org
 0.0.0.0 army-shop.onshopbase.com
@@ -237,6 +241,7 @@
 0.0.0.0 bcb.game
 0.0.0.0 beacon.apsehick.date
 0.0.0.0 www.beacon.apsehick.date
+0.0.0.0 store.beacon.apsehick.date
 0.0.0.0 beautysolution24.com
 0.0.0.0 www.beautysolution24.com
 0.0.0.0 beeaar.com
@@ -731,6 +736,9 @@
 0.0.0.0 store.eventmusk-x.com
 0.0.0.0 eviralstore.com
 0.0.0.0 www.eviralstore.com
+0.0.0.0 evisa-india-online.com
+0.0.0.0 www.evisa-india-online.com
+0.0.0.0 store.evisa-india-online.com
 0.0.0.0 evisa-indian.com
 0.0.0.0 www.evisa-indian.com
 0.0.0.0 evisa.express
@@ -899,6 +907,7 @@
 0.0.0.0 friday99.com
 0.0.0.0 www.friday99.com
 0.0.0.0 fridaylocalmanager.duckdns.org
+0.0.0.0 www.fridaylocalmanager.duckdns.org
 0.0.0.0 store.fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
 0.0.0.0 www.frostgoddess.com
@@ -1265,7 +1274,6 @@
 0.0.0.0 store.jsdimmigration.com
 0.0.0.0 jsdimmigrations.com
 0.0.0.0 www.jsdimmigrations.com
-0.0.0.0 store.justdy.shop
 0.0.0.0 karan-pc.com
 0.0.0.0 www.karan-pc.com
 0.0.0.0 karanpcofficial.blogspot.com
@@ -1599,8 +1607,12 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
+0.0.0.0 navi42.ru
 0.0.0.0 www.navi42.ru
 0.0.0.0 store.navi42.ru
+0.0.0.0 navi43.com
+0.0.0.0 www.navi43.com
+0.0.0.0 store.navi43.com
 0.0.0.0 navi44.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
@@ -1667,6 +1679,9 @@
 0.0.0.0 www.nayatowerinstallation.in.net
 0.0.0.0 neozor.com
 0.0.0.0 www.neozor.com
+0.0.0.0 netflix-logariasmos.com
+0.0.0.0 www.netflix-logariasmos.com
+0.0.0.0 store.netflix-logariasmos.com
 0.0.0.0 netfucks1.com
 0.0.0.0 nevaon.com
 0.0.0.0 www.nevaon.com
@@ -1721,6 +1736,8 @@
 0.0.0.0 nip4.com
 0.0.0.0 www.nip4.com
 0.0.0.0 store.nip4.com
+0.0.0.0 nip44.com
+0.0.0.0 www.nip44.com
 0.0.0.0 nip5.com
 0.0.0.0 www.nip5.com
 0.0.0.0 nip57.com
@@ -1736,8 +1753,6 @@
 0.0.0.0 www.nofotballstore.com
 0.0.0.0 store.nofotballstore.com
 0.0.0.0 nopae.top
-0.0.0.0 norfotball.com
-0.0.0.0 www.norfotball.com
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
 0.0.0.0 norgeshoes.com
@@ -1837,6 +1852,8 @@
 0.0.0.0 pages.tempisite.com
 0.0.0.0 www.pages.tempisite.com
 0.0.0.0 store.pages.tempisite.com
+0.0.0.0 pambi.tech
+0.0.0.0 www.pambi.tech
 0.0.0.0 www.pandzee.com
 0.0.0.0 paquet1nfopabox.com
 0.0.0.0 www.paquet1nfopabox.com
@@ -2900,7 +2917,6 @@
 0.0.0.0 www.x2-promo.net
 0.0.0.0 store.x2-promo.net
 0.0.0.0 xai467k.com
-0.0.0.0 xajzfwgs.com
 0.0.0.0 www.xajzfwgs.com
 0.0.0.0 store.xajzfwgs.com
 0.0.0.0 xcartpro.com
@@ -2949,7 +2965,6 @@
 0.0.0.0 www.youutube.com
 0.0.0.0 ytvancedpro.com
 0.0.0.0 www.ytvancedpro.com
-0.0.0.0 store.yyderfreap.shop
 0.0.0.0 z-lib.id
 0.0.0.0 www.z-lib.id
 0.0.0.0 z-lib.is
