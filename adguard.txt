@@ -63,6 +63,7 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||am-freights.com^
+||amdestore.com^
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
@@ -365,6 +366,7 @@
 ||faze40.com^
 ||faze47.com^
 ||faze5.com^
+||faze74.com^
 ||faze77.com^
 ||faze8.com^
 ||fazpowerdenet.tumblr.com^
@@ -1120,6 +1122,7 @@
 ||unho.unhesiss.shop^
 ||uni-swap.online^
 ||uni-swap.space^
+||uniqueshirt.shop^
 ||uniswap-v3.com^
 ||uniswap.cool^
 ||uniswap.host^
@@ -1210,6 +1213,7 @@
 ||uniswapv4.com^
 ||uniswapv4sapp.com^
 ||universityofqatarrectorate.godaddysites.com^
+||unkinerecle.com^
 ||updatesnow.click^
 ||uplevelreward.com^
 ||upnews.me^
@@ -1310,7 +1314,6 @@
 ||youtunbe.com^
 ||youutube.com^
 ||ytvancedpro.com^
-||z-lib.id^
 ||z-lib.is^
 ||zalukaj-film.pl^
 ||zalukaj-pl.tv^
