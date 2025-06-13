@@ -12,7 +12,6 @@
 ||1sttheworld.com^
 ||24uniswap.xyz^
 ||270278609-2020004278-462904544-440202503325--570202500372x-usps.com^
-||365analytics.xyz^
 ||365uniswap.xyz^
 ||3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev^
 ||3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net^
@@ -117,7 +116,6 @@
 ||benecharm.com^
 ||benxi.info^
 ||bertasxt.com^
-||best-torrents.com^
 ||bestiamos.com^
 ||bestvod.pl^
 ||big-sale-warehouse.com^
@@ -149,7 +147,6 @@
 ||bitsoft360.io^
 ||bitsoft360.net^
 ||bitstenali.com^
-||bknstore.com^
 ||black-sales.cloud^
 ||blackabdo.company.site^
 ||blackoutarchertender.com^
@@ -280,7 +277,6 @@
 ||displaymovies.pl^
 ||distrochooser.snehit.dev^
 ||distryct.shop^
-||diteringion.com^
 ||dkfodboldstore.com^
 ||dleggere.com^
 ||dogparadiseshop.com^
@@ -530,7 +526,6 @@
 ||indiaevisaservice.com^
 ||indiaimmigration.org^
 ||indian-e-visa.com^
-||indian-visa.in^
 ||indian-visaonline.org^
 ||indianetouristvisacoin.wordpress.com^
 ||indianevisaonline.com^
@@ -565,7 +560,6 @@
 ||itseasy.com^
 ||ivisa.com^
 ||j-natural.com^
-||jagkart.com^
 ||januashop.com^
 ||jasper-lilac-van.glitch.me^
 ||jellystores.com^
@@ -613,7 +607,6 @@
 ||levelbash.com^
 ||lifestyletrading.co.za^
 ||ligerking.com^
-||likenu.se^
 ||linkshe.com^
 ||linostee.com^
 ||lisabuddy.com^
@@ -631,7 +624,6 @@
 ||luccheseoutlet.online^
 ||lucysstyle.com^
 ||lumustore.top^
-||luxsgear.com^
 ||madeinusas.com^
 ||maebl.com^
 ||magnite.shop^
@@ -698,7 +690,6 @@
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
-||navi11.com^
 ||navi12.com^
 ||navi14.com^
 ||navi18.com^
@@ -776,7 +767,6 @@
 ||nicelegant.com^
 ||niche3d.us^
 ||ninzatool.pw^
-||nip1.com^
 ||nip2.com^
 ||nip23.com^
 ||nip24.com^
@@ -926,6 +916,7 @@
 ||rsaonlinenow.com.au^
 ||ruecksendungen-gratis.com^
 ||rupiahlagi.com^
+||rupiahsaku.com^
 ||rustdesk.co.nz^
 ||rustdesk.io^
 ||rustdesk.pl^
@@ -1057,7 +1048,6 @@
 ||teslamaked.com^
 ||the-north-face.gr^
 ||theeaglebrand.company.site^
-||thegeekgifts.com^
 ||thehappywood.com^
 ||theneurobalancetherapy.org^
 ||thenorthfacegreece.com^
@@ -1069,7 +1059,6 @@
 ||thewindowsactivator.com^
 ||thuthuatxiaomi.com^
 ||ti-yo.com^
-||tigerkash.com^
 ||tikgeeker.com^
 ||tikinew.club^
 ||tinkleo.com^
@@ -1122,7 +1111,6 @@
 ||unho.unhesiss.shop^
 ||uni-swap.online^
 ||uni-swap.space^
-||uniqueshirt.shop^
 ||uniswap-v3.com^
 ||uniswap.cool^
 ||uniswap.host^
@@ -1233,7 +1221,6 @@
 ||veilcurtin.world^
 ||vencord.app^
 ||venezuelabaseballjerseys.com^
-||verfun.com^
 ||vernahora.app^
 ||vessisdeutschland.com^
 ||vider-cda.online^
@@ -1314,6 +1301,7 @@
 ||youtunbe.com^
 ||youutube.com^
 ||ytvancedpro.com^
+||z-lib.id^
 ||z-lib.is^
 ||zalukaj-film.pl^
 ||zalukaj-pl.tv^
