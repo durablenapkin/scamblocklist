@@ -612,6 +612,7 @@
 ||levelbash.com^
 ||lifestyletrading.co.za^
 ||ligerking.com^
+||lillly.shop^
 ||linkshe.com^
 ||linostee.com^
 ||lisabuddy.com^
@@ -665,7 +666,6 @@
 ||monkstars.com^
 ||monpaquet9trackpobox.com^
 ||mot73yi07.info^
-||movica.us^
 ||ms-analytics.mywire.org^
 ||msgclick.top^
 ||msgclick.uno^
@@ -1011,6 +1011,7 @@
 ||stearncommunjty.net^
 ||stellara.de^
 ||stellasummer.com^
+||stiloautoparts.online^
 ||stingcool-com.myshopify.com^
 ||store-aleteia.org^
 ||store-swatch.com^
@@ -1196,7 +1197,6 @@
 ||uniswapcriterion.net^
 ||uniswapcriterion.org^
 ||uniswapdefi.xyz^
-||uniswapdrop.org^
 ||uniswapetf.xyz^
 ||uniswapfund.xyz^
 ||uniswaphub.xyz^
@@ -1223,6 +1223,7 @@
 ||us99.pro^
 ||uscampinghiking.com^
 ||uschse04.my03.com^
+||ushiro.org^
 ||uusilemmikki.com^
 ||uydrnhsb.info^
 ||valeofoodsgroup.com^
@@ -1257,6 +1258,7 @@
 ||visatoindia.org^
 ||visumbuitenland.nl^
 ||vizjer-pl.pl^
+||vizjer.com.pl^
 ||vizjer.eu^
 ||vod-tv.pl^
 ||vod.film^
