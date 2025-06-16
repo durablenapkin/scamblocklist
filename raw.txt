@@ -12549,6 +12549,9 @@
 0.0.0.0 torrenty-pl.cc
 0.0.0.0 www.torrenty-pl.cc
 0.0.0.0 store.torrenty-pl.cc
+0.0.0.0 totalpacotes.com
+0.0.0.0 www.totalpacotes.com
+0.0.0.0 store.totalpacotes.com
 0.0.0.0 touristvisaonline.com
 0.0.0.0 www.touristvisaonline.com
 0.0.0.0 store.touristvisaonline.com
