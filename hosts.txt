@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3035
+# Domains: 3034
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -159,9 +159,6 @@
 0.0.0.0 appdrive.info
 0.0.0.0 www.appdrive.info
 0.0.0.0 store.appdrive.info
-0.0.0.0 apsehick.date
-0.0.0.0 www.apsehick.date
-0.0.0.0 store.apsehick.date
 0.0.0.0 arduino.uk.eu.org
 0.0.0.0 www.arduino.uk.eu.org
 0.0.0.0 army-shop.onshopbase.com
@@ -470,6 +467,8 @@
 0.0.0.0 coinreq.com
 0.0.0.0 www.coinreq.com
 0.0.0.0 store.coinreq.com
+0.0.0.0 colorandcotton.com
+0.0.0.0 www.colorandcotton.com
 0.0.0.0 compoundexotics.com
 0.0.0.0 www.compoundexotics.com
 0.0.0.0 comprehension.unstal.cfd
@@ -1081,8 +1080,6 @@
 0.0.0.0 howgr.buzz
 0.0.0.0 www.howgr.buzz
 0.0.0.0 hsuitehub.com
-0.0.0.0 www.hsuitehub.com
-0.0.0.0 store.hsuitehub.com
 0.0.0.0 hubfiles.ws
 0.0.0.0 www.hubfiles.ws
 0.0.0.0 store.hubfiles.ws
@@ -1099,6 +1096,7 @@
 0.0.0.0 store.hyndtren25.pages.dev
 0.0.0.0 i-grade.online
 0.0.0.0 www.i-grade.online
+0.0.0.0 store.i-grade.online
 0.0.0.0 i-visaindia.com
 0.0.0.0 www.i-visaindia.com
 0.0.0.0 iagadvanced.com
@@ -1241,8 +1239,6 @@
 0.0.0.0 jellystores.com
 0.0.0.0 www.jellystores.com
 0.0.0.0 store.jellystores.com
-0.0.0.0 jne-express.my.id
-0.0.0.0 www.jne-express.my.id
 0.0.0.0 jonausa.com
 0.0.0.0 www.jonausa.com
 0.0.0.0 store.jonausa.com
@@ -1588,12 +1584,14 @@
 0.0.0.0 www.navi42.ru
 0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
+0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
 0.0.0.0 navi44.com
 0.0.0.0 navi45.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
 0.0.0.0 www.navi48.com
+0.0.0.0 store.navi48.com
 0.0.0.0 navi5.com
 0.0.0.0 www.navi5.com
 0.0.0.0 store.navi5.com
@@ -1616,13 +1614,9 @@
 0.0.0.0 navi66.com
 0.0.0.0 navi66.ru
 0.0.0.0 www.navi66.ru
-0.0.0.0 navi69.com
-0.0.0.0 www.navi69.com
 0.0.0.0 navi7.com
 0.0.0.0 www.navi7.com
-0.0.0.0 navi71.com
 0.0.0.0 www.navi71.com
-0.0.0.0 store.navi71.com
 0.0.0.0 navi72.com
 0.0.0.0 www.navi72.com
 0.0.0.0 navi72.ru
@@ -1630,7 +1624,6 @@
 0.0.0.0 store.navi72.ru
 0.0.0.0 navi73.com
 0.0.0.0 www.navi73.com
-0.0.0.0 store.navi73.com
 0.0.0.0 navi76.com
 0.0.0.0 www.navi76.com
 0.0.0.0 store.navi76.com
@@ -1640,7 +1633,6 @@
 0.0.0.0 navi78.ru
 0.0.0.0 www.navi78.ru
 0.0.0.0 store.navi78.ru
-0.0.0.0 navi79.com
 0.0.0.0 www.navi79.com
 0.0.0.0 store.navi79.com
 0.0.0.0 navi8.com
@@ -1656,7 +1648,6 @@
 0.0.0.0 navi9.com
 0.0.0.0 www.navi9.com
 0.0.0.0 store.navi9.com
-0.0.0.0 navi95.com
 0.0.0.0 navi98.com
 0.0.0.0 navi99.com
 0.0.0.0 www.navi99.com
@@ -1819,6 +1810,7 @@
 0.0.0.0 orderquilt.com
 0.0.0.0 www.orderquilt.com
 0.0.0.0 ousd-vault.com
+0.0.0.0 www.ousd-vault.com
 0.0.0.0 store.ousd-vault.com
 0.0.0.0 outarshop.fi
 0.0.0.0 www.outarshop.fi
@@ -1928,7 +1920,7 @@
 0.0.0.0 prawdziwefilmy.pl
 0.0.0.0 www.prawdziwefilmy.pl
 0.0.0.0 store.prawdziwefilmy.pl
-0.0.0.0 premium-x-notes.com
+0.0.0.0 www.premium-x-notes.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 presale-friday.cloud
@@ -2133,6 +2125,9 @@
 0.0.0.0 www.sigmaoffers.com
 0.0.0.0 signalgroup.site
 0.0.0.0 www.signalgroup.site
+0.0.0.0 signpify.com
+0.0.0.0 www.signpify.com
+0.0.0.0 store.signpify.com
 0.0.0.0 www.silverlanetrading.com
 0.0.0.0 singingfiles.com
 0.0.0.0 www.singingfiles.com
@@ -2225,6 +2220,7 @@
 0.0.0.0 store.stellara.de
 0.0.0.0 stellasummer.com
 0.0.0.0 www.stellasummer.com
+0.0.0.0 www.stiloautoparts.online
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 www.stingcool-com.myshopify.com
 0.0.0.0 store.stingcool-com.myshopify.com
@@ -2314,6 +2310,7 @@
 0.0.0.0 tencheckit.org
 0.0.0.0 www.tencheckit.org
 0.0.0.0 teneta.add-group.site
+0.0.0.0 www.teneta.add-group.site
 0.0.0.0 www.teodoroautopecas.com
 0.0.0.0 tesla-online.net
 0.0.0.0 www.tesla-online.net
@@ -2791,6 +2788,9 @@
 0.0.0.0 vinisay.com
 0.0.0.0 www.vinisay.com
 0.0.0.0 vip100.cc
+0.0.0.0 vipdeit.com
+0.0.0.0 www.vipdeit.com
+0.0.0.0 store.vipdeit.com
 0.0.0.0 vipticketgiveaway.com
 0.0.0.0 www.vipticketgiveaway.com
 0.0.0.0 virustoal.com
@@ -2903,7 +2903,6 @@
 0.0.0.0 store.ww25.utilify.me
 0.0.0.0 www.base-vod.pl
 0.0.0.0 wyzia-orderdeposits.com
-0.0.0.0 www.wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
 0.0.0.0 store.x2-promo.net
