@@ -73,6 +73,7 @@
 ||app.uniwspapp.com^
 ||appbipa.com^
 ||appdrive.info^
+||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -213,7 +214,6 @@
 ||coiincmi.com^
 ||coinaps.com^
 ||coinreq.com^
-||colorandcotton.com^
 ||compoundexotics.com^
 ||comprehension.unstal.cfd^
 ||confira.io^
@@ -867,7 +867,6 @@
 ||post-nachsenden.de^
 ||powerboostup.com^
 ||prawdziwefilmy.pl^
-||premium-x-notes.com^
 ||premiumqualityblanket.com^
 ||presale-friday.cloud^
 ||presale-friday.info^
@@ -959,7 +958,6 @@
 ||sieuto.com^
 ||sigmaoffers.com^
 ||signalgroup.site^
-||signpify.com^
 ||silverlanetrading.com^
 ||singingfiles.com^
 ||singleflirt.com^
@@ -1284,7 +1282,6 @@
 ||wuqrie.info^
 ||ww25.utilify.me^
 ||base-vod.pl^
-||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
 ||xajzfwgs.com^

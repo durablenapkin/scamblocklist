@@ -159,6 +159,9 @@
 0.0.0.0 appdrive.info
 0.0.0.0 www.appdrive.info
 0.0.0.0 store.appdrive.info
+0.0.0.0 apsehick.date
+0.0.0.0 www.apsehick.date
+0.0.0.0 store.apsehick.date
 0.0.0.0 arduino.uk.eu.org
 0.0.0.0 www.arduino.uk.eu.org
 0.0.0.0 army-shop.onshopbase.com
@@ -467,8 +470,6 @@
 0.0.0.0 coinreq.com
 0.0.0.0 www.coinreq.com
 0.0.0.0 store.coinreq.com
-0.0.0.0 colorandcotton.com
-0.0.0.0 www.colorandcotton.com
 0.0.0.0 compoundexotics.com
 0.0.0.0 www.compoundexotics.com
 0.0.0.0 comprehension.unstal.cfd
@@ -1080,6 +1081,8 @@
 0.0.0.0 howgr.buzz
 0.0.0.0 www.howgr.buzz
 0.0.0.0 hsuitehub.com
+0.0.0.0 www.hsuitehub.com
+0.0.0.0 store.hsuitehub.com
 0.0.0.0 hubfiles.ws
 0.0.0.0 www.hubfiles.ws
 0.0.0.0 store.hubfiles.ws
@@ -1096,7 +1099,6 @@
 0.0.0.0 store.hyndtren25.pages.dev
 0.0.0.0 i-grade.online
 0.0.0.0 www.i-grade.online
-0.0.0.0 store.i-grade.online
 0.0.0.0 i-visaindia.com
 0.0.0.0 www.i-visaindia.com
 0.0.0.0 iagadvanced.com
@@ -1581,7 +1583,6 @@
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
 0.0.0.0 navi42.ru
-0.0.0.0 www.navi42.ru
 0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
@@ -1616,7 +1617,9 @@
 0.0.0.0 www.navi66.ru
 0.0.0.0 navi7.com
 0.0.0.0 www.navi7.com
+0.0.0.0 navi71.com
 0.0.0.0 www.navi71.com
+0.0.0.0 store.navi71.com
 0.0.0.0 navi72.com
 0.0.0.0 www.navi72.com
 0.0.0.0 navi72.ru
@@ -1624,6 +1627,7 @@
 0.0.0.0 store.navi72.ru
 0.0.0.0 navi73.com
 0.0.0.0 www.navi73.com
+0.0.0.0 store.navi73.com
 0.0.0.0 navi76.com
 0.0.0.0 www.navi76.com
 0.0.0.0 store.navi76.com
@@ -1633,6 +1637,7 @@
 0.0.0.0 navi78.ru
 0.0.0.0 www.navi78.ru
 0.0.0.0 store.navi78.ru
+0.0.0.0 navi79.com
 0.0.0.0 www.navi79.com
 0.0.0.0 store.navi79.com
 0.0.0.0 navi8.com
@@ -1920,7 +1925,6 @@
 0.0.0.0 prawdziwefilmy.pl
 0.0.0.0 www.prawdziwefilmy.pl
 0.0.0.0 store.prawdziwefilmy.pl
-0.0.0.0 www.premium-x-notes.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 presale-friday.cloud
@@ -2125,9 +2129,6 @@
 0.0.0.0 www.sigmaoffers.com
 0.0.0.0 signalgroup.site
 0.0.0.0 www.signalgroup.site
-0.0.0.0 signpify.com
-0.0.0.0 www.signpify.com
-0.0.0.0 store.signpify.com
 0.0.0.0 www.silverlanetrading.com
 0.0.0.0 singingfiles.com
 0.0.0.0 www.singingfiles.com
@@ -2220,7 +2221,7 @@
 0.0.0.0 store.stellara.de
 0.0.0.0 stellasummer.com
 0.0.0.0 www.stellasummer.com
-0.0.0.0 www.stiloautoparts.online
+0.0.0.0 store.stiloautoparts.online
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 www.stingcool-com.myshopify.com
 0.0.0.0 store.stingcool-com.myshopify.com
@@ -2902,7 +2903,6 @@
 0.0.0.0 www.ww25.utilify.me
 0.0.0.0 store.ww25.utilify.me
 0.0.0.0 www.base-vod.pl
-0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
 0.0.0.0 store.x2-promo.net
