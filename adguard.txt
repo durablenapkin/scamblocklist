@@ -73,7 +73,6 @@
 ||app.uniwspapp.com^
 ||appbipa.com^
 ||appdrive.info^
-||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -108,7 +107,6 @@
 ||balticpipe.wordpress.com^
 ||bantucepat.com^
 ||bcb.game^
-||beacon.apsehick.date^
 ||beautysolution24.com^
 ||beeaar.com^
 ||beecrave.com^
@@ -469,6 +467,7 @@
 ||happymod.cloud^
 ||haruko.store^
 ||headsets4business.co.uk^
+||help.premium-x-notes.com^
 ||help.record-x-center.com^
 ||helpdesk-usps.online^
 ||helpnanacenter.helpscoutdocs.com^
@@ -869,6 +868,7 @@
 ||post-nachsenden.de^
 ||powerboostup.com^
 ||prawdziwefilmy.pl^
+||premium-x-notes.com^
 ||premiumqualityblanket.com^
 ||presale-friday.cloud^
 ||presale-friday.info^
@@ -1285,6 +1285,7 @@
 ||wuqrie.info^
 ||ww25.utilify.me^
 ||base-vod.pl^
+||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
 ||xajzfwgs.com^
@@ -1294,7 +1295,6 @@
 ||xunlei.it^
 ||xvid.click-social-card.top^
 ||xvid.social-previews.top^
-||yahhhoo.com^
 ||yasir252.com^
 ||yeezysofficial.us.com^
 ||yeswevibe.com^
