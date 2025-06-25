@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3039
+# Domains: 3050
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -608,6 +608,8 @@
 0.0.0.0 www.doh-gov.com
 0.0.0.0 doh-gov.ph
 0.0.0.0 www.doh-gov.ph
+0.0.0.0 dohealths.com
+0.0.0.0 www.dohealths.com
 0.0.0.0 dolomiteoutlet.com
 0.0.0.0 www.dolomiteoutlet.com
 0.0.0.0 store.dolomiteoutlet.com
@@ -886,6 +888,7 @@
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 www.friday99.com
+0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 www.fridaylocalmanager.duckdns.org
 0.0.0.0 store.fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
@@ -912,6 +915,7 @@
 0.0.0.0 store.furykms.com
 0.0.0.0 fveco.com
 0.0.0.0 www.fveco.com
+0.0.0.0 store.fveco.com
 0.0.0.0 gamedrive.org
 0.0.0.0 www.gamedrive.org
 0.0.0.0 gamingbuffs.com
@@ -1027,7 +1031,6 @@
 0.0.0.0 store.haruko.store
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 www.headsets4business.co.uk
-0.0.0.0 help.premium-x-notes.com
 0.0.0.0 help.record-x-center.com
 0.0.0.0 helpdesk-usps.online
 0.0.0.0 www.helpdesk-usps.online
@@ -1415,6 +1418,7 @@
 0.0.0.0 microgull.com
 0.0.0.0 www.microgull.com
 0.0.0.0 microngroup.pro
+0.0.0.0 www.microngroup.pro
 0.0.0.0 microsoft-notifcation.com
 0.0.0.0 www.microsoft-notifcation.com
 0.0.0.0 store.microsoft-notifcation.com
@@ -1587,6 +1591,7 @@
 0.0.0.0 navi45.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
+0.0.0.0 www.navi48.com
 0.0.0.0 store.navi48.com
 0.0.0.0 navi5.com
 0.0.0.0 www.navi5.com
@@ -1610,7 +1615,6 @@
 0.0.0.0 navi66.com
 0.0.0.0 navi66.ru
 0.0.0.0 www.navi66.ru
-0.0.0.0 store.navi66.ru
 0.0.0.0 navi69.com
 0.0.0.0 www.navi69.com
 0.0.0.0 navi7.com
@@ -1644,6 +1648,8 @@
 0.0.0.0 navi85.com
 0.0.0.0 www.navi86.ru
 0.0.0.0 navi87.com
+0.0.0.0 www.navi87.com
+0.0.0.0 store.navi87.com
 0.0.0.0 navi88.com
 0.0.0.0 www.navi88.com
 0.0.0.0 store.navi88.com
@@ -1655,8 +1661,6 @@
 0.0.0.0 navi99.com
 0.0.0.0 www.navi99.com
 0.0.0.0 store.navi99.com
-0.0.0.0 nayatowerinstallation.in.net
-0.0.0.0 www.nayatowerinstallation.in.net
 0.0.0.0 neozor.com
 0.0.0.0 www.neozor.com
 0.0.0.0 netflix-logariasmos.com
@@ -1894,9 +1898,6 @@
 0.0.0.0 store.pjs.outlet.com
 0.0.0.0 pl.vider-info.pl
 0.0.0.0 pl.wojewodapodlaski.pl
-0.0.0.0 platform.crypto1capital-trade.com
-0.0.0.0 www.platform.crypto1capital-trade.com
-0.0.0.0 store.platform.crypto1capital-trade.com
 0.0.0.0 player-cda.pl
 0.0.0.0 www.player-cda.pl
 0.0.0.0 player-qr.com
@@ -1923,7 +1924,7 @@
 0.0.0.0 prawdziwefilmy.pl
 0.0.0.0 www.prawdziwefilmy.pl
 0.0.0.0 store.prawdziwefilmy.pl
-0.0.0.0 premium-x-notes.com
+0.0.0.0 www.premium-x-notes.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 presale-friday.cloud
@@ -1971,6 +1972,9 @@
 0.0.0.0 www.qq51f.short.gy
 0.0.0.0 store.qq51f.short.gy
 0.0.0.0 qriedf.info
+0.0.0.0 queenscattery.com
+0.0.0.0 www.queenscattery.com
+0.0.0.0 store.queenscattery.com
 0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 www.quoka.dk9zc9.pro
 0.0.0.0 store.quoka.dk9zc9.pro
@@ -2012,6 +2016,8 @@
 0.0.0.0 rosateeshop.com
 0.0.0.0 www.rosateeshop.com
 0.0.0.0 rosettahome.cn
+0.0.0.0 www.rosettahome.cn
+0.0.0.0 store.rosettahome.cn
 0.0.0.0 roulecams.sbs
 0.0.0.0 www.roulecams.sbs
 0.0.0.0 store.roulecams.sbs
@@ -2313,7 +2319,6 @@
 0.0.0.0 tencheckit.org
 0.0.0.0 www.tencheckit.org
 0.0.0.0 teneta.add-group.site
-0.0.0.0 www.teneta.add-group.site
 0.0.0.0 www.teodoroautopecas.com
 0.0.0.0 tesla-online.net
 0.0.0.0 www.tesla-online.net
@@ -2764,6 +2769,8 @@
 0.0.0.0 vegamartz.com
 0.0.0.0 www.vegamartz.com
 0.0.0.0 veilcurtin.world
+0.0.0.0 www.veilcurtin.world
+0.0.0.0 store.veilcurtin.world
 0.0.0.0 vencord.app
 0.0.0.0 www.vencord.app
 0.0.0.0 store.vencord.app
@@ -2908,6 +2915,7 @@
 0.0.0.0 store.ww25.utilify.me
 0.0.0.0 www.base-vod.pl
 0.0.0.0 wyzia-orderdeposits.com
+0.0.0.0 www.wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
 0.0.0.0 store.x2-promo.net
@@ -2932,6 +2940,9 @@
 0.0.0.0 xvid.social-previews.top
 0.0.0.0 www.xvid.social-previews.top
 0.0.0.0 store.xvid.social-previews.top
+0.0.0.0 yahhhoo.com
+0.0.0.0 www.yahhhoo.com
+0.0.0.0 store.yahhhoo.com
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
 0.0.0.0 store.yasir252.com
