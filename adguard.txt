@@ -66,7 +66,6 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||an1.is^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.deflliama.tech^
@@ -393,6 +392,7 @@
 ||fiusps.com^
 ||fkpgr.buzz^
 ||flattee.com^
+||fms88.shop^
 ||folkrbvi.pages.dev^
 ||food-network.fwh.is^
 ||foreveusps.com^
@@ -405,7 +405,6 @@
 ||friday99.com^
 ||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
-||fuckmebaby.click^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
 ||fullview.pl^
@@ -468,6 +467,7 @@
 ||happymod.cloud^
 ||haruko.store^
 ||headsets4business.co.uk^
+||help.premium-x-notes.com^
 ||help.record-x-center.com^
 ||helpdesk-usps.online^
 ||helpnanacenter.helpscoutdocs.com^
@@ -598,6 +598,7 @@
 ||lasercutjewelry.net^
 ||lds.xyz^
 ||ledgerlivewallets.com^
+||ledgerrlivess.org^
 ||lericettedifrancy74.com^
 ||letteringift.com^
 ||levelbash.com^
@@ -747,6 +748,7 @@
 ||navi9.com^
 ||navi98.com^
 ||navi99.com^
+||nayatowerinstallation.in.net^
 ||neozor.com^
 ||netflix-logariasmos.com^
 ||netfucks1.com^
@@ -815,7 +817,6 @@
 ||onlyfanstake.pro^
 ||onrunningshop.com^
 ||ontario-energy.com^
-||open-cbd.de^
 ||orderquilt.com^
 ||ousd-vault.com^
 ||outarshop.fi^
@@ -1001,7 +1002,6 @@
 ||stearncommunjty.net^
 ||stellara.de^
 ||stellasummer.com^
-||stiloautoparts.online^
 ||stingcool-com.myshopify.com^
 ||store-aleteia.org^
 ||store-swatch.com^
@@ -1298,7 +1298,6 @@
 ||yasir252.com^
 ||yeezysofficial.us.com^
 ||yeswevibe.com^
-||yeyvibe.com^
 ||ygtube.xyz^
 ||yhdshop.com^
 ||yofi-yofi.com^
