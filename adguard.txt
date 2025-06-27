@@ -163,6 +163,7 @@
 ||btc9339.com^
 ||buddhakind.com^
 ||budm.shop^
+||buylikes.se^
 ||bwpkizpfms.funnelish.com^
 ||bwsvbk.info^
 ||by-emmamuller.de^
@@ -220,6 +221,7 @@
 ||coolestpod.com^
 ||cooperation-odoo.com^
 ||corg.co^
+||costssco.com^
 ||couponxoo.com^
 ||courier-tracking.com^
 ||covex.it^
@@ -392,7 +394,6 @@
 ||fiusps.com^
 ||fkpgr.buzz^
 ||flattee.com^
-||fms88.shop^
 ||folkrbvi.pages.dev^
 ||food-network.fwh.is^
 ||foreveusps.com^
@@ -490,7 +491,6 @@
 ||hotmod.eu^
 ||houselar.com.br^
 ||howgr.buzz^
-||hsuitehub.com^
 ||hubfiles.ws^
 ||hudson-bay.com^
 ||hugetrump.com^
@@ -598,7 +598,6 @@
 ||lasercutjewelry.net^
 ||lds.xyz^
 ||ledgerlivewallets.com^
-||ledgerrlivess.org^
 ||lericettedifrancy74.com^
 ||letteringift.com^
 ||levelbash.com^
@@ -932,6 +931,7 @@
 ||sale-friday.store^
 ||sanla-tan.net^
 ||saveeeee.myshopify.com^
+||sberbank.pay.aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbb.id05196219.com^
 ||scoigr.buzz^
 ||scottfamilyministries.org^
 ||scribdbook.top^
@@ -1003,6 +1003,7 @@
 ||stellara.de^
 ||stellasummer.com^
 ||stingcool-com.myshopify.com^
+||storagestory.com^
 ||store-aleteia.org^
 ||store-swatch.com^
 ||store-uni-app.com^
@@ -1298,6 +1299,7 @@
 ||yasir252.com^
 ||yeezysofficial.us.com^
 ||yeswevibe.com^
+||yeyvibe.com^
 ||ygtube.xyz^
 ||yhdshop.com^
 ||yofi-yofi.com^
