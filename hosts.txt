@@ -144,7 +144,6 @@
 0.0.0.0 amznshirts.com
 0.0.0.0 www.amznshirts.com
 0.0.0.0 store.amznshirts.com
-0.0.0.0 an1.is
 0.0.0.0 animeshoppers.com
 0.0.0.0 www.animeshoppers.com
 0.0.0.0 store.animeshoppers.com
@@ -964,7 +963,7 @@
 0.0.0.0 gig-os.com
 0.0.0.0 www.gig-os.com
 0.0.0.0 gimboy.com
-0.0.0.0 store.gimboy.com
+0.0.0.0 www.gimboy.com
 0.0.0.0 gimp.zendesk.com
 0.0.0.0 www.gimp.zendesk.com
 0.0.0.0 store.gimp.zendesk.com
@@ -1142,7 +1141,6 @@
 0.0.0.0 indiaeta.com
 0.0.0.0 www.indiaeta.com
 0.0.0.0 indiaevisas.org
-0.0.0.0 www.indiaevisas.org
 0.0.0.0 indiaevisaservice.com
 0.0.0.0 www.indiaevisaservice.com
 0.0.0.0 indiaimmigration.org
@@ -1184,6 +1182,7 @@
 0.0.0.0 indiavisa.co.uk
 0.0.0.0 www.indiavisa.co.uk
 0.0.0.0 indiavisa.com
+0.0.0.0 www.indiavisa.com
 0.0.0.0 indiavisa.com.sg
 0.0.0.0 www.indiavisa.com.sg
 0.0.0.0 indiavisa.my
@@ -1580,7 +1579,7 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 navi42.ru
+0.0.0.0 www.navi42.ru
 0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
@@ -1628,7 +1627,6 @@
 0.0.0.0 store.navi72.ru
 0.0.0.0 navi73.com
 0.0.0.0 www.navi73.com
-0.0.0.0 store.navi73.com
 0.0.0.0 navi76.com
 0.0.0.0 www.navi76.com
 0.0.0.0 store.navi76.com
@@ -1665,7 +1663,6 @@
 0.0.0.0 neozor.com
 0.0.0.0 www.neozor.com
 0.0.0.0 netflix-logariasmos.com
-0.0.0.0 www.netflix-logariasmos.com
 0.0.0.0 store.netflix-logariasmos.com
 0.0.0.0 netfucks1.com
 0.0.0.0 nevaon.com
@@ -1688,8 +1685,8 @@
 0.0.0.0 www.newpipe.app
 0.0.0.0 nextmrolympia.com
 0.0.0.0 www.nextmrolympia.com
+0.0.0.0 nextstephire.net
 0.0.0.0 www.nextstephire.net
-0.0.0.0 store.nextstephire.net
 0.0.0.0 www.ngreditinaja.top
 0.0.0.0 nicelegant.com
 0.0.0.0 www.nicelegant.com
@@ -1924,6 +1921,8 @@
 0.0.0.0 prawdziwefilmy.pl
 0.0.0.0 www.prawdziwefilmy.pl
 0.0.0.0 store.prawdziwefilmy.pl
+0.0.0.0 www.premium-x-notes.com
+0.0.0.0 store.premium-x-notes.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 presale-friday.cloud
@@ -2149,6 +2148,8 @@
 0.0.0.0 smartproduct.site
 0.0.0.0 www.smartproduct.site
 0.0.0.0 store.smartproduct.site
+0.0.0.0 smvisa.co.il
+0.0.0.0 www.smvisa.co.il
 0.0.0.0 sodipi.com
 0.0.0.0 www.sodipi.com
 0.0.0.0 software19797.blogspot.com
@@ -2312,7 +2313,6 @@
 0.0.0.0 www.tencheckit.org
 0.0.0.0 teneta.add-group.site
 0.0.0.0 www.teneta.add-group.site
-0.0.0.0 store.teneta.add-group.site
 0.0.0.0 www.teodoroautopecas.com
 0.0.0.0 tesla-online.net
 0.0.0.0 www.tesla-online.net
