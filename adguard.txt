@@ -147,7 +147,6 @@
 ||black-sales.cloud^
 ||blackabdo.company.site^
 ||blackoutarchertender.com^
-||blingyy.com^
 ||bloomingvibe.com^
 ||blsindiavisa.kr^
 ||bltskins.com^
@@ -400,7 +399,6 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -464,7 +462,6 @@
 ||happymod.cloud^
 ||haruko.store^
 ||headsets4business.co.uk^
-||help.premium-x-notes.com^
 ||help.record-x-center.com^
 ||helpdesk-usps.online^
 ||helpnanacenter.helpscoutdocs.com^
@@ -594,6 +591,7 @@
 ||lasercutjewelry.net^
 ||lds.xyz^
 ||ledgerlivewallets.com^
+||lemstore.com^
 ||lericettedifrancy74.com^
 ||levelbash.com^
 ||lifestyletrading.co.za^
@@ -861,6 +859,7 @@
 ||post-nachsenden.de^
 ||powerboostup.com^
 ||prawdziwefilmy.pl^
+||premium-x-notes.com^
 ||premiumqualityblanket.com^
 ||presale-friday.cloud^
 ||presale-friday.info^
@@ -936,6 +935,7 @@
 ||serengetidiscount.com^
 ||seriale.co^
 ||serialefilmy.pl^
+||seryna.co^
 ||shaughixefooz.net^
 ||shirtforfan.com^
 ||shirttest.com^
@@ -962,7 +962,6 @@
 ||smvisa.co.il^
 ||sodipi.com^
 ||software19797.blogspot.com^
-||softzspot.com^
 ||solution7energieqc.com^
 ||somethingapparel.com^
 ||souhoney.com^
@@ -1086,6 +1085,7 @@
 ||trumpsupport.help^
 ||trusltwcllet.com^
 ||tsla-stock.com^
+||tslagift.net^
 ||turtleclient.xyz^
 ||twiiiter.com^
 ||twinsbio.com^
@@ -1196,6 +1196,7 @@
 ||uniswapv4sapp.com^
 ||universityofqatarrectorate.godaddysites.com^
 ||updatesnow.click^
+||upfilm.pl^
 ||uplevelreward.com^
 ||upnews.me^
 ||uprising.kip.pro^
