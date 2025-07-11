@@ -66,7 +66,6 @@
 ||am-freights.com^
 ||amorpulse.com^
 ||amznshirts.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.deflliama.tech^
@@ -147,6 +146,7 @@
 ||black-sales.cloud^
 ||blackabdo.company.site^
 ||blackoutarchertender.com^
+||blingyy.com^
 ||bloomingvibe.com^
 ||blsindiavisa.kr^
 ||bltskins.com^
@@ -462,6 +462,7 @@
 ||happymod.cloud^
 ||haruko.store^
 ||headsets4business.co.uk^
+||help.premium-x-notes.com^
 ||help.record-x-center.com^
 ||helpdesk-usps.online^
 ||helpnanacenter.helpscoutdocs.com^
@@ -962,6 +963,7 @@
 ||smvisa.co.il^
 ||sodipi.com^
 ||software19797.blogspot.com^
+||softzspot.com^
 ||solution7energieqc.com^
 ||somethingapparel.com^
 ||souhoney.com^
@@ -1085,7 +1087,6 @@
 ||trumpsupport.help^
 ||trusltwcllet.com^
 ||tsla-stock.com^
-||tslagift.net^
 ||turtleclient.xyz^
 ||twiiiter.com^
 ||twinsbio.com^
