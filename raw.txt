@@ -6981,6 +6981,12 @@
 0.0.0.0 outdoorwintersports.com
 0.0.0.0 www.outdoorwintersports.com
 0.0.0.0 store.outdoorwintersports.com
+0.0.0.0 outel.abmarketworks.com
+0.0.0.0 www.outel.abmarketworks.com
+0.0.0.0 store.outel.abmarketworks.com
+0.0.0.0 outel.nxhtl.com
+0.0.0.0 www.outel.nxhtl.com
+0.0.0.0 store.outel.nxhtl.com
 0.0.0.0 outlet-alfresco.com
 0.0.0.0 www.outlet-alfresco.com
 0.0.0.0 store.outlet-alfresco.com
