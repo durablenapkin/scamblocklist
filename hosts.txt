@@ -222,7 +222,6 @@
 0.0.0.0 bajeczki.org.pl
 0.0.0.0 www.bajeczki.org.pl
 0.0.0.0 store.bajeczki.org.pl
-0.0.0.0 bakeryxswap.org
 0.0.0.0 balkeryswep.online
 0.0.0.0 www.balkeryswep.online
 0.0.0.0 store.balkeryswep.online
@@ -238,7 +237,6 @@
 0.0.0.0 bantucepat.com
 0.0.0.0 www.bantucepat.com
 0.0.0.0 bcb.game
-0.0.0.0 www.bcb.game
 0.0.0.0 beautysolution24.com
 0.0.0.0 www.beautysolution24.com
 0.0.0.0 beeaar.com
@@ -324,7 +322,7 @@
 0.0.0.0 blackoutarchertender.com
 0.0.0.0 www.blackoutarchertender.com
 0.0.0.0 store.blackoutarchertender.com
-0.0.0.0 www.blingyy.com
+0.0.0.0 blingyy.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 www.bloomingvibe.com
 0.0.0.0 blsindiavisa.kr
@@ -365,8 +363,7 @@
 0.0.0.0 buylikes.se
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 bwsvbk.info
-0.0.0.0 by-emmamuller.de
-0.0.0.0 www.by-emmamuller.de
+0.0.0.0 store.c-tozluxury.shop
 0.0.0.0 c.dreamdating1.fun
 0.0.0.0 www.c.dreamdating1.fun
 0.0.0.0 store.c.dreamdating1.fun
@@ -504,6 +501,7 @@
 0.0.0.0 store.cryptot.net
 0.0.0.0 csbestplayers.com
 0.0.0.0 www.csbestplayers.com
+0.0.0.0 www.csbo.shop
 0.0.0.0 cshrewards.net
 0.0.0.0 www.cshrewards.net
 0.0.0.0 cual3up029pc73fi5jug.ucapsidop.info
@@ -698,6 +696,7 @@
 0.0.0.0 eset.co.il
 0.0.0.0 www.eset.co.il
 0.0.0.0 store.eset.co.il
+0.0.0.0 eshaalfawson.shop
 0.0.0.0 esl-gaming.com
 0.0.0.0 www.esl-gaming.com
 0.0.0.0 eslgrandscup.com
@@ -1015,12 +1014,13 @@
 0.0.0.0 hairyfy.com
 0.0.0.0 www.hairyfy.com
 0.0.0.0 haowei.me
+0.0.0.0 happymod.cloud
+0.0.0.0 www.happymod.cloud
 0.0.0.0 haruko.store
 0.0.0.0 www.haruko.store
 0.0.0.0 store.haruko.store
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 www.headsets4business.co.uk
-0.0.0.0 help.premium-x-notes.com
 0.0.0.0 help.record-x-center.com
 0.0.0.0 helpdesk-usps.online
 0.0.0.0 www.helpdesk-usps.online
@@ -1264,8 +1264,6 @@
 0.0.0.0 www.klasykavod.pl
 0.0.0.0 store.klasykavod.pl
 0.0.0.0 klelnanzeigen-deutch.confirm542351.info
-0.0.0.0 kms-full.com
-0.0.0.0 www.kms-full.com
 0.0.0.0 kms-pc.com
 0.0.0.0 www.kms-pc.com
 0.0.0.0 kms-tool.com
@@ -1423,7 +1421,6 @@
 0.0.0.0 miningco.site
 0.0.0.0 www.miningco.site
 0.0.0.0 store.miningco.site
-0.0.0.0 www.missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop
 0.0.0.0 miucart.com
 0.0.0.0 www.miucart.com
 0.0.0.0 mizunsports.com
@@ -1571,15 +1568,14 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 navi42.ru
 0.0.0.0 www.navi42.ru
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
-0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
 0.0.0.0 navi44.com
 0.0.0.0 navi45.com
 0.0.0.0 navi45.ru
-0.0.0.0 navi48.com
+0.0.0.0 www.navi48.com
 0.0.0.0 store.navi48.com
 0.0.0.0 navi5.com
 0.0.0.0 www.navi5.com
@@ -1920,7 +1916,8 @@
 0.0.0.0 prawdziwefilmy.pl
 0.0.0.0 www.prawdziwefilmy.pl
 0.0.0.0 store.prawdziwefilmy.pl
-0.0.0.0 premium-x-notes.com
+0.0.0.0 www.premium-x-notes.com
+0.0.0.0 store.premium-x-notes.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 presale-friday.cloud
@@ -1968,6 +1965,7 @@
 0.0.0.0 www.qq51f.short.gy
 0.0.0.0 store.qq51f.short.gy
 0.0.0.0 qriedf.info
+0.0.0.0 store.qttlpn.shop
 0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 www.quoka.dk9zc9.pro
 0.0.0.0 store.quoka.dk9zc9.pro
@@ -2014,9 +2012,6 @@
 0.0.0.0 royaldecorhome.store
 0.0.0.0 royalhedgies.com
 0.0.0.0 www.royalhedgies.com
-0.0.0.0 rozaholshouser.cfd
-0.0.0.0 www.rozaholshouser.cfd
-0.0.0.0 store.rozaholshouser.cfd
 0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 www.rsaonlinenow.com.au
 0.0.0.0 store.rsaonlinenow.com.au
@@ -2143,6 +2138,7 @@
 0.0.0.0 www.smartproduct.site
 0.0.0.0 store.smartproduct.site
 0.0.0.0 smvisa.co.il
+0.0.0.0 www.smvisa.co.il
 0.0.0.0 sodipi.com
 0.0.0.0 www.sodipi.com
 0.0.0.0 software19797.blogspot.com
@@ -2312,6 +2308,7 @@
 0.0.0.0 www.tencheckit.org
 0.0.0.0 teneta.add-group.site
 0.0.0.0 www.teneta.add-group.site
+0.0.0.0 store.teneta.add-group.site
 0.0.0.0 www.teodoroautopecas.com
 0.0.0.0 tesla-online.net
 0.0.0.0 www.tesla-online.net
@@ -2445,6 +2442,7 @@
 0.0.0.0 twitterr.com
 0.0.0.0 www.twitterr.com
 0.0.0.0 store.twitterr.com
+0.0.0.0 uange.shop
 0.0.0.0 ubnuntu.com
 0.0.0.0 www.ucapsidop.info
 0.0.0.0 store.ucapsidop.info
@@ -2881,7 +2879,6 @@
 0.0.0.0 store.wikeb.com
 0.0.0.0 wintexfashions.com
 0.0.0.0 www.wintexfashions.com
-0.0.0.0 wisdomganga.com
 0.0.0.0 www.wisdomganga.com
 0.0.0.0 withyotta.com
 0.0.0.0 www.withyotta.com
@@ -2905,6 +2902,8 @@
 0.0.0.0 www.x2-promo.net
 0.0.0.0 store.x2-promo.net
 0.0.0.0 xai467k.com
+0.0.0.0 xajzfwgs.com
+0.0.0.0 store.xajzfwgs.com
 0.0.0.0 xcartpro.com
 0.0.0.0 www.xcartpro.com
 0.0.0.0 store.xcartpro.com
@@ -2925,6 +2924,7 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
+0.0.0.0 store.yandex.avito.avito.pay.com-id15421.info
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
 0.0.0.0 store.yasir252.com
