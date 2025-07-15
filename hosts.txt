@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3026
+# Domains: 3017
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -157,7 +157,7 @@
 0.0.0.0 app.uniwspapp.com
 0.0.0.0 www.app.uniwspapp.com
 0.0.0.0 store.app.uniwspapp.com
-0.0.0.0 www.appbipa.com
+0.0.0.0 appbipa.com
 0.0.0.0 appdrive.info
 0.0.0.0 www.appdrive.info
 0.0.0.0 store.appdrive.info
@@ -323,6 +323,8 @@
 0.0.0.0 www.blackoutarchertender.com
 0.0.0.0 store.blackoutarchertender.com
 0.0.0.0 blingyy.com
+0.0.0.0 www.blingyy.com
+0.0.0.0 store.blingyy.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 www.bloomingvibe.com
 0.0.0.0 blsindiavisa.kr
@@ -363,7 +365,6 @@
 0.0.0.0 buylikes.se
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 bwsvbk.info
-0.0.0.0 store.c-tozluxury.shop
 0.0.0.0 c.dreamdating1.fun
 0.0.0.0 www.c.dreamdating1.fun
 0.0.0.0 store.c.dreamdating1.fun
@@ -501,7 +502,6 @@
 0.0.0.0 store.cryptot.net
 0.0.0.0 csbestplayers.com
 0.0.0.0 www.csbestplayers.com
-0.0.0.0 www.csbo.shop
 0.0.0.0 cshrewards.net
 0.0.0.0 www.cshrewards.net
 0.0.0.0 cual3up029pc73fi5jug.ucapsidop.info
@@ -696,7 +696,6 @@
 0.0.0.0 eset.co.il
 0.0.0.0 www.eset.co.il
 0.0.0.0 store.eset.co.il
-0.0.0.0 eshaalfawson.shop
 0.0.0.0 esl-gaming.com
 0.0.0.0 www.esl-gaming.com
 0.0.0.0 eslgrandscup.com
@@ -1264,6 +1263,8 @@
 0.0.0.0 www.klasykavod.pl
 0.0.0.0 store.klasykavod.pl
 0.0.0.0 klelnanzeigen-deutch.confirm542351.info
+0.0.0.0 kms-full.com
+0.0.0.0 www.kms-full.com
 0.0.0.0 kms-pc.com
 0.0.0.0 www.kms-pc.com
 0.0.0.0 kms-tool.com
@@ -1279,9 +1280,6 @@
 0.0.0.0 www.kmspico.io
 0.0.0.0 knightmods.com
 0.0.0.0 www.knightmods.com
-0.0.0.0 koinprime.com
-0.0.0.0 www.koinprime.com
-0.0.0.0 store.koinprime.com
 0.0.0.0 kontribusiuang.top
 0.0.0.0 www.kontribusiuang.top
 0.0.0.0 www.kopisusu.co.id
@@ -1568,13 +1566,12 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 www.navi42.ru
-0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
-0.0.0.0 store.navi43.com
+0.0.0.0 www.navi43.com
 0.0.0.0 navi44.com
 0.0.0.0 navi45.com
 0.0.0.0 navi45.ru
+0.0.0.0 navi48.com
 0.0.0.0 www.navi48.com
 0.0.0.0 store.navi48.com
 0.0.0.0 navi5.com
@@ -1678,7 +1675,9 @@
 0.0.0.0 www.nextmrolympia.com
 0.0.0.0 nextstephire.net
 0.0.0.0 www.nextstephire.net
+0.0.0.0 ngreditinaja.top
 0.0.0.0 www.ngreditinaja.top
+0.0.0.0 store.ngreditinaja.top
 0.0.0.0 nicelegant.com
 0.0.0.0 www.nicelegant.com
 0.0.0.0 niche3d.us
@@ -1916,8 +1915,7 @@
 0.0.0.0 prawdziwefilmy.pl
 0.0.0.0 www.prawdziwefilmy.pl
 0.0.0.0 store.prawdziwefilmy.pl
-0.0.0.0 www.premium-x-notes.com
-0.0.0.0 store.premium-x-notes.com
+0.0.0.0 premium-x-notes.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 presale-friday.cloud
@@ -1965,7 +1963,6 @@
 0.0.0.0 www.qq51f.short.gy
 0.0.0.0 store.qq51f.short.gy
 0.0.0.0 qriedf.info
-0.0.0.0 store.qttlpn.shop
 0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 www.quoka.dk9zc9.pro
 0.0.0.0 store.quoka.dk9zc9.pro
@@ -2217,6 +2214,7 @@
 0.0.0.0 stellasummer.com
 0.0.0.0 www.stellasummer.com
 0.0.0.0 stiloautoparts.online
+0.0.0.0 store.stiloautoparts.online
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 www.stingcool-com.myshopify.com
 0.0.0.0 store.stingcool-com.myshopify.com
@@ -2307,12 +2305,8 @@
 0.0.0.0 tencheckit.org
 0.0.0.0 www.tencheckit.org
 0.0.0.0 teneta.add-group.site
-0.0.0.0 www.teneta.add-group.site
 0.0.0.0 store.teneta.add-group.site
 0.0.0.0 www.teodoroautopecas.com
-0.0.0.0 tesla-online.net
-0.0.0.0 www.tesla-online.net
-0.0.0.0 store.tesla-online.net
 0.0.0.0 teslafond.io
 0.0.0.0 www.teslafond.io
 0.0.0.0 store.teslafond.io
@@ -2442,7 +2436,6 @@
 0.0.0.0 twitterr.com
 0.0.0.0 www.twitterr.com
 0.0.0.0 store.twitterr.com
-0.0.0.0 uange.shop
 0.0.0.0 ubnuntu.com
 0.0.0.0 www.ucapsidop.info
 0.0.0.0 store.ucapsidop.info
@@ -2879,7 +2872,7 @@
 0.0.0.0 store.wikeb.com
 0.0.0.0 wintexfashions.com
 0.0.0.0 www.wintexfashions.com
-0.0.0.0 www.wisdomganga.com
+0.0.0.0 wisdomganga.com
 0.0.0.0 withyotta.com
 0.0.0.0 www.withyotta.com
 0.0.0.0 woadoodles.com
@@ -2898,12 +2891,11 @@
 0.0.0.0 www.ww25.utilify.me
 0.0.0.0 store.ww25.utilify.me
 0.0.0.0 www.base-vod.pl
+0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
 0.0.0.0 store.x2-promo.net
 0.0.0.0 xai467k.com
-0.0.0.0 xajzfwgs.com
-0.0.0.0 store.xajzfwgs.com
 0.0.0.0 xcartpro.com
 0.0.0.0 www.xcartpro.com
 0.0.0.0 store.xcartpro.com
@@ -2924,7 +2916,6 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
-0.0.0.0 store.yandex.avito.avito.pay.com-id15421.info
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
 0.0.0.0 store.yasir252.com
