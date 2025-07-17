@@ -65,7 +65,6 @@
 ||am-freights.com^
 ||amorpulse.com^
 ||amznshirts.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.deflliama.tech^
@@ -397,6 +396,7 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -682,11 +682,9 @@
 ||navi14.com^
 ||navi18.com^
 ||navi2.com^
-||navi2.ru^
 ||navi20.com^
 ||navi20.ru^
 ||navi21.com^
-||navi21.ru^
 ||navi22.com^
 ||navi22.ru^
 ||navi23.com^
@@ -694,9 +692,7 @@
 ||navi24.com^
 ||navi24.ru^
 ||navi25.com^
-||navi25.ru^
 ||navi26.ru^
-||navi29.ru^
 ||navi3.com^
 ||navi30.com^
 ||navi30.ru^
@@ -707,12 +703,11 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi40.ru^
+||navi42.ru^
 ||navi43.com^
 ||navi44.com^
 ||navi45.com^
 ||navi45.ru^
-||navi46.ru^
 ||navi48.com^
 ||navi5.com^
 ||navi52.com^
@@ -826,7 +821,6 @@
 ||pacmoonn.icu^
 ||padsims.com^
 ||pages.tempisite.com^
-||pambi.tech^
 ||pandzee.com^
 ||paquet1nfopabox.com^
 ||paquetsuivi7noti.com^
@@ -996,7 +990,6 @@
 ||stearncommunjty.net^
 ||stellara.de^
 ||stellasummer.com^
-||stiloautoparts.online^
 ||stingcool-com.myshopify.com^
 ||storagestory.com^
 ||store-aleteia.org^
