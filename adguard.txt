@@ -140,10 +140,10 @@
 ||bitsoft360.com^
 ||bitsoft360.io^
 ||bitsoft360.net^
-||bitstenali.com^
 ||black-sales.cloud^
 ||blackabdo.company.site^
 ||blackoutarchertender.com^
+||blingyy.com^
 ||bloomingvibe.com^
 ||blsindiavisa.kr^
 ||bltskins.com^
@@ -380,7 +380,6 @@
 ||find-vod.com.pl^
 ||findglocal.com^
 ||finnews7.wordpress.com^
-||firersale.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.vip^
@@ -396,7 +395,6 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -460,7 +458,6 @@
 ||happymod.cloud^
 ||haruko.store^
 ||headsets4business.co.uk^
-||help.premium-x-notes.com^
 ||help.record-x-center.com^
 ||helpdesk-usps.online^
 ||helpnanacenter.helpscoutdocs.com^
@@ -503,7 +500,6 @@
 ||india-e-visa.com^
 ||india-visa-online.com^
 ||india-visa-online.org^
-||india-visaonline.org^
 ||india-visas.org^
 ||india.evisa-agency.com^
 ||india.travisa.com^
@@ -614,7 +610,6 @@
 ||lumustore.top^
 ||luxsgear.com^
 ||m.coinexeu.vip^
-||madeinusas.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
 ||mail.zalukaj.cc^
@@ -656,7 +651,6 @@
 ||msl-cf.id^
 ||mslfgl434.pages.dev^
 ||mujib-store28.blogspot.com^
-||mullvaad.net^
 ||museuw.com^
 ||muskusa.com^
 ||mybestautologin567.com^
@@ -1029,7 +1023,6 @@
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
 ||tencheckit.org^
-||teneta.add-group.site^
 ||teodoroautopecas.com^
 ||teslafond.io^
 ||teslamaked.com^
@@ -1047,7 +1040,6 @@
 ||thevitic.onshopbase.com^
 ||thewindowsactivator.com^
 ||thuthuatxiaomi.com^
-||ti-yo.com^
 ||tigerkash.com^
 ||tikgeeker.com^
 ||tikinew.club^
