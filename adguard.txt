@@ -65,6 +65,7 @@
 ||am-freights.com^
 ||amorpulse.com^
 ||amznshirts.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||app.deflliama.tech^
@@ -143,7 +144,6 @@
 ||black-sales.cloud^
 ||blackabdo.company.site^
 ||blackoutarchertender.com^
-||blingyy.com^
 ||bloomingvibe.com^
 ||blsindiavisa.kr^
 ||bltskins.com^
@@ -395,6 +395,7 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -853,6 +854,7 @@
 ||post-nachsenden.de^
 ||powerboostup.com^
 ||prawdziwefilmy.pl^
+||premium-x-notes.com^
 ||premiumqualityblanket.com^
 ||presale-friday.cloud^
 ||presale-friday.info^
@@ -1008,7 +1010,6 @@
 ||superofferte.shop^
 ||superuniswap.xyz^
 ||supperbrand.company.site^
-||survivalcatsupply.com^
 ||sweet-bonanza-demo.gr^
 ||swellsup.com^
 ||swuso.com^
