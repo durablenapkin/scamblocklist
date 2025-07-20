@@ -144,6 +144,7 @@
 ||black-sales.cloud^
 ||blackabdo.company.site^
 ||blackoutarchertender.com^
+||blingyy.com^
 ||bloomingvibe.com^
 ||blsindiavisa.kr^
 ||bltskins.com^
@@ -208,12 +209,10 @@
 ||cognatesyringe.com^
 ||coiincmi.com^
 ||coinaps.com^
-||coinreq.com^
 ||colorandcotton.com^
 ||compoundexotics.com^
 ||comprehension.unstal.cfd^
 ||confira.io^
-||containably.com^
 ||coolest3d.com^
 ||coolestpod.com^
 ||cooperation-odoo.com^
@@ -395,7 +394,6 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -459,6 +457,7 @@
 ||happymod.cloud^
 ||haruko.store^
 ||headsets4business.co.uk^
+||help.premium-x-notes.com^
 ||help.record-x-center.com^
 ||helpdesk-usps.online^
 ||helpnanacenter.helpscoutdocs.com^
@@ -585,8 +584,10 @@
 ||lasercutjewelry.net^
 ||lds.xyz^
 ||ledgerlivewallets.com^
+||ledgerrlivess.org^
 ||lemstore.com^
 ||lericettedifrancy74.com^
+||lesliespracklen.sa.com^
 ||levelbash.com^
 ||levelupstore.xyz^
 ||lifestyletrading.co.za^
@@ -930,7 +931,6 @@
 ||serialefilmy.pl^
 ||seryna.co^
 ||shaughixefooz.net^
-||shirtforfan.com^
 ||shirttest.com^
 ||shoeaddic.com^
 ||shopperexpress.shop^
