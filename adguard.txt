@@ -296,6 +296,7 @@
 ||e-visaindia.com^
 ||e-visaindiaonline.com^
 ||e-visums.nl^
+||earth-ling.org^
 ||easynatures.com^
 ||easyshoppingus.com^
 ||ebuy8.shop^
@@ -392,7 +393,6 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -441,7 +441,6 @@
 ||gov.rvgr.buzz^
 ||gov.scoigr.buzz^
 ||govmedcareers.com^
-||gratis-eltern-produkttests.com^
 ||group-signal.com^
 ||gsport.com^
 ||gtlinfrastructurelimited.com^
@@ -456,6 +455,7 @@
 ||happymod.cloud^
 ||haruko.store^
 ||headsets4business.co.uk^
+||help.premium-x-notes.com^
 ||help.record-x-center.com^
 ||helpdesk-usps.online^
 ||helpnanacenter.helpscoutdocs.com^
@@ -526,6 +526,7 @@
 ||indiavisa.my^
 ||indiavisa.org^
 ||indiavisaonline.org^
+||industower.org^
 ||info-animals.com^
 ||info-flirtme.com^
 ||info-milfroom.com^
@@ -613,7 +614,6 @@
 ||malgorzataschlegel.click^
 ||manageyourorder.com^
 ||mango-desert-09ebb4010.4.azurestaticapps.net^
-||mansion-xenarthran.info^
 ||manta-network-v2.us^
 ||maxdebrid.com^
 ||mayor4london.com^
@@ -684,6 +684,7 @@
 ||navi24.ru^
 ||navi25.com^
 ||navi26.ru^
+||navi27.ru^
 ||navi3.com^
 ||navi30.com^
 ||navi30.ru^
@@ -694,7 +695,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi43.com^
 ||navi44.com^
 ||navi45.com^
@@ -710,6 +710,7 @@
 ||navi63.ru^
 ||navi66.com^
 ||navi66.ru^
+||navi67.ru^
 ||navi69.com^
 ||navi7.com^
 ||navi71.com^
@@ -859,11 +860,6 @@
 ||primeleech.com^
 ||primevod.pl^
 ||printteestore.com^
-||produktretter.at^
-||produktretter.com^
-||produkttest-anmeldung.com^
-||produkttester-anmeldung.com^
-||produkttester-werden.org^
 ||promoalfresco.com^
 ||promotebuy.com^
 ||promotion40-form.com^
@@ -894,7 +890,6 @@
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rsaonlinenow.com.au^
-||ruecksendungen-gratis.com^
 ||rupiahlagi.com^
 ||rupiahsaku.com^
 ||rustdesk.co.nz^
@@ -1261,7 +1256,6 @@
 ||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
-||xajzfwgs.com^
 ||xcartpro.com^
 ||xn--airupespaa-19a.com^
 ||xn--airuptrkiye-yhb.com^
@@ -1282,7 +1276,6 @@
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
-||ytvancedpro.com^
 ||z-lib.id^
 ||z-lib.is^
 ||zalukaj-film.pl^
