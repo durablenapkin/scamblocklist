@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2979
+# Domains: 2989
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -56,9 +56,6 @@
 0.0.0.0 abncbp.com
 0.0.0.0 www.abncbp.com
 0.0.0.0 store.abncbp.com
-0.0.0.0 accbing.com
-0.0.0.0 www.accbing.com
-0.0.0.0 store.accbing.com
 0.0.0.0 account.ws-reward.com
 0.0.0.0 www.account.ws-reward.com
 0.0.0.0 store.account.ws-reward.com
@@ -236,6 +233,8 @@
 0.0.0.0 bantucepat.com
 0.0.0.0 www.bantucepat.com
 0.0.0.0 bcb.game
+0.0.0.0 bccnerty.com
+0.0.0.0 www.bccnerty.com
 0.0.0.0 beautysolution24.com
 0.0.0.0 www.beautysolution24.com
 0.0.0.0 beeaar.com
@@ -385,8 +384,8 @@
 0.0.0.0 carsaratek.com
 0.0.0.0 www.carsaratek.com
 0.0.0.0 store.carsaratek.com
+0.0.0.0 casha.xyz
 0.0.0.0 www.casha.xyz
-0.0.0.0 store.casha.xyz
 0.0.0.0 casualdating1.com
 0.0.0.0 www.casualdating1.com
 0.0.0.0 cda-pl.pl
@@ -473,6 +472,9 @@
 0.0.0.0 www.comprehension.unstal.cfd
 0.0.0.0 store.comprehension.unstal.cfd
 0.0.0.0 confira.io
+0.0.0.0 containably.com
+0.0.0.0 www.containably.com
+0.0.0.0 store.containably.com
 0.0.0.0 www.coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 www.coolestpod.com
@@ -652,6 +654,8 @@
 0.0.0.0 www.e-visaindiaonline.com
 0.0.0.0 e-visums.nl
 0.0.0.0 www.e-visums.nl
+0.0.0.0 earth-ling.org
+0.0.0.0 www.earth-ling.org
 0.0.0.0 store.earth-ling.org
 0.0.0.0 easynatures.com
 0.0.0.0 www.easynatures.com
@@ -959,7 +963,6 @@
 0.0.0.0 www.globalvisacorp.com
 0.0.0.0 gogiworld.com
 0.0.0.0 www.gogiworld.com
-0.0.0.0 goglle.com
 0.0.0.0 www.goglle.com
 0.0.0.0 store.goglle.com
 0.0.0.0 goindiavisa.com
@@ -1008,7 +1011,6 @@
 0.0.0.0 store.haruko.store
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 www.headsets4business.co.uk
-0.0.0.0 help.premium-x-notes.com
 0.0.0.0 help.record-x-center.com
 0.0.0.0 helpdesk-usps.online
 0.0.0.0 www.helpdesk-usps.online
@@ -1229,7 +1231,6 @@
 0.0.0.0 kesug.com
 0.0.0.0 www.kesug.com
 0.0.0.0 store.kesug.com
-0.0.0.0 www.kewal.shop
 0.0.0.0 kidsmama.online
 0.0.0.0 www.kidsmama.online
 0.0.0.0 kigurumi-usa.com
@@ -1547,13 +1548,11 @@
 0.0.0.0 www.navi38.ru
 0.0.0.0 navi39.ru
 0.0.0.0 www.navi39.ru
+0.0.0.0 navi4.com
+0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 navi42.ru
-0.0.0.0 www.navi42.ru
 0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
-0.0.0.0 www.navi43.com
-0.0.0.0 store.navi43.com
 0.0.0.0 navi44.com
 0.0.0.0 navi45.com
 0.0.0.0 navi45.ru
@@ -1586,13 +1585,13 @@
 0.0.0.0 www.navi7.com
 0.0.0.0 navi71.com
 0.0.0.0 www.navi71.com
+0.0.0.0 store.navi71.com
 0.0.0.0 navi72.com
 0.0.0.0 www.navi72.com
 0.0.0.0 navi72.ru
 0.0.0.0 www.navi72.ru
 0.0.0.0 store.navi72.ru
 0.0.0.0 navi73.com
-0.0.0.0 www.navi73.com
 0.0.0.0 store.navi73.com
 0.0.0.0 navi76.com
 0.0.0.0 www.navi76.com
@@ -1603,6 +1602,7 @@
 0.0.0.0 navi78.ru
 0.0.0.0 www.navi78.ru
 0.0.0.0 store.navi78.ru
+0.0.0.0 navi79.com
 0.0.0.0 www.navi79.com
 0.0.0.0 store.navi79.com
 0.0.0.0 navi8.com
@@ -1621,7 +1621,6 @@
 0.0.0.0 www.navi9.com
 0.0.0.0 store.navi9.com
 0.0.0.0 navi94.com
-0.0.0.0 www.navi94.com
 0.0.0.0 store.navi94.com
 0.0.0.0 navi98.com
 0.0.0.0 www.navi98.com
@@ -1714,7 +1713,6 @@
 0.0.0.0 www.norgefotball.com
 0.0.0.0 norgeshoes.com
 0.0.0.0 www.norgeshoes.com
-0.0.0.0 store.norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 notasdenatran.co
@@ -1780,6 +1778,7 @@
 0.0.0.0 store.onlinekino.pl
 0.0.0.0 onlinevisa.com
 0.0.0.0 www.onlinevisa.com
+0.0.0.0 store.onlinevisa.com
 0.0.0.0 onlinewideo.pl
 0.0.0.0 www.onlinewideo.pl
 0.0.0.0 store.onlinewideo.pl
@@ -1793,6 +1792,7 @@
 0.0.0.0 www.orderquilt.com
 0.0.0.0 ousd-vault.com
 0.0.0.0 www.ousd-vault.com
+0.0.0.0 store.ousd-vault.com
 0.0.0.0 outarshop.fi
 0.0.0.0 www.outarshop.fi
 0.0.0.0 store.outarshop.fi
@@ -1869,6 +1869,9 @@
 0.0.0.0 pjs.outlet.com
 0.0.0.0 www.pjs.outlet.com
 0.0.0.0 store.pjs.outlet.com
+0.0.0.0 pl-vider.pl
+0.0.0.0 www.pl-vider.pl
+0.0.0.0 store.pl-vider.pl
 0.0.0.0 pl.vider-info.pl
 0.0.0.0 pl.wojewodapodlaski.pl
 0.0.0.0 player-cda.pl
@@ -1897,6 +1900,8 @@
 0.0.0.0 prawdziwefilmy.pl
 0.0.0.0 www.prawdziwefilmy.pl
 0.0.0.0 store.prawdziwefilmy.pl
+0.0.0.0 premium-x-notes.com
+0.0.0.0 store.premium-x-notes.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 presale-friday.cloud
@@ -1975,8 +1980,6 @@
 0.0.0.0 rosateeshop.com
 0.0.0.0 www.rosateeshop.com
 0.0.0.0 rosettahome.cn
-0.0.0.0 www.rosettahome.cn
-0.0.0.0 store.rosettahome.cn
 0.0.0.0 royaldecorhome.store
 0.0.0.0 royalhedgies.com
 0.0.0.0 www.royalhedgies.com
@@ -2313,6 +2316,7 @@
 0.0.0.0 store.tikgeeker.com
 0.0.0.0 tikinew.club
 0.0.0.0 www.tikinew.club
+0.0.0.0 store.tikinew.club
 0.0.0.0 tinkleo.com
 0.0.0.0 www.tinkleo.com
 0.0.0.0 tiranaaquapark-eg.com
@@ -2692,6 +2696,8 @@
 0.0.0.0 store.upnews.me
 0.0.0.0 uprising.kip.pro
 0.0.0.0 upsbezorging.com
+0.0.0.0 www.upsbezorging.com
+0.0.0.0 store.upsbezorging.com
 0.0.0.0 ureashi.com
 0.0.0.0 www.ureashi.com
 0.0.0.0 us99.pro
@@ -2782,7 +2788,6 @@
 0.0.0.0 store.vizjer-pl.pl
 0.0.0.0 vizjer.com.pl
 0.0.0.0 www.vizjer.com.pl
-0.0.0.0 store.vizjer.com.pl
 0.0.0.0 vizjer.eu
 0.0.0.0 www.vizjer.eu
 0.0.0.0 store.vizjer.eu
@@ -2820,6 +2825,8 @@
 0.0.0.0 www.wavetshirt.com
 0.0.0.0 wazofurniture.com
 0.0.0.0 www.wazofurniture.com
+0.0.0.0 weathly.com
+0.0.0.0 www.weathly.com
 0.0.0.0 webvod.pl
 0.0.0.0 www.webvod.pl
 0.0.0.0 store.webvod.pl
@@ -2853,6 +2860,8 @@
 0.0.0.0 www.ww25.utilify.me
 0.0.0.0 store.ww25.utilify.me
 0.0.0.0 www.base-vod.pl
+0.0.0.0 wyzia-orderdeposits.com
+0.0.0.0 www.wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
 0.0.0.0 store.x2-promo.net
@@ -2880,7 +2889,6 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
-0.0.0.0 www.yandex.avito.sber.booking.com-id322712.com
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
 0.0.0.0 store.yasir252.com
@@ -2914,6 +2922,8 @@
 0.0.0.0 store.youtunbe.com
 0.0.0.0 youutube.com
 0.0.0.0 www.youutube.com
+0.0.0.0 yuaonew.com
+0.0.0.0 www.yuaonew.com
 0.0.0.0 z-lib.id
 0.0.0.0 www.z-lib.id
 0.0.0.0 z-lib.is

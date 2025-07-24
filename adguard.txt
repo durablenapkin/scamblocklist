@@ -28,7 +28,6 @@
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
 ||abncbp.com^
-||accbing.com^
 ||account.ws-reward.com^
 ||adidasko.com^
 ||adminicesm.life^
@@ -106,6 +105,7 @@
 ||balticpipe.wordpress.com^
 ||bantucepat.com^
 ||bcb.game^
+||bccnerty.com^
 ||beautysolution24.com^
 ||beeaar.com^
 ||beecrave.com^
@@ -213,6 +213,7 @@
 ||compoundexotics.com^
 ||comprehension.unstal.cfd^
 ||confira.io^
+||containably.com^
 ||coolest3d.com^
 ||coolestpod.com^
 ||cooperation-odoo.com^
@@ -456,7 +457,6 @@
 ||happymod.cloud^
 ||haruko.store^
 ||headsets4business.co.uk^
-||help.premium-x-notes.com^
 ||help.record-x-center.com^
 ||helpdesk-usps.online^
 ||helpnanacenter.helpscoutdocs.com^
@@ -555,7 +555,6 @@
 ||keltysale.com^
 ||kera99zx.com^
 ||kesug.com^
-||kewal.shop^
 ||kidsmama.online^
 ||kigurumi-usa.com^
 ||kingcampoutdoors.co.jp^
@@ -840,6 +839,7 @@
 ||pipopi.com^
 ||piratedrive.com^
 ||pjs.outlet.com^
+||pl-vider.pl^
 ||pl.vider-info.pl^
 ||pl.wojewodapodlaski.pl^
 ||player-cda.pl^
@@ -852,6 +852,7 @@
 ||post-nachsenden.de^
 ||powerboostup.com^
 ||prawdziwefilmy.pl^
+||premium-x-notes.com^
 ||premiumqualityblanket.com^
 ||presale-friday.cloud^
 ||presale-friday.info^
@@ -1237,6 +1238,7 @@
 ||watchseniorfit.com^
 ||wavetshirt.com^
 ||wazofurniture.com^
+||weathly.com^
 ||webvod.pl^
 ||werfew.com^
 ||whbinder.com^
@@ -1254,6 +1256,7 @@
 ||wuqrie.info^
 ||ww25.utilify.me^
 ||base-vod.pl^
+||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
 ||xajzfwgs.com^
@@ -1277,6 +1280,7 @@
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
+||yuaonew.com^
 ||z-lib.id^
 ||z-lib.is^
 ||zalukaj-film.pl^
