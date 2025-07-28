@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2978
+# Domains: 2971
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -142,6 +142,7 @@
 0.0.0.0 store.amznshirts.com
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
+0.0.0.0 app-uniswapp.website
 0.0.0.0 app-uniswapping.org
 0.0.0.0 app.deflliama.tech
 0.0.0.0 app.uniwspapp.com
@@ -227,6 +228,7 @@
 0.0.0.0 bantucepat.com
 0.0.0.0 www.bantucepat.com
 0.0.0.0 bcb.game
+0.0.0.0 store.bcb.game
 0.0.0.0 bccnerty.com
 0.0.0.0 www.bccnerty.com
 0.0.0.0 beautysolution24.com
@@ -312,7 +314,6 @@
 0.0.0.0 blackoutarchertender.com
 0.0.0.0 www.blackoutarchertender.com
 0.0.0.0 store.blackoutarchertender.com
-0.0.0.0 blingyy.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 www.bloomingvibe.com
 0.0.0.0 blsindiavisa.kr
@@ -469,8 +470,6 @@
 0.0.0.0 store.comprehension.unstal.cfd
 0.0.0.0 confira.io
 0.0.0.0 containably.com
-0.0.0.0 www.containably.com
-0.0.0.0 store.containably.com
 0.0.0.0 www.coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 www.coolestpod.com
@@ -891,7 +890,6 @@
 0.0.0.0 store.fveco.com
 0.0.0.0 gamedrive.org
 0.0.0.0 www.gamedrive.org
-0.0.0.0 store.gamers-world.fun
 0.0.0.0 gamingbuffs.com
 0.0.0.0 www.gamingbuffs.com
 0.0.0.0 gamingtoolz.club
@@ -953,8 +951,6 @@
 0.0.0.0 store.gload.info
 0.0.0.0 globalvisacorp.com
 0.0.0.0 www.globalvisacorp.com
-0.0.0.0 gogiworld.com
-0.0.0.0 www.gogiworld.com
 0.0.0.0 goglle.com
 0.0.0.0 www.goglle.com
 0.0.0.0 store.goglle.com
@@ -1004,6 +1000,7 @@
 0.0.0.0 store.haruko.store
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 www.headsets4business.co.uk
+0.0.0.0 store.help.premium-x-notes.com
 0.0.0.0 help.record-x-center.com
 0.0.0.0 helpdesk-usps.online
 0.0.0.0 www.helpdesk-usps.online
@@ -1017,8 +1014,6 @@
 0.0.0.0 heukmsactivator.com
 0.0.0.0 www.heukmsactivator.com
 0.0.0.0 heyfusio.com
-0.0.0.0 www.heyfusio.com
-0.0.0.0 store.heyfusio.com
 0.0.0.0 hfr67jhqrw8.com
 0.0.0.0 hindustantowergroupltd.com
 0.0.0.0 www.hindustantowergroupltd.com
@@ -1235,7 +1230,6 @@
 0.0.0.0 store.kinomaniak.cc
 0.0.0.0 kinonline.pl
 0.0.0.0 www.kinonline.pl
-0.0.0.0 kiophsx9.sa.com
 0.0.0.0 kisserine.com
 0.0.0.0 www.kisserine.com
 0.0.0.0 kitchendecor.shop
@@ -1244,7 +1238,6 @@
 0.0.0.0 store.klasykavod.pl
 0.0.0.0 klelnanzeigen-deutch.confirm542351.info
 0.0.0.0 kms-full.com
-0.0.0.0 www.kms-full.com
 0.0.0.0 kms-pc.com
 0.0.0.0 www.kms-pc.com
 0.0.0.0 kms-tool.com
@@ -1349,9 +1342,6 @@
 0.0.0.0 www.mail-cytanet.pages.dev
 0.0.0.0 store.mail-cytanet.pages.dev
 0.0.0.0 mail.zalukaj.cc
-0.0.0.0 malgorzataschlegel.click
-0.0.0.0 www.malgorzataschlegel.click
-0.0.0.0 store.malgorzataschlegel.click
 0.0.0.0 manageyourorder.com
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
 0.0.0.0 www.mango-desert-09ebb4010.4.azurestaticapps.net
@@ -1545,12 +1535,16 @@
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
 0.0.0.0 navi42.ru
+0.0.0.0 www.navi42.ru
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
+0.0.0.0 store.navi43.com
 0.0.0.0 navi44.com
 0.0.0.0 navi45.com
 0.0.0.0 navi45.ru
 0.0.0.0 navi48.com
+0.0.0.0 www.navi48.com
 0.0.0.0 store.navi48.com
 0.0.0.0 navi5.com
 0.0.0.0 www.navi5.com
@@ -1603,6 +1597,8 @@
 0.0.0.0 www.navi9.com
 0.0.0.0 store.navi9.com
 0.0.0.0 navi94.com
+0.0.0.0 www.navi94.com
+0.0.0.0 store.navi94.com
 0.0.0.0 navi98.com
 0.0.0.0 www.navi98.com
 0.0.0.0 store.navi98.com
@@ -1773,9 +1769,6 @@
 0.0.0.0 www.ontario-energy.com
 0.0.0.0 orderquilt.com
 0.0.0.0 www.orderquilt.com
-0.0.0.0 ousd-vault.com
-0.0.0.0 www.ousd-vault.com
-0.0.0.0 store.ousd-vault.com
 0.0.0.0 outarshop.fi
 0.0.0.0 www.outarshop.fi
 0.0.0.0 store.outarshop.fi
@@ -1883,7 +1876,6 @@
 0.0.0.0 prawdziwefilmy.pl
 0.0.0.0 www.prawdziwefilmy.pl
 0.0.0.0 store.prawdziwefilmy.pl
-0.0.0.0 premium-x-notes.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 presale-friday.cloud
@@ -2064,6 +2056,7 @@
 0.0.0.0 www.sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
+0.0.0.0 www.signal-protect.host
 0.0.0.0 signalgroup.site
 0.0.0.0 www.signalgroup.site
 0.0.0.0 signpify.com
@@ -2412,6 +2405,7 @@
 0.0.0.0 unho.unhesiss.shop
 0.0.0.0 uni-swap.online
 0.0.0.0 www.uni-swap.online
+0.0.0.0 store.uni-swap.online
 0.0.0.0 uni-swap.space
 0.0.0.0 www.uni-swap.space
 0.0.0.0 uniswap-v3.com
@@ -2651,7 +2645,6 @@
 0.0.0.0 store.uniswapnft.xyz
 0.0.0.0 www.uniswapr.org
 0.0.0.0 store.uniswapr.org
-0.0.0.0 uniswaps.tech
 0.0.0.0 uniswapstake.xyz
 0.0.0.0 www.uniswapstake.xyz
 0.0.0.0 store.uniswapstake.xyz
