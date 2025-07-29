@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2971
+# Domains: 2972
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -140,15 +140,16 @@
 0.0.0.0 amznshirts.com
 0.0.0.0 www.amznshirts.com
 0.0.0.0 store.amznshirts.com
+0.0.0.0 animeshoppers.com
+0.0.0.0 www.animeshoppers.com
+0.0.0.0 store.animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
-0.0.0.0 app-uniswapp.website
 0.0.0.0 app-uniswapping.org
 0.0.0.0 app.deflliama.tech
 0.0.0.0 app.uniwspapp.com
 0.0.0.0 www.app.uniwspapp.com
 0.0.0.0 store.app.uniwspapp.com
-0.0.0.0 appbipa.com
 0.0.0.0 appdrive.info
 0.0.0.0 www.appdrive.info
 0.0.0.0 store.appdrive.info
@@ -228,7 +229,6 @@
 0.0.0.0 bantucepat.com
 0.0.0.0 www.bantucepat.com
 0.0.0.0 bcb.game
-0.0.0.0 store.bcb.game
 0.0.0.0 bccnerty.com
 0.0.0.0 www.bccnerty.com
 0.0.0.0 beautysolution24.com
@@ -394,6 +394,9 @@
 0.0.0.0 cdn-defac18.studyzone-investmentguru.com
 0.0.0.0 www.cdn-defac18.studyzone-investmentguru.com
 0.0.0.0 store.cdn-defac18.studyzone-investmentguru.com
+0.0.0.0 chandeco.com
+0.0.0.0 www.chandeco.com
+0.0.0.0 store.chandeco.com
 0.0.0.0 chat-o-live.com
 0.0.0.0 cheat-on.com
 0.0.0.0 www.cheat-on.com
@@ -470,6 +473,8 @@
 0.0.0.0 store.comprehension.unstal.cfd
 0.0.0.0 confira.io
 0.0.0.0 containably.com
+0.0.0.0 www.containably.com
+0.0.0.0 store.containably.com
 0.0.0.0 www.coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 www.coolestpod.com
@@ -1000,7 +1005,6 @@
 0.0.0.0 store.haruko.store
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 www.headsets4business.co.uk
-0.0.0.0 store.help.premium-x-notes.com
 0.0.0.0 help.record-x-center.com
 0.0.0.0 helpdesk-usps.online
 0.0.0.0 www.helpdesk-usps.online
@@ -1014,6 +1018,8 @@
 0.0.0.0 heukmsactivator.com
 0.0.0.0 www.heukmsactivator.com
 0.0.0.0 heyfusio.com
+0.0.0.0 www.heyfusio.com
+0.0.0.0 store.heyfusio.com
 0.0.0.0 hfr67jhqrw8.com
 0.0.0.0 hindustantowergroupltd.com
 0.0.0.0 www.hindustantowergroupltd.com
@@ -1237,7 +1243,6 @@
 0.0.0.0 www.klasykavod.pl
 0.0.0.0 store.klasykavod.pl
 0.0.0.0 klelnanzeigen-deutch.confirm542351.info
-0.0.0.0 kms-full.com
 0.0.0.0 kms-pc.com
 0.0.0.0 www.kms-pc.com
 0.0.0.0 kms-tool.com
@@ -1342,6 +1347,9 @@
 0.0.0.0 www.mail-cytanet.pages.dev
 0.0.0.0 store.mail-cytanet.pages.dev
 0.0.0.0 mail.zalukaj.cc
+0.0.0.0 malgorzataschlegel.click
+0.0.0.0 www.malgorzataschlegel.click
+0.0.0.0 store.malgorzataschlegel.click
 0.0.0.0 manageyourorder.com
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
 0.0.0.0 www.mango-desert-09ebb4010.4.azurestaticapps.net
@@ -1366,7 +1374,6 @@
 0.0.0.0 store.mega-kino.pl
 0.0.0.0 megoindonesia.com
 0.0.0.0 www.megoindonesia.com
-0.0.0.0 mercyzone.com
 0.0.0.0 meudetran.co
 0.0.0.0 www.meudetran.co
 0.0.0.0 microgull.com
@@ -1378,8 +1385,6 @@
 0.0.0.0 store.microsoft-notifcation.com
 0.0.0.0 microsoft.teams-live.com
 0.0.0.0 www.microsoft.teams-live.com
-0.0.0.0 midnightsociety-x.com
-0.0.0.0 www.midnightsociety-x.com
 0.0.0.0 miles.plumenetwork.xyz
 0.0.0.0 milgenial.uy
 0.0.0.0 www.milgenial.uy
@@ -1536,9 +1541,6 @@
 0.0.0.0 store.navi4.com
 0.0.0.0 navi42.ru
 0.0.0.0 www.navi42.ru
-0.0.0.0 store.navi42.ru
-0.0.0.0 navi43.com
-0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
 0.0.0.0 navi44.com
 0.0.0.0 navi45.com
@@ -1742,7 +1744,6 @@
 0.0.0.0 www.olymptrade-qid.com
 0.0.0.0 store.olymptrade-qid.com
 0.0.0.0 onary.info
-0.0.0.0 www.onary.info
 0.0.0.0 store.onary.info
 0.0.0.0 online-binomo.com
 0.0.0.0 www.online-binomo.com
@@ -1876,6 +1877,7 @@
 0.0.0.0 prawdziwefilmy.pl
 0.0.0.0 www.prawdziwefilmy.pl
 0.0.0.0 store.prawdziwefilmy.pl
+0.0.0.0 www.premium-x-notes.com
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 presale-friday.cloud
@@ -2056,7 +2058,6 @@
 0.0.0.0 www.sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
-0.0.0.0 www.signal-protect.host
 0.0.0.0 signalgroup.site
 0.0.0.0 www.signalgroup.site
 0.0.0.0 signpify.com
@@ -2254,9 +2255,6 @@
 0.0.0.0 tencheckit.org
 0.0.0.0 www.tencheckit.org
 0.0.0.0 www.teodoroautopecas.com
-0.0.0.0 teslafond.io
-0.0.0.0 www.teslafond.io
-0.0.0.0 store.teslafond.io
 0.0.0.0 teslamaked.com
 0.0.0.0 the-north-face.gr
 0.0.0.0 www.the-north-face.gr
@@ -2408,6 +2406,9 @@
 0.0.0.0 store.uni-swap.online
 0.0.0.0 uni-swap.space
 0.0.0.0 www.uni-swap.space
+0.0.0.0 unifully.com
+0.0.0.0 www.unifully.com
+0.0.0.0 store.unifully.com
 0.0.0.0 uniswap-v3.com
 0.0.0.0 uniswap.cool
 0.0.0.0 www.uniswap.cool
@@ -2838,8 +2839,8 @@
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 www.ww25.utilify.me
-0.0.0.0 store.ww25.utilify.me
 0.0.0.0 www.base-vod.pl
+0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 www.wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
