@@ -3807,6 +3807,9 @@
 0.0.0.0 funfilenow.com
 0.0.0.0 www.funfilenow.com
 0.0.0.0 store.funfilenow.com
+0.0.0.0 furnishmyhome.ca
+0.0.0.0 www.furnishmyhome.ca
+0.0.0.0 store.furnishmyhome.ca
 0.0.0.0 furoshop.com
 0.0.0.0 www.furoshop.com
 0.0.0.0 store.furoshop.com
