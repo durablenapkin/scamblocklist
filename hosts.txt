@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2960
+# Domains: 2954
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -38,6 +38,9 @@
 0.0.0.0 42gixk.98kk89.com
 0.0.0.0 4556.de
 0.0.0.0 www.4556.de
+0.0.0.0 47n78xprrvp1.top
+0.0.0.0 www.47n78xprrvp1.top
+0.0.0.0 store.47n78xprrvp1.top
 0.0.0.0 555sq.com.cn
 0.0.0.0 www.555sq.com.cn
 0.0.0.0 5wzgtq8dpk.com
@@ -517,8 +520,6 @@
 0.0.0.0 dailygiftstore.com
 0.0.0.0 www.dailygiftstore.com
 0.0.0.0 store.dailygiftstore.com
-0.0.0.0 danainstan.xyz
-0.0.0.0 www.danainstan.xyz
 0.0.0.0 danapintar.club
 0.0.0.0 www.danapintar.club
 0.0.0.0 store.danapintar.club
@@ -762,6 +763,9 @@
 0.0.0.0 store.faze2.com
 0.0.0.0 faze24.com
 0.0.0.0 www.faze24.com
+0.0.0.0 faze3.com
+0.0.0.0 www.faze3.com
+0.0.0.0 store.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze47.com
@@ -827,6 +831,7 @@
 0.0.0.0 store.finnews7.wordpress.com
 0.0.0.0 fishingdaily.shop
 0.0.0.0 www.fishingdaily.shop
+0.0.0.0 store.fishingdaily.shop
 0.0.0.0 fitgirl-repacks-site.org
 0.0.0.0 fitgirl-repacks.vip
 0.0.0.0 www.fitgirl-repacks.vip
@@ -858,6 +863,8 @@
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 www.friday99.com
+0.0.0.0 fridaylocalmanager.duckdns.org
+0.0.0.0 www.fridaylocalmanager.duckdns.org
 0.0.0.0 store.fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
 0.0.0.0 www.frostgoddess.com
@@ -1161,6 +1168,9 @@
 0.0.0.0 www.iphone.quiztionnaire.biz
 0.0.0.0 store.iphone.quiztionnaire.biz
 0.0.0.0 iphonedefender.com
+0.0.0.0 iqcreditcheck.com
+0.0.0.0 www.iqcreditcheck.com
+0.0.0.0 store.iqcreditcheck.com
 0.0.0.0 italyworldbaseballclassic.com
 0.0.0.0 www.italyworldbaseballclassic.com
 0.0.0.0 iteeus.com
@@ -1519,13 +1529,13 @@
 0.0.0.0 store.navi35.ru
 0.0.0.0 navi36.ru
 0.0.0.0 www.navi36.ru
-0.0.0.0 navi38.ru
-0.0.0.0 www.navi38.ru
 0.0.0.0 navi39.ru
 0.0.0.0 www.navi39.ru
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
+0.0.0.0 navi42.ru
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1678,9 +1688,6 @@
 0.0.0.0 www.norfotball.com
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
-0.0.0.0 norgeshoes.com
-0.0.0.0 www.norgeshoes.com
-0.0.0.0 store.norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 notasdenatran.co
@@ -1729,9 +1736,6 @@
 0.0.0.0 olymptrade-qid.com
 0.0.0.0 www.olymptrade-qid.com
 0.0.0.0 store.olymptrade-qid.com
-0.0.0.0 onary.info
-0.0.0.0 www.onary.info
-0.0.0.0 store.onary.info
 0.0.0.0 online-binomo.com
 0.0.0.0 www.online-binomo.com
 0.0.0.0 online-eta.com
@@ -1941,9 +1945,6 @@
 0.0.0.0 www.rockchief.com
 0.0.0.0 rosateeshop.com
 0.0.0.0 www.rosateeshop.com
-0.0.0.0 rosettahome.cn
-0.0.0.0 www.rosettahome.cn
-0.0.0.0 store.rosettahome.cn
 0.0.0.0 royaldecorhome.store
 0.0.0.0 royalhedgies.com
 0.0.0.0 www.royalhedgies.com
@@ -2069,8 +2070,6 @@
 0.0.0.0 store.smartproduct.site
 0.0.0.0 smtpget.com
 0.0.0.0 www.smtpget.com
-0.0.0.0 smtpwire.com
-0.0.0.0 www.smtpwire.com
 0.0.0.0 smvisa.co.il
 0.0.0.0 www.smvisa.co.il
 0.0.0.0 sodipi.com
@@ -2241,7 +2240,6 @@
 0.0.0.0 tencheckit.org
 0.0.0.0 www.tencheckit.org
 0.0.0.0 www.teodoroautopecas.com
-0.0.0.0 store.teslalnc.org
 0.0.0.0 teslamaked.com
 0.0.0.0 the-north-face.gr
 0.0.0.0 www.the-north-face.gr
@@ -2326,9 +2324,6 @@
 0.0.0.0 travisa.com
 0.0.0.0 www.travisa.com
 0.0.0.0 store.travisa.com
-0.0.0.0 treasurefan.com
-0.0.0.0 www.treasurefan.com
-0.0.0.0 store.treasurefan.com
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 treverschmelerkris18.myshopify.com
@@ -2396,7 +2391,6 @@
 0.0.0.0 unifully.com
 0.0.0.0 www.unifully.com
 0.0.0.0 store.unifully.com
-0.0.0.0 www.uniqueshirt.shop
 0.0.0.0 uniswap-v3.com
 0.0.0.0 uniswap.cool
 0.0.0.0 www.uniswap.cool
@@ -2829,7 +2823,7 @@
 0.0.0.0 www.ww25.utilify.me
 0.0.0.0 store.ww25.utilify.me
 0.0.0.0 www.base-vod.pl
-0.0.0.0 www.wyzia-orderdeposits.com
+0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
 0.0.0.0 store.x2-promo.net
