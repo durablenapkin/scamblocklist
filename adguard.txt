@@ -54,6 +54,7 @@
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||all-tube.pl^
+||allen86.store^
 ||allergyfl.com^
 ||allnewsready.com^
 ||allocation-uniswap.co^
@@ -65,6 +66,7 @@
 ||amorpulse.com^
 ||amznshirts.com^
 ||anydebrid.com^
+||app-uniswap.uno^
 ||app-uniswapping.org^
 ||app.deflliama.tech^
 ||app.uniwspapp.com^
@@ -143,7 +145,6 @@
 ||black-sales.cloud^
 ||blackabdo.company.site^
 ||blackoutarchertender.com^
-||blingyy.com^
 ||bloomingvibe.com^
 ||blsindiavisa.kr^
 ||bltskins.com^
@@ -337,7 +338,6 @@
 ||facebook-google-vptyyny63pwfipshmm.vercel.app^
 ||facebook-google-ygggvmvciad74v9lhi.vercel.app^
 ||facebook-support-team-980.pages.med.br^
-||faithmim.online^
 ||familybestgifts.com^
 ||familygiftlove.myshopify.com^
 ||familygiftville.com^
@@ -383,6 +383,7 @@
 ||fiusps.com^
 ||fkpgr.buzz^
 ||flattee.com^
+||flwzen.com^
 ||folkrbvi.pages.dev^
 ||food-network.fwh.is^
 ||foreveusps.com^
@@ -391,7 +392,6 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -424,6 +424,7 @@
 ||gig-os.com^
 ||gimboy.com^
 ||gimp.zendesk.com^
+||gjseep.com^
 ||gladiadormalas.com.br^
 ||glitchy.go2cloud.org^
 ||gload.info^
@@ -560,7 +561,6 @@
 ||kitchendecor.shop^
 ||klasykavod.pl^
 ||klelnanzeigen-deutch.confirm542351.info^
-||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -714,8 +714,8 @@
 ||navi8.com^
 ||navi85.com^
 ||navi86.ru^
-||navi87.com^
 ||navi88.com^
+||navi88.ru^
 ||navi89.com^
 ||navi9.com^
 ||navi94.com^
@@ -1184,6 +1184,7 @@
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
 ||vernahora.app^
+||vessideutschland.net^
 ||vessisdeutschland.com^
 ||vider-cda.pl^
 ||vider-pl.pl^
@@ -1242,7 +1243,6 @@
 ||wuqrie.info^
 ||ww25.utilify.me^
 ||base-vod.pl^
-||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
 ||xajzfwgs.com^
