@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2960
+# Domains: 2962
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -122,7 +122,6 @@
 0.0.0.0 store.aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 all-tube.pl
 0.0.0.0 www.all-tube.pl
-0.0.0.0 store.allen86.store
 0.0.0.0 allergyfl.com
 0.0.0.0 www.allergyfl.com
 0.0.0.0 allnewsready.com
@@ -144,9 +143,11 @@
 0.0.0.0 amznshirts.com
 0.0.0.0 www.amznshirts.com
 0.0.0.0 store.amznshirts.com
+0.0.0.0 animeshoppers.com
+0.0.0.0 www.animeshoppers.com
+0.0.0.0 store.animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
-0.0.0.0 www.app-uniswap.uno
 0.0.0.0 app-uniswapping.org
 0.0.0.0 app.deflliama.tech
 0.0.0.0 app.uniwspapp.com
@@ -184,8 +185,6 @@
 0.0.0.0 www.augusthenri.be
 0.0.0.0 aussiesportfashion.com
 0.0.0.0 www.aussiesportfashion.com
-0.0.0.0 austrioclo.com
-0.0.0.0 www.austrioclo.com
 0.0.0.0 autorizadigital.co
 0.0.0.0 www.autorizadigital.co
 0.0.0.0 autorizaonline.co
@@ -301,6 +300,9 @@
 0.0.0.0 www.binorobot.com
 0.0.0.0 bisertravel.com.mk
 0.0.0.0 www.bisertravel.com.mk
+0.0.0.0 bitdefender.top
+0.0.0.0 www.bitdefender.top
+0.0.0.0 store.bitdefender.top
 0.0.0.0 bite-life.com
 0.0.0.0 www.bite-life.com
 0.0.0.0 bitsoft360.app
@@ -319,6 +321,9 @@
 0.0.0.0 blackoutarchertender.com
 0.0.0.0 www.blackoutarchertender.com
 0.0.0.0 store.blackoutarchertender.com
+0.0.0.0 blingyy.com
+0.0.0.0 www.blingyy.com
+0.0.0.0 store.blingyy.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 www.bloomingvibe.com
 0.0.0.0 blsindiavisa.kr
@@ -478,6 +483,7 @@
 0.0.0.0 store.comprehension.unstal.cfd
 0.0.0.0 confira.io
 0.0.0.0 containably.com
+0.0.0.0 www.containably.com
 0.0.0.0 store.containably.com
 0.0.0.0 www.coolest3d.com
 0.0.0.0 coolestpod.com
@@ -958,8 +964,6 @@
 0.0.0.0 globalvisacorp.com
 0.0.0.0 www.globalvisacorp.com
 0.0.0.0 goglle.com
-0.0.0.0 www.goglle.com
-0.0.0.0 store.goglle.com
 0.0.0.0 goindiavisa.com
 0.0.0.0 www.goindiavisa.com
 0.0.0.0 gossvibe.com
@@ -988,9 +992,6 @@
 0.0.0.0 www.gtltowerinfratel.in
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
-0.0.0.0 habilitacao.org
-0.0.0.0 www.habilitacao.org
-0.0.0.0 store.habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 www.habtoorloyal.com
 0.0.0.0 haceroberomaste.com
@@ -1174,7 +1175,6 @@
 0.0.0.0 iphonedefender.com
 0.0.0.0 iqcreditcheck.com
 0.0.0.0 www.iqcreditcheck.com
-0.0.0.0 store.iqcreditcheck.com
 0.0.0.0 italyworldbaseballclassic.com
 0.0.0.0 www.italyworldbaseballclassic.com
 0.0.0.0 iteeus.com
@@ -1242,6 +1242,8 @@
 0.0.0.0 www.klasykavod.pl
 0.0.0.0 store.klasykavod.pl
 0.0.0.0 klelnanzeigen-deutch.confirm542351.info
+0.0.0.0 kms-full.com
+0.0.0.0 www.kms-full.com
 0.0.0.0 kms-pc.com
 0.0.0.0 www.kms-pc.com
 0.0.0.0 kms-tool.com
@@ -1538,9 +1540,10 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 www.navi42.ru
+0.0.0.0 navi42.ru
 0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
+0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
 0.0.0.0 navi44.com
 0.0.0.0 navi45.com
@@ -1590,7 +1593,6 @@
 0.0.0.0 navi88.com
 0.0.0.0 www.navi88.com
 0.0.0.0 store.navi88.com
-0.0.0.0 www.navi88.ru
 0.0.0.0 navi89.com
 0.0.0.0 navi9.com
 0.0.0.0 www.navi9.com
@@ -2075,6 +2077,7 @@
 0.0.0.0 store.smartproduct.site
 0.0.0.0 smtpget.com
 0.0.0.0 www.smtpget.com
+0.0.0.0 www.smtpwire.com
 0.0.0.0 smvisa.co.il
 0.0.0.0 www.smvisa.co.il
 0.0.0.0 sodipi.com
@@ -2748,7 +2751,6 @@
 0.0.0.0 www.visasimple.com
 0.0.0.0 visatoindia.org
 0.0.0.0 www.visatoindia.org
-0.0.0.0 store.visatoindia.org
 0.0.0.0 visumbuitenland.nl
 0.0.0.0 www.visumbuitenland.nl
 0.0.0.0 store.visumbuitenland.nl

@@ -54,7 +54,6 @@
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||all-tube.pl^
-||allen86.store^
 ||allergyfl.com^
 ||allnewsready.com^
 ||allocation-uniswap.co^
@@ -65,8 +64,8 @@
 ||am-freights.com^
 ||amorpulse.com^
 ||amznshirts.com^
+||animeshoppers.com^
 ||anydebrid.com^
-||app-uniswap.uno^
 ||app-uniswapping.org^
 ||app.deflliama.tech^
 ||app.uniwspapp.com^
@@ -85,7 +84,6 @@
 ||audiosg.com.sg^
 ||augusthenri.be^
 ||aussiesportfashion.com^
-||austrioclo.com^
 ||autorizadigital.co^
 ||autorizaonline.co^
 ||autorizeonline.com^
@@ -136,6 +134,7 @@
 ||binomoweblogin.com^
 ||binorobot.com^
 ||bisertravel.com.mk^
+||bitdefender.top^
 ||bite-life.com^
 ||bitsoft360.app^
 ||bitsoft360.com^
@@ -145,6 +144,7 @@
 ||black-sales.cloud^
 ||blackabdo.company.site^
 ||blackoutarchertender.com^
+||blingyy.com^
 ||bloomingvibe.com^
 ||blsindiavisa.kr^
 ||bltskins.com^
@@ -447,7 +447,6 @@
 ||gtltelecomgroup.in^
 ||gtltowerinfratel.in^
 ||gunstee.com^
-||habilitacao.org^
 ||habtoorloyal.com^
 ||haceroberomaste.com^
 ||hairyfy.com^
@@ -561,6 +560,7 @@
 ||kitchendecor.shop^
 ||klasykavod.pl^
 ||klelnanzeigen-deutch.confirm542351.info^
+||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -715,7 +715,6 @@
 ||navi85.com^
 ||navi86.ru^
 ||navi88.com^
-||navi88.ru^
 ||navi89.com^
 ||navi9.com^
 ||navi94.com^
@@ -931,6 +930,7 @@
 ||smartpower4all.org^
 ||smartproduct.site^
 ||smtpget.com^
+||smtpwire.com^
 ||smvisa.co.il^
 ||sodipi.com^
 ||software19797.blogspot.com^
