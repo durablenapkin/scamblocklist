@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2959
+# Domains: 2957
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -38,9 +38,6 @@
 0.0.0.0 42gixk.98kk89.com
 0.0.0.0 4556.de
 0.0.0.0 www.4556.de
-0.0.0.0 47n78xprrvp1.top
-0.0.0.0 www.47n78xprrvp1.top
-0.0.0.0 store.47n78xprrvp1.top
 0.0.0.0 555sq.com.cn
 0.0.0.0 www.555sq.com.cn
 0.0.0.0 5wzgtq8dpk.com
@@ -53,9 +50,6 @@
 0.0.0.0 www.93mobiles.com
 0.0.0.0 9vyzdk8.lvditoys.com
 0.0.0.0 9vzn29.98kk89.com
-0.0.0.0 abncbp.com
-0.0.0.0 www.abncbp.com
-0.0.0.0 store.abncbp.com
 0.0.0.0 account.ws-reward.com
 0.0.0.0 www.account.ws-reward.com
 0.0.0.0 store.account.ws-reward.com
@@ -143,9 +137,6 @@
 0.0.0.0 amznshirts.com
 0.0.0.0 www.amznshirts.com
 0.0.0.0 store.amznshirts.com
-0.0.0.0 animeshoppers.com
-0.0.0.0 www.animeshoppers.com
-0.0.0.0 store.animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
 0.0.0.0 app-uniswapping.org
@@ -321,6 +312,7 @@
 0.0.0.0 www.blackoutarchertender.com
 0.0.0.0 store.blackoutarchertender.com
 0.0.0.0 blingyy.com
+0.0.0.0 store.blingyy.com
 0.0.0.0 bloomingvibe.com
 0.0.0.0 www.bloomingvibe.com
 0.0.0.0 blsindiavisa.kr
@@ -869,6 +861,9 @@
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 www.friday99.com
+0.0.0.0 fridaylocalmanager.duckdns.org
+0.0.0.0 www.fridaylocalmanager.duckdns.org
+0.0.0.0 store.fridaylocalmanager.duckdns.org
 0.0.0.0 frostgoddess.com
 0.0.0.0 www.frostgoddess.com
 0.0.0.0 store.frostgoddess.com
@@ -1539,9 +1534,8 @@
 0.0.0.0 www.navi39.ru
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
-0.0.0.0 store.navi4.com
 0.0.0.0 navi42.ru
-0.0.0.0 store.navi42.ru
+0.0.0.0 www.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1571,6 +1565,8 @@
 0.0.0.0 navi66.com
 0.0.0.0 navi66.ru
 0.0.0.0 www.navi66.ru
+0.0.0.0 navi69.com
+0.0.0.0 www.navi69.com
 0.0.0.0 navi7.com
 0.0.0.0 www.navi7.com
 0.0.0.0 navi72.com
@@ -1598,7 +1594,6 @@
 0.0.0.0 www.navi9.com
 0.0.0.0 store.navi9.com
 0.0.0.0 navi94.com
-0.0.0.0 www.navi94.com
 0.0.0.0 store.navi94.com
 0.0.0.0 navi98.com
 0.0.0.0 www.navi98.com
@@ -1612,6 +1607,7 @@
 0.0.0.0 www.neozor.com
 0.0.0.0 netflix-logariasmos.com
 0.0.0.0 www.netflix-logariasmos.com
+0.0.0.0 store.netflix-logariasmos.com
 0.0.0.0 nevaon.com
 0.0.0.0 www.nevaon.com
 0.0.0.0 new.gdtot.me
@@ -1668,6 +1664,7 @@
 0.0.0.0 nip4.com
 0.0.0.0 www.nip4.com
 0.0.0.0 store.nip4.com
+0.0.0.0 nip44.com
 0.0.0.0 www.nip44.com
 0.0.0.0 nip5.com
 0.0.0.0 www.nip5.com
@@ -1687,6 +1684,8 @@
 0.0.0.0 www.norfotball.com
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
+0.0.0.0 norgeshoes.com
+0.0.0.0 www.norgeshoes.com
 0.0.0.0 store.norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
@@ -2060,6 +2059,8 @@
 0.0.0.0 skincheap.com
 0.0.0.0 www.skincheap.com
 0.0.0.0 store.skincheap.com
+0.0.0.0 skinszone.net
+0.0.0.0 www.skinszone.net
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 www.skyfollowerbridge.com
 0.0.0.0 sligen.com
@@ -2073,8 +2074,6 @@
 0.0.0.0 store.smartproduct.site
 0.0.0.0 smtpget.com
 0.0.0.0 www.smtpget.com
-0.0.0.0 smtpwire.com
-0.0.0.0 www.smtpwire.com
 0.0.0.0 smvisa.co.il
 0.0.0.0 www.smvisa.co.il
 0.0.0.0 sodipi.com
@@ -2165,7 +2164,6 @@
 0.0.0.0 store-swatch.com
 0.0.0.0 www.store-swatch.com
 0.0.0.0 store-uni-app.com
-0.0.0.0 www.store-uni-app.com
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
@@ -2826,7 +2824,7 @@
 0.0.0.0 www.ww25.utilify.me
 0.0.0.0 store.ww25.utilify.me
 0.0.0.0 www.base-vod.pl
-0.0.0.0 wyzia-orderdeposits.com
+0.0.0.0 www.wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
 0.0.0.0 store.x2-promo.net
