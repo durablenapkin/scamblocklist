@@ -58,6 +58,7 @@
 ||allocation-uniswap.co^
 ||allstarshirt.com^
 ||allupdatenow.com^
+||alphatowercompany.in^
 ||altruetech.com^
 ||altwi-zgs.com^
 ||am-freights.com^
@@ -106,7 +107,6 @@
 ||beeaar.com^
 ||beecrave.com^
 ||benecharm.com^
-||benxi.info^
 ||bertasxt.com^
 ||best-torrents.com^
 ||bestiamos.com^
@@ -160,6 +160,7 @@
 ||buylikes.se^
 ||bwpkizpfms.funnelish.com^
 ||bwsvbk.info^
+||by-emmamuller.de^
 ||c.dreamdating1.fun^
 ||c0nt4ct-me.pages.dev^
 ||caly-film.cc^
@@ -210,6 +211,7 @@
 ||compoundexotics.com^
 ||comprehension.unstal.cfd^
 ||confira.io^
+||containably.com^
 ||coolest3d.com^
 ||coolestpod.com^
 ||cooperation-odoo.com^
@@ -340,6 +342,7 @@
 ||faze24.com^
 ||faze3.com^
 ||faze4.com^
+||faze47.com^
 ||faze5.com^
 ||faze77.com^
 ||faze8.com^
@@ -444,6 +447,7 @@
 ||haowei.me^
 ||happymod.cloud^
 ||haruko.store^
+||headsets4business.co.uk^
 ||help.record-x-center.com^
 ||helpdesk-usps.online^
 ||helpnanacenter.helpscoutdocs.com^
@@ -550,7 +554,6 @@
 ||kitchendecor.shop^
 ||klasykavod.pl^
 ||klelnanzeigen-deutch.confirm542351.info^
-||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -669,7 +672,6 @@
 ||navi30.ru^
 ||navi33.com^
 ||navi35.com^
-||navi35.ru^
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
@@ -690,7 +692,6 @@
 ||navi63.ru^
 ||navi66.com^
 ||navi66.ru^
-||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -742,6 +743,7 @@
 ||nopae.top^
 ||norfotball.com^
 ||norgefotball.com^
+||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
@@ -902,7 +904,6 @@
 ||shy-boat-90ce.jiko728928922.workers.dev^
 ||sieuto.com^
 ||sigmaoffers.com^
-||signal-groups.tech^
 ||signalgroup.site^
 ||signpify.com^
 ||singingfiles.com^
@@ -1054,7 +1055,6 @@
 ||uni-swap.online^
 ||uni-swap.space^
 ||unifully.com^
-||uniswap-gold-claim.christmas^
 ||uniswap-v3.com^
 ||uniswap.cool^
 ||uniswap.host^
@@ -1171,6 +1171,7 @@
 ||vider-cda.pl^
 ||vider-pl.pl^
 ||vider.cc^
+||vider.com.pl^
 ||vider.info.pl^
 ||vider.online^
 ||vikingstore.co^
@@ -1224,6 +1225,7 @@
 ||wuqrie.info^
 ||ww25.utilify.me^
 ||base-vod.pl^
+||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
 ||xajzfwgs.com^
