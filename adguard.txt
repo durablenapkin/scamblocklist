@@ -133,10 +133,6 @@
 ||bisertravel.com.mk^
 ||bitdefender.top^
 ||bite-life.com^
-||bitsoft360.app^
-||bitsoft360.com^
-||bitsoft360.io^
-||bitsoft360.net^
 ||bknstore.com^
 ||black-sales.cloud^
 ||blackabdo.company.site^
@@ -211,7 +207,6 @@
 ||compoundexotics.com^
 ||comprehension.unstal.cfd^
 ||confira.io^
-||containably.com^
 ||coolest3d.com^
 ||coolestpod.com^
 ||cooperation-odoo.com^
@@ -520,7 +515,6 @@
 ||info-flirtme.com^
 ||info-milfroom.com^
 ||informationpolicy.cloud^
-||innomediacreate.com^
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
 ||iphonedefender.com^
@@ -554,6 +548,7 @@
 ||kitchendecor.shop^
 ||klasykavod.pl^
 ||klelnanzeigen-deutch.confirm542351.info^
+||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -692,6 +687,7 @@
 ||navi63.ru^
 ||navi66.com^
 ||navi66.ru^
+||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -845,6 +841,7 @@
 ||quotex.com.in^
 ||rastreiobrasil.co^
 ||rastreiocorreio.co^
+||record-x-center.com^
 ||reforest-iita.org^
 ||regularizedenatran.co^
 ||remessacorreio.site^
@@ -1209,7 +1206,6 @@
 ||wazofurniture.com^
 ||weathly.com^
 ||webvod.pl^
-||werfew.com^
 ||whbinder.com^
 ||wikeb.com^
 ||wintexfashions.com^
