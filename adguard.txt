@@ -133,6 +133,10 @@
 ||bisertravel.com.mk^
 ||bitdefender.top^
 ||bite-life.com^
+||bitsoft360.app^
+||bitsoft360.com^
+||bitsoft360.io^
+||bitsoft360.net^
 ||bknstore.com^
 ||black-sales.cloud^
 ||blackabdo.company.site^
@@ -147,7 +151,6 @@
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
 ||brttre.com^
-||bsnltowerinstallations.com^
 ||bsnltowersite.in^
 ||bsntowoff.com^
 ||btc9339.com^
@@ -190,7 +193,6 @@
 ||claims-uniswap.app^
 ||clearance-bike.com^
 ||cluckergifts.ecwid.com^
-||cmoboy.com^
 ||cnhadverti.co^
 ||cnhajuda.co^
 ||cnhcomunicado.co^
@@ -227,7 +229,6 @@
 ||czasnakino.pl^
 ||czwcvfbc.page.link^
 ||dailygiftstore.com^
-||danapintar.club^
 ||danylevych.com^
 ||daradis.com^
 ||dash.pocketuniverse.app^
@@ -235,7 +236,6 @@
 ||datempire.com^
 ||dautee.com^
 ||dbkdsale.com^
-||ddcad3.reviewgiftfb.com^
 ||ddzk513bd.com^
 ||decompraschile.com^
 ||decoryourhome.store^
@@ -268,7 +268,6 @@
 ||dohealths.com^
 ||dolomiteoutlet.com^
 ||dolystore.com^
-||dopestore.pl^
 ||download.instructionclub.com^
 ||drama-queen.cc^
 ||draxu.com^
@@ -334,7 +333,6 @@
 ||faze1.com^
 ||faze10.com^
 ||faze2.com^
-||faze24.com^
 ||faze3.com^
 ||faze4.com^
 ||faze47.com^
@@ -699,8 +697,6 @@
 ||navi88.com^
 ||navi89.com^
 ||navi9.com^
-||navi94.com^
-||navi98.com^
 ||navi99.com^
 ||nayatowerinstallation.in.net^
 ||neozor.com^
@@ -1237,7 +1233,6 @@
 ||yeswevibe.com^
 ||yeyvibe.com^
 ||ygtube.xyz^
-||yhdshop.com^
 ||yofi-yofi.com^
 ||youdebrid.com^
 ||yourdatefind.com^
@@ -1255,7 +1250,6 @@
 ||zalukaj.app^
 ||zalukaj.cc^
 ||zalukaj.co^
-||zalukaj.co.pl^
 ||zalukaj.cz^
 ||zalukaj.eu^
 ||zalukaj.film^
