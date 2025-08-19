@@ -296,6 +296,7 @@
 ||edecher.com^
 ||edwardjhutley107375938786edwardjrhutley70205433153583usps.com^
 ||ekommmedia.com^
+||ellezz.com^
 ||elrifeno.com^
 ||emberio.com^
 ||en-trezor.io^
@@ -436,6 +437,7 @@
 ||gtltelecomgroup.in^
 ||gtltowerinfratel.in^
 ||gunstee.com^
+||habilitacao.org^
 ||habtoorloyal.com^
 ||haceroberomaste.com^
 ||hairyfy.com^
@@ -468,7 +470,6 @@
 ||hudson-bay.com^
 ||hunden.info^
 ||hushlove.com^
-||husqvarnaoutlet.shop^
 ||hyndtren25.pages.dev^
 ||i-grade.online^
 ||i-visaindia.com^
@@ -518,6 +519,7 @@
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
 ||iphonedefender.com^
+||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
 ||itseasy.com^
@@ -547,7 +549,6 @@
 ||kitchendecor.shop^
 ||klasykavod.pl^
 ||klelnanzeigen-deutch.confirm542351.info^
-||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -571,6 +572,7 @@
 ||levelupstore.xyz^
 ||lifestyletrading.co.za^
 ||ligerking.com^
+||likenu.se^
 ||linkshe.com^
 ||linostee.com^
 ||lisabuddy.com^
@@ -586,7 +588,6 @@
 ||luccheseoutlet.online^
 ||lucidtiger.com^
 ||lucysstyle.com^
-||lumustore.top^
 ||luxsgear.com^
 ||maebl.com^
 ||magnite.shop^
@@ -686,7 +687,6 @@
 ||navi63.ru^
 ||navi66.com^
 ||navi66.ru^
-||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -699,7 +699,6 @@
 ||navi89.com^
 ||navi9.com^
 ||navi99.com^
-||nayatowerinstallation.in.net^
 ||neozor.com^
 ||netflix-logariasmos.com^
 ||nevaon.com^
@@ -1218,7 +1217,6 @@
 ||wuqrie.info^
 ||ww25.utilify.me^
 ||base-vod.pl^
-||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
 ||xajzfwgs.com^
