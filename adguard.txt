@@ -671,10 +671,12 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi43.com^
 ||navi44.com^
 ||navi45.com^
 ||navi45.ru^
+||navi48.com^
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
@@ -685,6 +687,7 @@
 ||navi63.ru^
 ||navi66.com^
 ||navi66.ru^
+||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -697,7 +700,6 @@
 ||navi89.com^
 ||navi9.com^
 ||navi99.com^
-||nayatowerinstallation.in.net^
 ||neozor.com^
 ||netflix-logariasmos.com^
 ||nevaon.com^
@@ -729,7 +731,6 @@
 ||nirvezal.com^
 ||nobrerefino.com^
 ||nofotballshop.com^
-||nopae.top^
 ||norfotball.com^
 ||norgefotball.com^
 ||norgeshoes.com^
@@ -999,7 +1000,6 @@
 ||thuthuatxiaomi.com^
 ||tigerkash.com^
 ||tikgeeker.com^
-||tikinew.club^
 ||tinkleo.com^
 ||tiranaaquapark-eg.com^
 ||toko999.net^
@@ -1183,7 +1183,6 @@
 ||visatoindia.org^
 ||visumbuitenland.nl^
 ||vizjer-pl.pl^
-||vizjer.com.pl^
 ||vizjer.eu^
 ||vod-tv.pl^
 ||vod.film^
