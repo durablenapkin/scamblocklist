@@ -63,7 +63,6 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -419,7 +418,6 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
-||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -493,6 +491,7 @@
 ||indiaevisaservice.com^
 ||indiaimmigration.org^
 ||indian-e-visa.com^
+||indian-evisa.com^
 ||indian-visaonline.org^
 ||indianetouristvisacoin.wordpress.com^
 ||indianevisaonline.com^
@@ -1183,6 +1182,7 @@
 ||visatoindia.org^
 ||visumbuitenland.nl^
 ||vizjer-pl.pl^
+||vizjer.com.pl^
 ||vizjer.eu^
 ||vod-tv.pl^
 ||vod.film^
