@@ -5,6 +5,7 @@
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
+||1.password-internal.com^
 ||1000fapvids.online^
 ||10xuniswap.xyz^
 ||1bmo-reactivemyaccount0.com^
@@ -26,7 +27,6 @@
 ||93mobiles.com^
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
-||abncbp.com^
 ||account.ws-reward.com^
 ||adminicesm.life^
 ||adzfree-watch.net^
@@ -61,6 +61,7 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -234,6 +235,7 @@
 ||dashracegear.net^
 ||datempire.com^
 ||dautee.com^
+||davekoflersbichons.com^
 ||dbkdsale.com^
 ||ddcad3.reviewgiftfb.com^
 ||ddzk513bd.com^
@@ -287,7 +289,6 @@
 ||e-visaindiaonline.com^
 ||e-visums.nl^
 ||easynatures.com^
-||easyshopper.org^
 ||easyshoppingus.com^
 ||ebuy8.shop^
 ||ecs-online.ffm.to^
@@ -310,6 +311,7 @@
 ||etaindiaonline.com^
 ||etv-in.com^
 ||eudoraz.com^
+||eudshop.shop^
 ||eventmusk-x.com^
 ||eviralstore.com^
 ||evisa-india-online.com^
@@ -379,6 +381,7 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -455,6 +458,7 @@
 ||hippie-pets.com^
 ||hisgr.buzz^
 ||hityvod.pl^
+||hmccommerce.com^
 ||hoka-us.com^
 ||homelarr.com.br^
 ||hookahheroes.com^
@@ -569,7 +573,6 @@
 ||lericettedifrancy74.com^
 ||levelbash.com^
 ||levelupstore.xyz^
-||lifestyletrading.co.za^
 ||ligerking.com^
 ||likenu.se^
 ||linkshe.com^
@@ -685,6 +688,7 @@
 ||navi63.ru^
 ||navi66.com^
 ||navi66.ru^
+||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -1139,7 +1143,6 @@
 ||uplevelreward.com^
 ||upnews.me^
 ||uprising.kip.pro^
-||upsbezorging.com^
 ||ureashi.com^
 ||us99.pro^
 ||uscampinghiking.com^
@@ -1213,6 +1216,7 @@
 ||wuqrie.info^
 ||ww25.utilify.me^
 ||base-vod.pl^
+||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
 ||xajzfwgs.com^
