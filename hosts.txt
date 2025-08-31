@@ -91,6 +91,9 @@
 0.0.0.0 airupbulgaria.com
 0.0.0.0 www.airupbulgaria.com
 0.0.0.0 store.airupbulgaria.com
+0.0.0.0 airupespana.com
+0.0.0.0 www.airupespana.com
+0.0.0.0 store.airupespana.com
 0.0.0.0 airupgreece.net
 0.0.0.0 www.airupgreece.net
 0.0.0.0 store.airupgreece.net
@@ -164,9 +167,6 @@
 0.0.0.0 store.astronomyfitmisguided.com
 0.0.0.0 asvbaen.info
 0.0.0.0 atlaspvs.com
-0.0.0.0 atoins.com
-0.0.0.0 www.atoins.com
-0.0.0.0 store.atoins.com
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
 0.0.0.0 attenstyle.com
@@ -362,6 +362,7 @@
 0.0.0.0 www.by-emmamuller.de
 0.0.0.0 store.by-emmamuller.de
 0.0.0.0 c.dreamdating1.fun
+0.0.0.0 www.c.dreamdating1.fun
 0.0.0.0 store.c.dreamdating1.fun
 0.0.0.0 c0nt4ct-me.pages.dev
 0.0.0.0 www.c0nt4ct-me.pages.dev
@@ -604,6 +605,7 @@
 0.0.0.0 store.dopestore.pl
 0.0.0.0 download.instructionclub.com
 0.0.0.0 www.download.instructionclub.com
+0.0.0.0 store.download.instructionclub.com
 0.0.0.0 drama-queen.cc
 0.0.0.0 www.drama-queen.cc
 0.0.0.0 draxu.com
@@ -1115,7 +1117,6 @@
 0.0.0.0 indiantravelvisa.com
 0.0.0.0 www.indiantravelvisa.com
 0.0.0.0 store.indiantravelvisa.com
-0.0.0.0 store.indianvisa-online.org
 0.0.0.0 indianvisa.online
 0.0.0.0 www.indianvisa.online
 0.0.0.0 indianvisagov.com
@@ -1185,7 +1186,6 @@
 0.0.0.0 www.jellystores.com
 0.0.0.0 store.jellystores.com
 0.0.0.0 jonausa.com
-0.0.0.0 www.jonausa.com
 0.0.0.0 store.jonausa.com
 0.0.0.0 jourl.live
 0.0.0.0 www.jourl.live
@@ -1264,7 +1264,6 @@
 0.0.0.0 ledgerlivewallets.com
 0.0.0.0 www.ledgerlivewallets.com
 0.0.0.0 store.ledgerlivewallets.com
-0.0.0.0 store.ledgerslive.org
 0.0.0.0 lemstore.com
 0.0.0.0 www.lemstore.com
 0.0.0.0 lericettedifrancy74.com
@@ -1514,6 +1513,7 @@
 0.0.0.0 navi44.com
 0.0.0.0 navi45.com
 0.0.0.0 navi45.ru
+0.0.0.0 navi48.com
 0.0.0.0 www.navi48.com
 0.0.0.0 store.navi48.com
 0.0.0.0 navi5.com
@@ -1536,8 +1536,6 @@
 0.0.0.0 navi66.com
 0.0.0.0 navi66.ru
 0.0.0.0 www.navi66.ru
-0.0.0.0 navi69.com
-0.0.0.0 www.navi69.com
 0.0.0.0 navi7.com
 0.0.0.0 www.navi7.com
 0.0.0.0 navi72.com
@@ -1567,7 +1565,7 @@
 0.0.0.0 navi99.com
 0.0.0.0 www.navi99.com
 0.0.0.0 store.navi99.com
-0.0.0.0 store.nayatowerinstallation.in.net
+0.0.0.0 www.nayatowerinstallation.in.net
 0.0.0.0 neozor.com
 0.0.0.0 www.neozor.com
 0.0.0.0 netflix-logariasmos.com
@@ -1777,6 +1775,9 @@
 0.0.0.0 phototan-cdirect.info
 0.0.0.0 www.phototan-cdirect.info
 0.0.0.0 store.phototan-cdirect.info
+0.0.0.0 phototan.net
+0.0.0.0 www.phototan.net
+0.0.0.0 store.phototan.net
 0.0.0.0 pickablegift.com
 0.0.0.0 www.pickablegift.com
 0.0.0.0 store.pickablegift.com
@@ -1800,7 +1801,6 @@
 0.0.0.0 www.pl-vider.pl
 0.0.0.0 store.pl-vider.pl
 0.0.0.0 pl.vider-info.pl
-0.0.0.0 pl.wojewodapodlaski.pl
 0.0.0.0 player-cda.pl
 0.0.0.0 www.player-cda.pl
 0.0.0.0 player-qr.com
@@ -2176,7 +2176,6 @@
 0.0.0.0 supperbrand.company.site
 0.0.0.0 www.supperbrand.company.site
 0.0.0.0 store.supperbrand.company.site
-0.0.0.0 survivalcatsupply.com
 0.0.0.0 sweet-bonanza-demo.gr
 0.0.0.0 www.sweet-bonanza-demo.gr
 0.0.0.0 swellsup.com
@@ -2626,7 +2625,6 @@
 0.0.0.0 uschse04.my03.com
 0.0.0.0 www.uschse04.my03.com
 0.0.0.0 store.uschse04.my03.com
-0.0.0.0 store.ushiro.org
 0.0.0.0 uusilemmikki.com
 0.0.0.0 www.uusilemmikki.com
 0.0.0.0 uydrnhsb.info
@@ -2776,11 +2774,13 @@
 0.0.0.0 www.ww25.utilify.me
 0.0.0.0 store.ww25.utilify.me
 0.0.0.0 www.base-vod.pl
-0.0.0.0 www.wyzia-orderdeposits.com
+0.0.0.0 wyzia-orderdeposits.com
 0.0.0.0 x2-promo.net
 0.0.0.0 www.x2-promo.net
 0.0.0.0 store.x2-promo.net
 0.0.0.0 xai467k.com
+0.0.0.0 xajzfwgs.com
+0.0.0.0 www.xajzfwgs.com
 0.0.0.0 store.xajzfwgs.com
 0.0.0.0 xcartpro.com
 0.0.0.0 www.xcartpro.com
