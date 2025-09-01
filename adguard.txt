@@ -257,6 +257,7 @@
 ||displaymovies.pl^
 ||distrochooser.snehit.dev^
 ||distryct.shop^
+||diteringion.com^
 ||dkfodboldstore.com^
 ||dleggere.com^
 ||dogparadiseshop.com^
@@ -377,6 +378,7 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -621,7 +623,6 @@
 ||msl-cf.id^
 ||mslfgl434.pages.dev^
 ||mujib-store28.blogspot.com^
-||multifilmy.pl^
 ||museuw.com^
 ||muskusa.com^
 ||mybestautologin567.com^
@@ -683,6 +684,7 @@
 ||navi63.ru^
 ||navi66.com^
 ||navi66.ru^
+||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -751,7 +753,6 @@
 ||oldcube.com^
 ||olive121407.studio.site^
 ||olymptrade-qid.com^
-||onary.info^
 ||online-binomo.com^
 ||online-eta.com^
 ||onlinecda.pl^
