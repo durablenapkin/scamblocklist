@@ -88,7 +88,6 @@
 ||avisocnh.co^
 ||azfancy.com^
 ||azsolver.com^
-||azvclothing.com^
 ||babybeddingdesign.com^
 ||backend.store.eset.co.il^
 ||bagsdeuter.com^
@@ -148,7 +147,6 @@
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
 ||brttre.com^
-||bsnltowerinstallations.com^
 ||bsnltowersite.in^
 ||bsntowoff.com^
 ||btc9339.com^
@@ -378,7 +376,6 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -1209,7 +1206,6 @@
 ||wuqrie.info^
 ||ww25.utilify.me^
 ||base-vod.pl^
-||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
 ||xajzfwgs.com^
