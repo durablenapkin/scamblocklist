@@ -61,7 +61,6 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -88,6 +87,7 @@
 ||avisocnh.co^
 ||azfancy.com^
 ||azsolver.com^
+||azvclothing.com^
 ||babybeddingdesign.com^
 ||backend.store.eset.co.il^
 ||bagsdeuter.com^
@@ -129,10 +129,6 @@
 ||bisertravel.com.mk^
 ||bitdefender.top^
 ||bite-life.com^
-||bitsoft360.app^
-||bitsoft360.com^
-||bitsoft360.io^
-||bitsoft360.net^
 ||bknstore.com^
 ||black-sales.cloud^
 ||blackabdo.company.site^
@@ -451,7 +447,6 @@
 ||hindustantowergroupltd.com^
 ||hippie-pets.com^
 ||hisgr.buzz^
-||hityvod.pl^
 ||hmccommerce.com^
 ||hoka-us.com^
 ||homelarr.com.br^
@@ -681,7 +676,6 @@
 ||navi63.ru^
 ||navi66.com^
 ||navi66.ru^
-||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -798,7 +792,6 @@
 ||pipopi.com^
 ||piratedrive.com^
 ||pjs.outlet.com^
-||pl-vider.pl^
 ||pl.vider-info.pl^
 ||player-cda.pl^
 ||player-qr.com^
@@ -960,6 +953,7 @@
 ||superofferte.shop^
 ||superuniswap.xyz^
 ||supperbrand.company.site^
+||survivalcatsupply.com^
 ||sweet-bonanza-demo.gr^
 ||swellsup.com^
 ||swuso.com^
@@ -967,7 +961,6 @@
 ||tamed-exotics.com^
 ||taramatikarou.com^
 ||tartannewzealand.myshopify.com^
-||tatatowers.com^
 ||tbao684tryo.com^
 ||teearrow.com^
 ||teezill.com^
