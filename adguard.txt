@@ -61,6 +61,7 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -289,7 +290,6 @@
 ||ellezz.com^
 ||elrifeno.com^
 ||emberio.com^
-||en-trezor.io^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
 ||equiwarmpro.co^
@@ -615,6 +615,7 @@
 ||msl-cf.id^
 ||mslfgl434.pages.dev^
 ||mujib-store28.blogspot.com^
+||multifilmy.pl^
 ||museuw.com^
 ||muskusa.com^
 ||mybestautologin567.com^
@@ -640,7 +641,6 @@
 ||navi14.com^
 ||navi18.com^
 ||navi2.com^
-||navi20.com^
 ||navi20.ru^
 ||navi21.com^
 ||navi22.com^
@@ -652,9 +652,7 @@
 ||navi25.com^
 ||navi26.ru^
 ||navi3.com^
-||navi30.com^
 ||navi30.ru^
-||navi33.com^
 ||navi35.com^
 ||navi36.ru^
 ||navi38.ru^
@@ -669,7 +667,6 @@
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
-||navi55.com^
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
@@ -823,6 +820,7 @@
 ||quotex.com.in^
 ||rastreiobrasil.co^
 ||rastreiocorreio.co^
+||reanimando.org^
 ||record-x-center.com^
 ||reforest-iita.org^
 ||regularizedenatran.co^
