@@ -60,6 +60,7 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -126,12 +127,7 @@
 ||binomoweblogin.com^
 ||binorobot.com^
 ||bisertravel.com.mk^
-||bitdefender.top^
 ||bite-life.com^
-||bitsoft360.app^
-||bitsoft360.com^
-||bitsoft360.io^
-||bitsoft360.net^
 ||black-sales.cloud^
 ||blackabdo.company.site^
 ||blackoutarchertender.com^
@@ -220,6 +216,7 @@
 ||cshrewards.net^
 ||cual3up029pc73fi5jug.ucapsidop.info^
 ||customizerbox.com^
+||cutty.app^
 ||cycle100percent.com^
 ||czasnakino.pl^
 ||czwcvfbc.page.link^
@@ -627,6 +624,7 @@
 ||mysuperdatingforyou.life^
 ||nabaza.shop^
 ||nalzahqp.page.link^
+||namewrimo.info^
 ||nanistores.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
@@ -672,7 +670,6 @@
 ||navi63.ru^
 ||navi66.com^
 ||navi66.ru^
-||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -685,6 +682,7 @@
 ||navi89.com^
 ||navi9.com^
 ||navi99.com^
+||nayatowerinstallation.in.net^
 ||neozor.com^
 ||netflix-logariasmos.com^
 ||nevaon.com^
@@ -835,7 +833,6 @@
 ||robinmooreband.com^
 ||rockchief.com^
 ||rosateeshop.com^
-||rosettahome.cn^
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rsaonlinenow.com.au^
@@ -1228,6 +1225,7 @@
 ||zalukaj.app^
 ||zalukaj.cc^
 ||zalukaj.co^
+||zalukaj.co.pl^
 ||zalukaj.cz^
 ||zalukaj.eu^
 ||zalukaj.film^
