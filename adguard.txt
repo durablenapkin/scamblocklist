@@ -5,7 +5,6 @@
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
-||1000fapvids.online^
 ||10xuniswap.xyz^
 ||1bmo-reactivemyaccount0.com^
 ||1stfinancefirm.wixsite.com^
@@ -151,8 +150,6 @@
 ||bwpkizpfms.funnelish.com^
 ||bwsvbk.info^
 ||by-emmamuller.de^
-||c-tozluxury.shop^
-||c.dreamdating1.fun^
 ||c0nt4ct-me.pages.dev^
 ||caly-film.cc^
 ||camerotica.cfd^
@@ -217,7 +214,6 @@
 ||cshrewards.net^
 ||cual3up029pc73fi5jug.ucapsidop.info^
 ||customizerbox.com^
-||cutty.app^
 ||cycle100percent.com^
 ||czasnakino.pl^
 ||czwcvfbc.page.link^
@@ -359,7 +355,6 @@
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
 ||fitgirl-repacks.vip^
-||fitgirlrepacksite.com^
 ||fiusps.com^
 ||fixpub.com^
 ||fkpgr.buzz^
@@ -579,7 +574,6 @@
 ||luccheseoutlet.online^
 ||lucidtiger.com^
 ||lucysstyle.com^
-||luxsgear.com^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -672,7 +666,6 @@
 ||navi63.ru^
 ||navi66.com^
 ||navi66.ru^
-||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -685,7 +678,6 @@
 ||navi89.com^
 ||navi9.com^
 ||navi99.com^
-||nayatowerinstallation.in.net^
 ||neozor.com^
 ||netflix-logariasmos.com^
 ||nevaon.com^
@@ -838,6 +830,7 @@
 ||rosateeshop.com^
 ||royaldecorhome.store^
 ||royalhedgies.com^
+||rptbaa.shop^
 ||rsaonlinenow.com.au^
 ||rupiahlagi.com^
 ||rupiahsaku.com^
@@ -967,7 +960,6 @@
 ||the-north-face.gr^
 ||thebayonline.shop^
 ||theeaglebrand.company.site^
-||thegeekgifts.com^
 ||thehappywood.com^
 ||theneurobalancetherapy.org^
 ||theonepercentcommunity.com^
@@ -1194,6 +1186,7 @@
 ||wuqrie.info^
 ||ww25.utilify.me^
 ||base-vod.pl^
+||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
 ||xajzfwgs.com^
