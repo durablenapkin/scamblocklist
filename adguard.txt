@@ -456,6 +456,7 @@
 ||howgr.buzz^
 ||hubfiles.ws^
 ||hudson-bay.com^
+||hugetrump.com^
 ||hunden.info^
 ||hushlove.com^
 ||hyndtren25.pages.dev^
@@ -655,7 +656,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi43.com^
 ||navi44.com^
 ||navi45.com^
@@ -670,6 +670,7 @@
 ||navi63.ru^
 ||navi66.com^
 ||navi66.ru^
+||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
