@@ -150,6 +150,7 @@
 ||bwpkizpfms.funnelish.com^
 ||bwsvbk.info^
 ||by-emmamuller.de^
+||c.dreamdating1.fun^
 ||c0nt4ct-me.pages.dev^
 ||caly-film.cc^
 ||camerotica.cfd^
@@ -214,6 +215,7 @@
 ||cshrewards.net^
 ||cual3up029pc73fi5jug.ucapsidop.info^
 ||customizerbox.com^
+||customurink.com^
 ||cutty.app^
 ||cycle100percent.com^
 ||czasnakino.pl^
@@ -325,7 +327,6 @@
 ||faze1.com^
 ||faze10.com^
 ||faze2.com^
-||faze3.com^
 ||faze4.com^
 ||faze47.com^
 ||faze5.com^
@@ -408,7 +409,6 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
-||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -650,7 +650,6 @@
 ||navi30.ru^
 ||navi35.com^
 ||navi36.ru^
-||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
 ||navi42.ru^
@@ -680,6 +679,7 @@
 ||navi88.com^
 ||navi89.com^
 ||navi9.com^
+||navi98.com^
 ||navi99.com^
 ||nayatowerinstallation.in.net^
 ||neozor.com^
@@ -873,6 +873,7 @@
 ||shy-boat-90ce.jiko728928922.workers.dev^
 ||sieuto.com^
 ||sigmaoffers.com^
+||signal-protect.host^
 ||signalgroup.site^
 ||signpify.com^
 ||singingfiles.com^
@@ -1008,7 +1009,6 @@
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
-||ubnuntu.com^
 ||ucapsidop.info^
 ||ucureo.com^
 ||udrop.com^
