@@ -127,6 +127,7 @@
 ||binorobot.com^
 ||bisertravel.com.mk^
 ||bite-life.com^
+||bitsoft360.com^
 ||black-sales.cloud^
 ||blackabdo.company.site^
 ||blackoutarchertender.com^
@@ -530,6 +531,7 @@
 ||kidsmama.online^
 ||kigurumi-usa.com^
 ||kingcampoutdoors.co.jp^
+||kino-cda.pl^
 ||kinomaniak.cc^
 ||kinonline.pl^
 ||kisserine.com^
@@ -594,7 +596,6 @@
 ||meudetran.co^
 ||microngroup.pro^
 ||microsoft-notifcation.com^
-||miles.plumenetwork.xyz^
 ||milgenial.uy^
 ||miucart.com^
 ||mizunsports.com^
@@ -916,6 +917,7 @@
 ||stallioncredit.com^
 ||startuplatte.com^
 ||steamgateways.com^
+||steampowered.cn.com^
 ||steamunlock.com^
 ||stearncommunjty.net^
 ||stellara.de^
@@ -1170,7 +1172,6 @@
 ||wavetshirt.com^
 ||wazofurniture.com^
 ||weathly.com^
-||web3-uniswap-uniswap.org^
 ||webvod.pl^
 ||whbinder.com^
 ||wikeb.com^
