@@ -59,7 +59,6 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -193,6 +192,7 @@
 ||coinaps.com^
 ||coinreq.com^
 ||colorandcotton.com^
+||com-id80123.info^
 ||compoundexotics.com^
 ||comprehension.unstal.cfd^
 ||confira.io^
@@ -203,6 +203,7 @@
 ||couponxoo.com^
 ||courier-tracking.com^
 ||covex.it^
+||crackedpc.org^
 ||cracksway.com^
 ||crocssalenz.com^
 ||crypto029.online^
@@ -227,11 +228,13 @@
 ||dautee.com^
 ||dbkdsale.com^
 ||ddzk513bd.com^
+||debridlink.com^
 ||decompraschile.com^
 ||decoryourhome.store^
 ||deergift.com^
 ||dein-rundfunkbeitrag.de^
 ||deiongh.info^
+||deluxdoll.com^
 ||denatranajuda.co^
 ||denatranotificacao.co^
 ||designbyus.online^
@@ -240,6 +243,7 @@
 ||detraninforme.co^
 ||detranlibera.co^
 ||devifoodgrains.com^
+||deytee.com^
 ||dezpez.com^
 ||dieserbenni.ru^
 ||displaymovies.pl^
@@ -284,6 +288,7 @@
 ||emberio.com^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
+||equiwarmpro.co^
 ||eset.co.il^
 ||esl-gaming.com^
 ||eslgrandscup.com^
@@ -310,9 +315,9 @@
 ||facebook-google-vptyyny63pwfipshmm.vercel.app^
 ||facebook-google-ygggvmvciad74v9lhi.vercel.app^
 ||facebook-support-team-980.pages.med.br^
+||familybestgifts.com^
 ||familygiftlove.myshopify.com^
 ||familygiftville.com^
-||familyshark.com^
 ||familystore.com^
 ||faze1.com^
 ||faze10.com^
@@ -363,7 +368,6 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -401,7 +405,6 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
-||godsfillingstation.org^
 ||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
@@ -500,6 +503,7 @@
 ||informationpolicy.cloud^
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
+||iphonedefender.com^
 ||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
@@ -507,10 +511,8 @@
 ||ivisa.com^
 ||j-natural.com^
 ||jagkart.com^
-||januashop.com^
 ||jasper-lilac-van.glitch.me^
 ||jellystores.com^
-||jonausa.com^
 ||jourl.live^
 ||jsdimmigration.com^
 ||jsdimmigrations.com^
@@ -616,7 +618,6 @@
 ||mysuperdatingforyou.life^
 ||nabaza.shop^
 ||nalzahqp.page.link^
-||namewrimo.info^
 ||nanistores.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
@@ -922,6 +923,7 @@
 ||storecollegeonline.com^
 ||storesp.com^
 ||streamabie.com^
+||streamboo.com^
 ||streamvod.pl^
 ||strefa-filmu.pl^
 ||strefaogladania.pl^
@@ -996,6 +998,7 @@
 ||trusltwcllet.com^
 ||tsla-stock.com^
 ||turtleclient.xyz^
+||twiiiter.com^
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
