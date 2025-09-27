@@ -52,6 +52,7 @@
 ||all-tube.pl^
 ||allergyfl.com^
 ||allocation-uniswap.co^
+||allocation-uniswap.org^
 ||allstarshirt.com^
 ||allupdatenow.com^
 ||alphatowercompany.in^
@@ -59,6 +60,7 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -118,7 +120,6 @@
 ||binomo1.com^
 ||binomo2.zendesk.com^
 ||binomoidr.com^
-||binomorupiah-id.com^
 ||binomotop.com^
 ||binomoweb.org^
 ||binomoweblogin.com^
@@ -162,7 +163,6 @@
 ||casualdating1.com^
 ||cda-pl.pl^
 ||cda-zalukaj.prv.pl^
-||cdn-defac13.techresource.shop^
 ||cdn-defac18.studyzone-investmentguru.com^
 ||chat-o-live.com^
 ||cheat-on.com^
@@ -192,7 +192,6 @@
 ||coinaps.com^
 ||coinreq.com^
 ||colorandcotton.com^
-||com-id80123.info^
 ||compoundexotics.com^
 ||comprehension.unstal.cfd^
 ||confira.io^
@@ -228,7 +227,6 @@
 ||dautee.com^
 ||dbkdsale.com^
 ||ddzk513bd.com^
-||debridlink.com^
 ||decompraschile.com^
 ||decoryourhome.store^
 ||deergift.com^
@@ -243,7 +241,6 @@
 ||detraninforme.co^
 ||detranlibera.co^
 ||devifoodgrains.com^
-||deytee.com^
 ||dezpez.com^
 ||dieserbenni.ru^
 ||displaymovies.pl^
@@ -315,7 +312,6 @@
 ||facebook-google-vptyyny63pwfipshmm.vercel.app^
 ||facebook-google-ygggvmvciad74v9lhi.vercel.app^
 ||facebook-support-team-980.pages.med.br^
-||familybestgifts.com^
 ||familygiftlove.myshopify.com^
 ||familygiftville.com^
 ||familystore.com^
@@ -618,6 +614,7 @@
 ||mysuperdatingforyou.life^
 ||nabaza.shop^
 ||nalzahqp.page.link^
+||namewrimo.info^
 ||nanistores.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
@@ -758,7 +755,6 @@
 ||paquetsuivi7noti.com^
 ||paradisevs.com^
 ||pasarkta.pasaruang.id^
-||pateim.com^
 ||path2zillion.com^
 ||pekanbaru.one^
 ||peppatees.com^
@@ -1168,6 +1164,7 @@
 ||weathly.com^
 ||webvod.pl^
 ||whbinder.com^
+||wie-funktioniert-phototan.info^
 ||wikeb.com^
 ||wintexfashions.com^
 ||wisdomganga.com^
