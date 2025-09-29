@@ -158,7 +158,9 @@
 ||caraci.it^
 ||carngr.sbs^
 ||carsaratek.com^
+||casha.xyz^
 ||casualdating1.com^
+||catransfer.info^
 ||cda-pl.pl^
 ||cda-zalukaj.prv.pl^
 ||cdn-defac13.techresource.shop^
@@ -191,7 +193,6 @@
 ||coinaps.com^
 ||coinreq.com^
 ||colorandcotton.com^
-||com-id15421.info^
 ||compoundexotics.com^
 ||comprehension.unstal.cfd^
 ||confira.io^
@@ -367,7 +368,6 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -462,7 +462,6 @@
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
 ||iklrge.com^
-||ikoee.com^
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
 ||india-e-visa.com^
@@ -478,7 +477,6 @@
 ||indiaimmigration.org^
 ||indian-e-visa.com^
 ||indian-evisa.com^
-||indian-visaonline.org^
 ||indianetouristvisacoin.wordpress.com^
 ||indianevisaonline.com^
 ||indianimmigration.org^
@@ -512,6 +510,7 @@
 ||ivisa.com^
 ||j-natural.com^
 ||jagkart.com^
+||januashop.com^
 ||jasper-lilac-van.glitch.me^
 ||jellystores.com^
 ||jourl.live^
@@ -611,6 +610,7 @@
 ||mujib-store28.blogspot.com^
 ||multifilmy.pl^
 ||museuw.com^
+||muthaafoundation.org^
 ||mybestautologin567.com^
 ||myblogshop.top^
 ||myfunfarm.com^
@@ -782,6 +782,7 @@
 ||pipopi.com^
 ||piratedrive.com^
 ||pjs.outlet.com^
+||pl-vider.pl^
 ||pl.vider-info.pl^
 ||player-cda.pl^
 ||player-qr.com^
@@ -813,6 +814,7 @@
 ||quotex.com.in^
 ||rastreiobrasil.co^
 ||rastreiocorreio.co^
+||recade.info^
 ||reforest-iita.org^
 ||regularizedenatran.co^
 ||remessacorreio.site^
@@ -971,7 +973,6 @@
 ||tinkleo.com^
 ||tiranaaquapark-eg.com^
 ||toko999.net^
-||toko999.shop^
 ||tomadamsenergy.com^
 ||too-gle.com^
 ||torrenty-pl.cc^
@@ -1181,7 +1182,6 @@
 ||wpad.xyz^
 ||wpclick.cc^
 ||wuqrie.info^
-||ww25.utilify.me^
 ||base-vod.pl^
 ||wyzia-orderdeposits.com^
 ||x2-promo.net^
