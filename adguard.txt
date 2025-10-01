@@ -58,7 +58,6 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -192,6 +191,7 @@
 ||coinaps.com^
 ||coinreq.com^
 ||colorandcotton.com^
+||com-id23901.info^
 ||compoundexotics.com^
 ||comprehension.unstal.cfd^
 ||confira.io^
@@ -227,7 +227,6 @@
 ||dautee.com^
 ||dbkdsale.com^
 ||ddzk513bd.com^
-||debridlink.com^
 ||decompraschile.com^
 ||decoryourhome.store^
 ||deergift.com^
@@ -367,6 +366,7 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -509,7 +509,6 @@
 ||itseasy.com^
 ||ivisa.com^
 ||j-natural.com^
-||jagkart.com^
 ||januashop.com^
 ||jasper-lilac-van.glitch.me^
 ||jellystores.com^
@@ -552,6 +551,7 @@
 ||last-blink.com^
 ||lds.xyz^
 ||ledgerlivewallets.com^
+||ledgerslive.org^
 ||lemstore.com^
 ||lericettedifrancy74.com^
 ||levelbash.com^
@@ -746,7 +746,6 @@
 ||ontario-energy.com^
 ||orderquilt.com^
 ||outarshop.fi^
-||outel.abmarketworks.com^
 ||outlet-alfresco.com^
 ||owlala.com^
 ||own3d.tv^
@@ -1167,6 +1166,7 @@
 ||watchseniorfit.com^
 ||wavetshirt.com^
 ||wazofurniture.com^
+||wdamp.info^
 ||weathly.com^
 ||webvod.pl^
 ||whbinder.com^
