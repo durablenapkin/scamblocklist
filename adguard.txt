@@ -58,6 +58,7 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -123,6 +124,7 @@
 ||binomoweblogin.com^
 ||binorobot.com^
 ||bisertravel.com.mk^
+||bitcompay.org^
 ||bite-life.com^
 ||bitsoft360.com^
 ||black-sales.cloud^
@@ -191,7 +193,6 @@
 ||coinaps.com^
 ||coinreq.com^
 ||colorandcotton.com^
-||com-id23901.info^
 ||compoundexotics.com^
 ||comprehension.unstal.cfd^
 ||confira.io^
@@ -366,7 +367,6 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -500,6 +500,7 @@
 ||info-flirtme.com^
 ||info-milfroom.com^
 ||informationpolicy.cloud^
+||innomediacreate.com^
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
 ||iphonedefender.com^
@@ -620,7 +621,6 @@
 ||nabaza.shop^
 ||nalzahqp.page.link^
 ||namewrimo.info^
-||nanistores.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
 ||natvisa.com^
@@ -650,7 +650,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi43.com^
 ||navi44.com^
 ||navi45.com^
@@ -746,6 +745,7 @@
 ||ontario-energy.com^
 ||orderquilt.com^
 ||outarshop.fi^
+||outel.abmarketworks.com^
 ||outlet-alfresco.com^
 ||owlala.com^
 ||own3d.tv^
@@ -789,7 +789,6 @@
 ||popeurope.com^
 ||poppop.online^
 ||porkbunrr.web.app^
-||portal-canaa374-post835-info.com^
 ||post-nachsenden.de^
 ||powerboostup.com^
 ||prawdziwefilmy.pl^
@@ -1166,7 +1165,6 @@
 ||watchseniorfit.com^
 ||wavetshirt.com^
 ||wazofurniture.com^
-||wdamp.info^
 ||weathly.com^
 ||webvod.pl^
 ||whbinder.com^
