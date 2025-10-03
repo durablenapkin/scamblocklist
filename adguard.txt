@@ -118,13 +118,11 @@
 ||binomo1.com^
 ||binomo2.zendesk.com^
 ||binomoidr.com^
-||binomorupiah-id.com^
 ||binomotop.com^
 ||binomoweb.org^
 ||binomoweblogin.com^
 ||binorobot.com^
 ||bisertravel.com.mk^
-||bitcompay.org^
 ||bite-life.com^
 ||bitsoft360.com^
 ||black-sales.cloud^
@@ -292,7 +290,6 @@
 ||esl-gaming.com^
 ||eslgrandscup.com^
 ||estiloserena.com.br^
-||et-reliefgc-ca.info^
 ||etaindia.org^
 ||etaindiaonline.com^
 ||etv-in.com^
@@ -367,6 +364,7 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -482,6 +480,7 @@
 ||indianimmigration.org^
 ||indianonlinevisas.org^
 ||indiantravelvisa.com^
+||indianvisa-online.org^
 ||indianvisa.online^
 ||indianvisagov.com^
 ||indianvisaonline.org^
@@ -650,6 +649,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi43.com^
 ||navi44.com^
 ||navi45.com^
