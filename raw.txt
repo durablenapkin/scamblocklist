@@ -3720,6 +3720,12 @@
 0.0.0.0 freedom-deposit.ca
 0.0.0.0 www.freedom-deposit.ca
 0.0.0.0 store.freedom-deposit.ca
+0.0.0.0 freedom.invoice5g-bill.com
+0.0.0.0 www.freedom.invoice5g-bill.com
+0.0.0.0 store.freedom.invoice5g-bill.com
+0.0.0.0 freedom.invoiceid-bill.com
+0.0.0.0 www.freedom.invoiceid-bill.com
+0.0.0.0 store.freedom.invoiceid-bill.com
 0.0.0.0 freedom.login-ca.com
 0.0.0.0 www.freedom.login-ca.com
 0.0.0.0 store.freedom.login-ca.com
@@ -13368,6 +13374,9 @@
 0.0.0.0 vanced-official.com
 0.0.0.0 www.vanced-official.com
 0.0.0.0 store.vanced-official.com
+0.0.0.0 vanced.to
+0.0.0.0 www.vanced.to
+0.0.0.0 store.vanced.to
 0.0.0.0 vansnorge.com
 0.0.0.0 www.vansnorge.com
 0.0.0.0 store.vansnorge.com
