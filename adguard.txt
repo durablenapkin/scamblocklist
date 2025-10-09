@@ -160,7 +160,6 @@
 ||casualdating1.com^
 ||cda-pl.pl^
 ||cda-zalukaj.prv.pl^
-||cdn-defac13.techresource.shop^
 ||cdn-defac18.studyzone-investmentguru.com^
 ||chat-o-live.com^
 ||cheat-on.com^
@@ -293,6 +292,7 @@
 ||etaindiaonline.com^
 ||etv-in.com^
 ||eudoraz.com^
+||eudshop.shop^
 ||eventmusk-x.com^
 ||eviralstore.com^
 ||evisa-india-online.com^
@@ -371,6 +371,7 @@
 ||fundanemt.org^
 ||funfilenow.com^
 ||furnishmyhome.ca^
+||furoshop.com^
 ||future-promo.com^
 ||fveco.com^
 ||gamedrive.org^
@@ -466,7 +467,6 @@
 ||india-visas.org^
 ||india.evisa-agency.com^
 ||india.travisa.com^
-||indiae-visa.com^
 ||indiaeta.com^
 ||indiaevisas.org^
 ||indiaevisaservice.com^
@@ -550,7 +550,6 @@
 ||lds.xyz^
 ||ledgerlivewallets.com^
 ||ledgerslive.org^
-||lemstore.com^
 ||lericettedifrancy74.com^
 ||levelbash.com^
 ||levelupstore.xyz^
@@ -647,6 +646,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi43.com^
 ||navi44.com^
 ||navi45.com^
@@ -708,6 +708,7 @@
 ||nofotballshop.com^
 ||norfotball.com^
 ||norgefotball.com^
+||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
@@ -796,6 +797,7 @@
 ||primevod.pl^
 ||printteestore.com^
 ||promoalfresco.com^
+||promotebuy.com^
 ||promotion40-form.com^
 ||providedexcitingcritical.pro^
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
@@ -979,7 +981,6 @@
 ||travelexpress.us.com^
 ||travelvisabookings.com^
 ||travisa.com^
-||trendsharks.com^
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
 ||trivo.uk^
