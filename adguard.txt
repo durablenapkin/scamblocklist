@@ -44,7 +44,6 @@
 ||airupsrbija.com^
 ||aizipai.cn^
 ||akulaku.me^
-||aldofashion.com^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||all-tube.pl^
@@ -57,7 +56,6 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -237,7 +235,6 @@
 ||devifoodgrains.com^
 ||dezpez.com^
 ||dieserbenni.ru^
-||dischargebackhanded.com^
 ||displaymovies.pl^
 ||distrochooser.snehit.dev^
 ||distryct.shop^
@@ -343,6 +340,7 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
+||fitgirl-repacks.vip^
 ||fitgirlrepacksite.com^
 ||fiusps.com^
 ||fixpub.com^
@@ -668,6 +666,7 @@
 ||navi85.com^
 ||navi86.ru^
 ||navi88.com^
+||navi89.com^
 ||navi9.com^
 ||navi98.com^
 ||navi99.com^
@@ -761,7 +760,6 @@
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
 ||phirussacmush.net^
-||photo-reaktivieren.org^
 ||phototan-cdirect.info^
 ||phototan.net^
 ||pickablegift.com^
@@ -913,6 +911,7 @@
 ||storecollegeonline.com^
 ||storesp.com^
 ||streamabie.com^
+||streamboo.com^
 ||streamvod.pl^
 ||strefa-filmu.pl^
 ||strefaogladania.pl^
@@ -973,6 +972,7 @@
 ||travelexpress.us.com^
 ||travelvisabookings.com^
 ||travisa.com^
+||trendsharks.com^
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
 ||trivo.uk^
@@ -1167,7 +1167,6 @@
 ||wpclick.cc^
 ||wuqrie.info^
 ||ww25.utilify.me^
-||base-vod.pl^
 ||wyzia-orderdeposits.com^
 ||x2-promo.net^
 ||xai467k.com^
