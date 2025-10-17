@@ -44,6 +44,7 @@
 ||airupsrbija.com^
 ||aizipai.cn^
 ||akulaku.me^
+||aldofashion.com^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||all-tube.pl^
@@ -56,6 +57,7 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -407,6 +409,7 @@
 ||gov.howgr.buzz^
 ||gov.rvgr.buzz^
 ||gov.scoigr.buzz^
+||gr.update-tracks.com^
 ||group-signal.com^
 ||gsport.com^
 ||gtlinfrastructurelimited.com^
@@ -582,6 +585,7 @@
 ||meudetran.co^
 ||microngroup.pro^
 ||microsoft-notifcation.com^
+||miles.plumenetwork.xyz^
 ||milgenial.uy^
 ||miucart.com^
 ||mizunsports.com^
@@ -641,7 +645,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi43.com^
 ||navi44.com^
 ||navi45.com^
@@ -959,7 +962,6 @@
 ||toko999.shop^
 ||tomadamsenergy.com^
 ||too-gle.com^
-||torrenty-pl.cc^
 ||touristvisaonline.com^
 ||tower5ginstallation.com^
 ||toweragency.in^
