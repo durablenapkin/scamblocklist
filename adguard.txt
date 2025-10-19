@@ -293,6 +293,7 @@
 ||evisa-indian.com^
 ||evisa.express^
 ||evisaindia.com^
+||evisaindia.org^
 ||evisaindiaonline.org^
 ||ex-torrenty.org^
 ||exfresutexi.info^
@@ -495,6 +496,7 @@
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
 ||iphonedefender.com^
+||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
 ||itseasy.com^
@@ -704,6 +706,7 @@
 ||nofotballshop.com^
 ||norfotball.com^
 ||norgefotball.com^
+||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
@@ -997,6 +1000,7 @@
 ||ultrasonica.info^
 ||ultrawa.com^
 ||um-bs.com^
+||uni-swap.space^
 ||unifully.com^
 ||uniswap-v3.com^
 ||uniswap.cool^
