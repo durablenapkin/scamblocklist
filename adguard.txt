@@ -29,7 +29,6 @@
 ||account.ws-reward.com^
 ||adidasko.com^
 ||adminicesm.life^
-||adzfree-watch.net^
 ||affordableforyouusa5.godaddysites.com^
 ||air-up-turkiye.com^
 ||air-upfrance.com^
@@ -174,7 +173,6 @@
 ||claims-uniswap.app^
 ||clearance-bike.com^
 ||cluckergifts.ecwid.com^
-||cmoboy.com^
 ||cnhadverti.co^
 ||cnhajuda.co^
 ||cnhcomunicado.co^
@@ -671,6 +669,7 @@
 ||navi88.com^
 ||navi89.com^
 ||navi9.com^
+||navi95.com^
 ||navi98.com^
 ||navi99.com^
 ||neozor.com^
