@@ -56,7 +56,6 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -395,7 +394,6 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
-||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -413,7 +411,6 @@
 ||gtltelecomgroup.in^
 ||gtltowerinfratel.in^
 ||gunstee.com^
-||habilitacao.org^
 ||habtoorloyal.com^
 ||haceroberomaste.com^
 ||hairyfy.com^
@@ -433,7 +430,6 @@
 ||hisgr.buzz^
 ||hoka-us.com^
 ||homelarr.com.br^
-||hookahheroes.com^
 ||hostpoco.com^
 ||hotbignews.com^
 ||hotdebrid.com^
@@ -494,7 +490,6 @@
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
 ||iphonedefender.com^
-||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
 ||itseasy.com^
@@ -559,7 +554,6 @@
 ||look-like-star.myshopify.com^
 ||lorenzettibrasil-vendas.com^
 ||lozly.com^
-||lskg.shop^
 ||lucatee.com^
 ||luccheseoutlet.online^
 ||lucidtiger.com^
@@ -669,7 +663,6 @@
 ||navi88.com^
 ||navi89.com^
 ||navi9.com^
-||navi95.com^
 ||navi98.com^
 ||navi99.com^
 ||neozor.com^
@@ -761,7 +754,6 @@
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
-||phirussacmush.net^
 ||phototan-cdirect.info^
 ||phototan.net^
 ||pickablegift.com^
@@ -916,7 +908,6 @@
 ||streamboo.com^
 ||streamvod.pl^
 ||strefa-filmu.pl^
-||strefaogladania.pl^
 ||stylegift.co.uk^
 ||successglossary.com^
 ||suitablepartner.life^
@@ -1149,6 +1140,7 @@
 ||w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app^
 ||wadahlapak.top^
 ||wallpaperflare.com^
+||ware-bezahlt.info^
 ||warriordecor.com^
 ||watchseniorfit.com^
 ||wavetshirt.com^
