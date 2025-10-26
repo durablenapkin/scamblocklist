@@ -19,6 +19,7 @@
 ||42gixk.98kk89.com^
 ||4556.de^
 ||555sq.com.cn^
+||5gtower.in^
 ||5wzgtq8dpk.com^
 ||65spy7rgcu.com^
 ||777uniswap.xyz^
@@ -28,7 +29,6 @@
 ||9vzn29.98kk89.com^
 ||account.ws-reward.com^
 ||adidasko.com^
-||adminicesm.life^
 ||affordableforyouusa5.godaddysites.com^
 ||air-up-turkiye.com^
 ||air-upfrance.com^
@@ -222,6 +222,7 @@
 ||deergift.com^
 ||dein-rundfunkbeitrag.de^
 ||deiongh.info^
+||deluxdoll.com^
 ||denatranajuda.co^
 ||denatranotificacao.co^
 ||designbyus.online^
@@ -306,6 +307,7 @@
 ||faze1.com^
 ||faze10.com^
 ||faze2.com^
+||faze3.com^
 ||faze4.com^
 ||faze47.com^
 ||faze5.com^
@@ -352,6 +354,7 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -489,7 +492,6 @@
 ||innomediacreate.com^
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
-||iphonedefender.com^
 ||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
@@ -529,7 +531,6 @@
 ||kontribusiuang.top^
 ||kopisusu.co.id^
 ||kra18.com^
-||kredit-rupiah.com^
 ||krediteksklusif.com^
 ||kuyhaa.cc^
 ||ladiesmeetnow.top^
@@ -633,7 +634,6 @@
 ||navi30.ru^
 ||navi35.com^
 ||navi36.ru^
-||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
 ||navi42.ru^
@@ -909,7 +909,6 @@
 ||streamvod.pl^
 ||strefa-filmu.pl^
 ||stylegift.co.uk^
-||subsequentoven.info^
 ||successglossary.com^
 ||suitablepartner.life^
 ||summersale.online^
@@ -1199,7 +1198,6 @@
 ||zalukaj.eu^
 ||zalukaj.film^
 ||zalukaj.io^
-||zalukaj.my^
 ||zalukaj.site^
 ||zalukaj.us^
 ||zat.io^
