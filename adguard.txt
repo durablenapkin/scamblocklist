@@ -29,12 +29,12 @@
 ||9vzn29.98kk89.com^
 ||account.ws-reward.com^
 ||adidasko.com^
+||adminicesm.life^
 ||affordableforyouusa5.godaddysites.com^
 ||air-up-turkiye.com^
 ||air-upfrance.com^
 ||airteltower.com^
 ||airtoff.com^
-||airup-fi.com^
 ||airup-it.shop^
 ||airup-romania.com^
 ||airupbulgaria.com^
@@ -354,7 +354,6 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
@@ -492,6 +491,7 @@
 ||innomediacreate.com^
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
+||iphonedefender.com^
 ||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
@@ -531,10 +531,10 @@
 ||kontribusiuang.top^
 ||kopisusu.co.id^
 ||kra18.com^
+||kredit-rupiah.com^
 ||krediteksklusif.com^
 ||kuyhaa.cc^
 ||ladiesmeetnow.top^
-||lakersfanshoponline.com^
 ||lasercutjewelry.net^
 ||last-blink.com^
 ||lds.xyz^
@@ -632,8 +632,10 @@
 ||navi27.ru^
 ||navi3.com^
 ||navi30.ru^
+||navi33.com^
 ||navi35.com^
 ||navi36.ru^
+||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
 ||navi42.ru^
@@ -894,7 +896,6 @@
 ||stallioncredit.com^
 ||startuplatte.com^
 ||steamgateways.com^
-||steampowered.cn.com^
 ||steamunlock.com^
 ||stellara.de^
 ||stellasummer.com^
@@ -911,7 +912,6 @@
 ||stylegift.co.uk^
 ||successglossary.com^
 ||suitablepartner.life^
-||summersale.online^
 ||sunsetstore.net^
 ||supercutestuff.com^
 ||superofferte.shop^
@@ -1206,7 +1206,6 @@
 ||zerknij-tv.pl^
 ||zerorolex.com^
 ||zerowasteinitiative.com^
-||zillify.cfd^
 ||zlibrary.to^
 ||zobaczfilm.com^
 ||zolrqw.palatlaldate.com^
