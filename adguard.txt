@@ -173,7 +173,6 @@
 ||cityofdream.co.uk^
 ||claim-uniswap.app^
 ||claims-uniswap.app^
-||clearance-bike.com^
 ||cluckergifts.ecwid.com^
 ||cnhadverti.co^
 ||cnhajuda.co^
@@ -257,6 +256,7 @@
 ||dresseslovesootd.com^
 ||duitpanas.top^
 ||dwlae.top^
+||e-indianvisa.com^
 ||e-touristvisa.com^
 ||e-touristvisaindia.com^
 ||e-visa.ie^
@@ -309,7 +309,6 @@
 ||faze1.com^
 ||faze10.com^
 ||faze2.com^
-||faze3.com^
 ||faze4.com^
 ||faze47.com^
 ||faze5.com^
@@ -356,7 +355,6 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
@@ -395,7 +393,6 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
-||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -509,7 +506,6 @@
 ||karan-pc.com^
 ||karanpcofficial.blogspot.com^
 ||keenfootwearsale.com^
-||keltysale.com^
 ||kera99zx.com^
 ||kesug.com^
 ||kidsmama.online^
@@ -536,7 +532,6 @@
 ||kredit-rupiah.com^
 ||krediteksklusif.com^
 ||kuyhaa.cc^
-||ladiesmeetnow.top^
 ||lasercutjewelry.net^
 ||last-blink.com^
 ||lds.xyz^
@@ -670,7 +665,6 @@
 ||navi98.com^
 ||navi99.com^
 ||neozor.com^
-||netflix-logariasmos.com^
 ||nevaon.com^
 ||new.gdtot.me^
 ||new.piratedrive.com^
@@ -702,7 +696,6 @@
 ||nofotballshop.com^
 ||norfotball.com^
 ||norgefotball.com^
-||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
@@ -759,6 +752,7 @@
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
 ||phototan-cdirect.info^
+||phototan.net^
 ||pickablegift.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
@@ -1173,7 +1167,6 @@
 ||xvid.social-previews.top^
 ||yahhhoo.com^
 ||yasir252.com^
-||yeezysofficial.us.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
 ||ygtube.xyz^
