@@ -161,7 +161,6 @@
 ||cda-zalukaj.prv.pl^
 ||cdn-defac18.studyzone-investmentguru.com^
 ||chat-o-live.com^
-||cheat-on.com^
 ||chesssorrydescend.com^
 ||chikepod.com^
 ||chipcy.com^
@@ -354,8 +353,10 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
+||fulfillgift.com^
 ||fullview.pl^
 ||fundanemt.org^
 ||funfilenow.com^
@@ -892,7 +893,6 @@
 ||stallioncredit.com^
 ||startuplatte.com^
 ||steamgateways.com^
-||steampowered.cn.com^
 ||steamunlock.com^
 ||stellara.de^
 ||stellasummer.com^
