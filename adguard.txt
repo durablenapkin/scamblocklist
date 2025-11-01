@@ -57,7 +57,6 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -161,6 +160,7 @@
 ||cda-zalukaj.prv.pl^
 ||cdn-defac18.studyzone-investmentguru.com^
 ||chat-o-live.com^
+||cheat-on.com^
 ||chesssorrydescend.com^
 ||chikepod.com^
 ||chipcy.com^
@@ -488,6 +488,7 @@
 ||info-flirtme.com^
 ||info-milfroom.com^
 ||informationpolicy.cloud^
+||injustice.site^
 ||innomediacreate.com^
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
@@ -893,6 +894,7 @@
 ||stallioncredit.com^
 ||startuplatte.com^
 ||steamgateways.com^
+||steampowered.cn.com^
 ||steamunlock.com^
 ||stellara.de^
 ||stellasummer.com^
