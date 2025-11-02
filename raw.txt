@@ -13626,6 +13626,9 @@
 0.0.0.0 wealth.simpleonline-id.com
 0.0.0.0 www.wealth.simpleonline-id.com
 0.0.0.0 store.wealth.simpleonline-id.com
+0.0.0.0 wealthsimple-zfmip.com
+0.0.0.0 www.wealthsimple-zfmip.com
+0.0.0.0 store.wealthsimple-zfmip.com
 0.0.0.0 wealthsimple.1online-id.com
 0.0.0.0 www.wealthsimple.1online-id.com
 0.0.0.0 store.wealthsimple.1online-id.com
