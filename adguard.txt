@@ -159,6 +159,7 @@
 ||casualdating1.com^
 ||cda-pl.pl^
 ||cda-zalukaj.prv.pl^
+||cdn-defac13.techresource.shop^
 ||cdn-defac18.studyzone-investmentguru.com^
 ||chat-o-live.com^
 ||cheat-on.com^
@@ -170,6 +171,7 @@
 ||cinemak.pl^
 ||cipustar.com^
 ||cityofdream.co.uk^
+||ckkebt.shop^
 ||claim-uniswap.app^
 ||claims-uniswap.app^
 ||cluckergifts.ecwid.com^
@@ -232,6 +234,7 @@
 ||devifoodgrains.com^
 ||dezpez.com^
 ||dieserbenni.ru^
+||dischargebackhanded.com^
 ||displaymovies.pl^
 ||distrochooser.snehit.dev^
 ||distryct.shop^
@@ -505,6 +508,7 @@
 ||keenfootwearsale.com^
 ||kera99zx.com^
 ||kesug.com^
+||kewal.shop^
 ||kidsmama.online^
 ||kigurumi-usa.com^
 ||kingcampoutdoors.co.jp^
@@ -531,13 +535,13 @@
 ||kuyhaa.cc^
 ||lakersfanshoponline.com^
 ||lasercutjewelry.net^
-||last-blink.com^
 ||lds.xyz^
 ||ledgerlivewallets.com^
 ||ledgerslive.org^
 ||lericettedifrancy74.com^
 ||levelbash.com^
 ||levelupstore.xyz^
+||lido-pass.org^
 ||lifestyletrading.co.za^
 ||ligerking.com^
 ||likenu.se^
@@ -742,7 +746,6 @@
 ||paquet1nfopabox.com^
 ||paquetsuivi7noti.com^
 ||paradisevs.com^
-||pateim.com^
 ||path2zillion.com^
 ||peppatees.com^
 ||perlatoshoe.com^

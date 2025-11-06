@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2788
+# Domains: 2798
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -135,6 +135,7 @@
 0.0.0.0 app-uniswapping.org
 0.0.0.0 appdrive.info
 0.0.0.0 www.appdrive.info
+0.0.0.0 store.appdrive.info
 0.0.0.0 arduino.uk.eu.org
 0.0.0.0 www.arduino.uk.eu.org
 0.0.0.0 army-shop.onshopbase.com
@@ -359,10 +360,12 @@
 0.0.0.0 store.cda-pl.pl
 0.0.0.0 cda-zalukaj.prv.pl
 0.0.0.0 www.cda-zalukaj.prv.pl
+0.0.0.0 cdn-defac13.techresource.shop
 0.0.0.0 cdn-defac18.studyzone-investmentguru.com
 0.0.0.0 www.cdn-defac18.studyzone-investmentguru.com
 0.0.0.0 store.cdn-defac18.studyzone-investmentguru.com
 0.0.0.0 chat-o-live.com
+0.0.0.0 cheat-on.com
 0.0.0.0 www.cheat-on.com
 0.0.0.0 store.cheat-on.com
 0.0.0.0 chesssorrydescend.com
@@ -383,6 +386,7 @@
 0.0.0.0 www.cipustar.com
 0.0.0.0 cityofdream.co.uk
 0.0.0.0 www.cityofdream.co.uk
+0.0.0.0 ckkebt.shop
 0.0.0.0 claim-uniswap.app
 0.0.0.0 www.claim-uniswap.app
 0.0.0.0 claims-uniswap.app
@@ -504,7 +508,7 @@
 0.0.0.0 designbyus.online
 0.0.0.0 www.designbyus.online
 0.0.0.0 desiupload.in
-0.0.0.0 www.desiupload.in
+0.0.0.0 store.desiupload.in
 0.0.0.0 detranboletim.co
 0.0.0.0 www.detranboletim.co
 0.0.0.0 detraninforme.co
@@ -516,6 +520,9 @@
 0.0.0.0 dezpez.com
 0.0.0.0 www.dezpez.com
 0.0.0.0 dieserbenni.ru
+0.0.0.0 dischargebackhanded.com
+0.0.0.0 www.dischargebackhanded.com
+0.0.0.0 store.dischargebackhanded.com
 0.0.0.0 displaymovies.pl
 0.0.0.0 www.displaymovies.pl
 0.0.0.0 distrochooser.snehit.dev
@@ -643,8 +650,6 @@
 0.0.0.0 evisaindia.com
 0.0.0.0 www.evisaindia.com
 0.0.0.0 store.evisaindia.com
-0.0.0.0 evisaindia.org
-0.0.0.0 www.evisaindia.org
 0.0.0.0 store.evisaindia.org
 0.0.0.0 evisaindiaonline.org
 0.0.0.0 www.evisaindiaonline.org
@@ -840,6 +845,8 @@
 0.0.0.0 genesis-mining.com
 0.0.0.0 www.genesis-mining.com
 0.0.0.0 get-kmspico.com
+0.0.0.0 www.get-kmspico.com
+0.0.0.0 store.get-kmspico.com
 0.0.0.0 getintopc.today
 0.0.0.0 www.getintopc.today
 0.0.0.0 store.getintopc.today
@@ -1134,6 +1141,7 @@
 0.0.0.0 kesug.com
 0.0.0.0 www.kesug.com
 0.0.0.0 store.kesug.com
+0.0.0.0 kewal.shop
 0.0.0.0 kidsmama.online
 0.0.0.0 www.kidsmama.online
 0.0.0.0 kigurumi-usa.com
@@ -1189,8 +1197,6 @@
 0.0.0.0 store.lakersfanshoponline.com
 0.0.0.0 lasercutjewelry.net
 0.0.0.0 www.lasercutjewelry.net
-0.0.0.0 last-blink.com
-0.0.0.0 www.last-blink.com
 0.0.0.0 lds.xyz
 0.0.0.0 ledgerlivewallets.com
 0.0.0.0 www.ledgerlivewallets.com
@@ -1203,6 +1209,7 @@
 0.0.0.0 www.levelbash.com
 0.0.0.0 levelupstore.xyz
 0.0.0.0 www.levelupstore.xyz
+0.0.0.0 www.lido-pass.org
 0.0.0.0 lifestyletrading.co.za
 0.0.0.0 www.lifestyletrading.co.za
 0.0.0.0 ligerking.com
@@ -1431,7 +1438,7 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 www.navi42.ru
+0.0.0.0 navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1499,11 +1506,15 @@
 0.0.0.0 www.neozor.com
 0.0.0.0 nevaon.com
 0.0.0.0 www.nevaon.com
+0.0.0.0 new.gdtot.me
 0.0.0.0 www.new.gdtot.me
+0.0.0.0 store.new.gdtot.me
 0.0.0.0 new.piratedrive.com
 0.0.0.0 www.new.piratedrive.com
 0.0.0.0 store.new.piratedrive.com
+0.0.0.0 new2.gdtot.sbs
 0.0.0.0 www.new2.gdtot.sbs
+0.0.0.0 store.new2.gdtot.sbs
 0.0.0.0 newfootwearshop.com
 0.0.0.0 www.newfootwearshop.com
 0.0.0.0 newgstore.com
@@ -1669,9 +1680,6 @@
 0.0.0.0 store.paquetsuivi7noti.com
 0.0.0.0 paradisevs.com
 0.0.0.0 www.paradisevs.com
-0.0.0.0 pateim.com
-0.0.0.0 www.pateim.com
-0.0.0.0 store.pateim.com
 0.0.0.0 path2zillion.com
 0.0.0.0 peppatees.com
 0.0.0.0 www.peppatees.com
@@ -1690,7 +1698,9 @@
 0.0.0.0 phototan-cdirect.info
 0.0.0.0 www.phototan-cdirect.info
 0.0.0.0 store.phototan-cdirect.info
+0.0.0.0 phototan.net
 0.0.0.0 www.phototan.net
+0.0.0.0 store.phototan.net
 0.0.0.0 pickablegift.com
 0.0.0.0 www.pickablegift.com
 0.0.0.0 store.pickablegift.com
@@ -2154,7 +2164,6 @@
 0.0.0.0 store.torrenty-pl.cc
 0.0.0.0 touristvisaonline.com
 0.0.0.0 www.touristvisaonline.com
-0.0.0.0 tower5ginstallation.com
 0.0.0.0 www.tower5ginstallation.com
 0.0.0.0 toweragency.in
 0.0.0.0 www.toweragency.in
@@ -2552,6 +2561,7 @@
 0.0.0.0 store.vessisdeutschland.com
 0.0.0.0 vider-cda.online
 0.0.0.0 www.vider-cda.online
+0.0.0.0 store.vider-cda.online
 0.0.0.0 vider-cda.pl
 0.0.0.0 www.vider-cda.pl
 0.0.0.0 vider-pl.pl
