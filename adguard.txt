@@ -44,6 +44,7 @@
 ||airupnederlands.com^
 ||airupsrbija.com^
 ||aizipai.cn^
+||akjamv.shop^
 ||akulaku.me^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
@@ -79,7 +80,6 @@
 ||autorizaonline.co^
 ||autorizeonline.com^
 ||avarik.web.app^
-||avatrade-services.com^
 ||avisocnh.co^
 ||azfancy.com^
 ||azsolver.com^
@@ -218,6 +218,7 @@
 ||dashracegear.net^
 ||datempire.com^
 ||dautee.com^
+||dbhmnp.shop^
 ||ddzk513bd.com^
 ||decoryourhome.store^
 ||deergift.com^
@@ -716,7 +717,6 @@
 ||oldcube.com^
 ||olive121407.studio.site^
 ||olymptrade-qid.com^
-||oncloudrun.shop^
 ||online-binomo.com^
 ||online-eta.com^
 ||onlinecda.pl^
@@ -1171,11 +1171,13 @@
 ||youdebrid.com^
 ||yourdatefind.com^
 ||yoursecrethookup.com^
+||youthfy.shop^
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
 ||ytvancedpro.com^
 ||yuaonew.com^
+||yyderfreap.shop^
 ||z-lib.id^
 ||z-lib.is^
 ||zalukaj-film.pl^
