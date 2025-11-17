@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2786
+# Domains: 2792
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -267,7 +267,6 @@
 0.0.0.0 bitsoft360.com
 0.0.0.0 www.bitsoft360.com
 0.0.0.0 bitsoft360.net
-0.0.0.0 www.bitsoft360.net
 0.0.0.0 black-sales.cloud
 0.0.0.0 www.black-sales.cloud
 0.0.0.0 blackabdo.company.site
@@ -1124,7 +1123,9 @@
 0.0.0.0 store.jsdimmigration.com
 0.0.0.0 jsdimmigrations.com
 0.0.0.0 www.jsdimmigrations.com
-0.0.0.0 k-tozluxury.shop
+0.0.0.0 jyfrsjdkkhue.com
+0.0.0.0 www.jyfrsjdkkhue.com
+0.0.0.0 store.jyfrsjdkkhue.com
 0.0.0.0 karan-pc.com
 0.0.0.0 www.karan-pc.com
 0.0.0.0 karanpcofficial.blogspot.com
@@ -1273,6 +1274,7 @@
 0.0.0.0 mayor4london.com
 0.0.0.0 www.mayor4london.com
 0.0.0.0 mcds100.com
+0.0.0.0 meaningift.com
 0.0.0.0 www.meaningift.com
 0.0.0.0 store.meaningift.com
 0.0.0.0 mega-heritage.com
@@ -1306,6 +1308,7 @@
 0.0.0.0 store.modmobile24.com
 0.0.0.0 monkstars.com
 0.0.0.0 www.monkstars.com
+0.0.0.0 monpaquet9trackpobox.com
 0.0.0.0 www.monpaquet9trackpobox.com
 0.0.0.0 store.monpaquet9trackpobox.com
 0.0.0.0 mot73yi07.info
@@ -1446,8 +1449,6 @@
 0.0.0.0 www.navi5.com
 0.0.0.0 store.navi5.com
 0.0.0.0 navi52.com
-0.0.0.0 navi53.com
-0.0.0.0 www.navi53.com
 0.0.0.0 navi55.com
 0.0.0.0 www.navi55.com
 0.0.0.0 navi56.com
@@ -1678,6 +1679,7 @@
 0.0.0.0 paradisevs.com
 0.0.0.0 www.paradisevs.com
 0.0.0.0 path2zillion.com
+0.0.0.0 store.pay.pay.avito.avito.avito.booking.com-id02349.info
 0.0.0.0 peppatees.com
 0.0.0.0 www.peppatees.com
 0.0.0.0 perlatoshoe.com
@@ -1695,9 +1697,9 @@
 0.0.0.0 phototan-cdirect.info
 0.0.0.0 www.phototan-cdirect.info
 0.0.0.0 store.phototan-cdirect.info
-0.0.0.0 pickablegift.com
-0.0.0.0 www.pickablegift.com
-0.0.0.0 store.pickablegift.com
+0.0.0.0 phototan.net
+0.0.0.0 www.phototan.net
+0.0.0.0 store.phototan.net
 0.0.0.0 pinjamanelit.top
 0.0.0.0 www.pinjamanelit.top
 0.0.0.0 pinjamanplus.com
@@ -1774,6 +1776,7 @@
 0.0.0.0 store.pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
 0.0.0.0 punyauang.xyz
 0.0.0.0 www.punyauang.xyz
+0.0.0.0 store.punyauang.xyz
 0.0.0.0 qq51f.short.gy
 0.0.0.0 www.qq51f.short.gy
 0.0.0.0 store.qq51f.short.gy
@@ -1794,7 +1797,6 @@
 0.0.0.0 store.reforest-iita.org
 0.0.0.0 regularizedenatran.co
 0.0.0.0 www.regularizedenatran.co
-0.0.0.0 relaxcsvote.shop
 0.0.0.0 www.remessacorreio.site
 0.0.0.0 resources4gaming.com
 0.0.0.0 www.resources4gaming.com
@@ -1868,7 +1870,6 @@
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
-0.0.0.0 sberbank.avito.avito.avito.avito.avito.booking.com-id01251.info
 0.0.0.0 scoigr.buzz
 0.0.0.0 www.scoigr.buzz
 0.0.0.0 store.scoigr.buzz
@@ -2024,6 +2025,9 @@
 0.0.0.0 steamgateways.com
 0.0.0.0 www.steamgateways.com
 0.0.0.0 store.steamgateways.com
+0.0.0.0 steampowered.cn.com
+0.0.0.0 www.steampowered.cn.com
+0.0.0.0 store.steampowered.cn.com
 0.0.0.0 steamunlock.com
 0.0.0.0 www.steamunlock.com
 0.0.0.0 stellara.de
@@ -2163,6 +2167,8 @@
 0.0.0.0 www.toweragency.in
 0.0.0.0 towerdepartment.com
 0.0.0.0 www.towerdepartment.com
+0.0.0.0 townaptdesk.info
+0.0.0.0 www.townaptdesk.info
 0.0.0.0 toyrube.com
 0.0.0.0 www.toyrube.com
 0.0.0.0 store.toyrube.com
