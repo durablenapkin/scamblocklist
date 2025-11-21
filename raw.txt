@@ -13614,6 +13614,9 @@
 0.0.0.0 wdamp.info
 0.0.0.0 www.wdamp.info
 0.0.0.0 store.wdamp.info
+0.0.0.0 wealithsimppleca.xyz
+0.0.0.0 www.wealithsimppleca.xyz
+0.0.0.0 store.wealithsimppleca.xyz
 0.0.0.0 wealth.1simple-access.com
 0.0.0.0 www.wealth.1simple-access.com
 0.0.0.0 store.wealth.1simple-access.com
