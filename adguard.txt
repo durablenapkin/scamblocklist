@@ -56,11 +56,10 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
+||animeshoppers.com^
 ||anydebrid.com^
-||app-uniswapp.website^
 ||app-uniswapping.org^
 ||appdrive.info^
-||approdishop.com^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -147,10 +146,10 @@
 ||bwpkizpfms.funnelish.com^
 ||bwsvbk.info^
 ||by-emmamuller.de^
-||c-tozluxury.shop^
 ||c.dreamdating1.fun^
 ||c0nt4ct-me.pages.dev^
 ||caly-film.cc^
+||camerotica.cfd^
 ||campingsurfshop.com^
 ||candlesbymadison.com^
 ||canjaume.com^
@@ -161,6 +160,7 @@
 ||casualdating1.com^
 ||cda-pl.pl^
 ||cda-zalukaj.prv.pl^
+||cdn-defac18.studyzone-investmentguru.com^
 ||chat-o-live.com^
 ||cheat-on.com^
 ||chesssorrydescend.com^
@@ -268,7 +268,6 @@
 ||edecher.com^
 ||edgeupgrade.com^
 ||edwardjhutley107375938786edwardjrhutley70205433153583usps.com^
-||eggdy.shop^
 ||ekommmedia.com^
 ||ellezz.com^
 ||elrifeno.com^
@@ -336,6 +335,7 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
+||fitgirl-repacks.vip^
 ||fitgirlrepacksite.com^
 ||fiusps.com^
 ||fixpub.com^
@@ -389,7 +389,6 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
-||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -425,7 +424,6 @@
 ||hippie-pets.com^
 ||hisgr.buzz^
 ||homelarr.com.br^
-||hookahheroes.com^
 ||hostpoco.com^
 ||hotbignews.com^
 ||hotdebrid.com^
@@ -441,7 +439,6 @@
 ||i-visaindia.com^
 ||iagadvanced.com^
 ||iaqorwr.com^
-||iceao.shop^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
 ||iklrge.com^
@@ -451,6 +448,7 @@
 ||india-e-visa.com^
 ||india-visa-online.com^
 ||india-visa-online.org^
+||india-visaonline.org^
 ||india-visas.org^
 ||india.evisa-agency.com^
 ||india.travisa.com^
@@ -500,10 +498,10 @@
 ||jsdimmigration.com^
 ||jsdimmigrations.com^
 ||jyfrsjdkkhue.com^
-||k-tozluxury.shop^
 ||karan-pc.com^
 ||karanpcofficial.blogspot.com^
 ||keenfootwearsale.com^
+||kera99zx.com^
 ||kesug.com^
 ||kidsmama.online^
 ||kigurumi-usa.com^
@@ -527,6 +525,7 @@
 ||kontribusiuang.top^
 ||kopisusu.co.id^
 ||kra18.com^
+||kredit-rupiah.com^
 ||krediteksklusif.com^
 ||kuyhaa.cc^
 ||lakersfanshoponline.com^
@@ -555,7 +554,6 @@
 ||lucatee.com^
 ||luccheseoutlet.online^
 ||lucidtiger.com^
-||lucysstyle.com^
 ||luxsgear.com^
 ||maebl.com^
 ||magnite.shop^
@@ -571,6 +569,7 @@
 ||mega-heritage.com^
 ||mega-kino.pl^
 ||megoindonesia.com^
+||meudetran.co^
 ||microngroup.pro^
 ||microsoft-notifcation.com^
 ||miles.plumenetwork.xyz^
@@ -694,13 +693,11 @@
 ||nofotballshop.com^
 ||norfotball.com^
 ||norgefotball.com^
-||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
 ||novabeds.ca^
 ||nowefilmyonline.pl^
-||nxtgenerator.top^
 ||nze0xw.haceroberomaste.com^
 ||nzxsxn.98kk89.com^
 ||oablages.org.br^
@@ -789,7 +786,6 @@
 ||rastreiocorreio.co^
 ||reforest-iita.org^
 ||regularizedenatran.co^
-||relaxcsvote.shop^
 ||remessacorreio.site^
 ||resources4gaming.com^
 ||revanced-extended.com^
@@ -804,7 +800,6 @@
 ||rosateeshop.com^
 ||royaldecorhome.store^
 ||royalhedgies.com^
-||rptbaa.shop^
 ||rsaonlinenow.com.au^
 ||rupiahlagi.com^
 ||rupiahsaku.com^
@@ -824,6 +819,7 @@
 ||sanla-tan.net^
 ||saveeeee.myshopify.com^
 ||scoigr.buzz^
+||seagulltee.com^
 ||seans24.com.pl^
 ||seasonsofficial.com^
 ||secrity2redline.com^
@@ -874,7 +870,15 @@
 ||sportswearfanatics.com^
 ||spotgee.com^
 ||stableuniswap.xyz^
+||stage2024.club^
+||stage3-last.club^
+||stage3-last.info^
+||stage3-last.live^
+||stage3-last.pro^
+||stage3-last.store^
 ||stage3sale.online^
+||stage3sale2024.online^
+||stage3x.site^
 ||stage3x.store^
 ||staging.zendrop.com^
 ||stallioncredit.com^
@@ -972,6 +976,7 @@
 ||ultra-cda.pl^
 ||ultrasonica.info^
 ||ultrawa.com^
+||um-bs.com^
 ||uni-swap.space^
 ||unifully.com^
 ||uniswap-v3.com^
@@ -1067,6 +1072,7 @@
 ||updatesnow.click^
 ||upfilm.pl^
 ||uplevelreward.com^
+||upnews.me^
 ||uprising.kip.pro^
 ||ureashi.com^
 ||us99.pro^
@@ -1178,6 +1184,7 @@
 ||zalukaj.film^
 ||zalukaj.io^
 ||zalukaj.site^
+||zalukaj.us^
 ||zat.io^
 ||zaz4o.securesolidlink.com^
 ||zedbubble.com^
