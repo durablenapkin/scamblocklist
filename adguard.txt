@@ -222,7 +222,6 @@
 ||deergift.com^
 ||dein-rundfunkbeitrag.de^
 ||deiongh.info^
-||deluxdoll.com^
 ||denatranajuda.co^
 ||denatranotificacao.co^
 ||designbyus.online^
@@ -389,6 +388,7 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
+||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
@@ -424,6 +424,7 @@
 ||hippie-pets.com^
 ||hisgr.buzz^
 ||homelarr.com.br^
+||hookahheroes.com^
 ||hostpoco.com^
 ||hotbignews.com^
 ||hotdebrid.com^
@@ -448,7 +449,6 @@
 ||india-e-visa.com^
 ||india-visa-online.com^
 ||india-visa-online.org^
-||india-visaonline.org^
 ||india-visas.org^
 ||india.evisa-agency.com^
 ||india.travisa.com^
@@ -607,7 +607,6 @@
 ||navi1.com^
 ||navi10.com^
 ||navi100.com^
-||navi11.com^
 ||navi12.com^
 ||navi14.com^
 ||navi18.com^
@@ -693,11 +692,13 @@
 ||nofotballshop.com^
 ||norfotball.com^
 ||norgefotball.com^
+||norgeshoes.com^
 ||nosdaarte.com^
 ||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
 ||novabeds.ca^
 ||nowefilmyonline.pl^
+||nxtgenerator.top^
 ||nze0xw.haceroberomaste.com^
 ||nzxsxn.98kk89.com^
 ||oablages.org.br^
