@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2807
+# Domains: 2805
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -202,7 +202,6 @@
 0.0.0.0 www.bccnerty.com
 0.0.0.0 beautysolution24.com
 0.0.0.0 www.beautysolution24.com
-0.0.0.0 beautyt.shop
 0.0.0.0 beeaar.com
 0.0.0.0 www.beeaar.com
 0.0.0.0 beecrave.com
@@ -275,7 +274,6 @@
 0.0.0.0 store.bitsoft360.net
 0.0.0.0 black-sales.cloud
 0.0.0.0 www.black-sales.cloud
-0.0.0.0 store.black-sales.cloud
 0.0.0.0 blackabdo.company.site
 0.0.0.0 www.blackabdo.company.site
 0.0.0.0 store.blackabdo.company.site
@@ -414,6 +412,8 @@
 0.0.0.0 cnhvirtual.co
 0.0.0.0 www.cnhvirtual.co
 0.0.0.0 cnqwli.info
+0.0.0.0 www.cnqwli.info
+0.0.0.0 store.cnqwli.info
 0.0.0.0 cofdeal.com
 0.0.0.0 www.cofdeal.com
 0.0.0.0 cognatesyringe.com
@@ -527,9 +527,6 @@
 0.0.0.0 store.desiupload.in
 0.0.0.0 detranboletim.co
 0.0.0.0 www.detranboletim.co
-0.0.0.0 detraninforme.co
-0.0.0.0 www.detraninforme.co
-0.0.0.0 store.detraninforme.co
 0.0.0.0 detranlibera.co
 0.0.0.0 www.detranlibera.co
 0.0.0.0 devifoodgrains.com
@@ -601,7 +598,6 @@
 0.0.0.0 www.e-visums.nl
 0.0.0.0 easynatures.com
 0.0.0.0 www.easynatures.com
-0.0.0.0 ebuy8.shop
 0.0.0.0 www.ebuy8.shop
 0.0.0.0 store.ebuy8.shop
 0.0.0.0 ecs-online.ffm.to
@@ -703,6 +699,8 @@
 0.0.0.0 www.faze2.com
 0.0.0.0 store.faze2.com
 0.0.0.0 faze3.com
+0.0.0.0 www.faze3.com
+0.0.0.0 store.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze47.com
@@ -766,6 +764,8 @@
 0.0.0.0 fishingdaily.shop
 0.0.0.0 www.fishingdaily.shop
 0.0.0.0 fitgirl-repacks-site.org
+0.0.0.0 fitgirl-repacks.vip
+0.0.0.0 www.fitgirl-repacks.vip
 0.0.0.0 store.fitgirl-repacks.vip
 0.0.0.0 fitgirlrepacksite.com
 0.0.0.0 www.fitgirlrepacksite.com
@@ -806,6 +806,7 @@
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 www.friday99.com
+0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 www.fuehrungszeugnis-service.de
 0.0.0.0 fulfillgift.com
@@ -1453,7 +1454,6 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 navi42.ru
 0.0.0.0 www.navi42.ru
 0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
@@ -1688,11 +1688,13 @@
 0.0.0.0 www.pandzee.com
 0.0.0.0 paquet1nfopabox.com
 0.0.0.0 www.paquet1nfopabox.com
+0.0.0.0 paquetsuivi7noti.com
 0.0.0.0 www.paquetsuivi7noti.com
 0.0.0.0 store.paquetsuivi7noti.com
 0.0.0.0 paradisevs.com
 0.0.0.0 www.paradisevs.com
 0.0.0.0 path2zillion.com
+0.0.0.0 store.pay.com-id123251.info
 0.0.0.0 peaveymartca.com
 0.0.0.0 www.peaveymartca.com
 0.0.0.0 store.peaveymartca.com
@@ -2747,7 +2749,6 @@
 0.0.0.0 store.ytvancedpro.com
 0.0.0.0 yuaonew.com
 0.0.0.0 www.yuaonew.com
-0.0.0.0 yyderfreap.shop
 0.0.0.0 z-lib.id
 0.0.0.0 www.z-lib.id
 0.0.0.0 z-lib.is
@@ -2785,9 +2786,6 @@
 0.0.0.0 zalukaj.site
 0.0.0.0 www.zalukaj.site
 0.0.0.0 store.zalukaj.site
-0.0.0.0 zalukaj.us
-0.0.0.0 www.zalukaj.us
-0.0.0.0 store.zalukaj.us
 0.0.0.0 zat.io
 0.0.0.0 www.zat.io
 0.0.0.0 zedbubble.com
