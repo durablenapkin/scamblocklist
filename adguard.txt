@@ -28,6 +28,7 @@
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
 ||account.ws-reward.com^
+||adflowtube.com^
 ||adidasko.com^
 ||adminicesm.life^
 ||affordableforyouusa5.godaddysites.com^
@@ -232,6 +233,7 @@
 ||designbyus.online^
 ||desiupload.in^
 ||detranboletim.co^
+||detraninforme.co^
 ||detranlibera.co^
 ||devifoodgrains.com^
 ||dezpez.com^
@@ -240,6 +242,7 @@
 ||distrochooser.snehit.dev^
 ||distryct.shop^
 ||diteringion.com^
+||diytsi.shop^
 ||dkfodboldstore.com^
 ||dleggere.com^
 ||dogparadiseshop.com^
@@ -267,10 +270,12 @@
 ||e-visums.nl^
 ||easynatures.com^
 ||ebuy8.shop^
+||ecomicrolab.com^
 ||ecs-online.ffm.to^
 ||edecher.com^
 ||edgeupgrade.com^
 ||edwardjhutley107375938786edwardjrhutley70205433153583usps.com^
+||eggdy.shop^
 ||ekommmedia.com^
 ||ellezz.com^
 ||elrifeno.com^
@@ -356,7 +361,6 @@
 ||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||fuehrungszeugnis-service.de^
 ||fulfillgift.com^
 ||fullview.pl^
@@ -388,7 +392,6 @@
 ||getwavemax.com^
 ||giftyweb.com^
 ||gig-os.com^
-||gimboy.com^
 ||gimp.zendesk.com^
 ||gjseep.com^
 ||gladiadormalas.com.br^
@@ -786,7 +789,6 @@
 ||quoka.dk9zc9.pro^
 ||quotex.com.in^
 ||rastreiobrasil.co^
-||rastreiocorreio.co^
 ||reforest-iita.org^
 ||regularizedenatran.co^
 ||remessacorreio.site^
