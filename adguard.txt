@@ -170,7 +170,6 @@
 ||cinemak.pl^
 ||cipustar.com^
 ||cityofdream.co.uk^
-||ckkebt.shop^
 ||claim-uniswap.app^
 ||claims-uniswap.app^
 ||cluckergifts.ecwid.com^
@@ -235,7 +234,6 @@
 ||devifoodgrains.com^
 ||dezpez.com^
 ||dieserbenni.ru^
-||dischargebackhanded.com^
 ||displaymovies.pl^
 ||distrochooser.snehit.dev^
 ||distryct.shop^
@@ -431,6 +429,7 @@
 ||hotdebrid.com^
 ||hotmod.eu^
 ||houselar.com.br^
+||hqnew.info^
 ||hubfiles.ws^
 ||hudson-bay.com^
 ||hushlove.com^
@@ -439,6 +438,7 @@
 ||i-visaindia.com^
 ||iagadvanced.com^
 ||iaqorwr.com^
+||iceao.shop^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
 ||iklrge.com^
@@ -525,7 +525,6 @@
 ||kra18.com^
 ||krediteksklusif.com^
 ||kuyhaa.cc^
-||lakersfanshoponline.com^
 ||lasercutjewelry.net^
 ||lds.xyz^
 ||ledgerlivewallets.com^
@@ -572,7 +571,6 @@
 ||miles.plumenetwork.xyz^
 ||milgenial.uy^
 ||miucart.com^
-||mizunsports.com^
 ||moddetail.com^
 ||modmobile24.com^
 ||monkstars.com^
@@ -772,6 +770,7 @@
 ||punyauang.xyz^
 ||qq51f.short.gy^
 ||qriedf.info^
+||qttlpn.shop^
 ||quoka.dk9zc9.pro^
 ||quotex.com.in^
 ||rastreiobrasil.co^
@@ -964,10 +963,9 @@
 ||ultrasonica.info^
 ||ultrawa.com^
 ||um-bs.com^
-||unho.unhesiss.shop^
 ||uni-swap.space^
 ||unifully.com^
-||uniswap-paladium-claim.run^
+||uniswap-eth.com^
 ||uniswap-v3.com^
 ||uniswap.cool^
 ||uniswap.host^
@@ -1153,6 +1151,7 @@
 ||youdebrid.com^
 ||yourdatefind.com^
 ||yoursecrethookup.com^
+||youthfy.shop^
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
@@ -1166,7 +1165,6 @@
 ||zalukaj.app^
 ||zalukaj.cc^
 ||zalukaj.co.pl^
-||zalukaj.cz^
 ||zalukaj.eu^
 ||zalukaj.film^
 ||zalukaj.io^
