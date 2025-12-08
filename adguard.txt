@@ -32,7 +32,6 @@
 ||adminicesm.life^
 ||affordableforyouusa5.godaddysites.com^
 ||afiletoget.click^
-||ailurophilestealer.shop^
 ||air-up-turkiye.com^
 ||airteltower.com^
 ||airtoff.com^
@@ -57,7 +56,6 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -160,7 +158,6 @@
 ||casualdating1.com^
 ||cda-pl.pl^
 ||cda-zalukaj.prv.pl^
-||cdn-defac13.techresource.shop^
 ||cdn-defac18.studyzone-investmentguru.com^
 ||chat-o-live.com^
 ||cheat-on.com^
@@ -319,7 +316,6 @@
 ||fazpowerdenet.tumblr.com^
 ||fdrc-gov.org^
 ||felara.com.do^
-||fgtgr.buzz^
 ||field-garnet-duckling.glitch.me^
 ||filedenzu.com^
 ||filexstorage.site^
@@ -399,9 +395,7 @@
 ||goindiavisa.com^
 ||gossvibe.com^
 ||gotoperfection.com^
-||gov.fgtgr.buzz^
 ||gov.fkpgr.buzz^
-||gov.rvgr.buzz^
 ||group-signal.com^
 ||gsport.com^
 ||gtlinfrastructurelimited.com^
@@ -623,6 +617,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi43.com^
 ||navi45.ru^
 ||navi48.com^
@@ -796,7 +791,6 @@
 ||rustdesk.io^
 ||rustdesk.pl^
 ||rustdesk.secure-box.de^
-||rvgr.buzz^
 ||sailiabot.com^
 ||sakuradate.com^
 ||sale-friday.cloud^
@@ -1057,7 +1051,6 @@
 ||uniswapv4sapp.com^
 ||universityofqatarrectorate.godaddysites.com^
 ||updatesnow.click^
-||upfilm.pl^
 ||uplevelreward.com^
 ||upnews.me^
 ||uprising.kip.pro^
