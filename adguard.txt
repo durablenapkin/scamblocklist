@@ -57,7 +57,6 @@
 ||altwi-zgs.com^
 ||am-freights.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -279,6 +278,7 @@
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
 ||eset.co.il^
+||eshaalfawson.shop^
 ||esl-gaming.com^
 ||eslgrandscup.com^
 ||estiloserena.com.br^
@@ -398,6 +398,7 @@
 ||gossvibe.com^
 ||gotoperfection.com^
 ||gov.fkpgr.buzz^
+||govmedcareers.com^
 ||group-signal.com^
 ||gsport.com^
 ||gtlinfrastructurelimited.com^
@@ -491,7 +492,6 @@
 ||jourl.live^
 ||jsdimmigration.com^
 ||jsdimmigrations.com^
-||jyfrsjdkkhue.com^
 ||karan-pc.com^
 ||karanpcofficial.blogspot.com^
 ||keenfootwearsale.com^
@@ -520,11 +520,11 @@
 ||kopisusu.co.id^
 ||kra18.com^
 ||krediteksklusif.com^
+||kreditmudah.shop^
 ||kuyhaa.cc^
 ||lasercutjewelry.net^
 ||lds.xyz^
 ||ledgerlivewallets.com^
-||ledgerslive.org^
 ||leonoremanry.sa.com^
 ||lericettedifrancy74.com^
 ||lesliespracklen.sa.com^
@@ -960,6 +960,7 @@
 ||um-bs.com^
 ||uni-swap.space^
 ||unifully.com^
+||uniswap-e.com^
 ||uniswap-eth.com^
 ||uniswap-v3.com^
 ||uniswap.cool^
@@ -1168,6 +1169,7 @@
 ||zerowasteinitiative.com^
 ||zhongda.info^
 ||zlibrary.to^
+||zltst.shop^
 ||zobaczfilm.com^
 ||zolrqw.palatlaldate.com^
 ||zooger.space^
