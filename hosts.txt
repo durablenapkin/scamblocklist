@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2693
+# Domains: 2692
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -170,7 +170,6 @@
 0.0.0.0 store.avarik.web.app
 0.0.0.0 avisocnh.co
 0.0.0.0 www.avisocnh.co
-0.0.0.0 avito.avito.avito.sberbank.avito.booking.com-id23901.info
 0.0.0.0 azfancy.com
 0.0.0.0 www.azfancy.com
 0.0.0.0 azsolver.com
@@ -802,7 +801,6 @@
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
 0.0.0.0 www.friday99.com
-0.0.0.0 fridaylocalmanager.duckdns.org
 0.0.0.0 fuehrungszeugnis-service.de
 0.0.0.0 www.fuehrungszeugnis-service.de
 0.0.0.0 fullview.pl
@@ -1204,9 +1202,6 @@
 0.0.0.0 www.lorenzettibrasil-vendas.com
 0.0.0.0 lozly.com
 0.0.0.0 www.lozly.com
-0.0.0.0 lskg.shop
-0.0.0.0 www.lskg.shop
-0.0.0.0 store.lskg.shop
 0.0.0.0 lucatee.com
 0.0.0.0 www.lucatee.com
 0.0.0.0 lucidtiger.com
@@ -1370,6 +1365,8 @@
 0.0.0.0 www.navi30.ru
 0.0.0.0 navi33.com
 0.0.0.0 www.navi33.com
+0.0.0.0 www.navi34.com
+0.0.0.0 navi34.ru
 0.0.0.0 navi35.com
 0.0.0.0 www.navi35.com
 0.0.0.0 navi36.ru
@@ -1381,7 +1378,6 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 www.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1959,6 +1955,9 @@
 0.0.0.0 store.storagestory.com
 0.0.0.0 store-aleteia.org
 0.0.0.0 www.store-aleteia.org
+0.0.0.0 store-uni-app.com
+0.0.0.0 www.store-uni-app.com
+0.0.0.0 store.store-uni-app.com
 0.0.0.0 store25848025.company.site
 0.0.0.0 www.store25848025.company.site
 0.0.0.0 store.store25848025.company.site
