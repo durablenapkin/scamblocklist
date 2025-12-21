@@ -35,7 +35,6 @@
 ||air-up-turkiye.com^
 ||airteltower.com^
 ||airtoff.com^
-||airup-it.shop^
 ||airup-nederland.com^
 ||airup-romania.com^
 ||airupbulgaria.com^
@@ -122,6 +121,7 @@
 ||bisertravel.com.mk^
 ||bite-life.com^
 ||bitsoft360.com^
+||bitsoft360.io^
 ||bitsoft360.net^
 ||black-sales.cloud^
 ||blackabdo.company.site^
@@ -604,7 +604,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi43.com^
 ||navi45.ru^
 ||navi48.com^
@@ -705,7 +704,6 @@
 ||pambi.tech^
 ||pandzee.com^
 ||paquet1nfopabox.com^
-||paquetsuivi7noti.com^
 ||paradisevs.com^
 ||path2zillion.com^
 ||peaveymartca.com^
@@ -778,6 +776,7 @@
 ||sakuradate.com^
 ||sale-friday.cloud^
 ||sale-friday.info^
+||sale-friday.live^
 ||sale-friday.pro^
 ||sale-friday.store^
 ||salimusic.com^
@@ -1102,6 +1101,7 @@
 ||withyotta.com^
 ||woadoodles.com^
 ||worthas.shop^
+||wp3.xyz^
 ||wpad.casa^
 ||wpad.ru^
 ||wpad.top^
@@ -1119,7 +1119,6 @@
 ||xvid.social-previews.top^
 ||yahhhoo.com^
 ||yasir252.com^
-||yeezysofficial.us.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
 ||ygtube.xyz^
