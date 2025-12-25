@@ -5085,6 +5085,9 @@
 0.0.0.0 login.dev.id601294105.date
 0.0.0.0 www.login.dev.id601294105.date
 0.0.0.0 store.login.dev.id601294105.date
+0.0.0.0 login.freedommobile-5g.com
+0.0.0.0 www.login.freedommobile-5g.com
+0.0.0.0 store.login.freedommobile-5g.com
 0.0.0.0 login.home.booking.id38106146.date
 0.0.0.0 www.login.home.booking.id38106146.date
 0.0.0.0 store.login.home.booking.id38106146.date
