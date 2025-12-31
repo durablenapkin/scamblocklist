@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2704
+# Domains: 2705
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -319,7 +319,6 @@
 0.0.0.0 store.btc9339.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
-0.0.0.0 store.buddhakind.com
 0.0.0.0 budm.shop
 0.0.0.0 www.budm.shop
 0.0.0.0 store.budm.shop
@@ -391,6 +390,7 @@
 0.0.0.0 store.claim-uniswap.app
 0.0.0.0 claims-uniswap.app
 0.0.0.0 www.claims-uniswap.app
+0.0.0.0 store.claims-uniswap.app
 0.0.0.0 cluckergifts.ecwid.com
 0.0.0.0 www.cluckergifts.ecwid.com
 0.0.0.0 store.cluckergifts.ecwid.com
@@ -800,9 +800,6 @@
 0.0.0.0 store.freebitcoin.pages.dev
 0.0.0.0 freedom.invoice5g-bill.com
 0.0.0.0 freedom.invoiceid-bill.com
-0.0.0.0 freedom.service-update3.com
-0.0.0.0 www.freedom.service-update3.com
-0.0.0.0 store.freedom.service-update3.com
 0.0.0.0 friday89.com
 0.0.0.0 www.friday89.com
 0.0.0.0 friday99.com
@@ -1381,6 +1378,7 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1534,6 +1532,7 @@
 0.0.0.0 nowefilmyonline.pl
 0.0.0.0 www.nowefilmyonline.pl
 0.0.0.0 nxtgenerator.top
+0.0.0.0 www.nxtgenerator.top
 0.0.0.0 nzxsxn.98kk89.com
 0.0.0.0 oablages.org.br
 0.0.0.0 www.oablages.org.br
@@ -1591,6 +1590,7 @@
 0.0.0.0 outarshop.fi
 0.0.0.0 www.outarshop.fi
 0.0.0.0 store.outarshop.fi
+0.0.0.0 outel.abmarketworks.com
 0.0.0.0 outlet-alfresco.com
 0.0.0.0 www.outlet-alfresco.com
 0.0.0.0 owlala.com
@@ -2437,6 +2437,7 @@
 0.0.0.0 uusilemmikki.com
 0.0.0.0 www.uusilemmikki.com
 0.0.0.0 uydrnhsb.info
+0.0.0.0 v5-uniswap.info
 0.0.0.0 www.v5-uniswap.info
 0.0.0.0 store.v5-uniswap.info
 0.0.0.0 valeofoodsgroup.com

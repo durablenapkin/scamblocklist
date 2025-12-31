@@ -346,7 +346,6 @@
 ||freebitcoin.pages.dev^
 ||freedom.invoice5g-bill.com^
 ||freedom.invoiceid-bill.com^
-||freedom.service-update3.com^
 ||friday89.com^
 ||friday99.com^
 ||fuehrungszeugnis-service.de^
@@ -601,6 +600,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi43.com^
 ||navi45.ru^
 ||navi48.com^
@@ -691,6 +691,7 @@
 ||ontario-energy.com^
 ||orderquilt.com^
 ||outarshop.fi^
+||outel.abmarketworks.com^
 ||outlet-alfresco.com^
 ||owlala.com^
 ||own3d.tv^
