@@ -151,7 +151,6 @@
 ||candlesbymadison.com^
 ||canjaume.com^
 ||caraci.it^
-||carsaratek.com^
 ||casualdating1.com^
 ||cda-pl.pl^
 ||cda-zalukaj.prv.pl^
@@ -346,7 +345,6 @@
 ||freedom.invoiceid-bill.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -528,6 +526,7 @@
 ||lozly.com^
 ||lucatee.com^
 ||lucidtiger.com^
+||lucysstyle.com^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -794,6 +793,7 @@
 ||serialefilmy.pl^
 ||seryna.co^
 ||shapeden.com^
+||shaughixefooz.net^
 ||shirttest.com^
 ||shoeaddic.com^
 ||shopperexpress.shop^
@@ -817,6 +817,7 @@
 ||smartpower4all.org^
 ||smartproduct.site^
 ||smtpget.com^
+||smvisa.co.il^
 ||sodipi.com^
 ||softgetpc.com^
 ||software19797.blogspot.com^
