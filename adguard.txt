@@ -54,6 +54,7 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||amorpulse.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -522,6 +523,7 @@
 ||lozly.com^
 ||lucatee.com^
 ||lucidtiger.com^
+||lucysstyle.com^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -861,7 +863,6 @@
 ||theeaglebrand.company.site^
 ||thehappywood.com^
 ||theneurobalancetherapy.org^
-||thenorthfacegreece.com^
 ||theonepercentcommunity.com^
 ||theshirtyouneed.com^
 ||thevitic.com^
