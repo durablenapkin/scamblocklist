@@ -54,7 +54,6 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||app-uniswapping.org^
 ||appdrive.info^
@@ -342,6 +341,7 @@
 ||freedom.invoiceid-bill.com^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -418,6 +418,7 @@
 ||i-visaindia.com^
 ||iagadvanced.com^
 ||iaqorwr.com^
+||iceao.shop^
 ||icelandclothing.myshopify.com^
 ||ikiha.com^
 ||iklrge.com^
@@ -481,7 +482,6 @@
 ||kidsmama.online^
 ||kigurumi-usa.com^
 ||kingcampoutdoors.co.jp^
-||kino-cda.pl^
 ||kinomaniak.cc^
 ||kinonline.pl^
 ||kisserine.com^
@@ -523,7 +523,6 @@
 ||lozly.com^
 ||lucatee.com^
 ||lucidtiger.com^
-||lucysstyle.com^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -677,7 +676,6 @@
 ||online-eta.com^
 ||onlinecda.pl^
 ||onlinefilmy.pl^
-||onlinekino.pl^
 ||onlinevisa.com^
 ||onlinewideo.pl^
 ||onrunningshop.com^
@@ -993,6 +991,7 @@
 ||uniswapcriterion.net^
 ||uniswapcriterion.org^
 ||uniswapdefi.xyz^
+||uniswapdex.org^
 ||uniswapetf.xyz^
 ||uniswapfund.xyz^
 ||uniswaphub.xyz^
@@ -1133,6 +1132,7 @@
 ||zerowasteinitiative.com^
 ||zhongda.info^
 ||zlibrary.to^
+||zltst.shop^
 ||zobaczfilm.com^
 ||zolrqw.palatlaldate.com^
 ||zooger.space^
