@@ -54,7 +54,6 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||app-uniswapping.org^
@@ -183,7 +182,6 @@
 ||coinreq.com^
 ||colorandcotton.com^
 ||compoundexotics.com^
-||comprehension.unstal.cfd^
 ||confira.io^
 ||coolest3d.com^
 ||coolestpod.com^
@@ -385,6 +383,7 @@
 ||govmedcareers.com^
 ||group-signal.com^
 ||gsport.com^
+||gtlinfrastructurelimited.com^
 ||gtltowerinfratel.in^
 ||gunstee.com^
 ||habilitacao.org^
@@ -416,6 +415,7 @@
 ||iagadvanced.com^
 ||iaqorwr.com^
 ||icelandclothing.myshopify.com^
+||igloaptopto.net^
 ||ikiha.com^
 ||iklrge.com^
 ||ikoee.com^
@@ -911,7 +911,6 @@
 ||uniswap-claim-today.run^
 ||uniswap-claim2024.run^
 ||uniswap-claim24.run^
-||uniswap-e.com^
 ||uniswap-v3.com^
 ||uniswap-wallet.pro^
 ||uniswap.cool^
