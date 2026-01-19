@@ -95,6 +95,7 @@
 ||bertasxt.com^
 ||best-torrents.com^
 ||bestiamos.com^
+||bestpriceonline.store^
 ||bestvod.pl^
 ||big-sale-warehouse.com^
 ||billboardwring.com^
@@ -193,7 +194,6 @@
 ||crocssalenz.com^
 ||crypto030.online^
 ||cryptot.net^
-||cshrewards.net^
 ||cual3up029pc73fi5jug.ucapsidop.info^
 ||customizerbox.com^
 ||customurink.com^
@@ -220,7 +220,6 @@
 ||denatranotificacao.co^
 ||designbyus.online^
 ||desiupload.in^
-||detranboletim.co^
 ||devifoodgrains.com^
 ||dezpez.com^
 ||dieserbenni.ru^
@@ -520,7 +519,6 @@
 ||lozly.com^
 ||lucatee.com^
 ||lucidtiger.com^
-||lucysstyle.com^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -700,7 +698,6 @@
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
-||phototan-cdirect.info^
 ||phototan.net^
 ||pinjamanelit.top^
 ||pinjamteman.top^
