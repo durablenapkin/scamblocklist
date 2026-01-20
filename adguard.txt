@@ -95,7 +95,6 @@
 ||bertasxt.com^
 ||best-torrents.com^
 ||bestiamos.com^
-||bestpriceonline.store^
 ||bestvod.pl^
 ||big-sale-warehouse.com^
 ||billboardwring.com^
@@ -220,6 +219,7 @@
 ||denatranotificacao.co^
 ||designbyus.online^
 ||desiupload.in^
+||detranboletim.co^
 ||devifoodgrains.com^
 ||dezpez.com^
 ||dieserbenni.ru^
@@ -317,7 +317,6 @@
 ||filmy-online.eu^
 ||filmy24.cc^
 ||filser.pl^
-||find-vod.com^
 ||find-vod.com.pl^
 ||findglocal.com^
 ||finnews7.wordpress.com^
@@ -337,6 +336,7 @@
 ||freedom.invoiceid-bill.com^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -380,7 +380,6 @@
 ||gossvibe.com^
 ||gotoperfection.com^
 ||govmedcareers.com^
-||group-signal.com^
 ||gsport.com^
 ||gtlinfrastructurelimited.com^
 ||gtltowerinfratel.in^
@@ -797,7 +796,6 @@
 ||softgetpc.com^
 ||software19797.blogspot.com^
 ||softzspot.com^
-||solution7energieqc.com^
 ||somethingapparel.com^
 ||souhoney.com^
 ||southernlife.net^
@@ -1003,7 +1001,6 @@
 ||upnews.me^
 ||uprising.kip.pro^
 ||ureashi.com^
-||uscampinghiking.com^
 ||uschse04.my03.com^
 ||uusilemmikki.com^
 ||uydrnhsb.info^
