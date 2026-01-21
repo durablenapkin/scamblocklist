@@ -54,6 +54,7 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||amorpulse.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||app-uniswapping.org^
@@ -67,7 +68,6 @@
 ||asvbaen.info^
 ||atlaspvs.com^
 ||atrendsz.com^
-||attenstyle.com^
 ||audiosg.com.sg^
 ||augusthenri.be^
 ||aussiesportfashion.com^
@@ -336,7 +336,6 @@
 ||freedom.invoiceid-bill.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -779,6 +778,7 @@
 ||shy-boat-90ce.jiko728928922.workers.dev^
 ||sieuto.com^
 ||sigmaoffers.com^
+||signal-group-add.com^
 ||signals-group.com^
 ||signpify.com^
 ||singingfiles.com^
