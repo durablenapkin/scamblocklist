@@ -57,7 +57,6 @@
 ||amorpulse.com^
 ||anydebrid.com^
 ||aoptee.com^
-||app-uniswapping.org^
 ||appdrive.info^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
@@ -629,6 +628,7 @@
 ||nip46.com^
 ||nip5.com^
 ||nip57.com^
+||nip9.com^
 ||nirvezal.com^
 ||nobrerefino.com^
 ||nofotballshop.com^
@@ -703,6 +703,7 @@
 ||powerboostup.com^
 ||prawdziwefilmy.pl^
 ||premiumqualityblanket.com^
+||primakovreadings.info^
 ||primeleech.com^
 ||primevod.pl^
 ||printteestore.com^
@@ -818,6 +819,7 @@
 ||summersale.online^
 ||sunsetstore.net^
 ||supercutestuff.com^
+||superitee.com^
 ||superuniswap.xyz^
 ||supperbrand.company.site^
 ||survivalcatsupply.com^
@@ -896,11 +898,8 @@
 ||uniswap.markets^
 ||uniswap.ro^
 ||uniswap0120.com^
-||uniswap1.online^
-||uniswap1.site^
 ||uniswap100x.xyz^
 ||uniswap10x.xyz^
-||uniswap2.online^
 ||uniswap2025.xyz^
 ||uniswap3.buzz^
 ||uniswap3.click^
@@ -923,12 +922,9 @@
 ||uniswap7.buzz^
 ||uniswap7.click^
 ||uniswap7.life^
-||uniswap7.online^
 ||uniswap7.site^
 ||uniswap7.space^
 ||uniswap7.tech^
-||uniswap7.website^
-||uniswap7.xyz^
 ||uniswap777.xyz^
 ||uniswapagent.com^
 ||uniswapai.xyz^
