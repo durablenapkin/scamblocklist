@@ -27,6 +27,7 @@
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
 ||account.ws-reward.com^
+||add-signal-group.com^
 ||adidasko.com^
 ||adminicesm.life^
 ||affordableforyouusa5.godaddysites.com^
@@ -454,6 +455,7 @@
 ||karanpcofficial.blogspot.com^
 ||keenfootwearsale.com^
 ||kesug.com^
+||kidsmama.online^
 ||kigurumi-usa.com^
 ||kingcampoutdoors.co.jp^
 ||kino-cda.pl^
@@ -504,6 +506,7 @@
 ||mail.zalukaj.cc^
 ||malgorzataschlegel.click^
 ||mango-desert-09ebb4010.4.azurestaticapps.net^
+||mansion-xenarthran.info^
 ||maxdebrid.com^
 ||mayor4london.com^
 ||mcds100.com^
@@ -762,6 +765,8 @@
 ||shy-boat-90ce.jiko728928922.workers.dev^
 ||sieuto.com^
 ||sigmaoffers.com^
+||signal-group-add.com^
+||signal-groups-add.com^
 ||signpify.com^
 ||singingfiles.com^
 ||singleflirt.com^
@@ -823,6 +828,7 @@
 ||taramatikarou.com^
 ||tartannewzealand.myshopify.com^
 ||tbao684tryo.com^
+||tee24h.com^
 ||teearrow.com^
 ||teezill.com^
 ||telegramweb.vercel.app^
@@ -881,6 +887,7 @@
 ||ultimate-tech-products.myshopify.com^
 ||ultra-cda.pl^
 ||ultrasonica.info^
+||uni-swap.space^
 ||unifully.com^
 ||uniswap-claim-gold.run^
 ||uniswap-claim-today.run^
@@ -891,15 +898,7 @@
 ||uniswap100x.xyz^
 ||uniswap10x.xyz^
 ||uniswap2025.xyz^
-||uniswap3.online^
-||uniswap3.site^
-||uniswap3.tech^
 ||uniswap365.xyz^
-||uniswap5.online^
-||uniswap5.website^
-||uniswap5.xyz^
-||uniswap7.site^
-||uniswap7.tech^
 ||uniswap777.xyz^
 ||uniswapagent.com^
 ||uniswapai.xyz^
@@ -930,7 +929,6 @@
 ||uniswaptoken.xyz^
 ||uniswaptrading.xyz^
 ||uniswapv3.xyz^
-||uniswapwallletconnect.su^
 ||universityofqatarrectorate.godaddysites.com^
 ||updatesnow.click^
 ||uplevelreward.com^
@@ -1031,6 +1029,7 @@
 ||youutube.com^
 ||ytvancedpro.com^
 ||yuaonew.com^
+||z-lib.id^
 ||z-lib.is^
 ||zalukaj-film.pl^
 ||zalukaj-pl.tv^
