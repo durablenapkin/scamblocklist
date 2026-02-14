@@ -26,6 +26,7 @@
 ||93mobiles.com^
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
+||add-signal-group.com^
 ||adflowtube.com^
 ||adidasko.com^
 ||adminicesm.life^
@@ -243,7 +244,6 @@
 ||e-visaindia.com^
 ||e-visaindiaonline.com^
 ||e-visums.nl^
-||easynatures.com^
 ||ecomicrolab.com^
 ||ecs-online.ffm.to^
 ||edecher.com^
@@ -322,7 +322,6 @@
 ||freebitcoin.pages.dev^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -482,7 +481,6 @@
 ||leonoremanry.sa.com^
 ||lericettedifrancy74.com^
 ||lesliespracklen.sa.com^
-||levelbash.com^
 ||levelupstore.xyz^
 ||lifestyletrading.co.za^
 ||ligerking.com^
@@ -682,6 +680,7 @@
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
+||phototan-unterstutzung.win^
 ||phototan.net^
 ||pinjamanelit.top^
 ||pinjamanrupiah.xyz^
@@ -767,7 +766,6 @@
 ||sieuto.com^
 ||sigmaoffers.com^
 ||signal-group-add.com^
-||signal-groups-add.com^
 ||signpify.com^
 ||singingfiles.com^
 ||singleflirt.com^
@@ -889,7 +887,6 @@
 ||ultimate-tech-products.myshopify.com^
 ||ultra-cda.pl^
 ||ultrasonica.info^
-||uni-swap.space^
 ||unifully.com^
 ||uniswap-claim-today.run^
 ||uniswap-v3.com^
