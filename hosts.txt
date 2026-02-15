@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2461
+# Domains: 2449
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -52,7 +52,6 @@
 0.0.0.0 www.93mobiles.com
 0.0.0.0 9vyzdk8.lvditoys.com
 0.0.0.0 9vzn29.98kk89.com
-0.0.0.0 add-signal-group.com
 0.0.0.0 adflowtube.com
 0.0.0.0 www.adflowtube.com
 0.0.0.0 adidasko.com
@@ -105,9 +104,6 @@
 0.0.0.0 allnewsready.com
 0.0.0.0 www.allnewsready.com
 0.0.0.0 store.allnewsready.com
-0.0.0.0 allocation-uniswap.co
-0.0.0.0 www.allocation-uniswap.co
-0.0.0.0 store.allocation-uniswap.co
 0.0.0.0 allstarshirt.com
 0.0.0.0 www.allstarshirt.com
 0.0.0.0 allupdatenow.com
@@ -202,7 +198,6 @@
 0.0.0.0 store.benecharm.com
 0.0.0.0 benxi.info
 0.0.0.0 www.benxi.info
-0.0.0.0 store.benxi.info
 0.0.0.0 bertasxt.com
 0.0.0.0 www.bertasxt.com
 0.0.0.0 store.bertasxt.com
@@ -1308,7 +1303,7 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 navi42.ru
+0.0.0.0 www.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1349,7 +1344,6 @@
 0.0.0.0 navi8.com
 0.0.0.0 www.navi8.com
 0.0.0.0 navi85.com
-0.0.0.0 www.navi86.ru
 0.0.0.0 navi88.com
 0.0.0.0 www.navi88.com
 0.0.0.0 store.navi88.com
@@ -1765,7 +1759,6 @@
 0.0.0.0 www.sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
-0.0.0.0 signal-group-add.com
 0.0.0.0 signpify.com
 0.0.0.0 www.signpify.com
 0.0.0.0 store.signpify.com
@@ -2038,9 +2031,7 @@
 0.0.0.0 twitterr.com
 0.0.0.0 www.twitterr.com
 0.0.0.0 store.twitterr.com
-0.0.0.0 ucapsidop.info
 0.0.0.0 www.ucapsidop.info
-0.0.0.0 store.ucapsidop.info
 0.0.0.0 ucureo.com
 0.0.0.0 www.ucureo.com
 0.0.0.0 store.ucureo.com
@@ -2338,9 +2329,6 @@
 0.0.0.0 wpad.top
 0.0.0.0 wpad.xyz
 0.0.0.0 wpclick.cc
-0.0.0.0 ws.existingcustomer.live
-0.0.0.0 www.ws.existingcustomer.live
-0.0.0.0 store.ws.existingcustomer.live
 0.0.0.0 wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 www.ww25.utilify.me
