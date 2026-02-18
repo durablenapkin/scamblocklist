@@ -172,6 +172,7 @@
 ||commerz-phototans.com^
 ||compoundexotics.com^
 ||confira.io^
+||containably.com^
 ||coolest3d.com^
 ||coolestpod.com^
 ||corg.co^
@@ -253,6 +254,7 @@
 ||eslgrandscup.com^
 ||estiloserena.com.br^
 ||etaindia.org^
+||etv-in.com^
 ||eudoraz.com^
 ||eudshop.shop^
 ||eventmusk-x.com^
@@ -293,7 +295,6 @@
 ||filexstorage.site^
 ||fili-cc.tv^
 ||filman-hd.cc^
-||filmersi.pl^
 ||filmhit.pl^
 ||filmhunt.pl^
 ||filmo.agency^
@@ -712,7 +713,6 @@
 ||quoka.dk9zc9.pro^
 ||quotex.com.in^
 ||regularizedenatran.co^
-||remessacorreio.site^
 ||resources4gaming.com^
 ||revanced-extended.com^
 ||revancedmusic.com^
@@ -908,7 +908,6 @@
 ||uniswaps-v3.net^
 ||uniswapsupport.online^
 ||uniswapv3.xyz^
-||uniswapwallletconnect.su^
 ||universityofqatarrectorate.godaddysites.com^
 ||updatesnow.click^
 ||uplevelreward.com^
@@ -1007,7 +1006,6 @@
 ||youutube.com^
 ||ytvancedpro.com^
 ||yuaonew.com^
-||z-lib.id^
 ||z-lib.is^
 ||zalukaj-film.pl^
 ||zalukaj-pl.tv^
