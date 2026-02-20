@@ -186,6 +186,7 @@
 ||cual3up029pc73fi5jug.ucapsidop.info^
 ||customizerbox.com^
 ||customurink.com^
+||cuteclub.org^
 ||cutty.app^
 ||cycle100percent.com^
 ||czasnakino.pl^
@@ -245,6 +246,7 @@
 ||edgeupgrade.com^
 ||edwardjhutley107375938786edwardjrhutley70205433153583usps.com^
 ||ekommmedia.com^
+||elitestrustonline.biz^
 ||emberio.com^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
@@ -451,7 +453,6 @@
 ||kidsmama.online^
 ||kigurumi-usa.com^
 ||kingcampoutdoors.co.jp^
-||kino-cda.pl^
 ||kinomaniak.cc^
 ||kinonline.pl^
 ||kisserine.com^
@@ -515,6 +516,7 @@
 ||modalsaya.xyz^
 ||moddetail.com^
 ||modmobile24.com^
+||monkstars.co^
 ||monkstars.com^
 ||mot73yi07.info^
 ||ms-analytics.mywire.org^
@@ -602,7 +604,6 @@
 ||nextstephire.net^
 ||nicelegant.com^
 ||niche3d.us^
-||ninzatool.pw^
 ||nip1.com^
 ||nip17.com^
 ||nip2.com^
@@ -625,7 +626,6 @@
 ||norfotball.com^
 ||norgeshoes.com^
 ||nosdaarte.com^
-||notasdenatran.co^
 ||notify-user-adjustments.vercel.app^
 ||novabeds.ca^
 ||nowefilmyonline.pl^
@@ -703,13 +703,11 @@
 ||printteestore.com^
 ||promoalfresco.com^
 ||promotion40-form.com^
-||providedexcitingcritical.pro^
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||qq51f.short.gy^
 ||qriedf.info^
 ||quoka.dk9zc9.pro^
 ||quotex.com.in^
-||regularizedenatran.co^
 ||resources4gaming.com^
 ||revanced-extended.com^
 ||revancedmusic.com^
@@ -884,8 +882,6 @@
 ||ultrasonica.info^
 ||uni-swap.space^
 ||unifully.com^
-||uniswap-claim-today.run^
-||uniswap-v3.com^
 ||uniswap-wallet.pro^
 ||uniswap.host^
 ||uniswap.ro^
@@ -897,8 +893,6 @@
 ||uniswapcriterion.com^
 ||uniswapcriterion.net^
 ||uniswapcriterion.org^
-||uniswaplender.xyz^
-||uniswaplending.xyz^
 ||uniswapr.org^
 ||uniswaps-v3.net^
 ||uniswapsupport.online^

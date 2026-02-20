@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2402
+# Domains: 2376
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -156,7 +156,6 @@
 0.0.0.0 avisocnh.co
 0.0.0.0 www.avisocnh.co
 0.0.0.0 store.avisocnh.co
-0.0.0.0 avito.avito.avito.avito.www.booking.com-id01251.info
 0.0.0.0 azfancy.com
 0.0.0.0 www.azfancy.com
 0.0.0.0 azsolver.com
@@ -436,6 +435,8 @@
 0.0.0.0 store.customizerbox.com
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
+0.0.0.0 cuteclub.org
+0.0.0.0 www.cuteclub.org
 0.0.0.0 cutty.app
 0.0.0.0 www.cutty.app
 0.0.0.0 store.cutty.app
@@ -572,6 +573,7 @@
 0.0.0.0 www.edwardjhutley107375938786edwardjrhutley70205433153583usps.com
 0.0.0.0 ekommmedia.com
 0.0.0.0 www.ekommmedia.com
+0.0.0.0 elitestrustonline.biz
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 store.emberio.com
@@ -748,6 +750,7 @@
 0.0.0.0 fundanemt.org
 0.0.0.0 www.fundanemt.org
 0.0.0.0 funfilenow.com
+0.0.0.0 www.funfilenow.com
 0.0.0.0 store.funfilenow.com
 0.0.0.0 furnishmyhome.ca
 0.0.0.0 www.furnishmyhome.ca
@@ -821,7 +824,6 @@
 0.0.0.0 store.gload.info
 0.0.0.0 globalvisacorp.com
 0.0.0.0 www.globalvisacorp.com
-0.0.0.0 goglle.com
 0.0.0.0 www.goglle.com
 0.0.0.0 store.goglle.com
 0.0.0.0 goindiavisa.com
@@ -871,7 +873,6 @@
 0.0.0.0 www.hindustantowergroupltd.com
 0.0.0.0 hippie-pets.com
 0.0.0.0 www.hippie-pets.com
-0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
 0.0.0.0 hostpoco.com
@@ -1042,9 +1043,6 @@
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 kingcampoutdoors.co.jp
 0.0.0.0 www.kingcampoutdoors.co.jp
-0.0.0.0 kino-cda.pl
-0.0.0.0 www.kino-cda.pl
-0.0.0.0 store.kino-cda.pl
 0.0.0.0 kinomaniak.cc
 0.0.0.0 www.kinomaniak.cc
 0.0.0.0 store.kinomaniak.cc
@@ -1188,6 +1186,7 @@
 0.0.0.0 modmobile24.com
 0.0.0.0 www.modmobile24.com
 0.0.0.0 store.modmobile24.com
+0.0.0.0 store.monkstars.co
 0.0.0.0 monkstars.com
 0.0.0.0 www.monkstars.com
 0.0.0.0 mot73yi07.info
@@ -1306,9 +1305,7 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 navi42.ru
 0.0.0.0 www.navi42.ru
-0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1396,9 +1393,6 @@
 0.0.0.0 www.nicelegant.com
 0.0.0.0 niche3d.us
 0.0.0.0 www.niche3d.us
-0.0.0.0 ninzatool.pw
-0.0.0.0 www.ninzatool.pw
-0.0.0.0 store.ninzatool.pw
 0.0.0.0 nip1.com
 0.0.0.0 www.nip1.com
 0.0.0.0 nip17.com
@@ -1452,9 +1446,6 @@
 0.0.0.0 store.norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
-0.0.0.0 notasdenatran.co
-0.0.0.0 www.notasdenatran.co
-0.0.0.0 store.notasdenatran.co
 0.0.0.0 notify-user-adjustments.vercel.app
 0.0.0.0 www.notify-user-adjustments.vercel.app
 0.0.0.0 store.notify-user-adjustments.vercel.app
@@ -1631,9 +1622,6 @@
 0.0.0.0 www.promoalfresco.com
 0.0.0.0 promotion40-form.com
 0.0.0.0 www.promotion40-form.com
-0.0.0.0 providedexcitingcritical.pro
-0.0.0.0 www.providedexcitingcritical.pro
-0.0.0.0 store.providedexcitingcritical.pro
 0.0.0.0 pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
 0.0.0.0 www.pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
 0.0.0.0 store.pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
@@ -1648,9 +1636,6 @@
 0.0.0.0 store.quoka.dk9zc9.pro
 0.0.0.0 quotex.com.in
 0.0.0.0 www.quotex.com.in
-0.0.0.0 regularizedenatran.co
-0.0.0.0 www.regularizedenatran.co
-0.0.0.0 store.regularizedenatran.co
 0.0.0.0 resources4gaming.com
 0.0.0.0 www.resources4gaming.com
 0.0.0.0 store.resources4gaming.com
@@ -1711,9 +1696,8 @@
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
-0.0.0.0 sber.pay.pay.www.booking.com-id20341.info
-0.0.0.0 www.sberbank.pay.booking.com-id9523416.com
-0.0.0.0 www.sberbank.www.booking.com-id3212341.info
+0.0.0.0 store.sber.pay.pay.www.booking.com-id20341.info
+0.0.0.0 store.sberbank.b00king.com-id16313.info
 0.0.0.0 seagulltee.com
 0.0.0.0 www.seagulltee.com
 0.0.0.0 seans24.com.pl
@@ -2023,7 +2007,9 @@
 0.0.0.0 store.trnzu.info
 0.0.0.0 tromselementbygg.no
 0.0.0.0 www.tromselementbygg.no
+0.0.0.0 trumpsupport.help
 0.0.0.0 www.trumpsupport.help
+0.0.0.0 store.trumpsupport.help
 0.0.0.0 trusltwcllet.com
 0.0.0.0 www.trusltwcllet.com
 0.0.0.0 store.trusltwcllet.com
@@ -2070,12 +2056,6 @@
 0.0.0.0 unifully.com
 0.0.0.0 www.unifully.com
 0.0.0.0 store.unifully.com
-0.0.0.0 uniswap-claim-today.run
-0.0.0.0 www.uniswap-claim-today.run
-0.0.0.0 store.uniswap-claim-today.run
-0.0.0.0 uniswap-v3.com
-0.0.0.0 www.uniswap-v3.com
-0.0.0.0 store.uniswap-v3.com
 0.0.0.0 uniswap-wallet.pro
 0.0.0.0 www.uniswap-wallet.pro
 0.0.0.0 store.uniswap-wallet.pro
@@ -2102,12 +2082,6 @@
 0.0.0.0 store.uniswapcriterion.net
 0.0.0.0 www.uniswapcriterion.org
 0.0.0.0 store.uniswapcriterion.org
-0.0.0.0 uniswaplender.xyz
-0.0.0.0 www.uniswaplender.xyz
-0.0.0.0 store.uniswaplender.xyz
-0.0.0.0 uniswaplending.xyz
-0.0.0.0 www.uniswaplending.xyz
-0.0.0.0 store.uniswaplending.xyz
 0.0.0.0 uniswapr.org
 0.0.0.0 www.uniswapr.org
 0.0.0.0 store.uniswapr.org
