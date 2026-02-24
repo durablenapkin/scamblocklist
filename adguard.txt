@@ -61,7 +61,6 @@
 ||asvbaen.info^
 ||atlaspvs.com^
 ||atrendsz.com^
-||attenstyle.com^
 ||audiosg.com.sg^
 ||augusthenri.be^
 ||aussiesportfashion.com^
@@ -490,7 +489,6 @@
 ||lozly.com^
 ||lucatee.com^
 ||lucidtiger.com^
-||lucysstyle.com^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -506,6 +504,7 @@
 ||megoindonesia.com^
 ||microngroup.pro^
 ||microsoft-notifcation.com^
+||microsoft.teams-live.com^
 ||miles.plumenetwork.xyz^
 ||milgenial.uy^
 ||miucart.com^
@@ -885,7 +884,6 @@
 ||uniswapcriterion.net^
 ||uniswapcriterion.org^
 ||uniswapsupport.online^
-||uniswapv3.xyz^
 ||universityofqatarrectorate.godaddysites.com^
 ||updatesnow.click^
 ||uplevelreward.com^
