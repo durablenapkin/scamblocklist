@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2325
+# Domains: 2328
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -103,6 +103,7 @@
 0.0.0.0 allupdatenow.com
 0.0.0.0 alphatowercompany.in
 0.0.0.0 www.alphatowercompany.in
+0.0.0.0 store.alphatowercompany.in
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
 0.0.0.0 altwi-zgs.com
@@ -192,6 +193,7 @@
 0.0.0.0 store.benecharm.com
 0.0.0.0 benxi.info
 0.0.0.0 www.benxi.info
+0.0.0.0 store.benxi.info
 0.0.0.0 bertasxt.com
 0.0.0.0 www.bertasxt.com
 0.0.0.0 store.bertasxt.com
@@ -389,9 +391,6 @@
 0.0.0.0 coiincmi.com
 0.0.0.0 www.coiincmi.com
 0.0.0.0 store.coiincmi.com
-0.0.0.0 coinaps.com
-0.0.0.0 www.coinaps.com
-0.0.0.0 store.coinaps.com
 0.0.0.0 coinreq.com
 0.0.0.0 www.coinreq.com
 0.0.0.0 store.coinreq.com
@@ -700,6 +699,8 @@
 0.0.0.0 filser.pl
 0.0.0.0 www.filser.pl
 0.0.0.0 store.filser.pl
+0.0.0.0 find-vod.com
+0.0.0.0 www.find-vod.com
 0.0.0.0 find-vod.com.pl
 0.0.0.0 www.find-vod.com.pl
 0.0.0.0 findglocal.com
@@ -1133,7 +1134,6 @@
 0.0.0.0 store.mail-cytanet.pages.dev
 0.0.0.0 mail.zalukaj.cc
 0.0.0.0 malgorzataschlegel.click
-0.0.0.0 www.malgorzataschlegel.click
 0.0.0.0 store.malgorzataschlegel.click
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
 0.0.0.0 www.mango-desert-09ebb4010.4.azurestaticapps.net
@@ -1290,6 +1290,7 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
+0.0.0.0 www.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1531,6 +1532,7 @@
 0.0.0.0 www.personal84.com
 0.0.0.0 petparty.store
 0.0.0.0 www.petparty.store
+0.0.0.0 store.petparty.store
 0.0.0.0 pharaohstore.com
 0.0.0.0 www.pharaohstore.com
 0.0.0.0 phgliders.com
@@ -1538,6 +1540,7 @@
 0.0.0.0 philsshorthairorientalkittens.com
 0.0.0.0 www.philsshorthairorientalkittens.com
 0.0.0.0 phototan-unterstutzung.win
+0.0.0.0 www.phototan-unterstutzung.win
 0.0.0.0 store.phototan-unterstutzung.win
 0.0.0.0 phototan.net
 0.0.0.0 www.phototan.net
@@ -1675,6 +1678,7 @@
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
+0.0.0.0 www.sber.avito.pay.www.booking.com-id15421.info
 0.0.0.0 seagulltee.com
 0.0.0.0 www.seagulltee.com
 0.0.0.0 seans24.com.pl
@@ -1980,9 +1984,6 @@
 0.0.0.0 www.tripinpremiumsnacks.com
 0.0.0.0 store.tripinpremiumsnacks.com
 0.0.0.0 trkucibqy.com
-0.0.0.0 trnzu.info
-0.0.0.0 www.trnzu.info
-0.0.0.0 store.trnzu.info
 0.0.0.0 tromselementbygg.no
 0.0.0.0 www.tromselementbygg.no
 0.0.0.0 trumpsupport.help
@@ -2039,10 +2040,6 @@
 0.0.0.0 store.uniswap.ro
 0.0.0.0 uniswapagent.com
 0.0.0.0 www.uniswapagent.com
-0.0.0.0 www.uniswapcriteria.org
-0.0.0.0 store.uniswapcriteria.org
-0.0.0.0 www.uniswapcriterion.org
-0.0.0.0 store.uniswapcriterion.org
 0.0.0.0 uniswapsupport.online
 0.0.0.0 universityofqatarrectorate.godaddysites.com
 0.0.0.0 www.universityofqatarrectorate.godaddysites.com
@@ -2154,6 +2151,9 @@
 0.0.0.0 vod.film
 0.0.0.0 www.vod.film
 0.0.0.0 store.vod.film
+0.0.0.0 vodfix.pl
+0.0.0.0 www.vodfix.pl
+0.0.0.0 store.vodfix.pl
 0.0.0.0 vodlist.com
 0.0.0.0 www.vodlist.com
 0.0.0.0 volcomofficial.com
@@ -2209,6 +2209,7 @@
 0.0.0.0 wpad.xyz
 0.0.0.0 wpclick.cc
 0.0.0.0 wuqrie.info
+0.0.0.0 www.wuqrie.info
 0.0.0.0 store.wuqrie.info
 0.0.0.0 ww25.utilify.me
 0.0.0.0 www.ww25.utilify.me
@@ -2235,6 +2236,8 @@
 0.0.0.0 store.yahhhoo.com
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
+0.0.0.0 yeezysofficial.us.com
+0.0.0.0 www.yeezysofficial.us.com
 0.0.0.0 store.yeezysofficial.us.com
 0.0.0.0 yeswevibe.com
 0.0.0.0 www.yeswevibe.com
