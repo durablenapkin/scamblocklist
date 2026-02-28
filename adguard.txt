@@ -50,6 +50,7 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||amorpulse.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||appdrive.info^
@@ -214,6 +215,7 @@
 ||distrochooser.snehit.dev^
 ||distryct.shop^
 ||diteringion.com^
+||diytsi.shop^
 ||dkfodboldstore.com^
 ||dleggere.com^
 ||dogparadiseshop.com^
@@ -312,7 +314,6 @@
 ||flwzen.com^
 ||folkrbvi.pages.dev^
 ||food-network.fwh.is^
-||foreveusps.com^
 ||freebitcoin.pages.dev^
 ||friday89.com^
 ||friday99.com^
@@ -488,7 +489,9 @@
 ||lorenzettibrasil-vendas.com^
 ||lozly.com^
 ||lucatee.com^
+||lucchesesale.shop^
 ||lucidtiger.com^
+||lucysstyle.com^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -514,7 +517,6 @@
 ||monkstars.com^
 ||mot73yi07.info^
 ||ms-analytics.mywire.org^
-||ms-defender-analytics.line.pm^
 ||msl-cf.id^
 ||mslfgl434.pages.dev^
 ||mujib-store28.blogspot.com^
@@ -558,7 +560,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi43.com^
 ||navi45.ru^
 ||navi48.com^
