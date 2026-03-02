@@ -1836,6 +1836,9 @@
 0.0.0.0 burtonrefund.info
 0.0.0.0 www.burtonrefund.info
 0.0.0.0 store.burtonrefund.info
+0.0.0.0 buttcoin.guru
+0.0.0.0 www.buttcoin.guru
+0.0.0.0 store.buttcoin.guru
 0.0.0.0 buydubuy.com
 0.0.0.0 www.buydubuy.com
 0.0.0.0 store.buydubuy.com
@@ -8919,6 +8922,9 @@
 0.0.0.0 pumb.fasterpays.me
 0.0.0.0 www.pumb.fasterpays.me
 0.0.0.0 store.pumb.fasterpays.me
+0.0.0.0 punchonsol.top
+0.0.0.0 www.punchonsol.top
+0.0.0.0 store.punchonsol.top
 0.0.0.0 punyauang.xyz
 0.0.0.0 www.punyauang.xyz
 0.0.0.0 store.punyauang.xyz
@@ -13251,6 +13257,9 @@
 0.0.0.0 unitedglobal-logistics.com
 0.0.0.0 www.unitedglobal-logistics.com
 0.0.0.0 store.unitedglobal-logistics.com
+0.0.0.0 universelscammerlists.com
+0.0.0.0 www.universelscammerlists.com
+0.0.0.0 store.universelscammerlists.com
 0.0.0.0 universityofqatarrectorate.godaddysites.com
 0.0.0.0 www.universityofqatarrectorate.godaddysites.com
 0.0.0.0 store.universityofqatarrectorate.godaddysites.com
@@ -13599,6 +13608,9 @@
 0.0.0.0 warm-gifts.com
 0.0.0.0 www.warm-gifts.com
 0.0.0.0 store.warm-gifts.com
+0.0.0.0 waronsol.top
+0.0.0.0 www.waronsol.top
+0.0.0.0 store.waronsol.top
 0.0.0.0 warriordecor.com
 0.0.0.0 www.warriordecor.com
 0.0.0.0 store.warriordecor.com
