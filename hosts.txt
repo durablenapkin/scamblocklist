@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2308
+# Domains: 2300
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -41,7 +41,10 @@
 0.0.0.0 9vyzdk8.lvditoys.com
 0.0.0.0 9vzn29.98kk89.com
 0.0.0.0 add-signal-group.com
+0.0.0.0 store.add-signal-group.com
 0.0.0.0 add-signal-groups.com
+0.0.0.0 www.add-signal-groups.com
+0.0.0.0 store.add-signal-groups.com
 0.0.0.0 adflowtube.com
 0.0.0.0 www.adflowtube.com
 0.0.0.0 adidasko.com
@@ -776,6 +779,7 @@
 0.0.0.0 gearhuman.com
 0.0.0.0 gearstastic.com
 0.0.0.0 www.gearstastic.com
+0.0.0.0 gearver.com
 0.0.0.0 www.gearver.com
 0.0.0.0 store.gearver.com
 0.0.0.0 geekupdates.notion.site
@@ -860,6 +864,9 @@
 0.0.0.0 www.hindustantowergroupltd.com
 0.0.0.0 hippie-pets.com
 0.0.0.0 www.hippie-pets.com
+0.0.0.0 hityvod.pl
+0.0.0.0 www.hityvod.pl
+0.0.0.0 store.hityvod.pl
 0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
@@ -889,7 +896,6 @@
 0.0.0.0 www.i-grade.online
 0.0.0.0 i-visaindia.com
 0.0.0.0 www.i-visaindia.com
-0.0.0.0 store.i-visaindia.com
 0.0.0.0 iagadvanced.com
 0.0.0.0 www.iagadvanced.com
 0.0.0.0 iaqorwr.com
@@ -929,6 +935,7 @@
 0.0.0.0 www.indiaevisaservice.com
 0.0.0.0 indiaimmigration.org
 0.0.0.0 www.indiaimmigration.org
+0.0.0.0 indian-e-visa.com
 0.0.0.0 www.indian-e-visa.com
 0.0.0.0 indian-evisa.com
 0.0.0.0 www.indian-evisa.com
@@ -1066,9 +1073,6 @@
 0.0.0.0 www.kopisusu.co.id
 0.0.0.0 kra18.com
 0.0.0.0 www.kra18.com
-0.0.0.0 krediteksklusif.com
-0.0.0.0 www.krediteksklusif.com
-0.0.0.0 store.krediteksklusif.com
 0.0.0.0 kuyhaa.cc
 0.0.0.0 www.kuyhaa.cc
 0.0.0.0 lasercutjewelry.net
@@ -1213,9 +1217,6 @@
 0.0.0.0 nalzahqp.page.link
 0.0.0.0 www.nalzahqp.page.link
 0.0.0.0 store.nalzahqp.page.link
-0.0.0.0 natilove.com
-0.0.0.0 www.natilove.com
-0.0.0.0 store.natilove.com
 0.0.0.0 nationaladvancegroup.com
 0.0.0.0 www.nationaladvancegroup.com
 0.0.0.0 natvisa.com
@@ -1282,8 +1283,6 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 navi42.ru
-0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1587,6 +1586,7 @@
 0.0.0.0 store.primevod.pl
 0.0.0.0 printteestore.com
 0.0.0.0 www.printteestore.com
+0.0.0.0 store.printteestore.com
 0.0.0.0 promoalfresco.com
 0.0.0.0 www.promoalfresco.com
 0.0.0.0 promotion40-form.com
@@ -1641,9 +1641,6 @@
 0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 www.rsaonlinenow.com.au
 0.0.0.0 store.rsaonlinenow.com.au
-0.0.0.0 rupiahlagi.com
-0.0.0.0 www.rupiahlagi.com
-0.0.0.0 store.rupiahlagi.com
 0.0.0.0 rupiahsaku.com
 0.0.0.0 www.rupiahsaku.com
 0.0.0.0 rustdesk.co.nz
@@ -1725,9 +1722,6 @@
 0.0.0.0 www.sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
-0.0.0.0 signal-groups-add.com
-0.0.0.0 www.signal-groups-add.com
-0.0.0.0 store.signal-groups-add.com
 0.0.0.0 signpify.com
 0.0.0.0 www.signpify.com
 0.0.0.0 store.signpify.com
@@ -1935,7 +1929,6 @@
 0.0.0.0 www.towerdepartment.com
 0.0.0.0 townaptdesk.info
 0.0.0.0 www.townaptdesk.info
-0.0.0.0 store.townaptdesk.info
 0.0.0.0 toyrube.com
 0.0.0.0 www.toyrube.com
 0.0.0.0 store.toyrube.com
@@ -2012,7 +2005,6 @@
 0.0.0.0 unifully.com
 0.0.0.0 www.unifully.com
 0.0.0.0 store.unifully.com
-0.0.0.0 uniswap-claim-today.run
 0.0.0.0 uniswap.host
 0.0.0.0 www.uniswap.host
 0.0.0.0 store.uniswap.host
