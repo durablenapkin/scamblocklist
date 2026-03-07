@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2296
+# Domains: 2301
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -41,7 +41,11 @@
 0.0.0.0 9vyzdk8.lvditoys.com
 0.0.0.0 9vzn29.98kk89.com
 0.0.0.0 add-signal-group.com
+0.0.0.0 www.add-signal-group.com
+0.0.0.0 store.add-signal-group.com
 0.0.0.0 add-signal-groups.com
+0.0.0.0 www.add-signal-groups.com
+0.0.0.0 store.add-signal-groups.com
 0.0.0.0 adflowtube.com
 0.0.0.0 www.adflowtube.com
 0.0.0.0 adidasko.com
@@ -1044,6 +1048,9 @@
 0.0.0.0 kisserine.com
 0.0.0.0 www.kisserine.com
 0.0.0.0 kitchendecor.shop
+0.0.0.0 klelnanzeigen-deutch.confirm542351.info
+0.0.0.0 www.klelnanzeigen-deutch.confirm542351.info
+0.0.0.0 store.klelnanzeigen-deutch.confirm542351.info
 0.0.0.0 kms-pc.com
 0.0.0.0 www.kms-pc.com
 0.0.0.0 kms-tool.com
@@ -1279,7 +1286,6 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 www.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1528,7 +1534,6 @@
 0.0.0.0 philsshorthairorientalkittens.com
 0.0.0.0 www.philsshorthairorientalkittens.com
 0.0.0.0 phototan-unterstutzung.win
-0.0.0.0 www.phototan-unterstutzung.win
 0.0.0.0 store.phototan-unterstutzung.win
 0.0.0.0 pinjamanelit.top
 0.0.0.0 www.pinjamanelit.top
