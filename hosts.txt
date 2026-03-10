@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2294
+# Domains: 2279
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -27,7 +27,6 @@
 0.0.0.0 42gixk.98kk89.com
 0.0.0.0 4556.de
 0.0.0.0 www.4556.de
-0.0.0.0 47n78xprrvp1.top
 0.0.0.0 www.47n78xprrvp1.top
 0.0.0.0 store.47n78xprrvp1.top
 0.0.0.0 555sq.com.cn
@@ -40,9 +39,6 @@
 0.0.0.0 www.93mobiles.com
 0.0.0.0 9vyzdk8.lvditoys.com
 0.0.0.0 9vzn29.98kk89.com
-0.0.0.0 add-signal-groups.com
-0.0.0.0 www.add-signal-groups.com
-0.0.0.0 store.add-signal-groups.com
 0.0.0.0 adflowtube.com
 0.0.0.0 www.adflowtube.com
 0.0.0.0 adidasko.com
@@ -133,7 +129,6 @@
 0.0.0.0 www.atlaspvs.com
 0.0.0.0 atrendsz.com
 0.0.0.0 www.atrendsz.com
-0.0.0.0 store.atrendsz.com
 0.0.0.0 audiosg.com.sg
 0.0.0.0 www.audiosg.com.sg
 0.0.0.0 augusthenri.be
@@ -144,7 +139,6 @@
 0.0.0.0 www.autorizadigital.co
 0.0.0.0 store.autorizadigital.co
 0.0.0.0 autorizaonline.co
-0.0.0.0 www.autorizaonline.co
 0.0.0.0 store.autorizaonline.co
 0.0.0.0 avarik.web.app
 0.0.0.0 www.avarik.web.app
@@ -470,7 +464,6 @@
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
-0.0.0.0 store.deergift.com
 0.0.0.0 dein-rundfunkbeitrag.de
 0.0.0.0 www.dein-rundfunkbeitrag.de
 0.0.0.0 deiongh.info
@@ -1275,8 +1268,7 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 navi42.ru
-0.0.0.0 store.navi42.ru
+0.0.0.0 www.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1299,8 +1291,6 @@
 0.0.0.0 store.navi6.com
 0.0.0.0 navi66.ru
 0.0.0.0 www.navi66.ru
-0.0.0.0 navi69.com
-0.0.0.0 www.navi69.com
 0.0.0.0 navi7.com
 0.0.0.0 www.navi7.com
 0.0.0.0 navi72.com
@@ -1330,8 +1320,6 @@
 0.0.0.0 store.navi9.com
 0.0.0.0 navi90.com
 0.0.0.0 www.navi90.com
-0.0.0.0 navi95.com
-0.0.0.0 www.navi95.com
 0.0.0.0 navi98.com
 0.0.0.0 www.navi98.com
 0.0.0.0 store.navi98.com
@@ -1353,7 +1341,6 @@
 0.0.0.0 www.new.piratedrive.com
 0.0.0.0 store.new.piratedrive.com
 0.0.0.0 new2.gdtot.sbs
-0.0.0.0 www.new2.gdtot.sbs
 0.0.0.0 store.new2.gdtot.sbs
 0.0.0.0 newfootwearshop.com
 0.0.0.0 www.newfootwearshop.com
@@ -1520,6 +1507,7 @@
 0.0.0.0 petparty.store
 0.0.0.0 www.petparty.store
 0.0.0.0 store.petparty.store
+0.0.0.0 www.petsimulator.live
 0.0.0.0 pharaohstore.com
 0.0.0.0 www.pharaohstore.com
 0.0.0.0 phgliders.com
@@ -1865,6 +1853,7 @@
 0.0.0.0 www.tee24h.com
 0.0.0.0 store.tee24h.com
 0.0.0.0 teearrow.com
+0.0.0.0 www.teearrow.com
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
 0.0.0.0 telegramweb.vercel.app
@@ -1961,7 +1950,6 @@
 0.0.0.0 www.tromselementbygg.no
 0.0.0.0 trumpsupport.help
 0.0.0.0 www.trumpsupport.help
-0.0.0.0 store.trumpsupport.help
 0.0.0.0 trusltwcllet.com
 0.0.0.0 www.trusltwcllet.com
 0.0.0.0 store.trusltwcllet.com
@@ -2155,9 +2143,6 @@
 0.0.0.0 store.webvod.pl
 0.0.0.0 whbinder.com
 0.0.0.0 www.whbinder.com
-0.0.0.0 wikeb.com
-0.0.0.0 www.wikeb.com
-0.0.0.0 store.wikeb.com
 0.0.0.0 wintexfashions.com
 0.0.0.0 www.wintexfashions.com
 0.0.0.0 wisdomganga.com
