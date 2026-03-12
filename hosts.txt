@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2291
+# Domains: 2284
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -140,9 +140,6 @@
 0.0.0.0 autorizadigital.co
 0.0.0.0 www.autorizadigital.co
 0.0.0.0 store.autorizadigital.co
-0.0.0.0 autorizaonline.co
-0.0.0.0 www.autorizaonline.co
-0.0.0.0 store.autorizaonline.co
 0.0.0.0 avarik.web.app
 0.0.0.0 www.avarik.web.app
 0.0.0.0 store.avarik.web.app
@@ -666,6 +663,7 @@
 0.0.0.0 store.fazpowerdenet.tumblr.com
 0.0.0.0 fdrc-gov.org
 0.0.0.0 www.fdrc-gov.org
+0.0.0.0 store.fdrc-gov.org
 0.0.0.0 field-garnet-duckling.glitch.me
 0.0.0.0 www.field-garnet-duckling.glitch.me
 0.0.0.0 store.field-garnet-duckling.glitch.me
@@ -827,8 +825,6 @@
 0.0.0.0 gtlinfrastructurelimited.com
 0.0.0.0 www.gtlinfrastructurelimited.com
 0.0.0.0 store.gtlinfrastructurelimited.com
-0.0.0.0 gtltowerinfratel.in
-0.0.0.0 www.gtltowerinfratel.in
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
 0.0.0.0 habtoorloyal.com
@@ -868,8 +864,6 @@
 0.0.0.0 hotmod.eu
 0.0.0.0 www.hotmod.eu
 0.0.0.0 store.hotmod.eu
-0.0.0.0 houselar.com.br
-0.0.0.0 www.houselar.com.br
 0.0.0.0 hubfiles.ws
 0.0.0.0 www.hubfiles.ws
 0.0.0.0 store.hubfiles.ws
@@ -982,9 +976,6 @@
 0.0.0.0 iphone.quiztionnaire.biz
 0.0.0.0 www.iphone.quiztionnaire.biz
 0.0.0.0 store.iphone.quiztionnaire.biz
-0.0.0.0 iqcreditcheck.com
-0.0.0.0 www.iqcreditcheck.com
-0.0.0.0 store.iqcreditcheck.com
 0.0.0.0 italyworldbaseballclassic.com
 0.0.0.0 www.italyworldbaseballclassic.com
 0.0.0.0 itseasy.com
@@ -1501,7 +1492,6 @@
 0.0.0.0 paradisevs.com
 0.0.0.0 www.paradisevs.com
 0.0.0.0 path2zillion.com
-0.0.0.0 store.pay.avito.b0oking.com-id16313.info
 0.0.0.0 peaveymartca.com
 0.0.0.0 www.peaveymartca.com
 0.0.0.0 store.peaveymartca.com
@@ -1523,6 +1513,7 @@
 0.0.0.0 www.phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
 0.0.0.0 www.philsshorthairorientalkittens.com
+0.0.0.0 phototan-unterstutzung.win
 0.0.0.0 www.phototan-unterstutzung.win
 0.0.0.0 store.phototan-unterstutzung.win
 0.0.0.0 pinjamanelit.top
@@ -1744,6 +1735,9 @@
 0.0.0.0 store.smartproduct.site
 0.0.0.0 smtpget.com
 0.0.0.0 www.smtpget.com
+0.0.0.0 smtpwire.com
+0.0.0.0 www.smtpwire.com
+0.0.0.0 store.smtpwire.com
 0.0.0.0 smvisa.co.il
 0.0.0.0 www.smvisa.co.il
 0.0.0.0 sodipi.com
@@ -1896,7 +1890,6 @@
 0.0.0.0 thevitic.onshopbase.com
 0.0.0.0 www.thevitic.onshopbase.com
 0.0.0.0 store.thevitic.onshopbase.com
-0.0.0.0 thewindowsactivator.com
 0.0.0.0 thuthuatxiaomi.com
 0.0.0.0 www.thuthuatxiaomi.com
 0.0.0.0 tikgeeker.com

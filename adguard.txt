@@ -63,7 +63,6 @@
 ||augusthenri.be^
 ||aussiesportfashion.com^
 ||autorizadigital.co^
-||autorizaonline.co^
 ||avarik.web.app^
 ||avisocnh.co^
 ||azfancy.com^
@@ -355,7 +354,6 @@
 ||govmedcareers.com^
 ||gsport.com^
 ||gtlinfrastructurelimited.com^
-||gtltowerinfratel.in^
 ||gunstee.com^
 ||habtoorloyal.com^
 ||hairyfy.com^
@@ -373,7 +371,6 @@
 ||hotbignews.com^
 ||hotdebrid.com^
 ||hotmod.eu^
-||houselar.com.br^
 ||hubfiles.ws^
 ||hudson-bay.com^
 ||hushlove.com^
@@ -425,7 +422,6 @@
 ||injustice.site^
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
-||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||itseasy.com^
 ||ivisa.com^
@@ -751,6 +747,7 @@
 ||smartpower4all.org^
 ||smartproduct.site^
 ||smtpget.com^
+||smtpwire.com^
 ||smvisa.co.il^
 ||sodipi.com^
 ||softgetpc.com^
@@ -816,7 +813,6 @@
 ||theshirtyouneed.com^
 ||thevitic.com^
 ||thevitic.onshopbase.com^
-||thewindowsactivator.com^
 ||thuthuatxiaomi.com^
 ||tikgeeker.com^
 ||tinkleo.com^
