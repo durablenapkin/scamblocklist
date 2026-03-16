@@ -10,6 +10,7 @@
 ||1stireland.com^
 ||1sttheworld.com^
 ||270278609-2020004278-462904544-440202503325--570202500372x-usps.com^
+||365analytics.xyz^
 ||3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev^
 ||3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net^
 ||42gixk.98kk89.com^
@@ -47,7 +48,6 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||appdrive.info^
@@ -269,6 +269,7 @@
 ||familygiftville.com^
 ||familystore.com^
 ||fapst.com^
+||faunugraipt.com^
 ||faze1.com^
 ||faze10.com^
 ||faze2.com^
@@ -471,6 +472,7 @@
 ||lisabuddy.com^
 ||litcomplex.com^
 ||liverepsae.adeftsolutions.com^
+||load.365analytics.xyz^
 ||lojavariedadesvariedades.com^
 ||look-like-star.myshopify.com^
 ||lorenzettibrasil-vendas.com^
@@ -543,7 +545,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi43.com^
 ||navi45.ru^
 ||navi48.com^
@@ -675,6 +676,7 @@
 ||primeleech.com^
 ||primevod.pl^
 ||printteestore.com^
+||promo-offer.com^
 ||promoalfresco.com^
 ||promotion40-form.com^
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
@@ -761,6 +763,7 @@
 ||sportswearforfans.com^
 ||spotgee.com^
 ||staging.zendrop.com^
+||stallioncredit.com^
 ||startuplatte.com^
 ||steamgateways.com^
 ||steampowered.cn.com^
@@ -942,7 +945,6 @@
 ||yhdshop.com^
 ||yofi-yofi.com^
 ||youdebrid.com^
-||yourdatefind.com^
 ||yoursecrethookup.com^
 ||youtunbe.com^
 ||youutube.com^
