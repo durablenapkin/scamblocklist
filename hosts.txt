@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2272
+# Domains: 2283
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -172,6 +172,7 @@
 0.0.0.0 store.balticpipe.wordpress.com
 0.0.0.0 bcb.game
 0.0.0.0 bccnerty.com
+0.0.0.0 www.bcm8.shop
 0.0.0.0 beautysolution24.com
 0.0.0.0 www.beautysolution24.com
 0.0.0.0 beeaar.com
@@ -181,7 +182,8 @@
 0.0.0.0 benecharm.com
 0.0.0.0 www.benecharm.com
 0.0.0.0 store.benecharm.com
-0.0.0.0 benxi.info
+0.0.0.0 www.benxi.info
+0.0.0.0 store.benxi.info
 0.0.0.0 bertasxt.com
 0.0.0.0 www.bertasxt.com
 0.0.0.0 store.bertasxt.com
@@ -827,6 +829,8 @@
 0.0.0.0 www.hairyfy.com
 0.0.0.0 happymod.cloud
 0.0.0.0 www.happymod.cloud
+0.0.0.0 haruko.store
+0.0.0.0 www.haruko.store
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 www.headsets4business.co.uk
 0.0.0.0 helpnanacenter.helpscoutdocs.com
@@ -834,9 +838,6 @@
 0.0.0.0 store.helpnanacenter.helpscoutdocs.com
 0.0.0.0 hernoclothing.com
 0.0.0.0 www.hernoclothing.com
-0.0.0.0 heyfusio.com
-0.0.0.0 www.heyfusio.com
-0.0.0.0 store.heyfusio.com
 0.0.0.0 hfr67jhqrw8.com
 0.0.0.0 hindustantowergroupltd.com
 0.0.0.0 www.hindustantowergroupltd.com
@@ -1022,6 +1023,9 @@
 0.0.0.0 kisserine.com
 0.0.0.0 www.kisserine.com
 0.0.0.0 kitchendecor.shop
+0.0.0.0 klelnanzeigen-deutch.confirm542351.info
+0.0.0.0 www.klelnanzeigen-deutch.confirm542351.info
+0.0.0.0 store.klelnanzeigen-deutch.confirm542351.info
 0.0.0.0 kms-pc.com
 0.0.0.0 www.kms-pc.com
 0.0.0.0 kms-tool.com
@@ -1098,9 +1102,6 @@
 0.0.0.0 lucidtiger.com
 0.0.0.0 www.lucidtiger.com
 0.0.0.0 store.lucidtiger.com
-0.0.0.0 lucysstyle.com
-0.0.0.0 www.lucysstyle.com
-0.0.0.0 store.lucysstyle.com
 0.0.0.0 luxsgear.com
 0.0.0.0 www.luxsgear.com
 0.0.0.0 store.luxsgear.com
@@ -1259,6 +1260,7 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1326,6 +1328,7 @@
 0.0.0.0 www.nbdiscount.com
 0.0.0.0 neozor.com
 0.0.0.0 www.neozor.com
+0.0.0.0 netsugar.shop
 0.0.0.0 nevaon.com
 0.0.0.0 www.nevaon.com
 0.0.0.0 new.gdtot.me
@@ -1459,6 +1462,7 @@
 0.0.0.0 onlinewideo.pl
 0.0.0.0 www.onlinewideo.pl
 0.0.0.0 store.onlinewideo.pl
+0.0.0.0 onlyfanstake.pro
 0.0.0.0 www.onlyfanstake.pro
 0.0.0.0 store.onlyfanstake.pro
 0.0.0.0 onrunningshop.com
@@ -1488,7 +1492,9 @@
 0.0.0.0 paradisevs.com
 0.0.0.0 www.paradisevs.com
 0.0.0.0 path2zillion.com
-0.0.0.0 store.pay.sber.www.booking.com-id23901.info
+0.0.0.0 pay.avito.avito.sber.booking.com-id90123.info
+0.0.0.0 www.pay.avito.com-id3212341.info
+0.0.0.0 paypays.shop
 0.0.0.0 peaveymartca.com
 0.0.0.0 www.peaveymartca.com
 0.0.0.0 store.peaveymartca.com
@@ -1586,6 +1592,7 @@
 0.0.0.0 qriedf.info
 0.0.0.0 www.qriedf.info
 0.0.0.0 store.qriedf.info
+0.0.0.0 qttlpn.shop
 0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 www.quoka.dk9zc9.pro
 0.0.0.0 store.quoka.dk9zc9.pro
@@ -1650,7 +1657,8 @@
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
-0.0.0.0 store.sberbank.pay.sber.com-id20341.info
+0.0.0.0 store.sber.avito.pay.com-id02349.info
+0.0.0.0 sberbank.avito.com-id20341.info
 0.0.0.0 seagulltee.com
 0.0.0.0 www.seagulltee.com
 0.0.0.0 seans24.com.pl
@@ -1661,6 +1669,8 @@
 0.0.0.0 store.seasonsofficial.com
 0.0.0.0 secrity2redline.com
 0.0.0.0 securevault.top
+0.0.0.0 www.securevault.top
+0.0.0.0 store.securevault.top
 0.0.0.0 security-meta.pages.app.br
 0.0.0.0 www.security-meta.pages.app.br
 0.0.0.0 store.security-meta.pages.app.br
@@ -1911,8 +1921,6 @@
 0.0.0.0 www.touristvisaonline.com
 0.0.0.0 toweragency.in
 0.0.0.0 www.toweragency.in
-0.0.0.0 towerdepartment.com
-0.0.0.0 www.towerdepartment.com
 0.0.0.0 townaptdesk.info
 0.0.0.0 www.townaptdesk.info
 0.0.0.0 toyrube.com
@@ -2017,6 +2025,7 @@
 0.0.0.0 uschse04.my03.com
 0.0.0.0 www.uschse04.my03.com
 0.0.0.0 store.uschse04.my03.com
+0.0.0.0 store.uszjj.fyjkxzq.shop
 0.0.0.0 uusilemmikki.com
 0.0.0.0 www.uusilemmikki.com
 0.0.0.0 valeofoodsgroup.com
@@ -2184,6 +2193,7 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
+0.0.0.0 www.yandex.avito.com-id129041.info
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
 0.0.0.0 yeezysofficial.us.com
@@ -2215,6 +2225,7 @@
 0.0.0.0 store.ytvancedpro.com
 0.0.0.0 yuaonew.com
 0.0.0.0 www.yuaonew.com
+0.0.0.0 yyderfreap.shop
 0.0.0.0 z-lib.is
 0.0.0.0 www.z-lib.is
 0.0.0.0 store.z-lib.is
