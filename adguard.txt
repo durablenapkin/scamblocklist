@@ -282,6 +282,7 @@
 ||filexstorage.site^
 ||fili-cc.tv^
 ||filman-hd.cc^
+||filmersi.pl^
 ||filmhit.pl^
 ||filmhunt.pl^
 ||filmo.agency^
@@ -305,6 +306,7 @@
 ||freebitcoin.pages.dev^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -935,7 +937,6 @@
 ||xvid.social-previews.top^
 ||yahhhoo.com^
 ||yasir252.com^
-||yeezysofficial.us.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
 ||ygtube.xyz^
