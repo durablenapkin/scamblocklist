@@ -3735,6 +3735,9 @@
 0.0.0.0 freedom.mobile-log-in.com
 0.0.0.0 www.freedom.mobile-log-in.com
 0.0.0.0 store.freedom.mobile-log-in.com
+0.0.0.0 freedom.mobileservice-id.com
+0.0.0.0 www.freedom.mobileservice-id.com
+0.0.0.0 store.freedom.mobileservice-id.com
 0.0.0.0 freedom.service-update3.com
 0.0.0.0 www.freedom.service-update3.com
 0.0.0.0 store.freedom.service-update3.com
@@ -3750,6 +3753,9 @@
 0.0.0.0 freedommobile2.com
 0.0.0.0 www.freedommobile2.com
 0.0.0.0 store.freedommobile2.com
+0.0.0.0 freedomprofile.ca
+0.0.0.0 www.freedomprofile.ca
+0.0.0.0 store.freedomprofile.ca
 0.0.0.0 freegiftscards.shop
 0.0.0.0 www.freegiftscards.shop
 0.0.0.0 store.freegiftscards.shop
@@ -9066,6 +9072,9 @@
 0.0.0.0 reforest-iita.org
 0.0.0.0 www.reforest-iita.org
 0.0.0.0 store.reforest-iita.org
+0.0.0.0 refund4cra.com
+0.0.0.0 www.refund4cra.com
+0.0.0.0 store.refund4cra.com
 0.0.0.0 refundpaymentnotify.com
 0.0.0.0 www.refundpaymentnotify.com
 0.0.0.0 store.refundpaymentnotify.com
