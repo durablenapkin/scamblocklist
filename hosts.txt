@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2266
+# Domains: 2281
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -104,6 +104,9 @@
 0.0.0.0 www.altwi-zgs.com
 0.0.0.0 store.altwi-zgs.com
 0.0.0.0 amorpulse.com
+0.0.0.0 anacondanz.com
+0.0.0.0 www.anacondanz.com
+0.0.0.0 store.anacondanz.com
 0.0.0.0 animeshoppers.com
 0.0.0.0 www.animeshoppers.com
 0.0.0.0 store.animeshoppers.com
@@ -113,7 +116,6 @@
 0.0.0.0 www.aoptee.com
 0.0.0.0 appdrive.info
 0.0.0.0 www.appdrive.info
-0.0.0.0 store.appdrive.info
 0.0.0.0 arduino.uk.eu.org
 0.0.0.0 www.arduino.uk.eu.org
 0.0.0.0 army-shop.onshopbase.com
@@ -357,9 +359,6 @@
 0.0.0.0 cmoboy.com
 0.0.0.0 www.cmoboy.com
 0.0.0.0 store.cmoboy.com
-0.0.0.0 cnhadverti.co
-0.0.0.0 www.cnhadverti.co
-0.0.0.0 store.cnhadverti.co
 0.0.0.0 cnhajuda.co
 0.0.0.0 www.cnhajuda.co
 0.0.0.0 store.cnhajuda.co
@@ -415,6 +414,7 @@
 0.0.0.0 store.customizerbox.com
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
+0.0.0.0 cuteclub.org
 0.0.0.0 www.cuteclub.org
 0.0.0.0 cutty.app
 0.0.0.0 www.cutty.app
@@ -540,7 +540,6 @@
 0.0.0.0 eset.co.il
 0.0.0.0 www.eset.co.il
 0.0.0.0 store.eset.co.il
-0.0.0.0 store.eshaalfawson.shop
 0.0.0.0 esl-gaming.com
 0.0.0.0 www.esl-gaming.com
 0.0.0.0 eslgrandscup.com
@@ -691,7 +690,6 @@
 0.0.0.0 flwzen.com
 0.0.0.0 www.flwzen.com
 0.0.0.0 store.flwzen.com
-0.0.0.0 fms88.shop
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 www.folkrbvi.pages.dev
 0.0.0.0 store.folkrbvi.pages.dev
@@ -827,6 +825,7 @@
 0.0.0.0 www.hityvod.pl
 0.0.0.0 store.hityvod.pl
 0.0.0.0 hookahheroes.com
+0.0.0.0 www.hookahheroes.com
 0.0.0.0 store.hookahheroes.com
 0.0.0.0 hostpoco.com
 0.0.0.0 www.hostpoco.com
@@ -1080,9 +1079,6 @@
 0.0.0.0 lucidtiger.com
 0.0.0.0 www.lucidtiger.com
 0.0.0.0 store.lucidtiger.com
-0.0.0.0 lucysstyle.com
-0.0.0.0 www.lucysstyle.com
-0.0.0.0 store.lucysstyle.com
 0.0.0.0 luxsgear.com
 0.0.0.0 www.luxsgear.com
 0.0.0.0 store.luxsgear.com
@@ -1149,6 +1145,12 @@
 0.0.0.0 mujib-store28.blogspot.com
 0.0.0.0 www.mujib-store28.blogspot.com
 0.0.0.0 store.mujib-store28.blogspot.com
+0.0.0.0 mulllvad.org
+0.0.0.0 www.mulllvad.org
+0.0.0.0 store.mulllvad.org
+0.0.0.0 mullvaad.net
+0.0.0.0 www.mullvaad.net
+0.0.0.0 store.mullvaad.net
 0.0.0.0 multifilmy.pl
 0.0.0.0 www.multifilmy.pl
 0.0.0.0 museuw.com
@@ -1172,6 +1174,7 @@
 0.0.0.0 nalzahqp.page.link
 0.0.0.0 www.nalzahqp.page.link
 0.0.0.0 store.nalzahqp.page.link
+0.0.0.0 nanoweb3-rarityledgertech.com
 0.0.0.0 nationaladvancegroup.com
 0.0.0.0 www.nationaladvancegroup.com
 0.0.0.0 natvisa.com
@@ -1248,7 +1251,7 @@
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
 0.0.0.0 navi42.ru
-0.0.0.0 www.navi42.ru
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1390,6 +1393,8 @@
 0.0.0.0 www.nofotballshop.com
 0.0.0.0 norfotball.com
 0.0.0.0 www.norfotball.com
+0.0.0.0 norgeshoes.com
+0.0.0.0 www.norgeshoes.com
 0.0.0.0 store.norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
@@ -1480,6 +1485,8 @@
 0.0.0.0 paradisevs.com
 0.0.0.0 www.paradisevs.com
 0.0.0.0 path2zillion.com
+0.0.0.0 store.pay.avito.avito.avito.avito.avito.booking.com-id15421.info
+0.0.0.0 www.pay.pay.avito.avito.com-id15421.info
 0.0.0.0 peaveymartca.com
 0.0.0.0 www.peaveymartca.com
 0.0.0.0 store.peaveymartca.com
@@ -1503,6 +1510,7 @@
 0.0.0.0 www.phgliders.com
 0.0.0.0 philsshorthairorientalkittens.com
 0.0.0.0 www.philsshorthairorientalkittens.com
+0.0.0.0 store.phototan-erneuern.net
 0.0.0.0 phototan-unterstutzung.win
 0.0.0.0 www.phototan-unterstutzung.win
 0.0.0.0 store.phototan-unterstutzung.win
@@ -1643,8 +1651,9 @@
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
-0.0.0.0 www.sberbank.booklng.com-id334212.com
-0.0.0.0 www.sberbank.com-id9523416.com
+0.0.0.0 sber.pay.com-id01251.info
+0.0.0.0 www.sberbank.avito.avito.avito.www.booking.com-id02349.info
+0.0.0.0 sberbank.sberbank.www.com-id802915.com
 0.0.0.0 seagulltee.com
 0.0.0.0 www.seagulltee.com
 0.0.0.0 seans24.com.pl
@@ -1904,6 +1913,7 @@
 0.0.0.0 toweragency.in
 0.0.0.0 www.toweragency.in
 0.0.0.0 townaptdesk.info
+0.0.0.0 www.townaptdesk.info
 0.0.0.0 toyrube.com
 0.0.0.0 www.toyrube.com
 0.0.0.0 store.toyrube.com
@@ -1947,6 +1957,7 @@
 0.0.0.0 www.turtleclient.xyz
 0.0.0.0 store.turtleclient.xyz
 0.0.0.0 twiiiter.com
+0.0.0.0 www.twiiiter.com
 0.0.0.0 store.twiiiter.com
 0.0.0.0 twinsbio.com
 0.0.0.0 www.twinsbio.com
@@ -1976,6 +1987,7 @@
 0.0.0.0 store.ultra-cda.pl
 0.0.0.0 ultrasonica.info
 0.0.0.0 www.ultrasonica.info
+0.0.0.0 store.uni-swap.online
 0.0.0.0 unifully.com
 0.0.0.0 www.unifully.com
 0.0.0.0 store.unifully.com
@@ -2172,9 +2184,12 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
+0.0.0.0 yandex.avito.avito.www.avito.www.booking.com-id90123.info
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
+0.0.0.0 yeezysofficial.us.com
 0.0.0.0 www.yeezysofficial.us.com
+0.0.0.0 store.yeezysofficial.us.com
 0.0.0.0 yeswevibe.com
 0.0.0.0 www.yeswevibe.com
 0.0.0.0 yeyvibe.com

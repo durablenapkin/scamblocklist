@@ -48,6 +48,7 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||amorpulse.com^
+||anacondanz.com^
 ||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
@@ -154,7 +155,6 @@
 ||cityofdream.co.uk^
 ||cluckergifts.ecwid.com^
 ||cmoboy.com^
-||cnhadverti.co^
 ||cnhajuda.co^
 ||cnhnotificou.co^
 ||cnhvirtual.co^
@@ -234,7 +234,6 @@
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
 ||eset.co.il^
-||eshaalfawson.shop^
 ||esl-gaming.com^
 ||eslgrandscup.com^
 ||estiloserena.com.br^
@@ -299,7 +298,6 @@
 ||fixpub.com^
 ||flattee.com^
 ||flwzen.com^
-||fms88.shop^
 ||folkrbvi.pages.dev^
 ||food-network.fwh.is^
 ||freebitcoin.pages.dev^
@@ -475,7 +473,6 @@
 ||lozly.com^
 ||lucatee.com^
 ||lucidtiger.com^
-||lucysstyle.com^
 ||luxsgear.com^
 ||maebl.com^
 ||magnite.shop^
@@ -503,6 +500,8 @@
 ||ms-analytics.mywire.org^
 ||mslfgl434.pages.dev^
 ||mujib-store28.blogspot.com^
+||mulllvad.org^
+||mullvaad.net^
 ||multifilmy.pl^
 ||museuw.com^
 ||muskusa.com^
@@ -512,6 +511,7 @@
 ||myhandshops.myshopify.com^
 ||mypuregaming.com^
 ||nalzahqp.page.link^
+||nanoweb3-rarityledgertech.com^
 ||nationaladvancegroup.com^
 ||natvisa.com^
 ||navi1.com^
@@ -654,6 +654,7 @@
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
+||phototan-erneuern.net^
 ||phototan-unterstutzung.win^
 ||pinjamanelit.top^
 ||pinjamanrupiah.xyz^
@@ -850,6 +851,7 @@
 ||ultimate-tech-products.myshopify.com^
 ||ultra-cda.pl^
 ||ultrasonica.info^
+||uni-swap.online^
 ||unifully.com^
 ||uniswap.host^
 ||uniswap.ro^
