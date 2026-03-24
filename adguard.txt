@@ -60,7 +60,6 @@
 ||arvetellefsen.no^
 ||asvbaen.info^
 ||atlaspvs.com^
-||atrendsz.com^
 ||audiosg.com.sg^
 ||augusthenri.be^
 ||aussiesportfashion.com^
@@ -298,7 +297,6 @@
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
-||flwzen.com^
 ||folkrbvi.pages.dev^
 ||food-network.fwh.is^
 ||freebitcoin.pages.dev^
@@ -437,7 +435,6 @@
 ||kinonline.pl^
 ||kisserine.com^
 ||kitchendecor.shop^
-||klelnanzeigen-deutch.confirm542351.info^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -454,6 +451,7 @@
 ||lasercutjewelry.net^
 ||lds.xyz^
 ||ledgerlivewallets.com^
+||ledgerslive.org^
 ||leonoremanry.sa.com^
 ||lericettedifrancy74.com^
 ||lesliespracklen.sa.com^
@@ -520,7 +518,6 @@
 ||navi100.com^
 ||navi11.com^
 ||navi12.com^
-||navi14.com^
 ||navi18.com^
 ||navi2.com^
 ||navi20.com^
@@ -754,6 +751,7 @@
 ||somethingapparel.com^
 ||souhoney.com^
 ||southernlife.net^
+||sportfanlab.com^
 ||sportsapparelmarket.com^
 ||sportsbrooks.com^
 ||sportswearfanatics.com^
@@ -793,7 +791,6 @@
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
 ||tbao684tryo.com^
-||tee24h.com^
 ||teearrow.com^
 ||teezill.com^
 ||telegramweb.vercel.app^
@@ -829,7 +826,6 @@
 ||travelvisabookings.com^
 ||travisa.com^
 ||treasurefan.com^
-||trendsharks.com^
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
 ||trkucibqy.com^
@@ -842,7 +838,6 @@
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
 ||ucureo.com^
-||udemy-creators.com^
 ||udrop.com^
 ||uk-tweed-jackets.com^
 ||ultimate-tech-products.myshopify.com^
