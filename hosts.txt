@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2253
+# Domains: 2248
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -180,6 +180,7 @@
 0.0.0.0 benecharm.com
 0.0.0.0 www.benecharm.com
 0.0.0.0 store.benecharm.com
+0.0.0.0 benxi.info
 0.0.0.0 www.benxi.info
 0.0.0.0 store.benxi.info
 0.0.0.0 bertasxt.com
@@ -415,7 +416,6 @@
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
 0.0.0.0 cuteclub.org
-0.0.0.0 www.cuteclub.org
 0.0.0.0 cutty.app
 0.0.0.0 www.cutty.app
 0.0.0.0 store.cutty.app
@@ -629,8 +629,6 @@
 0.0.0.0 www.faze5.com
 0.0.0.0 faze77.com
 0.0.0.0 www.faze77.com
-0.0.0.0 faze8.com
-0.0.0.0 www.faze8.com
 0.0.0.0 faze9.com
 0.0.0.0 www.faze9.com
 0.0.0.0 fazpowerdenet.tumblr.com
@@ -899,8 +897,6 @@
 0.0.0.0 indianetouristvisacoin.wordpress.com
 0.0.0.0 www.indianetouristvisacoin.wordpress.com
 0.0.0.0 store.indianetouristvisacoin.wordpress.com
-0.0.0.0 indianevisaonline.com
-0.0.0.0 www.indianevisaonline.com
 0.0.0.0 indianimmigration.org
 0.0.0.0 www.indianimmigration.org
 0.0.0.0 indianonlinevisas.org
@@ -1001,6 +997,9 @@
 0.0.0.0 kisserine.com
 0.0.0.0 www.kisserine.com
 0.0.0.0 kitchendecor.shop
+0.0.0.0 klelnanzeigen-deutch.confirm542351.info
+0.0.0.0 www.klelnanzeigen-deutch.confirm542351.info
+0.0.0.0 store.klelnanzeigen-deutch.confirm542351.info
 0.0.0.0 kms-pc.com
 0.0.0.0 www.kms-pc.com
 0.0.0.0 kms-tool.com
@@ -1194,6 +1193,9 @@
 0.0.0.0 navi12.com
 0.0.0.0 www.navi12.com
 0.0.0.0 store.navi12.com
+0.0.0.0 navi14.com
+0.0.0.0 www.navi14.com
+0.0.0.0 store.navi14.com
 0.0.0.0 navi18.com
 0.0.0.0 www.navi18.com
 0.0.0.0 navi2.com
@@ -1248,12 +1250,10 @@
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
 0.0.0.0 navi42.ru
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
-0.0.0.0 navi45.ru
-0.0.0.0 www.navi45.ru
-0.0.0.0 store.navi45.ru
 0.0.0.0 navi48.com
 0.0.0.0 www.navi48.com
 0.0.0.0 store.navi48.com
@@ -1273,8 +1273,6 @@
 0.0.0.0 navi6.com
 0.0.0.0 www.navi6.com
 0.0.0.0 store.navi6.com
-0.0.0.0 navi66.ru
-0.0.0.0 www.navi66.ru
 0.0.0.0 navi69.com
 0.0.0.0 www.navi69.com
 0.0.0.0 navi7.com
@@ -1890,6 +1888,7 @@
 0.0.0.0 toweragency.in
 0.0.0.0 www.toweragency.in
 0.0.0.0 townaptdesk.info
+0.0.0.0 www.townaptdesk.info
 0.0.0.0 toyrube.com
 0.0.0.0 www.toyrube.com
 0.0.0.0 store.toyrube.com
@@ -1908,9 +1907,6 @@
 0.0.0.0 travisa.com
 0.0.0.0 www.travisa.com
 0.0.0.0 store.travisa.com
-0.0.0.0 treasurefan.com
-0.0.0.0 www.treasurefan.com
-0.0.0.0 store.treasurefan.com
 0.0.0.0 treverschmelerkris18.myshopify.com
 0.0.0.0 www.treverschmelerkris18.myshopify.com
 0.0.0.0 store.treverschmelerkris18.myshopify.com
@@ -2156,7 +2152,6 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
-0.0.0.0 store.yandex.www.booking.com-id23901.info
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
 0.0.0.0 yeezysofficial.us.com
