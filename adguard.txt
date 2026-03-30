@@ -23,7 +23,6 @@
 ||93mobiles.com^
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
-||abncbp.com^
 ||adflowtube.com^
 ||adidasko.com^
 ||affordableforyouusa5.godaddysites.com^
@@ -67,6 +66,7 @@
 ||avarik.web.app^
 ||azfancy.com^
 ||azsolver.com^
+||azvclothing.com^
 ||babybeddingdesign.com^
 ||backend.store.eset.co.il^
 ||bajeczki.org.pl^
@@ -104,6 +104,7 @@
 ||bisertravel.com.mk^
 ||bite-life.com^
 ||bitsoft360.com^
+||bitsoft360.io^
 ||bitsoft360.net^
 ||blackabdo.company.site^
 ||blackoutarchertender.com^
@@ -260,6 +261,7 @@
 ||familygiftville.com^
 ||familystore.com^
 ||fapst.com^
+||faunugraipt.com^
 ||faze1.com^
 ||faze10.com^
 ||faze2.com^
@@ -291,7 +293,6 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
-||fitgirlrepacksite.com^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -431,6 +432,7 @@
 ||kigurumi-usa.com^
 ||kingcampoutdoors.co.jp^
 ||kino-cda.pl^
+||kinomaniak.cc^
 ||kinonline.pl^
 ||kisserine.com^
 ||kitchendecor.shop^
@@ -551,6 +553,7 @@
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
+||navi66.ru^
 ||navi69.com^
 ||navi7.com^
 ||navi72.com^
@@ -729,7 +732,6 @@
 ||sieuto.com^
 ||sigmaoffers.com^
 ||signpify.com^
-||signwdocu.com^
 ||singingfiles.com^
 ||singleflirt.com^
 ||skincheap.com^
@@ -845,8 +847,9 @@
 ||unifully.com^
 ||uniswap.host^
 ||uniswap.ro^
-||uniswap0120.com^
 ||uniswapagent.com^
+||uniswapetf.xyz^
+||uniswaplabs.xyz^
 ||universityofqatarrectorate.godaddysites.com^
 ||updatesnow.click^
 ||uplevelreward.com^
