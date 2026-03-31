@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2261
+# Domains: 2284
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -179,7 +179,6 @@
 0.0.0.0 store.benecharm.com
 0.0.0.0 benxi.info
 0.0.0.0 www.benxi.info
-0.0.0.0 store.benxi.info
 0.0.0.0 bertasxt.com
 0.0.0.0 www.bertasxt.com
 0.0.0.0 store.bertasxt.com
@@ -284,6 +283,7 @@
 0.0.0.0 store.btc9339.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
+0.0.0.0 store.buddhakind.com
 0.0.0.0 budm.shop
 0.0.0.0 www.budm.shop
 0.0.0.0 store.budm.shop
@@ -364,6 +364,7 @@
 0.0.0.0 store.cnhvirtual.co
 0.0.0.0 cofdeal.com
 0.0.0.0 www.cofdeal.com
+0.0.0.0 store.cofdeal.com
 0.0.0.0 cognatesyringe.com
 0.0.0.0 www.cognatesyringe.com
 0.0.0.0 store.cognatesyringe.com
@@ -456,6 +457,9 @@
 0.0.0.0 dezpez.com
 0.0.0.0 www.dezpez.com
 0.0.0.0 dieserbenni.ru
+0.0.0.0 dischargebackhanded.com
+0.0.0.0 www.dischargebackhanded.com
+0.0.0.0 store.dischargebackhanded.com
 0.0.0.0 displaymovies.pl
 0.0.0.0 www.displaymovies.pl
 0.0.0.0 distrochooser.snehit.dev
@@ -1253,7 +1257,6 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 navi42.ru
 0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
@@ -1717,6 +1720,9 @@
 0.0.0.0 smartproduct.site
 0.0.0.0 www.smartproduct.site
 0.0.0.0 store.smartproduct.site
+0.0.0.0 smartuniswap.xyz
+0.0.0.0 www.smartuniswap.xyz
+0.0.0.0 store.smartuniswap.xyz
 0.0.0.0 smtpget.com
 0.0.0.0 www.smtpget.com
 0.0.0.0 smtpwire.com
@@ -1754,6 +1760,9 @@
 0.0.0.0 www.sportswearforfans.com
 0.0.0.0 spotgee.com
 0.0.0.0 www.spotgee.com
+0.0.0.0 stableuniswap.xyz
+0.0.0.0 www.stableuniswap.xyz
+0.0.0.0 store.stableuniswap.xyz
 0.0.0.0 staging.zendrop.com
 0.0.0.0 stallioncredit.com
 0.0.0.0 www.stallioncredit.com
@@ -1948,7 +1957,6 @@
 0.0.0.0 ucureo.com
 0.0.0.0 www.ucureo.com
 0.0.0.0 store.ucureo.com
-0.0.0.0 udemy-creators.com
 0.0.0.0 www.udemy-creators.com
 0.0.0.0 udrop.com
 0.0.0.0 www.udrop.com
@@ -1974,12 +1982,27 @@
 0.0.0.0 store.uniswap.ro
 0.0.0.0 uniswapagent.com
 0.0.0.0 www.uniswapagent.com
+0.0.0.0 uniswapai.xyz
+0.0.0.0 www.uniswapai.xyz
+0.0.0.0 store.uniswapai.xyz
+0.0.0.0 uniswapdefi.xyz
+0.0.0.0 www.uniswapdefi.xyz
+0.0.0.0 store.uniswapdefi.xyz
 0.0.0.0 uniswapetf.xyz
 0.0.0.0 www.uniswapetf.xyz
 0.0.0.0 store.uniswapetf.xyz
+0.0.0.0 uniswapfund.xyz
+0.0.0.0 www.uniswapfund.xyz
+0.0.0.0 store.uniswapfund.xyz
+0.0.0.0 uniswaphub.xyz
+0.0.0.0 www.uniswaphub.xyz
+0.0.0.0 store.uniswaphub.xyz
 0.0.0.0 uniswaplabs.xyz
 0.0.0.0 www.uniswaplabs.xyz
 0.0.0.0 store.uniswaplabs.xyz
+0.0.0.0 uniswapstaking.xyz
+0.0.0.0 www.uniswapstaking.xyz
+0.0.0.0 store.uniswapstaking.xyz
 0.0.0.0 universityofqatarrectorate.godaddysites.com
 0.0.0.0 www.universityofqatarrectorate.godaddysites.com
 0.0.0.0 store.universityofqatarrectorate.godaddysites.com

@@ -198,6 +198,7 @@
 ||devifoodgrains.com^
 ||dezpez.com^
 ||dieserbenni.ru^
+||dischargebackhanded.com^
 ||displaymovies.pl^
 ||distrochooser.snehit.dev^
 ||diteringion.com^
@@ -741,6 +742,7 @@
 ||smartokids.com^
 ||smartpower4all.org^
 ||smartproduct.site^
+||smartuniswap.xyz^
 ||smtpget.com^
 ||smtpwire.com^
 ||smvisa.co.il^
@@ -757,6 +759,7 @@
 ||sportswearfanatics.com^
 ||sportswearforfans.com^
 ||spotgee.com^
+||stableuniswap.xyz^
 ||staging.zendrop.com^
 ||stallioncredit.com^
 ||startuplatte.com^
@@ -848,8 +851,13 @@
 ||uniswap.host^
 ||uniswap.ro^
 ||uniswapagent.com^
+||uniswapai.xyz^
+||uniswapdefi.xyz^
 ||uniswapetf.xyz^
+||uniswapfund.xyz^
+||uniswaphub.xyz^
 ||uniswaplabs.xyz^
+||uniswapstaking.xyz^
 ||universityofqatarrectorate.godaddysites.com^
 ||updatesnow.click^
 ||uplevelreward.com^
