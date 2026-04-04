@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2276
+# Domains: 2272
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -99,6 +99,8 @@
 0.0.0.0 allstarshirt.com
 0.0.0.0 www.allstarshirt.com
 0.0.0.0 allupdatenow.com
+0.0.0.0 www.allupdatenow.com
+0.0.0.0 store.allupdatenow.com
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
 0.0.0.0 altwi-zgs.com
@@ -109,8 +111,6 @@
 0.0.0.0 www.anacondanz.com
 0.0.0.0 store.anacondanz.com
 0.0.0.0 animeshoppers.com
-0.0.0.0 www.animeshoppers.com
-0.0.0.0 store.animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
 0.0.0.0 aoptee.com
@@ -283,7 +283,6 @@
 0.0.0.0 www.bsntowoff.com
 0.0.0.0 btc9339.com
 0.0.0.0 www.btc9339.com
-0.0.0.0 store.btc9339.com
 0.0.0.0 buddhakind.com
 0.0.0.0 www.buddhakind.com
 0.0.0.0 store.buddhakind.com
@@ -474,9 +473,6 @@
 0.0.0.0 www.dogparadiseshop.com
 0.0.0.0 dogparadisestore.com
 0.0.0.0 www.dogparadisestore.com
-0.0.0.0 doh-gov.com
-0.0.0.0 www.doh-gov.com
-0.0.0.0 store.doh-gov.com
 0.0.0.0 doh-gov.ph
 0.0.0.0 www.doh-gov.ph
 0.0.0.0 store.doh-gov.ph
@@ -609,7 +605,6 @@
 0.0.0.0 www.familystore.com
 0.0.0.0 fapst.com
 0.0.0.0 www.fapst.com
-0.0.0.0 www.farmer-love.us
 0.0.0.0 faunugraipt.com
 0.0.0.0 www.faunugraipt.com
 0.0.0.0 store.faunugraipt.com
@@ -621,6 +616,8 @@
 0.0.0.0 www.faze2.com
 0.0.0.0 store.faze2.com
 0.0.0.0 faze3.com
+0.0.0.0 www.faze3.com
+0.0.0.0 store.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze47.com
@@ -695,8 +692,6 @@
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 www.folkrbvi.pages.dev
 0.0.0.0 store.folkrbvi.pages.dev
-0.0.0.0 food-network.fwh.is
-0.0.0.0 www.food-network.fwh.is
 0.0.0.0 freebitcoin.pages.dev
 0.0.0.0 www.freebitcoin.pages.dev
 0.0.0.0 store.freebitcoin.pages.dev
@@ -988,7 +983,6 @@
 0.0.0.0 store.keenfootwearsale.com
 0.0.0.0 kesug.com
 0.0.0.0 www.kesug.com
-0.0.0.0 store.kesug.com
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 kingcampoutdoors.co.jp
@@ -1004,6 +998,10 @@
 0.0.0.0 kisserine.com
 0.0.0.0 www.kisserine.com
 0.0.0.0 kitchendecor.shop
+0.0.0.0 klasykavod.pl
+0.0.0.0 www.klasykavod.pl
+0.0.0.0 store.klasykavod.pl
+0.0.0.0 klelnanzeigen-deutch.confirm542351.info
 0.0.0.0 kms-pc.com
 0.0.0.0 www.kms-pc.com
 0.0.0.0 kms-tool.com
@@ -1194,6 +1192,7 @@
 0.0.0.0 navi12.com
 0.0.0.0 www.navi12.com
 0.0.0.0 store.navi12.com
+0.0.0.0 store.navi14.com
 0.0.0.0 navi18.com
 0.0.0.0 www.navi18.com
 0.0.0.0 navi2.com
@@ -1249,8 +1248,6 @@
 0.0.0.0 navi4.com
 0.0.0.0 www.navi4.com
 0.0.0.0 store.navi4.com
-0.0.0.0 www.navi42.ru
-0.0.0.0 store.navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 www.navi43.com
 0.0.0.0 store.navi43.com
@@ -1309,7 +1306,6 @@
 0.0.0.0 store.navi9.com
 0.0.0.0 navi90.com
 0.0.0.0 www.navi90.com
-0.0.0.0 store.navi95.com
 0.0.0.0 navi98.com
 0.0.0.0 www.navi98.com
 0.0.0.0 store.navi98.com
@@ -1393,6 +1389,9 @@
 0.0.0.0 www.nofotballshop.com
 0.0.0.0 norfotball.com
 0.0.0.0 www.norfotball.com
+0.0.0.0 norgeshoes.com
+0.0.0.0 www.norgeshoes.com
+0.0.0.0 store.norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 notify-user-adjustments.vercel.app
@@ -1493,9 +1492,6 @@
 0.0.0.0 www.perlatoshoe.com
 0.0.0.0 personal84.com
 0.0.0.0 www.personal84.com
-0.0.0.0 petparty.store
-0.0.0.0 www.petparty.store
-0.0.0.0 store.petparty.store
 0.0.0.0 pharaohstore.com
 0.0.0.0 www.pharaohstore.com
 0.0.0.0 phgliders.com
@@ -1628,9 +1624,6 @@
 0.0.0.0 www.sakuradate.com
 0.0.0.0 salimusic.com
 0.0.0.0 www.salimusic.com
-0.0.0.0 sanla-tan.net
-0.0.0.0 www.sanla-tan.net
-0.0.0.0 store.sanla-tan.net
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
@@ -2001,6 +1994,9 @@
 0.0.0.0 universityofqatarrectorate.godaddysites.com
 0.0.0.0 www.universityofqatarrectorate.godaddysites.com
 0.0.0.0 store.universityofqatarrectorate.godaddysites.com
+0.0.0.0 updatesnow.click
+0.0.0.0 www.updatesnow.click
+0.0.0.0 store.updatesnow.click
 0.0.0.0 uplevelreward.com
 0.0.0.0 www.uplevelreward.com
 0.0.0.0 upnews.me
