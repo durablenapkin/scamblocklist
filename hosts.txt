@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2272
+# Domains: 2287
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -111,6 +111,8 @@
 0.0.0.0 www.anacondanz.com
 0.0.0.0 store.anacondanz.com
 0.0.0.0 animeshoppers.com
+0.0.0.0 www.animeshoppers.com
+0.0.0.0 store.animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
 0.0.0.0 aoptee.com
@@ -349,6 +351,8 @@
 0.0.0.0 cluckergifts.ecwid.com
 0.0.0.0 www.cluckergifts.ecwid.com
 0.0.0.0 store.cluckergifts.ecwid.com
+0.0.0.0 www.cma88.vip
+0.0.0.0 store.cma88.vip
 0.0.0.0 cmoboy.com
 0.0.0.0 www.cmoboy.com
 0.0.0.0 store.cmoboy.com
@@ -370,6 +374,9 @@
 0.0.0.0 coiincmi.com
 0.0.0.0 www.coiincmi.com
 0.0.0.0 store.coiincmi.com
+0.0.0.0 coinaps.com
+0.0.0.0 www.coinaps.com
+0.0.0.0 store.coinaps.com
 0.0.0.0 coinreq.com
 0.0.0.0 www.coinreq.com
 0.0.0.0 store.coinreq.com
@@ -643,8 +650,6 @@
 0.0.0.0 filedenzu.com
 0.0.0.0 www.filedenzu.com
 0.0.0.0 filexstorage.site
-0.0.0.0 www.filexstorage.site
-0.0.0.0 store.filexstorage.site
 0.0.0.0 fili-cc.tv
 0.0.0.0 www.fili-cc.tv
 0.0.0.0 store.fili-cc.tv
@@ -692,6 +697,8 @@
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 www.folkrbvi.pages.dev
 0.0.0.0 store.folkrbvi.pages.dev
+0.0.0.0 food-network.fwh.is
+0.0.0.0 www.food-network.fwh.is
 0.0.0.0 freebitcoin.pages.dev
 0.0.0.0 www.freebitcoin.pages.dev
 0.0.0.0 store.freebitcoin.pages.dev
@@ -983,6 +990,7 @@
 0.0.0.0 store.keenfootwearsale.com
 0.0.0.0 kesug.com
 0.0.0.0 www.kesug.com
+0.0.0.0 store.kesug.com
 0.0.0.0 kigurumi-usa.com
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 kingcampoutdoors.co.jp
@@ -1002,6 +1010,8 @@
 0.0.0.0 www.klasykavod.pl
 0.0.0.0 store.klasykavod.pl
 0.0.0.0 klelnanzeigen-deutch.confirm542351.info
+0.0.0.0 www.klelnanzeigen-deutch.confirm542351.info
+0.0.0.0 store.klelnanzeigen-deutch.confirm542351.info
 0.0.0.0 kms-pc.com
 0.0.0.0 www.kms-pc.com
 0.0.0.0 kms-tool.com
@@ -1078,6 +1088,9 @@
 0.0.0.0 lucidtiger.com
 0.0.0.0 www.lucidtiger.com
 0.0.0.0 store.lucidtiger.com
+0.0.0.0 luckyhomie.com
+0.0.0.0 www.luckyhomie.com
+0.0.0.0 store.luckyhomie.com
 0.0.0.0 lucysstyle.com
 0.0.0.0 www.lucysstyle.com
 0.0.0.0 store.lucysstyle.com
@@ -1192,6 +1205,8 @@
 0.0.0.0 navi12.com
 0.0.0.0 www.navi12.com
 0.0.0.0 store.navi12.com
+0.0.0.0 navi14.com
+0.0.0.0 www.navi14.com
 0.0.0.0 store.navi14.com
 0.0.0.0 navi18.com
 0.0.0.0 www.navi18.com
@@ -1206,7 +1221,6 @@
 0.0.0.0 navi21.com
 0.0.0.0 www.navi21.com
 0.0.0.0 store.navi21.com
-0.0.0.0 navi21.ru
 0.0.0.0 www.navi21.ru
 0.0.0.0 navi22.ru
 0.0.0.0 www.navi22.ru
@@ -1458,6 +1472,7 @@
 0.0.0.0 www.onrunningshop.com
 0.0.0.0 ontario-energy.com
 0.0.0.0 www.ontario-energy.com
+0.0.0.0 orami.one
 0.0.0.0 orderquilt.com
 0.0.0.0 www.orderquilt.com
 0.0.0.0 outel.abmarketworks.com
