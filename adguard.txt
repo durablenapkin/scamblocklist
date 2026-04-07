@@ -50,7 +50,6 @@
 ||altwi-zgs.com^
 ||amorpulse.com^
 ||anacondanz.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||appdrive.info^
@@ -153,7 +152,6 @@
 ||cityofdream.co.uk^
 ||cluckergifts.ecwid.com^
 ||cmoboy.com^
-||cnhajuda.co^
 ||cnhnotificou.co^
 ||cnhvirtual.co^
 ||cofdeal.com^
@@ -301,6 +299,7 @@
 ||freebitcoin.pages.dev^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -352,6 +351,7 @@
 ||headsets4business.co.uk^
 ||helpnanacenter.helpscoutdocs.com^
 ||hernoclothing.com^
+||heukmsactivator.com^
 ||hfr67jhqrw8.com^
 ||hindustantowergroupltd.com^
 ||hippie-pets.com^
@@ -473,9 +473,7 @@
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
-||lucysstyle.com^
 ||luxsgear.com^
-||m.coinexeu.vip^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -542,6 +540,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi43.com^
 ||navi45.ru^
 ||navi48.com^
