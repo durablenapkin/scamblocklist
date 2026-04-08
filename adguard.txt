@@ -50,6 +50,7 @@
 ||altwi-zgs.com^
 ||amorpulse.com^
 ||anacondanz.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||appdrive.info^
@@ -110,6 +111,7 @@
 ||blackoutarchertender.com^
 ||bloomingvibe.com^
 ||blsindiavisa.kr^
+||bmpro.tech^
 ||bncentertainment.com^
 ||bnidigital.com^
 ||bolejug.us^
@@ -236,6 +238,7 @@
 ||eslgrandscup.com^
 ||estiloserena.com.br^
 ||etaindia.org^
+||etaindiaonline.com^
 ||etv-in.com^
 ||eudoraz.com^
 ||eudshop.shop^
@@ -299,7 +302,6 @@
 ||freebitcoin.pages.dev^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -473,6 +475,7 @@
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
+||lucysstyle.com^
 ||luxsgear.com^
 ||maebl.com^
 ||magnite.shop^
@@ -599,6 +602,7 @@
 ||nirvezal.com^
 ||nobrerefino.com^
 ||nofotballshop.com^
+||nonofy.com^
 ||norfotball.com^
 ||norgeshoes.com^
 ||nosdaarte.com^
@@ -906,7 +910,6 @@
 ||wadahlapak.top^
 ||wallpaperflare.com^
 ||ware-bezahlt.info^
-||waronsol.top^
 ||warriordecor.com^
 ||watchmark.shop^
 ||watchseniorfit.com^
