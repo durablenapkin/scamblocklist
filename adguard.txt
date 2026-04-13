@@ -472,7 +472,6 @@
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
 ||mail.zalukaj.cc^
-||makitfornows.com^
 ||malgorzataschlegel.click^
 ||mango-desert-09ebb4010.4.azurestaticapps.net^
 ||maxdebrid.com^
@@ -729,7 +728,6 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
-||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||smartokids.com^
