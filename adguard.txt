@@ -19,7 +19,6 @@
 ||555sq.com.cn^
 ||5wzgtq8dpk.com^
 ||65spy7rgcu.com^
-||68437w.top^
 ||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||93mobiles.com^
 ||9vyzdk8.lvditoys.com^
@@ -114,6 +113,7 @@
 ||bnidigital.com^
 ||bolejug.us^
 ||bombardina.pl^
+||booking.transaction-processing.one^
 ||botsuanah.com^
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
@@ -150,7 +150,6 @@
 ||cinemak.pl^
 ||cipustar.com^
 ||cityofdream.co.uk^
-||claimcoderz.live^
 ||cluckergifts.ecwid.com^
 ||cmoboy.com^
 ||cofdeal.com^
@@ -174,7 +173,6 @@
 ||cryptot.net^
 ||customizerbox.com^
 ||customurink.com^
-||cuteclub.org^
 ||cutty.app^
 ||cycle100percent.com^
 ||czasnakino.pl^
@@ -289,6 +287,7 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
+||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -297,6 +296,7 @@
 ||freebitcoin.pages.dev^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -482,7 +482,6 @@
 ||mega-heritage.com^
 ||mega-kino.pl^
 ||megoindonesia.com^
-||microgull.com^
 ||microngroup.pro^
 ||microsoft-notifcation.com^
 ||microsoft.teams-live.com^
@@ -513,7 +512,6 @@
 ||navi100.com^
 ||navi11.com^
 ||navi12.com^
-||navi14.com^
 ||navi18.com^
 ||navi2.com^
 ||navi20.com^
@@ -666,7 +664,6 @@
 ||premiumqualityblanket.com^
 ||primeleech.com^
 ||primevod.pl^
-||promo-offer.com^
 ||promoalfresco.com^
 ||promotion40-form.com^
 ||prpages.com^
