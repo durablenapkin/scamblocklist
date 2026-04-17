@@ -113,7 +113,6 @@
 ||bnidigital.com^
 ||bolejug.us^
 ||bombardina.pl^
-||booking.transaction-processing.one^
 ||botsuanah.com^
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
@@ -206,6 +205,7 @@
 ||dohealths.com^
 ||dolystore.com^
 ||dopestore.pl^
+||dpsio.ink^
 ||drama-queen.cc^
 ||draxu.com^
 ||dreamgreenshoe.com^
@@ -287,7 +287,6 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
-||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -296,7 +295,6 @@
 ||freebitcoin.pages.dev^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -664,9 +662,9 @@
 ||premiumqualityblanket.com^
 ||primeleech.com^
 ||primevod.pl^
+||promo-offer.com^
 ||promoalfresco.com^
 ||promotion40-form.com^
-||prpages.com^
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||punchonsol.top^
 ||qq51f.short.gy^
@@ -756,7 +754,6 @@
 ||steampowered.cn.com^
 ||steamunlock.com^
 ||stellara.de^
-||stellasummer.com^
 ||stingcool-com.myshopify.com^
 ||storagestory.com^
 ||store-aleteia.org^
@@ -784,6 +781,7 @@
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
 ||tbao684tryo.com^
+||tdgrop168.vip^
 ||teearrow.com^
 ||teezill.com^
 ||telegramweb.vercel.app^
