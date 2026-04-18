@@ -8,7 +8,9 @@
 ||1000fapvids.online^
 ||1stfinancefirm.wixsite.com^
 ||1stireland.com^
+||1sttheglobal.com^
 ||1sttheworld.com^
+||23elon.pro^
 ||270278609-2020004278-462904544-440202503325--570202500372x-usps.com^
 ||365analytics.xyz^
 ||3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev^
@@ -205,7 +207,6 @@
 ||dohealths.com^
 ||dolystore.com^
 ||dopestore.pl^
-||dpsio.ink^
 ||drama-queen.cc^
 ||draxu.com^
 ||dreamgreenshoe.com^
@@ -679,12 +680,12 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
+||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rozomii.info^
-||rsaonlinenow.com.au^
 ||rupiahsaku.com^
 ||rustdesk.co.nz^
 ||rustdesk.io^
@@ -724,6 +725,7 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
+||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||smartokids.com^
@@ -853,7 +855,6 @@
 ||upnews.me^
 ||uprising.kip.pro^
 ||ureashi.com^
-||us99.pro^
 ||uschse04.my03.com^
 ||uusilemmikki.com^
 ||valeofoodsgroup.com^
