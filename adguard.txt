@@ -79,7 +79,6 @@
 ||beeaar.com^
 ||beecrave.com^
 ||benecharm.com^
-||benxi.info^
 ||bertasxt.com^
 ||best-torrents.com^
 ||bestvod.pl^
@@ -538,7 +537,6 @@
 ||navi4.com^
 ||navi42.ru^
 ||navi45.ru^
-||navi48.com^
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
@@ -638,6 +636,7 @@
 ||path2zillion.com^
 ||paypays.shop^
 ||peekpok.com^
+||pekanbaru.one^
 ||penguinnow.com^
 ||peppatees.com^
 ||perlatoshoe.com^
@@ -696,7 +695,6 @@
 ||sakuradate.com^
 ||salimusic.com^
 ||saveeeee.myshopify.com^
-||sberbank.avito.avito.pay.booking.id05196219.com^
 ||seagulltee.com^
 ||seans24.com.pl^
 ||seasonsofficial.com^
