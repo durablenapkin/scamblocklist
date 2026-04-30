@@ -17,12 +17,10 @@
 ||4556.de^
 ||47n78xprrvp1.top^
 ||555sq.com.cn^
-||5g-update.com^
 ||5wzgtq8dpk.com^
 ||65spy7rgcu.com^
 ||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||93mobiles.com^
-||9uwe.papilliondairyqueen.com^
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
 ||accbing.com^
@@ -299,7 +297,6 @@
 ||freebitcoin.pages.dev^
 ||friday89.com^
 ||friday99.com^
-||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -539,11 +536,9 @@
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
-||navi55.com^
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
-||navi65.ru^
 ||navi66.ru^
 ||navi69.com^
 ||navi7.com^
@@ -694,6 +689,7 @@
 ||sakuradate.com^
 ||salimusic.com^
 ||saveeeee.myshopify.com^
+||sberbank.id7629046.one^
 ||seagulltee.com^
 ||seans24.com.pl^
 ||seasonsofficial.com^
@@ -725,7 +721,6 @@
 ||skincheap.com^
 ||skinszone.net^
 ||skyfollowerbridge.com^
-||sleepyfull.com^
 ||sligen.com^
 ||smartokids.com^
 ||smartpower4all.org^
@@ -734,6 +729,7 @@
 ||smtpget.com^
 ||smvisa.co.il^
 ||sodipi.com^
+||softgetpc.com^
 ||software19797.blogspot.com^
 ||softzspot.com^
 ||somethingapparel.com^
@@ -787,7 +783,6 @@
 ||tencheckit.org^
 ||teodoroautopecas.com^
 ||terverystaio.info^
-||teslalnc.net^
 ||teslatime.net^
 ||the-north-face.gr^
 ||thebayonline.shop^
@@ -815,6 +810,7 @@
 ||travelexpress.us.com^
 ||travelvisabookings.com^
 ||travisa.com^
+||trendsharks.com^
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
 ||trivo.uk^
