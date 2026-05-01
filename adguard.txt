@@ -297,6 +297,7 @@
 ||freebitcoin.pages.dev^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -494,8 +495,6 @@
 ||ms-analytics.mywire.org^
 ||mslfgl434.pages.dev^
 ||mujib-store28.blogspot.com^
-||mulllvad.org^
-||mullvaad.net^
 ||muskusa.com^
 ||mybestautologin567.com^
 ||myblogshop.top^
@@ -689,7 +688,6 @@
 ||sakuradate.com^
 ||salimusic.com^
 ||saveeeee.myshopify.com^
-||sberbank.id7629046.one^
 ||seagulltee.com^
 ||seans24.com.pl^
 ||seasonsofficial.com^
@@ -904,7 +902,6 @@
 ||watchseniorfit.com^
 ||wavetshirt.com^
 ||wazofurniture.com^
-||wealthsimple-zfmip.com^
 ||weathly.com^
 ||webvod.pl^
 ||whbinder.com^
