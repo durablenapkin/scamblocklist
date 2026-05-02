@@ -136,7 +136,6 @@
 ||c0nt4ct-me.pages.dev^
 ||caly-film.cc^
 ||campingsurfshop.com^
-||candlesbymadison.com^
 ||canjaume.com^
 ||caraci.it^
 ||casualdating1.com^
@@ -153,6 +152,7 @@
 ||cinemak.pl^
 ||cipustar.com^
 ||cityofdream.co.uk^
+||ckkebt.shop^
 ||cluckergifts.ecwid.com^
 ||cmoboy.com^
 ||cofdeal.com^
@@ -297,7 +297,6 @@
 ||freebitcoin.pages.dev^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -410,7 +409,6 @@
 ||injustice.site^
 ||instant-e-app-for-campaign.github.io^
 ||iphone.quiztionnaire.biz^
-||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||itseasy.com^
 ||ivisa.com^
@@ -800,7 +798,6 @@
 ||tomadamsenergy.com^
 ||touristvisaonline.com^
 ||toweragency.in^
-||townaptdesk.info^
 ||toyrube.com^
 ||tpqcywcx.page.link^
 ||trade-skins.net^
