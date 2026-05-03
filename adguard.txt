@@ -51,6 +51,7 @@
 ||altwi-zgs.com^
 ||amorpulse.com^
 ||anacondanz.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||appdrive.info^
@@ -136,10 +137,10 @@
 ||c0nt4ct-me.pages.dev^
 ||caly-film.cc^
 ||campingsurfshop.com^
+||candlesbymadison.com^
 ||canjaume.com^
 ||caraci.it^
 ||casualdating1.com^
-||cda-pl.pl^
 ||cda-zalukaj.prv.pl^
 ||chat-o-live.com^
 ||cheat-on.com^
@@ -351,7 +352,6 @@
 ||hindustantowergroupltd.com^
 ||hippie-pets.com^
 ||hityvod.pl^
-||hookahheroes.com^
 ||hostpoco.com^
 ||hotbignews.com^
 ||hotdebrid.com^
@@ -466,6 +466,7 @@
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
+||lucysstyle.com^
 ||luxsgear.com^
 ||maebl.com^
 ||magnite.shop^
