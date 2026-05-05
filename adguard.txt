@@ -13,19 +13,18 @@
 ||365analytics.xyz^
 ||3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev^
 ||3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net^
+||407payment-etr.com^
 ||42gixk.98kk89.com^
 ||4556.de^
 ||47n78xprrvp1.top^
 ||555sq.com.cn^
 ||5wzgtq8dpk.com^
 ||65spy7rgcu.com^
-||7laced.com^
 ||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||93mobiles.com^
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
 ||accbing.com^
-||account.ws-reward.com^
 ||adflowtube.com^
 ||adidasko.com^
 ||adminicesm.life^
@@ -92,7 +91,6 @@
 ||binomo.app^
 ||binomo.broker^
 ||binomo.com^
-||binomo.in^
 ||binomo.info^
 ||binomo.vip^
 ||binomo1.com^
@@ -110,7 +108,6 @@
 ||bitsoft360.net^
 ||blackabdo.company.site^
 ||blackoutarchertender.com^
-||bloomessentialsbrand.com^
 ||bloomingvibe.com^
 ||blsindiavisa.kr^
 ||bmpro.tech^
@@ -159,7 +156,6 @@
 ||cluckergifts.ecwid.com^
 ||cmoboy.com^
 ||cofdeal.com^
-||coffeeteaware.com^
 ||cognatesyringe.com^
 ||coiincmi.com^
 ||coinaps.com^
@@ -179,7 +175,6 @@
 ||crypto030.online^
 ||cryptot.net^
 ||customizerbox.com^
-||customizeyourdeliveryroute.com^
 ||customurink.com^
 ||cutty.app^
 ||cycle100percent.com^
@@ -253,7 +248,6 @@
 ||evisaindia.org^
 ||evisaindiaonline.org^
 ||ex-torrenty.org^
-||expofstore.com^
 ||expressmovers.com^
 ||facebook-google-15oqyxwtkremqyujsm.vercel.app^
 ||facebook-google-vptyyny63pwfipshmm.vercel.app^
@@ -273,7 +267,6 @@
 ||faze47.com^
 ||faze5.com^
 ||faze77.com^
-||faze78.com^
 ||faze8.com^
 ||faze9.com^
 ||fazpowerdenet.tumblr.com^
@@ -358,7 +351,6 @@
 ||hindustantowergroupltd.com^
 ||hippie-pets.com^
 ||hityvod.pl^
-||hoka-us.com^
 ||hookahheroes.com^
 ||hostpoco.com^
 ||hotbignews.com^
@@ -472,7 +464,6 @@
 ||look-like-star.myshopify.com^
 ||lorenzettibrasil-vendas.com^
 ||lozly.com^
-||lp.voucheras.com^
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
@@ -493,7 +484,6 @@
 ||microngroup.pro^
 ||microsoft-notifcation.com^
 ||microsoft.teams-live.com^
-||microstrategy2023.net^
 ||miles.plumenetwork.xyz^
 ||milgenial.uy^
 ||miucart.com^
@@ -531,7 +521,6 @@
 ||navi24.ru^
 ||navi26.ru^
 ||navi27.ru^
-||navi29.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi33.com^
@@ -541,7 +530,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi42.ru^
-||navi43.com^
 ||navi44.com^
 ||navi5.com^
 ||navi52.com^
@@ -550,11 +538,9 @@
 ||navi59.ru^
 ||navi6.com^
 ||navi66.ru^
-||navi69.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
-||navi75.ru^
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
@@ -564,7 +550,6 @@
 ||navi9.com^
 ||navi90.com^
 ||navi95.com^
-||navi97.ru^
 ||navi98.com^
 ||navi99.com^
 ||nayatowerinstallation.in.net^
@@ -599,7 +584,6 @@
 ||nobrerefino.com^
 ||nofotballshop.com^
 ||nonofy.com^
-||nopae.top^
 ||norfotball.com^
 ||norgeshoes.com^
 ||nosdaarte.com^
@@ -674,7 +658,6 @@
 ||promotion40-form.com^
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||punchonsol.top^
-||p𝓸𝘳𝘯𝚔𝘢f.net^
 ||qq51f.short.gy^
 ||quitasueno.com^
 ||quoka.dk9zc9.pro^
@@ -703,8 +686,6 @@
 ||sakuradate.com^
 ||salimusic.com^
 ||saveeeee.myshopify.com^
-||sberbank.pay.aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbb.id05196219.com^
-||sberbank.sber.aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbb.id05196219.com^
 ||seagulltee.com^
 ||seans24.com.pl^
 ||seasonsofficial.com^
@@ -844,6 +825,7 @@
 ||ultrasonica.info^
 ||uni-swap.online^
 ||unifully.com^
+||uniqueshirt.shop^
 ||uniswap.host^
 ||uniswap.ro^
 ||uniswapagent.com^
@@ -944,7 +926,6 @@
 ||ygtube.xyz^
 ||yhdshop.com^
 ||yofi-yofi.com^
-||youchocho.com^
 ||youdebrid.com^
 ||yourdatefind.com^
 ||yoursecrethookup.com^
