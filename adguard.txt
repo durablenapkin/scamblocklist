@@ -10,7 +10,6 @@
 ||1stireland.com^
 ||1sttheworld.com^
 ||270278609-2020004278-462904544-440202503325--570202500372x-usps.com^
-||2xtsla.io^
 ||365analytics.xyz^
 ||3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev^
 ||3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net^
@@ -267,7 +266,6 @@
 ||faze47.com^
 ||faze5.com^
 ||faze77.com^
-||faze8.com^
 ||faze9.com^
 ||fazpowerdenet.tumblr.com^
 ||fdrc-gov.org^
@@ -298,6 +296,8 @@
 ||freebitcoin.pages.dev^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
+||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
 ||fundanemt.org^
@@ -502,6 +502,7 @@
 ||myhandshops.myshopify.com^
 ||mypuregaming.com^
 ||nalzahqp.page.link^
+||natilove.com^
 ||nationaladvancegroup.com^
 ||natvisa.com^
 ||navi1.com^
@@ -718,6 +719,7 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
+||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||smartokids.com^
@@ -775,6 +777,7 @@
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
 ||tbao684tryo.com^
+||tdgrop168.vip^
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
@@ -921,7 +924,6 @@
 ||xvid.social-previews.top^
 ||yahhhoo.com^
 ||yasir252.com^
-||yeezysofficial.us.com^
 ||yeswevibe.com^
 ||yeyvibe.com^
 ||ygtube.xyz^
