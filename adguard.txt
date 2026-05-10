@@ -176,7 +176,6 @@
 ||cryptot.net^
 ||customizerbox.com^
 ||customurink.com^
-||cuteclub.org^
 ||cutty.app^
 ||cycle100percent.com^
 ||czasnakino.pl^
@@ -581,7 +580,6 @@
 ||nip28.com^
 ||nip29.com^
 ||nip3.com^
-||nip32.com^
 ||nip4.com^
 ||nip46.com^
 ||nip5.com^
@@ -594,7 +592,6 @@
 ||nofotballshop.com^
 ||nonofy.com^
 ||norfotball.com^
-||norgejakke.com^
 ||norgeshoes.com^
 ||nosdaarte.com^
 ||notify-user-adjustments.vercel.app^
@@ -609,7 +606,6 @@
 ||official.olymptrade-my.com^
 ||officialkmspico.com^
 ||oflike.com^
-||ojlkimed.vip^
 ||okdebrid.com^
 ||oldcube.com^
 ||olive121407.studio.site^
@@ -682,6 +678,7 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
+||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
