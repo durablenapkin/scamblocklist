@@ -17,7 +17,6 @@
 ||4556.de^
 ||47n78xprrvp1.top^
 ||555sq.com.cn^
-||5g-update.com^
 ||5wzgtq8dpk.com^
 ||65spy7rgcu.com^
 ||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
@@ -39,7 +38,6 @@
 ||airupnederlands.com^
 ||airupsrbija.com^
 ||aizipai.cn^
-||aldi-life.vip^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||all-tube.pl^
@@ -117,7 +115,6 @@
 ||bnidigital.com^
 ||bolejug.us^
 ||bombardina.pl^
-||booking.transaction-processing.one^
 ||botsuanah.com^
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
@@ -180,7 +177,6 @@
 ||cryptot.net^
 ||customizerbox.com^
 ||customurink.com^
-||cuteclub.org^
 ||cutty.app^
 ||cycle100percent.com^
 ||czasnakino.pl^
@@ -417,6 +413,7 @@
 ||iphone.quiztionnaire.biz^
 ||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
+||itq.cuteclub.org^
 ||itseasy.com^
 ||ivisa.com^
 ||j-natural.com^
@@ -514,12 +511,14 @@
 ||nalzahqp.page.link^
 ||natilove.com^
 ||nationaladvancegroup.com^
+||natistorez.com^
 ||natvisa.com^
 ||navi1.com^
 ||navi10.com^
 ||navi100.com^
 ||navi11.com^
 ||navi12.com^
+||navi16.ru^
 ||navi18.com^
 ||navi2.com^
 ||navi20.ru^
@@ -679,7 +678,6 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
-||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
@@ -695,7 +693,6 @@
 ||sakuradate.com^
 ||salimusic.com^
 ||saveeeee.myshopify.com^
-||sberbank.id7629046.one^
 ||seagulltee.com^
 ||seans24.com.pl^
 ||seasonsofficial.com^
@@ -715,7 +712,6 @@
 ||shopperexpress.shop^
 ||shopraidlight.com^
 ||shopsyracuseonline.com^
-||shoptcuhornedonline.com^
 ||shopyourturn.com^
 ||showapparels.com^
 ||showplax.com^
@@ -774,7 +770,6 @@
 ||suitablepartner.life^
 ||summersale.co^
 ||summersale.online^
-||sunpass-etoll-id.kupu.desa.id^
 ||supercutestuff.com^
 ||superuniswap.xyz^
 ||supperbrand.company.site^
@@ -786,6 +781,7 @@
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
 ||tbao684tryo.com^
+||tdgrop168.vip^
 ||tee24h.com^
 ||teezill.com^
 ||telegramweb.vercel.app^
@@ -838,6 +834,7 @@
 ||ultimate-tech-products.myshopify.com^
 ||ultra-cda.pl^
 ||ultrasonica.info^
+||um-bs.com^
 ||uni-swap.online^
 ||unifully.com^
 ||uniswap.host^
@@ -934,7 +931,6 @@
 ||yeyvibe.com^
 ||ygtube.xyz^
 ||yhdshop.com^
-||yikesgroto.com^
 ||yofi-yofi.com^
 ||youdebrid.com^
 ||yourdatefind.com^
@@ -944,7 +940,6 @@
 ||youutube.com^
 ||ytvancedpro.com^
 ||yuaonew.com^
-||yyderfreap.shop^
 ||z-lib.id^
 ||z-lib.is^
 ||zalukaj-film.pl^
