@@ -10,6 +10,7 @@
 ||1stireland.com^
 ||1sttheworld.com^
 ||270278609-2020004278-462904544-440202503325--570202500372x-usps.com^
+||2xtsla.io^
 ||365analytics.xyz^
 ||3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev^
 ||3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net^
@@ -33,7 +34,6 @@
 ||airteltower.com^
 ||airtoff.com^
 ||airup-romania.com^
-||airupbulgaria.com^
 ||airupgreece.net^
 ||airupnederlands.com^
 ||airupsrbija.com^
@@ -296,6 +296,7 @@
 ||freebitcoin.pages.dev^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
@@ -413,7 +414,6 @@
 ||iphone.quiztionnaire.biz^
 ||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
-||itq.cuteclub.org^
 ||itseasy.com^
 ||ivisa.com^
 ||j-natural.com^
@@ -466,7 +466,6 @@
 ||linostee.com^
 ||lisabuddy.com^
 ||litcomplex.com^
-||liverepsae.adeftsolutions.com^
 ||load.365analytics.xyz^
 ||look-like-star.myshopify.com^
 ||lorenzettibrasil-vendas.com^
@@ -475,7 +474,9 @@
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
+||lucysstyle.com^
 ||luxsgear.com^
+||m.coinexeu.vip^
 ||maebl.com^
 ||mail-cytanet.pages.dev^
 ||mail.zalukaj.cc^
@@ -500,6 +501,7 @@
 ||msgclick.top^
 ||mslfgl434.pages.dev^
 ||mujib-store28.blogspot.com^
+||multifilmy.pl^
 ||muskai.net^
 ||muskusa.com^
 ||mybestautologin567.com^
@@ -511,14 +513,12 @@
 ||nalzahqp.page.link^
 ||natilove.com^
 ||nationaladvancegroup.com^
-||natistorez.com^
 ||natvisa.com^
 ||navi1.com^
 ||navi10.com^
 ||navi100.com^
 ||navi11.com^
 ||navi12.com^
-||navi16.ru^
 ||navi18.com^
 ||navi2.com^
 ||navi20.ru^
@@ -541,7 +541,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi42.ru^
-||navi44.com^
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
@@ -642,6 +641,7 @@
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
+||phpmyadmin.staging.demo.www1.transaction-processing.one^
 ||pinjamanelit.top^
 ||pinjamanrupiah.xyz^
 ||pinjamteman.top^
@@ -663,6 +663,7 @@
 ||promo-offer.com^
 ||promoalfresco.com^
 ||promotion40-form.com^
+||prpages.com^
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
 ||punchonsol.top^
 ||qq51f.short.gy^
@@ -781,8 +782,6 @@
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
 ||tbao684tryo.com^
-||tdgrop168.vip^
-||tee24h.com^
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
@@ -834,7 +833,6 @@
 ||ultimate-tech-products.myshopify.com^
 ||ultra-cda.pl^
 ||ultrasonica.info^
-||um-bs.com^
 ||uni-swap.online^
 ||unifully.com^
 ||uniswap.host^
