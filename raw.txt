@@ -11703,6 +11703,9 @@
 0.0.0.0 sligen.com
 0.0.0.0 www.sligen.com
 0.0.0.0 store.sligen.com
+0.0.0.0 slimsyrups.ca
+0.0.0.0 www.slimsyrups.ca
+0.0.0.0 store.slimsyrups.ca
 0.0.0.0 smartgadgettrend.com
 0.0.0.0 www.smartgadgettrend.com
 0.0.0.0 store.smartgadgettrend.com
