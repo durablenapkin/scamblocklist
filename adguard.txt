@@ -37,7 +37,6 @@
 ||airupnederlands.com^
 ||airupsrbija.com^
 ||aizipai.cn^
-||aldi-life.vip^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||all-tube.pl^
@@ -65,7 +64,6 @@
 ||avarik.web.app^
 ||azfancy.com^
 ||azsolver.com^
-||azvclothing.com^
 ||babybeddingdesign.com^
 ||backend.store.eset.co.il^
 ||bajeczki.org.pl^
@@ -307,7 +305,6 @@
 ||fveco.com^
 ||gamedrive.org^
 ||gamingbuffs.com^
-||gamingtoolz.club^
 ||gcqcanada.com^
 ||gdzieobejrzec.com^
 ||gearanime.com^
@@ -904,6 +901,7 @@
 ||weathly.com^
 ||webvod.pl^
 ||whbinder.com^
+||wikeb.com^
 ||wintexfashions.com^
 ||wisdomganga.com^
 ||withyotta.com^
