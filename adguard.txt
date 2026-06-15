@@ -36,7 +36,6 @@
 ||airupnederlands.com^
 ||airupsrbija.com^
 ||aizipai.cn^
-||aldi-life.vip^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||all-tube.pl^
@@ -77,6 +76,7 @@
 ||benecharm.com^
 ||benxi.info^
 ||bertasxt.com^
+||best-torrents.com^
 ||bestvod.pl^
 ||billboardwring.com^
 ||binom0-web.com^
@@ -139,6 +139,7 @@
 ||cheat-on.com^
 ||check-update-today.me^
 ||chesssorrydescend.com^
+||chiclife.co.uk^
 ||chikepod.com^
 ||chipcy.com^
 ||chipteeamz.com^
@@ -148,7 +149,6 @@
 ||cityofdream.co.uk^
 ||ckkebt.shop^
 ||cluckergifts.ecwid.com^
-||cma88.vip^
 ||cmoboy.com^
 ||cognatesyringe.com^
 ||coinaps.com^
@@ -335,6 +335,7 @@
 ||gossvibe.com^
 ||gotoperfection.com^
 ||govmedcareers.com^
+||greatoffersnow.com^
 ||gsport.com^
 ||gtlinfrastructurelimited.com^
 ||habtoorloyal.com^
@@ -470,7 +471,6 @@
 ||lucidtiger.com^
 ||luckyhomie.com^
 ||luxsgear.com^
-||m.coinexeu.vip^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -534,7 +534,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
@@ -877,7 +876,6 @@
 ||visasimple.com^
 ||visatoindia.org^
 ||visumbuitenland.nl^
-||vizjer.com.pl^
 ||vizjer.eu^
 ||vod-tv.pl^
 ||vod.film^
@@ -896,6 +894,7 @@
 ||whbinder.com^
 ||wikeb.com^
 ||wintexfashions.com^
+||wisdomganga.com^
 ||withyotta.com^
 ||woadoodles.com^
 ||wp3.xyz^
@@ -906,6 +905,7 @@
 ||ww25.utilify.me^
 ||base-vod.pl^
 ||www.base-vod.pl^
+||x2em.com^
 ||xcartpro.com^
 ||xn--airuptrkiye-yhb.com^
 ||xunlei.it^
