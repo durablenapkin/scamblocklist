@@ -128,7 +128,6 @@
 ||by-emmamuller.de^
 ||c0nt4ct-me.pages.dev^
 ||campingsurfshop.com^
-||canadapost-service.info^
 ||candlesbymadison.com^
 ||canjaume.com^
 ||caraci.it^
@@ -284,6 +283,7 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
+||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -329,6 +329,7 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
+||godsfillingstation.org^
 ||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
@@ -427,7 +428,6 @@
 ||kigurumi-usa.com^
 ||killercharm.com^
 ||kingcampoutdoors.co.jp^
-||kino-cda.pl^
 ||kinomaniak.cc^
 ||kinonline.pl^
 ||kisserine.com^
@@ -469,6 +469,7 @@
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
+||lucysstyle.com^
 ||luxsgear.com^
 ||maebl.com^
 ||magnite.shop^
@@ -533,7 +534,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
@@ -669,7 +669,6 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
-||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
@@ -793,7 +792,6 @@
 ||tinkleo.com^
 ||tiranaaquapark-eg.com^
 ||tlstoreonline.com^
-||tnfbackpacks.com^
 ||toko999.net^
 ||tomadamsenergy.com^
 ||touristvisaonline.com^
@@ -830,6 +828,7 @@
 ||uniswapagent.com^
 ||uniswapai.xyz^
 ||uniswapapp.xyz^
+||uniswapbot.xyz^
 ||uniswapcapital.xyz^
 ||uniswapdao.xyz^
 ||uniswapdefi.xyz^
