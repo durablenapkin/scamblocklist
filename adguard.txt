@@ -46,7 +46,6 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||appdrive.info^
@@ -470,7 +469,6 @@
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
-||lucysstyle.com^
 ||luxsgear.com^
 ||maebl.com^
 ||magnite.shop^
@@ -504,7 +502,6 @@
 ||myfunfarm.com^
 ||myhandshops.myshopify.com^
 ||mypuregaming.com^
-||nabaza.shop^
 ||nalzahqp.page.link^
 ||natilove.com^
 ||nationaladvancegroup.com^
@@ -603,6 +600,7 @@
 ||official.olymptrade-my.com^
 ||officialkmspico.com^
 ||oflike.com^
+||ojlkimed.vip^
 ||okdebrid.com^
 ||oldcube.com^
 ||olive121407.studio.site^
@@ -775,7 +773,6 @@
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
 ||tbao684tryo.com^
-||tdgrop168.vip^
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
