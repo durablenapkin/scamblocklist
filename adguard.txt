@@ -33,10 +33,8 @@
 ||airtoff.com^
 ||airup-romania.com^
 ||airupgreece.net^
-||airupnederlands.com^
 ||airupsrbija.com^
 ||aizipai.cn^
-||aldi-life.vip^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||all-tube.pl^
@@ -529,7 +527,6 @@
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
-||navi4.com^
 ||navi42.ru^
 ||navi5.com^
 ||navi52.com^
@@ -581,7 +578,6 @@
 ||nip9.com^
 ||nip98.com^
 ||nirvezal.com^
-||nlepfpteg.com^
 ||nofotballshop.com^
 ||nonofy.com^
 ||norfotball.com^
@@ -666,6 +662,7 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
+||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
@@ -717,6 +714,7 @@
 ||smartproduct.site^
 ||smartuniswap.xyz^
 ||smtpget.com^
+||smtpwire.com^
 ||smvisa.co.il^
 ||sodipi.com^
 ||softgetpc.com^
@@ -768,13 +766,11 @@
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
 ||tbao684tryo.com^
-||tdgrop168.vip^
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
 ||tencheckit.org^
 ||terverystaio.info^
-||teslacase.org^
 ||teslatime.net^
 ||the-north-face.gr^
 ||theeaglebrand.company.site^
@@ -792,6 +788,7 @@
 ||tlstoreonline.com^
 ||toko999.net^
 ||tomadamsenergy.com^
+||torrenty-pl.cc^
 ||touristvisaonline.com^
 ||toweragency.in^
 ||toyrube.com^
@@ -806,7 +803,6 @@
 ||trivo.uk^
 ||trkucibqy.com^
 ||tromselementbygg.no^
-||tsla-stock.com^
 ||turtleclient.xyz^
 ||twiiiter.com^
 ||twinsbio.com^
@@ -821,10 +817,8 @@
 ||ultrasonica.info^
 ||uni-swap.online^
 ||unifully.com^
-||uniswap-paladium-claim.run^
 ||uniswap.host^
 ||uniswap.ro^
-||uniswap7.work^
 ||uniswapagent.com^
 ||uniswapai.xyz^
 ||uniswapapp.xyz^
@@ -848,7 +842,6 @@
 ||uprising.kip.pro^
 ||ureashi.com^
 ||us99.pro^
-||uschse04.my03.com^
 ||uusilemmikki.com^
 ||valeofoodsgroup.com^
 ||validsteamkeys.com^
@@ -947,7 +940,6 @@
 ||zlibrary.to^
 ||zobaczfilm.com^
 ||zolrqw.palatlaldate.com^
-||zooger.space^
 ! Optimized Expressions, thx DandelionSprout
 ||avito.avito.avito.
 .com-id*.info^
