@@ -1,13 +1,11 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2189
+# Domains: 2183
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
-0.0.0.0 1000fapvids.online
-0.0.0.0 www.1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 www.1stfinancefirm.wixsite.com
 0.0.0.0 store.1stfinancefirm.wixsite.com
@@ -169,9 +167,7 @@
 0.0.0.0 store.benecharm.com
 0.0.0.0 benxi.info
 0.0.0.0 www.benxi.info
-0.0.0.0 bertasxt.com
-0.0.0.0 www.bertasxt.com
-0.0.0.0 store.bertasxt.com
+0.0.0.0 store.benxi.info
 0.0.0.0 best-torrents.com
 0.0.0.0 www.best-torrents.com
 0.0.0.0 store.best-torrents.com
@@ -466,9 +462,6 @@
 0.0.0.0 dolystore.com
 0.0.0.0 www.dolystore.com
 0.0.0.0 store.dolystore.com
-0.0.0.0 dopestore.pl
-0.0.0.0 www.dopestore.pl
-0.0.0.0 store.dopestore.pl
 0.0.0.0 drama-queen.cc
 0.0.0.0 www.drama-queen.cc
 0.0.0.0 draxu.com
@@ -801,7 +794,9 @@
 0.0.0.0 hityvod.pl
 0.0.0.0 www.hityvod.pl
 0.0.0.0 store.hityvod.pl
+0.0.0.0 hookahheroes.com
 0.0.0.0 www.hookahheroes.com
+0.0.0.0 store.hookahheroes.com
 0.0.0.0 hostpoco.com
 0.0.0.0 www.hostpoco.com
 0.0.0.0 hotbignews.com
@@ -931,6 +926,7 @@
 0.0.0.0 iphone.quiztionnaire.biz
 0.0.0.0 www.iphone.quiztionnaire.biz
 0.0.0.0 store.iphone.quiztionnaire.biz
+0.0.0.0 iqcreditcheck.com
 0.0.0.0 www.iqcreditcheck.com
 0.0.0.0 store.iqcreditcheck.com
 0.0.0.0 italyworldbaseballclassic.com
@@ -1066,6 +1062,7 @@
 0.0.0.0 luxsgear.com
 0.0.0.0 www.luxsgear.com
 0.0.0.0 store.luxsgear.com
+0.0.0.0 store.m.coinexeu.vip
 0.0.0.0 maebl.com
 0.0.0.0 www.maebl.com
 0.0.0.0 store.maebl.com
@@ -1115,7 +1112,6 @@
 0.0.0.0 ms-analytics.mywire.org
 0.0.0.0 www.ms-analytics.mywire.org
 0.0.0.0 store.ms-analytics.mywire.org
-0.0.0.0 msgclick.top
 0.0.0.0 www.msgclick.top
 0.0.0.0 store.msgclick.top
 0.0.0.0 mslfgl434.pages.dev
@@ -1211,8 +1207,6 @@
 0.0.0.0 www.navi38.ru
 0.0.0.0 navi39.ru
 0.0.0.0 www.navi39.ru
-0.0.0.0 www.navi42.ru
-0.0.0.0 store.navi42.ru
 0.0.0.0 navi5.com
 0.0.0.0 www.navi5.com
 0.0.0.0 store.navi5.com
@@ -1369,6 +1363,7 @@
 0.0.0.0 oflike.com
 0.0.0.0 www.oflike.com
 0.0.0.0 store.oflike.com
+0.0.0.0 store.ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 www.okdebrid.com
 0.0.0.0 oldcube.com
@@ -1386,9 +1381,7 @@
 0.0.0.0 www.online-eta.com
 0.0.0.0 onlinecda.pl
 0.0.0.0 www.onlinecda.pl
-0.0.0.0 onlinekino.pl
 0.0.0.0 www.onlinekino.pl
-0.0.0.0 store.onlinekino.pl
 0.0.0.0 onlinevisa.com
 0.0.0.0 www.onlinevisa.com
 0.0.0.0 onlinewideo.pl
@@ -1424,6 +1417,7 @@
 0.0.0.0 path2zillion.com
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
+0.0.0.0 store.pekanbaru.one
 0.0.0.0 penguinnow.com
 0.0.0.0 www.penguinnow.com
 0.0.0.0 store.penguinnow.com
@@ -1527,8 +1521,6 @@
 0.0.0.0 store.robalmeister.workers.dev
 0.0.0.0 robinmooreband.com
 0.0.0.0 www.robinmooreband.com
-0.0.0.0 robuxmenu.vip
-0.0.0.0 www.robuxmenu.vip
 0.0.0.0 rockchief.com
 0.0.0.0 www.rockchief.com
 0.0.0.0 rosateeshop.com
@@ -1624,6 +1616,7 @@
 0.0.0.0 store.skincheap.com
 0.0.0.0 skinszone.net
 0.0.0.0 www.skinszone.net
+0.0.0.0 skipped.vip
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 www.skyfollowerbridge.com
 0.0.0.0 sligen.com
@@ -1870,6 +1863,7 @@
 0.0.0.0 store.ucureo.com
 0.0.0.0 udemy-creators.com
 0.0.0.0 www.udemy-creators.com
+0.0.0.0 store.udemy-creators.com
 0.0.0.0 udrop.com
 0.0.0.0 www.udrop.com
 0.0.0.0 uk-tweed-jackets.com
