@@ -156,6 +156,8 @@
 ||confira.io^
 ||containably.com^
 ||coolest3d.com^
+||coolestpod.com^
+||copymyfx.com^
 ||corg.co^
 ||couponxoo.com^
 ||courier-tracking.com^
@@ -278,6 +280,7 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
+||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -704,6 +707,7 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
+||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||slimsyrups.ca^
@@ -880,6 +884,7 @@
 ||wadahlapak.top^
 ||wallpaperflare.com^
 ||watchmark.shop^
+||wavetshirt.com^
 ||wazofurniture.com^
 ||weathly.com^
 ||webvod.pl^
