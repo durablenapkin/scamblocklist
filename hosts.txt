@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2190
+# Domains: 2216
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -167,6 +167,10 @@
 0.0.0.0 store.benecharm.com
 0.0.0.0 benxi.info
 0.0.0.0 www.benxi.info
+0.0.0.0 store.benxi.info
+0.0.0.0 bertasxt.com
+0.0.0.0 www.bertasxt.com
+0.0.0.0 store.bertasxt.com
 0.0.0.0 best-torrents.com
 0.0.0.0 www.best-torrents.com
 0.0.0.0 store.best-torrents.com
@@ -357,6 +361,7 @@
 0.0.0.0 www.containably.com
 0.0.0.0 coolest3d.com
 0.0.0.0 www.coolest3d.com
+0.0.0.0 store.coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 www.coolestpod.com
 0.0.0.0 copymyfx.com
@@ -469,6 +474,8 @@
 0.0.0.0 store.draxu.com
 0.0.0.0 dreamgreenshoe.com
 0.0.0.0 www.dreamgreenshoe.com
+0.0.0.0 dreamstee.com
+0.0.0.0 www.dreamstee.com
 0.0.0.0 dresseloves.com
 0.0.0.0 www.dresseloves.com
 0.0.0.0 dressesloves.com
@@ -516,7 +523,6 @@
 0.0.0.0 eset.co.il
 0.0.0.0 www.eset.co.il
 0.0.0.0 store.eset.co.il
-0.0.0.0 store.eshaalfawson.shop
 0.0.0.0 esl-gaming.com
 0.0.0.0 www.esl-gaming.com
 0.0.0.0 estiloserena.com.br
@@ -545,7 +551,6 @@
 0.0.0.0 ex-torrenty.org
 0.0.0.0 www.ex-torrenty.org
 0.0.0.0 store.ex-torrenty.org
-0.0.0.0 expressmovers.com
 0.0.0.0 www.expressmovers.com
 0.0.0.0 store.expressmovers.com
 0.0.0.0 facebook-google-15oqyxwtkremqyujsm.vercel.app
@@ -711,6 +716,9 @@
 0.0.0.0 gearstastic.com
 0.0.0.0 www.gearstastic.com
 0.0.0.0 store.gearstastic.com
+0.0.0.0 gearver.com
+0.0.0.0 www.gearver.com
+0.0.0.0 store.gearver.com
 0.0.0.0 geekupdates.notion.site
 0.0.0.0 www.geekupdates.notion.site
 0.0.0.0 store.geekupdates.notion.site
@@ -945,6 +953,8 @@
 0.0.0.0 store.jellystores.com
 0.0.0.0 jewellvanmarter.za.com
 0.0.0.0 www.jewellvanmarter.za.com
+0.0.0.0 jne-express.my.id
+0.0.0.0 www.jne-express.my.id
 0.0.0.0 jsdimmigration.com
 0.0.0.0 www.jsdimmigration.com
 0.0.0.0 store.jsdimmigration.com
@@ -1019,6 +1029,11 @@
 0.0.0.0 www.lericettedifrancy74.com
 0.0.0.0 lesliespracklen.sa.com
 0.0.0.0 www.lesliespracklen.sa.com
+0.0.0.0 letteringift.com
+0.0.0.0 www.letteringift.com
+0.0.0.0 store.letteringift.com
+0.0.0.0 levath.com
+0.0.0.0 www.levath.com
 0.0.0.0 levelbash.com
 0.0.0.0 www.levelbash.com
 0.0.0.0 levelupstore.xyz
@@ -1396,9 +1411,6 @@
 0.0.0.0 onlyfanstake.pro
 0.0.0.0 www.onlyfanstake.pro
 0.0.0.0 store.onlyfanstake.pro
-0.0.0.0 onrunningshop.com
-0.0.0.0 www.onrunningshop.com
-0.0.0.0 store.onrunningshop.com
 0.0.0.0 ontario-energy.com
 0.0.0.0 www.ontario-energy.com
 0.0.0.0 orderquilt.com
@@ -1489,6 +1501,9 @@
 0.0.0.0 store.primevod.pl
 0.0.0.0 promo-offer.com
 0.0.0.0 www.promo-offer.com
+0.0.0.0 promoalfresco.com
+0.0.0.0 www.promoalfresco.com
+0.0.0.0 store.promoalfresco.com
 0.0.0.0 promotion40-form.com
 0.0.0.0 www.promotion40-form.com
 0.0.0.0 pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com
@@ -1507,7 +1522,6 @@
 0.0.0.0 re-captha-version-3-277.buzz
 0.0.0.0 www.re-captha-version-3-277.buzz
 0.0.0.0 store.re-captha-version-3-277.buzz
-0.0.0.0 www.relaxcsvote.shop
 0.0.0.0 resources4gaming.com
 0.0.0.0 www.resources4gaming.com
 0.0.0.0 store.resources4gaming.com
@@ -1540,6 +1554,9 @@
 0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 www.rsaonlinenow.com.au
 0.0.0.0 store.rsaonlinenow.com.au
+0.0.0.0 rupiahsaku.com
+0.0.0.0 www.rupiahsaku.com
+0.0.0.0 store.rupiahsaku.com
 0.0.0.0 rustdesk.co.nz
 0.0.0.0 www.rustdesk.co.nz
 0.0.0.0 rustdesk.io
@@ -1585,6 +1602,7 @@
 0.0.0.0 store.serialefilmy.pl
 0.0.0.0 seryna.co
 0.0.0.0 www.seryna.co
+0.0.0.0 store.seryna.co
 0.0.0.0 shapeden.com
 0.0.0.0 shirttest.com
 0.0.0.0 www.shirttest.com
@@ -1761,7 +1779,6 @@
 0.0.0.0 www.tartannewzealand.myshopify.com
 0.0.0.0 store.tartannewzealand.myshopify.com
 0.0.0.0 tbao684tryo.com
-0.0.0.0 tdgrop168.vip
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
 0.0.0.0 telegramweb.vercel.app
@@ -1790,6 +1807,9 @@
 0.0.0.0 www.theonepercentcommunity.com
 0.0.0.0 theshirtyouneed.com
 0.0.0.0 www.theshirtyouneed.com
+0.0.0.0 thevitic.com
+0.0.0.0 www.thevitic.com
+0.0.0.0 store.thevitic.com
 0.0.0.0 thevitic.onshopbase.com
 0.0.0.0 www.thevitic.onshopbase.com
 0.0.0.0 store.thevitic.onshopbase.com
@@ -1868,6 +1888,7 @@
 0.0.0.0 store.ucureo.com
 0.0.0.0 udemy-creators.com
 0.0.0.0 www.udemy-creators.com
+0.0.0.0 store.udemy-creators.com
 0.0.0.0 udrop.com
 0.0.0.0 www.udrop.com
 0.0.0.0 uk-tweed-jackets.com
@@ -1892,6 +1913,7 @@
 0.0.0.0 uniswap.ro
 0.0.0.0 www.uniswap.ro
 0.0.0.0 store.uniswap.ro
+0.0.0.0 www.uniswap5.work
 0.0.0.0 uniswapagent.com
 0.0.0.0 www.uniswapagent.com
 0.0.0.0 uniswapai.xyz
@@ -1956,7 +1978,7 @@
 0.0.0.0 us99.pro
 0.0.0.0 www.us99.pro
 0.0.0.0 store.us99.pro
-0.0.0.0 www.uschse04.my03.com
+0.0.0.0 uschse04.my03.com
 0.0.0.0 uusilemmikki.com
 0.0.0.0 www.uusilemmikki.com
 0.0.0.0 valeofoodsgroup.com
@@ -2023,6 +2045,9 @@
 0.0.0.0 visumbuitenland.nl
 0.0.0.0 www.visumbuitenland.nl
 0.0.0.0 store.visumbuitenland.nl
+0.0.0.0 vizjer-pl.pl
+0.0.0.0 www.vizjer-pl.pl
+0.0.0.0 store.vizjer-pl.pl
 0.0.0.0 vizjer.eu
 0.0.0.0 www.vizjer.eu
 0.0.0.0 store.vizjer.eu
@@ -2078,8 +2103,6 @@
 0.0.0.0 wpad.casa
 0.0.0.0 www.wpad.casa
 0.0.0.0 wpad.ru
-0.0.0.0 www.wpad.ru
-0.0.0.0 store.wpad.ru
 0.0.0.0 wpad.top
 0.0.0.0 wpad.xyz
 0.0.0.0 ww25.utilify.me
@@ -2132,6 +2155,9 @@
 0.0.0.0 store.youtunbe.com
 0.0.0.0 youutube.com
 0.0.0.0 www.youutube.com
+0.0.0.0 ytvancedpro.com
+0.0.0.0 www.ytvancedpro.com
+0.0.0.0 store.ytvancedpro.com
 0.0.0.0 yuaonew.com
 0.0.0.0 www.yuaonew.com
 0.0.0.0 z-lib.id
