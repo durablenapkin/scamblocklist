@@ -44,6 +44,7 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||amorpulse.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||appdrive.info^
@@ -385,7 +386,6 @@
 ||indianevisaonline.com^
 ||indianimmigration.org^
 ||indianonlinevisas.org^
-||indiantravelvisa.com^
 ||indianvisa.online^
 ||indianvisagov.com^
 ||indianvisaonline.org^
@@ -469,6 +469,7 @@
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
+||lucysstyle.com^
 ||luxsgear.com^
 ||maebl.com^
 ||magnite.shop^
@@ -511,6 +512,7 @@
 ||navi100.com^
 ||navi11.com^
 ||navi12.com^
+||navi18.com^
 ||navi2.com^
 ||navi20.com^
 ||navi20.ru^
@@ -666,6 +668,7 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
+||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
@@ -769,6 +772,7 @@
 ||t-post.com^
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
+||tatatowers.com^
 ||tbao684tryo.com^
 ||teezill.com^
 ||telegramweb.vercel.app^
@@ -823,7 +827,6 @@
 ||unifully.com^
 ||uniswap.host^
 ||uniswap.ro^
-||uniswap5.work^
 ||uniswapagent.com^
 ||uniswapai.xyz^
 ||uniswapapp.xyz^
