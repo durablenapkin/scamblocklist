@@ -28,6 +28,7 @@
 ||affordableforyouusa5.godaddysites.com^
 ||afiletoget.click^
 ||air-up-turkiye.com^
+||aircgd.shop^
 ||airteltower.com^
 ||airtoff.com^
 ||airup-romania.com^
@@ -308,7 +309,6 @@
 ||gearanime.com^
 ||gearhomies.com^
 ||gearhuman.com^
-||gearstastic.com^
 ||gearver.com^
 ||geekupdates.notion.site^
 ||geldencosmeticos.com^
@@ -668,7 +668,6 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
-||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
@@ -795,6 +794,7 @@
 ||tiranaaquapark-eg.com^
 ||tlstoreonline.com^
 ||toko999.net^
+||toko999.shop^
 ||tomadamsenergy.com^
 ||torrenty-pl.cc^
 ||touristvisaonline.com^
