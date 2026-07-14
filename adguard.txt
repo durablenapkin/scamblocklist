@@ -37,6 +37,7 @@
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||all-tube.pl^
+||allcars.cn^
 ||allergyfl.com^
 ||allnewsready.com^
 ||allstarshirt.com^
@@ -113,6 +114,7 @@
 ||bnidigital.com^
 ||bolejug.us^
 ||bombardina.pl^
+||booking.transaction-processing.one^
 ||botsuanah.com^
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
@@ -122,6 +124,7 @@
 ||bsnltowerinstallations.com^
 ||bsntowoff.com^
 ||buddhakind.com^
+||budm.shop^
 ||burgershirt.com^
 ||buydubuy.com^
 ||bwpkizpfms.funnelish.com^
@@ -156,6 +159,7 @@
 ||compoundexotics.com^
 ||confira.io^
 ||containably.com^
+||coolest3d.com^
 ||coolestpod.com^
 ||copymyfx.com^
 ||corg.co^
@@ -280,6 +284,7 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
+||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -471,7 +476,6 @@
 ||luckyhomie.com^
 ||lucysstyle.com^
 ||luxsgear.com^
-||m.coinexeu.vip^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -601,7 +605,6 @@
 ||official.olymptrade-my.com^
 ||officialkmspico.com^
 ||oflike.com^
-||ojlkimed.vip^
 ||okdebrid.com^
 ||oldcube.com^
 ||olive121407.studio.site^
@@ -670,6 +673,7 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
+||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
@@ -685,7 +689,6 @@
 ||sakuradate.com^
 ||salimusic.com^
 ||saveeeee.myshopify.com^
-||sberbank.id7629046.one^
 ||seagulltee.com^
 ||seasonsofficial.com^
 ||secrity2redline.com^
@@ -899,8 +902,8 @@
 ||webvod.pl^
 ||whbinder.com^
 ||wikeb.com^
+||wind88.shop^
 ||wintexfashions.com^
-||wisdomganga.com^
 ||withyotta.com^
 ||woadoodles.com^
 ||wp3.xyz^
@@ -926,11 +929,13 @@
 ||yofi-yofi.com^
 ||youdebrid.com^
 ||yoursecrethookup.com^
+||youthfy.shop^
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
 ||ytvancedpro.com^
 ||yuaonew.com^
+||yyderfreap.shop^
 ||z-lib.id^
 ||z-lib.is^
 ||zalukaj-film.pl^
