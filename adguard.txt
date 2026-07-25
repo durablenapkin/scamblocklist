@@ -12,6 +12,7 @@
 ||365analytics.xyz^
 ||3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev^
 ||3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net^
+||407etr.click^
 ||42gixk.98kk89.com^
 ||4556.de^
 ||47n78xprrvp1.top^
@@ -91,7 +92,6 @@
 ||binomo.vip^
 ||binomo1.com^
 ||binomo2.zendesk.com^
-||binomogoo.com^
 ||binomoidr.com^
 ||binomotop.com^
 ||binomoweb.org^
@@ -126,6 +126,7 @@
 ||buzzazone.com^
 ||bwpkizpfms.funnelish.com^
 ||by-emmamuller.de^
+||byeuys.shop^
 ||c0nt4ct-me.pages.dev^
 ||campingsurfshop.com^
 ||candlesbymadison.com^
@@ -133,7 +134,6 @@
 ||caraci.it^
 ||casualdating1.com^
 ||cda-zalukaj.prv.pl^
-||cebubestbuy.com^
 ||chat-o-live.com^
 ||cheat-on.com^
 ||check-update-today.me^
@@ -142,7 +142,6 @@
 ||chikepod.com^
 ||chipcy.com^
 ||chipteeamz.com^
-||chsoop.robinhoodproz.com^
 ||cibtvisas.com^
 ||cinemak.pl^
 ||cipustar.com^
@@ -190,6 +189,7 @@
 ||deergift.com^
 ||dein-rundfunkbeitrag.de^
 ||deluxdoll.com^
+||denningwelldrilling.com^
 ||desiupload.in^
 ||devifoodgrains.com^
 ||dezpez.com^
@@ -207,6 +207,7 @@
 ||draxu.com^
 ||dreamgreenshoe.com^
 ||dreamstee.com^
+||dreamstees.com^
 ||dresseloves.com^
 ||dressesloves.com^
 ||dresseslovesootd.com^
@@ -223,6 +224,8 @@
 ||edgeupgrade.com^
 ||edwardjhutley107375938786edwardjrhutley70205433153583usps.com^
 ||ekommmedia.com^
+||elaka.lk^
+||elonx2tesla.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
@@ -259,6 +262,7 @@
 ||faze4.com^
 ||faze47.com^
 ||faze5.com^
+||faze63.com^
 ||faze77.com^
 ||faze8.com^
 ||faze9.com^
@@ -282,7 +286,6 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
-||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -291,7 +294,6 @@
 ||food-network.fwh.is^
 ||freebitcoin.pages.dev^
 ||freedom-5g.com^
-||freeuspsnabsbpost.top^
 ||friday89.com^
 ||friday99.com^
 ||frostgoddess.com^
@@ -306,7 +308,6 @@
 ||fveco.com^
 ||gamedrive.org^
 ||gamingbuffs.com^
-||gazinvest.quest^
 ||gcqcanada.com^
 ||gdzieobejrzec.com^
 ||gearanime.com^
@@ -350,6 +351,7 @@
 ||hindustantowergroupltd.com^
 ||hippie-pets.com^
 ||hityvod.pl^
+||hookahheroes.com^
 ||hostpoco.com^
 ||hotbignews.com^
 ||hotdebrid.com^
@@ -414,7 +416,6 @@
 ||ivisa.com^
 ||j-natural.com^
 ||jagkart.com^
-||jask.powerforxes.shop^
 ||jasper-lilac-van.glitch.me^
 ||jellystores.com^
 ||jewellvanmarter.za.com^
@@ -442,7 +443,6 @@
 ||kmspicoofficial.com^
 ||knightmods.com^
 ||koinprime.com^
-||kongpixel.com^
 ||kontribusiuang.top^
 ||kopisusu.co.id^
 ||kra18.com^
@@ -462,7 +462,6 @@
 ||ligerking.com^
 ||likenu.se^
 ||linaromney.za.com^
-||link-dana-kagett.rilx.me^
 ||linkshe.com^
 ||linostee.com^
 ||lisabuddy.com^
@@ -496,10 +495,10 @@
 ||modmobile24.com^
 ||monkstars.com^
 ||ms-analytics.mywire.org^
-||msgclick.top^
 ||mslfgl434.pages.dev^
 ||mujib-store28.blogspot.com^
 ||multifilmy.pl^
+||muscleforlive.online^
 ||muskai.net^
 ||muskusa.com^
 ||mybestautologin567.com^
@@ -530,19 +529,20 @@
 ||navi26.ru^
 ||navi27.ru^
 ||navi3.com^
+||navi30.com^
 ||navi30.ru^
 ||navi33.com^
 ||navi35.com^
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
+||navi42.ru^
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
-||navi62.ru^
 ||navi66.ru^
 ||navi69.com^
 ||navi7.com^
@@ -555,7 +555,6 @@
 ||navi88.com^
 ||navi9.com^
 ||navi90.com^
-||navi95.ru^
 ||navi98.com^
 ||navi99.com^
 ||nayatowerinstallation.in.net^
@@ -596,7 +595,6 @@
 ||notify-user-adjustments.vercel.app^
 ||novabeds.ca^
 ||nowefilmyonline.pl^
-||ns.app.admin.id601294105.date^
 ||nzxsxn.98kk89.com^
 ||oablages.org.br^
 ||obejrzyj-to.pl^
@@ -606,6 +604,7 @@
 ||official.olymptrade-my.com^
 ||officialkmspico.com^
 ||oflike.com^
+||ojlkimed.vip^
 ||okdebrid.com^
 ||oldcube.com^
 ||olive121407.studio.site^
@@ -630,6 +629,7 @@
 ||pandzee.com^
 ||paradisevs.com^
 ||path2zillion.com^
+||pay.avito.id05196219.com^
 ||peekpok.com^
 ||penguinnow.com^
 ||peppatees.com^
@@ -639,7 +639,6 @@
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
 ||phirussacmush.net^
-||physiotherapyindhaka.com^
 ||pinjamanelit.top^
 ||pinjamanrupiah.xyz^
 ||pinjamteman.top^
@@ -667,8 +666,8 @@
 ||quotex.com.in^
 ||re-captha-version-3-277.buzz^
 ||reanimando.org^
-||reschserviceonline.info^
 ||resources4gaming.com^
+||retoaudi.com^
 ||revanced-extended.com^
 ||reviewshirts.com^
 ||rewardsgiantca.com^
@@ -682,7 +681,6 @@
 ||royalhedgies.com^
 ||rozomii.info^
 ||rsaonlinenow.com.au^
-||rupiahsaku.com^
 ||rustdesk.co.nz^
 ||rustdesk.io^
 ||rustdesk.pl^
@@ -782,7 +780,6 @@
 ||tartannewzealand.myshopify.com^
 ||tatatowers.com^
 ||tbao684tryo.com^
-||tdgrop168.vip^
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
@@ -833,7 +830,6 @@
 ||ultra-cda.pl^
 ||ultrasonica.info^
 ||uni-swap.online^
-||uniaxes.com^
 ||unifully.com^
 ||uniswap.host^
 ||uniswap.ro^
@@ -860,6 +856,7 @@
 ||uprising.kip.pro^
 ||ureashi.com^
 ||us99.pro^
+||usakidsclothes.com^
 ||uschse04.my03.com^
 ||uusilemmikki.com^
 ||valeofoodsgroup.com^
@@ -871,12 +868,14 @@
 ||vessisdeutschland.com^
 ||vider-cda.online^
 ||vider-pl.pl^
+||vider.cc^
 ||vider.com.pl^
 ||vider.info.pl^
 ||vider.online^
 ||vikingstore.co^
 ||vindhuisdieren.com^
 ||vinisay.com^
+||vip-yuki-shop.com^
 ||vip100.cc^
 ||vipdeit.com^
 ||vipticketgiveaway.com^
@@ -901,6 +900,8 @@
 ||w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app^
 ||wadahlapak.top^
 ||wallpaperflare.com^
+||wangsakti.com^
+||waresusmiss.com^
 ||watchmark.shop^
 ||wavetshirt.com^
 ||wazofurniture.com^
@@ -918,6 +919,7 @@
 ||wpad.top^
 ||wpad.xyz^
 ||ww25.utilify.me^
+||ww3.dane-cr2024.io.webm.ru^
 ||base-vod.pl^
 ||www.base-vod.pl^
 ||x2em.com^
@@ -925,7 +927,6 @@
 ||xunlei.it^
 ||xvid.social-previews.top^
 ||yahhhoo.com^
-||yandex.avito.avito.pay.booking.id05196219.com^
 ||yasir252.com^
 ||yeezysofficial.us.com^
 ||yeswevibe.com^
