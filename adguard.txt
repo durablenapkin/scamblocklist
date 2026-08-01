@@ -5,7 +5,6 @@
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
-||1bmo-reactivemyaccount0.com^
 ||1stfinancefirm.wixsite.com^
 ||1stireland.com^
 ||1sttheworld.com^
@@ -34,6 +33,7 @@
 ||airup-romania.com^
 ||airupsrbija.com^
 ||aizipai.cn^
+||aldi-life.vip^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allcars.cn^
@@ -150,6 +150,7 @@
 ||cityofdream.co.uk^
 ||ckkebt.shop^
 ||cluckergifts.ecwid.com^
+||cma88.vip^
 ||cmoboy.com^
 ||cognatesyringe.com^
 ||coinaps.com^
@@ -167,7 +168,6 @@
 ||covex.it^
 ||crackedpc.org^
 ||cracksway.com^
-||crocssalenz.com^
 ||crypto030.online^
 ||cryptot.net^
 ||customizerbox.com^
@@ -207,6 +207,7 @@
 ||draxu.com^
 ||dreamgreenshoe.com^
 ||dreamstee.com^
+||dreamstees.com^
 ||dresseloves.com^
 ||dressesloves.com^
 ||dresseslovesootd.com^
@@ -335,6 +336,7 @@
 ||gotoperfection.com^
 ||govmedcareers.com^
 ||greatoffersnow.com^
+||group-teneta.online^
 ||gsport.com^
 ||gtlinfrastructurelimited.com^
 ||habtoorloyal.com^
@@ -471,9 +473,7 @@
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
-||lucysstyle.com^
 ||luxsgear.com^
-||m.coinexeu.vip^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -645,7 +645,6 @@
 ||pipopi.com^
 ||piratedrive.com^
 ||pjs.outlet.com^
-||player-cda.pl^
 ||player-qr.com^
 ||polish-money-matters.blogspot.com^
 ||popeurope.com^
@@ -717,6 +716,7 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
+||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||slimsyrups.ca^
@@ -735,7 +735,6 @@
 ||somethingapparel.com^
 ||souhoney.com^
 ||southernlife.net^
-||sport-specialoffers.shop^
 ||sportfanlab.com^
 ||sportsapparelmarket.com^
 ||sportsbrooks.com^
@@ -833,6 +832,7 @@
 ||unifully.com^
 ||uniswap.host^
 ||uniswap.ro^
+||uniswap5.biz^
 ||uniswapagent.com^
 ||uniswapai.xyz^
 ||uniswapapp.xyz^
