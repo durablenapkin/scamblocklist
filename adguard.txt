@@ -5,7 +5,6 @@
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
-||1bmo-reactivemyaccount0.com^
 ||1stfinancefirm.wixsite.com^
 ||1stireland.com^
 ||1sttheworld.com^
@@ -34,7 +33,6 @@
 ||airup-romania.com^
 ||airupsrbija.com^
 ||aizipai.cn^
-||aldi-life.vip^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allcars.cn^
@@ -47,7 +45,6 @@
 ||anydebrid.com^
 ||aoptee.com^
 ||appdrive.info^
-||apvoc-ga.com^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -66,7 +63,6 @@
 ||babybeddingdesign.com^
 ||backend.store.eset.co.il^
 ||bajeczki.org.pl^
-||balkeryswep.online^
 ||baltic-pipe-finansowy.blogspot.com^
 ||baltic79.wordpress.com^
 ||balticpipe.wordpress.com^
@@ -132,6 +128,7 @@
 ||bwpkizpfms.funnelish.com^
 ||by-emmamuller.de^
 ||c0nt4ct-me.pages.dev^
+||c3scores.com^
 ||campingsurfshop.com^
 ||candlesbymadison.com^
 ||canjaume.com^
@@ -146,6 +143,7 @@
 ||chikepod.com^
 ||chipcy.com^
 ||chipteeamz.com^
+||chsoop.robinhoodproz.com^
 ||cibtvisas.com^
 ||cinemak.pl^
 ||cipustar.com^
@@ -157,6 +155,7 @@
 ||cognatesyringe.com^
 ||coinaps.com^
 ||coinreq.com^
+||coinstoretra.com^
 ||colorandcotton.com^
 ||compoundexotics.com^
 ||confira.io^
@@ -170,6 +169,7 @@
 ||covex.it^
 ||crackedpc.org^
 ||cracksway.com^
+||crm2.tbg-lmtd.xyz^
 ||crypto030.online^
 ||cryptot.net^
 ||customizerbox.com^
@@ -285,7 +285,6 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
-||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -357,7 +356,6 @@
 ||houselar.com.br^
 ||hubfiles.ws^
 ||hushlove.com^
-||husqvarnaoutlet.shop^
 ||hyndtren25.pages.dev^
 ||i-grade.online^
 ||i-visaindia.com^
@@ -472,6 +470,7 @@
 ||lucidtiger.com^
 ||luckyhomie.com^
 ||luxsgear.com^
+||m.coinexeu.vip^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -608,7 +607,6 @@
 ||oldcube.com^
 ||olive121407.studio.site^
 ||olymptrade-qid.com^
-||oncloudrun.shop^
 ||online-binomo.com^
 ||online-eta.com^
 ||onlinecda.pl^
@@ -718,6 +716,7 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
+||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||slimsyrups.ca^
@@ -780,6 +779,7 @@
 ||tartannewzealand.myshopify.com^
 ||tatatowers.com^
 ||tbao684tryo.com^
+||tdgrop168.vip^
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
@@ -910,7 +910,6 @@
 ||woadoodles.com^
 ||wp3.xyz^
 ||wpad.casa^
-||wpad.ru^
 ||wpad.top^
 ||wpad.xyz^
 ||ww25.utilify.me^
