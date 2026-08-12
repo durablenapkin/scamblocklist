@@ -32,7 +32,6 @@
 ||airup-romania.com^
 ||airupsrbija.com^
 ||aizipai.cn^
-||aldi-life.vip^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allcars.cn^
@@ -42,7 +41,6 @@
 ||allupdatenow.com^
 ||altruetech.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||appdrive.info^
@@ -128,7 +126,6 @@
 ||buzzazone.com^
 ||bwpkizpfms.funnelish.com^
 ||by-emmamuller.de^
-||bytesla.net^
 ||c0nt4ct-me.pages.dev^
 ||campingsurfshop.com^
 ||candlesbymadison.com^
@@ -161,6 +158,7 @@
 ||containably.com^
 ||coolest3d.com^
 ||coolestpod.com^
+||coolztz.com^
 ||copymyfx.com^
 ||corg.co^
 ||couponxoo.com^
@@ -196,7 +194,6 @@
 ||dieserbenni.ru^
 ||displaymovies.pl^
 ||distrochooser.snehit.dev^
-||diytsi.shop^
 ||dkfodboldstore.com^
 ||dleggere.com^
 ||dogparadisestore.com^
@@ -285,7 +282,6 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
-||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -331,6 +327,7 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
+||glousism.co.in^
 ||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
@@ -463,7 +460,6 @@
 ||linostee.com^
 ||lisabuddy.com^
 ||litcomplex.com^
-||livecato.com^
 ||load.365analytics.xyz^
 ||look-like-star.myshopify.com^
 ||lozly.com^
@@ -471,10 +467,7 @@
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
-||lucysstyle.com^
 ||luxsgear.com^
-||m.coinexeu.vip^
-||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
 ||mail.zalukaj.cc^
@@ -536,6 +529,7 @@
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
+||navi42.ru^
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
@@ -551,7 +545,6 @@
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
-||navi82.com^
 ||navi86.ru^
 ||navi88.com^
 ||navi9.com^
@@ -569,7 +562,6 @@
 ||newgstore.com^
 ||newoutdoorsale.com^
 ||newpipe.app^
-||nextstephire.net^
 ||nicelegant.com^
 ||niche3d.us^
 ||nip1.com^
@@ -606,7 +598,6 @@
 ||official.olymptrade-my.com^
 ||officialkmspico.com^
 ||oflike.com^
-||ojlkimed.vip^
 ||okdebrid.com^
 ||oldcube.com^
 ||olive121407.studio.site^
@@ -714,7 +705,6 @@
 ||shy-boat-90ce.jiko728928922.workers.dev^
 ||sieuto.com^
 ||sigmaoffers.com^
-||signal-group.tech^
 ||signpify.com^
 ||singingfiles.com^
 ||singleflirt.com^
@@ -783,12 +773,12 @@
 ||tartannewzealand.myshopify.com^
 ||tatatowers.com^
 ||tbao684tryo.com^
+||tdgrop168.vip^
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
 ||tencheckit.org^
 ||terverystaio.info^
-||tesla-online.net^
 ||teslatime.net^
 ||the-north-face.gr^
 ||theeaglebrand.company.site^
@@ -832,7 +822,6 @@
 ||uk-tweed-jackets.com^
 ||ultimate-tech-products.myshopify.com^
 ||ultra-cda.pl^
-||ultraboxlab.com^
 ||ultrasonica.info^
 ||uni-swap.online^
 ||unifully.com^
@@ -906,7 +895,6 @@
 ||weathly.com^
 ||webvod.pl^
 ||whbinder.com^
-||wichky.info^
 ||wikeb.com^
 ||wintexfashions.com^
 ||wisdomganga.com^
