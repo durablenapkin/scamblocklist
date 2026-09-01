@@ -42,9 +42,9 @@
 ||allstarshirt.com^
 ||allupdatenow.com^
 ||altruetech.com^
+||altwi-zgs.com^
 ||amlbot.request.report^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||appdrive.info^
@@ -126,7 +126,6 @@
 ||burgershirt.com^
 ||buydubuy.com^
 ||buzzazone.com^
-||buzzdeal.com^
 ||bwpkizpfms.funnelish.com^
 ||by-emmamuller.de^
 ||c0nt4ct-me.pages.dev^
@@ -194,7 +193,6 @@
 ||dezpez.com^
 ||displaymovies.pl^
 ||distrochooser.snehit.dev^
-||diytsi.shop^
 ||dkfodboldstore.com^
 ||dleggere.com^
 ||doh-gov.ph^
@@ -416,6 +414,7 @@
 ||jne-express.my.id^
 ||jsdimmigration.com^
 ||jsdimmigrations.com^
+||kakaopv.co.kr^
 ||karan-pc.com^
 ||karanpcofficial.blogspot.com^
 ||keltysale.com^
@@ -426,6 +425,7 @@
 ||kino-cda.pl^
 ||kinomaniak.cc^
 ||kinonline.pl^
+||kiophsx9.sa.com^
 ||kisserine.com^
 ||kitchendecor.shop^
 ||klasykavod.pl^
@@ -484,6 +484,7 @@
 ||microsoft.teams-live.com^
 ||miles.plumenetwork.xyz^
 ||milgenial.uy^
+||millabay.com^
 ||miucart.com^
 ||modalsaya.xyz^
 ||moddetail.com^
@@ -528,15 +529,15 @@
 ||navi33.com^
 ||navi35.com^
 ||navi36.ru^
+||navi37.com^
 ||navi38.ru^
 ||navi39.ru^
 ||navi42.ru^
+||navi48.ru^
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
-||navi55.ru^
 ||navi56.com^
-||navi57.com^
 ||navi59.ru^
 ||navi6.com^
 ||navi65.com^
@@ -552,6 +553,7 @@
 ||navi88.com^
 ||navi9.com^
 ||navi90.com^
+||navi97.ru^
 ||navi98.com^
 ||navi99.com^
 ||nayatowerinstallation.in.net^
@@ -681,9 +683,9 @@
 ||rustdesk.secure-box.de^
 ||ruthiekresal.za.com^
 ||sakuradate.com^
-||sale-friday.info^
 ||salimusic.com^
 ||saveeeee.myshopify.com^
+||sberbank.avito.id3410894.com^
 ||seagulltee.com^
 ||seasonsofficial.com^
 ||secrity2redline.com^
@@ -730,7 +732,6 @@
 ||sportfanlab.com^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
-||sportsbrooks.com^
 ||sportswearfanatics.com^
 ||sportswearforfans.com^
 ||spotgee.com^
@@ -741,6 +742,7 @@
 ||steamgateways.com^
 ||steampowered.cn.com^
 ||steamunlock.com^
+||steanmconnmunnity.com^
 ||stellara.de^
 ||stingcool-com.myshopify.com^
 ||storagestory.com^
@@ -777,7 +779,9 @@
 ||terverystaio.info^
 ||teslatime.net^
 ||the-north-face.gr^
+||thechildhooddream.com^
 ||theeaglebrand.company.site^
+||thehardcorehabits.com^
 ||themountainwarehouse.com^
 ||theneurobalancetherapy.org^
 ||theonepercentcommunity.com^
@@ -821,12 +825,14 @@
 ||unifully.com^
 ||uniswap.host^
 ||uniswap.ro^
+||uniswap7.cloud^
 ||uniswapagent.com^
 ||uniswapai.xyz^
 ||uniswapapp.xyz^
 ||uniswapbot.xyz^
 ||uniswapcapital.xyz^
 ||uniswapdao.xyz^
+||uniswapdappweb3.com^
 ||uniswapdefi.xyz^
 ||uniswapetf.xyz^
 ||uniswapfund.xyz^
@@ -835,6 +841,7 @@
 ||uniswaplender.xyz^
 ||uniswaplending.xyz^
 ||uniswapnft.xyz^
+||uniswaps.icu^
 ||uniswapstake.xyz^
 ||uniswapstaking.xyz^
 ||uniswaptoken.xyz^
@@ -902,6 +909,7 @@
 ||ww25.utilify.me^
 ||base-vod.pl^
 ||www.base-vod.pl^
+||wyzia-orderdeposits.com^
 ||x2em.com^
 ||xcartpro.com^
 ||xunlei.it^
