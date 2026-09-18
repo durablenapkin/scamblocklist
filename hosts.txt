@@ -1,11 +1,12 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2218
+# Domains: 2226
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
+0.0.0.0 1.password-internal.com
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 www.1stfinancefirm.wixsite.com
 0.0.0.0 store.1stfinancefirm.wixsite.com
@@ -69,6 +70,8 @@
 0.0.0.0 store.airupsrbija.com
 0.0.0.0 aizipai.cn
 0.0.0.0 www.aizipai.cn
+0.0.0.0 store.aldi-life.vip
+0.0.0.0 aldofashion.com
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 www.alindflepkaty14.pages.dev
 0.0.0.0 store.alindflepkaty14.pages.dev
@@ -121,6 +124,7 @@
 0.0.0.0 www.arvetellefsen.no
 0.0.0.0 assassinfitness.com
 0.0.0.0 www.assassinfitness.com
+0.0.0.0 astronomyfitmisguided.com
 0.0.0.0 atlaspvs.com
 0.0.0.0 www.atlaspvs.com
 0.0.0.0 atoins.com
@@ -138,6 +142,8 @@
 0.0.0.0 avarik.web.app
 0.0.0.0 www.avarik.web.app
 0.0.0.0 store.avarik.web.app
+0.0.0.0 www.avito.avito.www.avito.www.booking.com-id90123.info
+0.0.0.0 store.avito.avito.www.booking.com-id329712.com
 0.0.0.0 azfancy.com
 0.0.0.0 www.azfancy.com
 0.0.0.0 azsolver.com
@@ -173,7 +179,6 @@
 0.0.0.0 benxi.info
 0.0.0.0 www.benxi.info
 0.0.0.0 store.benxi.info
-0.0.0.0 www.beobirds.com
 0.0.0.0 best-torrents.com
 0.0.0.0 www.best-torrents.com
 0.0.0.0 store.best-torrents.com
@@ -347,7 +352,6 @@
 0.0.0.0 store.coinreq.com
 0.0.0.0 colorandcotton.com
 0.0.0.0 www.colorandcotton.com
-0.0.0.0 com-id23901.info
 0.0.0.0 compoundexotics.com
 0.0.0.0 www.compoundexotics.com
 0.0.0.0 confira.io
@@ -412,6 +416,7 @@
 0.0.0.0 www.dautee.com
 0.0.0.0 davidsmovingco.com
 0.0.0.0 www.davidsmovingco.com
+0.0.0.0 www.dbhmnp.shop
 0.0.0.0 debridlink.com
 0.0.0.0 www.debridlink.com
 0.0.0.0 store.debridlink.com
@@ -427,7 +432,6 @@
 0.0.0.0 www.devifoodgrains.com
 0.0.0.0 dezpez.com
 0.0.0.0 www.dezpez.com
-0.0.0.0 discountskirts.com
 0.0.0.0 displaymovies.pl
 0.0.0.0 www.displaymovies.pl
 0.0.0.0 distrochooser.snehit.dev
@@ -436,7 +440,6 @@
 0.0.0.0 www.dkfodboldstore.com
 0.0.0.0 dleggere.com
 0.0.0.0 www.dleggere.com
-0.0.0.0 store.doaapodewils.buzz
 0.0.0.0 doh-gov.ph
 0.0.0.0 www.doh-gov.ph
 0.0.0.0 store.doh-gov.ph
@@ -492,8 +495,10 @@
 0.0.0.0 store.edgeupgrade.com
 0.0.0.0 edwardjhutley107375938786edwardjrhutley70205433153583usps.com
 0.0.0.0 www.edwardjhutley107375938786edwardjrhutley70205433153583usps.com
+0.0.0.0 ekino-tv.eu
 0.0.0.0 ekommmedia.com
 0.0.0.0 www.ekommmedia.com
+0.0.0.0 store.elonmix.org
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 store.emberio.com
@@ -520,6 +525,7 @@
 0.0.0.0 www.etv-in.com
 0.0.0.0 eudoraz.com
 0.0.0.0 www.eudoraz.com
+0.0.0.0 evangeliostore.com
 0.0.0.0 eviralstore.com
 0.0.0.0 www.eviralstore.com
 0.0.0.0 evisa-indian.com
@@ -594,7 +600,6 @@
 0.0.0.0 store.faze8.com
 0.0.0.0 faze9.com
 0.0.0.0 www.faze9.com
-0.0.0.0 store.faze98.com
 0.0.0.0 fazpowerdenet.tumblr.com
 0.0.0.0 www.fazpowerdenet.tumblr.com
 0.0.0.0 store.fazpowerdenet.tumblr.com
@@ -646,6 +651,7 @@
 0.0.0.0 www.fiusps.com
 0.0.0.0 fixpub.com
 0.0.0.0 www.fixpub.com
+0.0.0.0 store.fixpub.com
 0.0.0.0 flattee.com
 0.0.0.0 www.flattee.com
 0.0.0.0 store.flattee.com
@@ -722,7 +728,6 @@
 0.0.0.0 www.getkmspico.com
 0.0.0.0 getwavemax.com
 0.0.0.0 www.getwavemax.com
-0.0.0.0 www.giftbias.com
 0.0.0.0 giftyweb.com
 0.0.0.0 www.giftyweb.com
 0.0.0.0 gig-os.com
@@ -941,7 +946,6 @@
 0.0.0.0 store.jsdimmigration.com
 0.0.0.0 jsdimmigrations.com
 0.0.0.0 www.jsdimmigrations.com
-0.0.0.0 store.jyfrsjdkkhue.com
 0.0.0.0 karan-pc.com
 0.0.0.0 www.karan-pc.com
 0.0.0.0 karanpcofficial.blogspot.com
@@ -1004,6 +1008,7 @@
 0.0.0.0 lasercutjewelry.net
 0.0.0.0 www.lasercutjewelry.net
 0.0.0.0 lds.xyz
+0.0.0.0 www.legabitid.com
 0.0.0.0 lemstore.com
 0.0.0.0 www.lemstore.com
 0.0.0.0 leonoremanry.sa.com
@@ -1021,7 +1026,6 @@
 0.0.0.0 www.levelbash.com
 0.0.0.0 lifestyletrading.co.za
 0.0.0.0 www.lifestyletrading.co.za
-0.0.0.0 store.lifestyletrading.co.za
 0.0.0.0 ligerking.com
 0.0.0.0 www.ligerking.com
 0.0.0.0 likenu.se
@@ -1090,7 +1094,6 @@
 0.0.0.0 store.mega-kino.pl
 0.0.0.0 microngroup.pro
 0.0.0.0 www.microngroup.pro
-0.0.0.0 store.microngroup.pro
 0.0.0.0 microsoft-notifcation.com
 0.0.0.0 www.microsoft-notifcation.com
 0.0.0.0 store.microsoft-notifcation.com
@@ -1112,12 +1115,13 @@
 0.0.0.0 modmobile24.com
 0.0.0.0 www.modmobile24.com
 0.0.0.0 store.modmobile24.com
+0.0.0.0 store.monkstars.co
 0.0.0.0 monkstars.com
 0.0.0.0 www.monkstars.com
+0.0.0.0 moviemania.pl
 0.0.0.0 ms-analytics.mywire.org
 0.0.0.0 www.ms-analytics.mywire.org
 0.0.0.0 store.ms-analytics.mywire.org
-0.0.0.0 msgclick.top
 0.0.0.0 www.msgclick.top
 0.0.0.0 store.msgclick.top
 0.0.0.0 mslfgl434.pages.dev
@@ -1197,6 +1201,7 @@
 0.0.0.0 www.navi24.ru
 0.0.0.0 navi26.ru
 0.0.0.0 www.navi26.ru
+0.0.0.0 www.navi27.com
 0.0.0.0 navi27.ru
 0.0.0.0 www.navi27.ru
 0.0.0.0 navi3.com
@@ -1225,6 +1230,7 @@
 0.0.0.0 www.navi53.com
 0.0.0.0 navi56.com
 0.0.0.0 www.navi56.com
+0.0.0.0 store.navi59.com
 0.0.0.0 navi59.ru
 0.0.0.0 www.navi59.ru
 0.0.0.0 navi6.com
@@ -1247,7 +1253,6 @@
 0.0.0.0 navi77.com
 0.0.0.0 www.navi77.com
 0.0.0.0 store.navi77.com
-0.0.0.0 navi78.com
 0.0.0.0 navi78.ru
 0.0.0.0 www.navi78.ru
 0.0.0.0 store.navi78.ru
@@ -1278,10 +1283,8 @@
 0.0.0.0 www.nbdiscount.com
 0.0.0.0 neozor.com
 0.0.0.0 www.neozor.com
-0.0.0.0 store.netfucks1.com
 0.0.0.0 nevaon.com
 0.0.0.0 www.nevaon.com
-0.0.0.0 new-space-x23.net
 0.0.0.0 new.gdtot.me
 0.0.0.0 www.new.gdtot.me
 0.0.0.0 store.new.gdtot.me
@@ -1383,7 +1386,6 @@
 0.0.0.0 oflike.com
 0.0.0.0 www.oflike.com
 0.0.0.0 store.oflike.com
-0.0.0.0 www.ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 www.okdebrid.com
 0.0.0.0 oldcube.com
@@ -1395,6 +1397,7 @@
 0.0.0.0 olymptrade-qid.com
 0.0.0.0 www.olymptrade-qid.com
 0.0.0.0 store.olymptrade-qid.com
+0.0.0.0 store.onemuffblind.digital
 0.0.0.0 online-binomo.com
 0.0.0.0 www.online-binomo.com
 0.0.0.0 onlinecda.pl
@@ -1444,13 +1447,18 @@
 0.0.0.0 paradisevs.com
 0.0.0.0 www.paradisevs.com
 0.0.0.0 path2zillion.com
-0.0.0.0 pay.avito.pay.booking.com-id329712.com
-0.0.0.0 www.pay.avito.pay.www.booking.com-id3212341.info
-0.0.0.0 www.pay.www.booking.com-id9576916.com
+0.0.0.0 pay.avito.avito.avito.pay.com-id809702.com
+0.0.0.0 store.pay.avito.avito.avito.sber.booking.com-id809702.com
+0.0.0.0 www.pay.avito.avito.pay.booking.com-id20341.info
+0.0.0.0 pay.pay.avito.avito.avito.avito.booking.com-id809702.com
+0.0.0.0 www.pay.pay.avito.avito.avito.sber.com-id02349.info
+0.0.0.0 pay.sber.com-id20341.info
+0.0.0.0 store.pay.www70.com-id23901.info
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
 0.0.0.0 penguinnow.com
 0.0.0.0 www.penguinnow.com
+0.0.0.0 store.penguinnow.com
 0.0.0.0 peppatees.com
 0.0.0.0 www.peppatees.com
 0.0.0.0 perlatoshoe.com
@@ -1505,7 +1513,6 @@
 0.0.0.0 primevod.pl
 0.0.0.0 www.primevod.pl
 0.0.0.0 store.primevod.pl
-0.0.0.0 produktretter.com
 0.0.0.0 promo-offer.com
 0.0.0.0 www.promo-offer.com
 0.0.0.0 promotion40-form.com
@@ -1568,7 +1575,6 @@
 0.0.0.0 rosateeshop.com
 0.0.0.0 www.rosateeshop.com
 0.0.0.0 royaldecorhome.store
-0.0.0.0 royalhedgies.com
 0.0.0.0 www.royalhedgies.com
 0.0.0.0 rozomii.info
 0.0.0.0 www.rozomii.info
@@ -1589,16 +1595,17 @@
 0.0.0.0 www.ruthiekresal.za.com
 0.0.0.0 sakuradate.com
 0.0.0.0 www.sakuradate.com
-0.0.0.0 store.sale-friday.live
 0.0.0.0 salimusic.com
 0.0.0.0 www.salimusic.com
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
-0.0.0.0 sber.pay.id05196219.com
-0.0.0.0 www.sberbank.avito.avito.sber.com-id02349.info
-0.0.0.0 sberbank.avito.com-id16313.info
-0.0.0.0 sberbank.avito.com-id20341.info
+0.0.0.0 store.sberbank.avito.avito.avito.avito.www.booking.com-id879712.com
+0.0.0.0 sberbank.avito.avito.avito.pay.com-id809702.com
+0.0.0.0 store.sberbank.avito.avito.avito.pay.com-id809702.com
+0.0.0.0 store.sberbank.com-id322712.com
+0.0.0.0 store.sberbank.com-id329712.com
+0.0.0.0 store.sberbank.pay.sber.www.www70.com-id23901.info
 0.0.0.0 seagulltee.com
 0.0.0.0 www.seagulltee.com
 0.0.0.0 seasonsofficial.com
@@ -1627,7 +1634,6 @@
 0.0.0.0 www.serialefilmy.pl
 0.0.0.0 store.serialefilmy.pl
 0.0.0.0 shapeden.com
-0.0.0.0 store.shaughixefooz.net
 0.0.0.0 shoeaddic.com
 0.0.0.0 www.shoeaddic.com
 0.0.0.0 shopraidlight.com
@@ -1661,7 +1667,6 @@
 0.0.0.0 www.skinszone.net
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 www.skyfollowerbridge.com
-0.0.0.0 sleepyfull.com
 0.0.0.0 sligen.com
 0.0.0.0 www.sligen.com
 0.0.0.0 slimsyrups.ca
@@ -1789,7 +1794,6 @@
 0.0.0.0 tatatowers.com
 0.0.0.0 www.tatatowers.com
 0.0.0.0 tbao684tryo.com
-0.0.0.0 www.tdgrop168.vip
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
 0.0.0.0 telegramweb.vercel.app
@@ -1797,6 +1801,7 @@
 0.0.0.0 store.telegramweb.vercel.app
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
+0.0.0.0 store.telsadouble.live
 0.0.0.0 tencheckit.org
 0.0.0.0 www.tencheckit.org
 0.0.0.0 store.tencheckit.org
@@ -1805,6 +1810,7 @@
 0.0.0.0 store.terverystaio.info
 0.0.0.0 teslatime.net
 0.0.0.0 www.teslatime.net
+0.0.0.0 teslax2claim.org
 0.0.0.0 the-north-face.gr
 0.0.0.0 www.the-north-face.gr
 0.0.0.0 store.the-north-face.gr
@@ -1889,6 +1895,7 @@
 0.0.0.0 twitterr.com
 0.0.0.0 www.twitterr.com
 0.0.0.0 store.twitterr.com
+0.0.0.0 uange.shop
 0.0.0.0 ucureo.com
 0.0.0.0 www.ucureo.com
 0.0.0.0 store.ucureo.com
@@ -1912,6 +1919,7 @@
 0.0.0.0 www.uni-swap.online
 0.0.0.0 unifully.com
 0.0.0.0 www.unifully.com
+0.0.0.0 store.uniswap-platinum-claim.run
 0.0.0.0 uniswap.host
 0.0.0.0 www.uniswap.host
 0.0.0.0 store.uniswap.host
@@ -1987,7 +1995,6 @@
 0.0.0.0 uschse04.my03.com
 0.0.0.0 www.uschse04.my03.com
 0.0.0.0 store.uschse04.my03.com
-0.0.0.0 ushiro.org
 0.0.0.0 uusilemmikki.com
 0.0.0.0 www.uusilemmikki.com
 0.0.0.0 valeofoodsgroup.com
@@ -2121,7 +2128,6 @@
 0.0.0.0 www.base-vod.pl
 0.0.0.0 www.www.base-vod.pl
 0.0.0.0 store.www.base-vod.pl
-0.0.0.0 store.www70.com-id23901.info
 0.0.0.0 x2em.com
 0.0.0.0 www.x2em.com
 0.0.0.0 xcartpro.com
@@ -2135,8 +2141,10 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
-0.0.0.0 www.yandex.avito.avito.www.avito.www.booking.com-id90123.info
-0.0.0.0 www.yandex.pay.avito.avito.avito.pay.booking.com-id809702.com
+0.0.0.0 www.yandex.avito.avito.avito.booking.com-id02349.info
+0.0.0.0 store.yandex.avito.avito.avito.pay.www.booking.com-id809702.com
+0.0.0.0 www.yandex.pay.avito.avito.pay.com-id809702.com
+0.0.0.0 yandex.pay.www.www.com-id802914.com
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
 0.0.0.0 yeezysofficial.us.com
