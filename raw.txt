@@ -9237,9 +9237,6 @@
 0.0.0.0 rupiahsaku.com
 0.0.0.0 www.rupiahsaku.com
 0.0.0.0 store.rupiahsaku.com
-0.0.0.0 rustdesk.co.nz
-0.0.0.0 www.rustdesk.co.nz
-0.0.0.0 store.rustdesk.co.nz
 0.0.0.0 rustdesk.io
 0.0.0.0 www.rustdesk.io
 0.0.0.0 store.rustdesk.io
