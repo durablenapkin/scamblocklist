@@ -8,13 +8,10 @@
 ||1stfinancefirm.wixsite.com^
 ||1stireland.com^
 ||1sttheworld.com^
-||21spacex.net^
-||24uniswap.xyz^
 ||270278609-2020004278-462904544-440202503325--570202500372x-usps.com^
 ||365analytics.xyz^
 ||3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev^
 ||3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net^
-||407payment-etr.com^
 ||42gixk.98kk89.com^
 ||4556.de^
 ||47n78xprrvp1.top^
@@ -37,6 +34,7 @@
 ||airup-romania.com^
 ||airupsrbija.com^
 ||aizipai.cn^
+||aldi-life.vip^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allcars.cn^
@@ -146,7 +144,6 @@
 ||cityofdream.co.uk^
 ||ckkebt.shop^
 ||cluckergifts.ecwid.com^
-||cma88.vip^
 ||cmoboy.com^
 ||cognatesyringe.com^
 ||coinaps.com^
@@ -417,7 +414,6 @@
 ||kigurumi-usa.com^
 ||killercharm.com^
 ||kingcampoutdoors.co.jp^
-||kino-cda.pl^
 ||kinomaniak.cc^
 ||kinonline.pl^
 ||kisserine.com^
@@ -532,7 +528,6 @@
 ||navi5.com^
 ||navi52.com^
 ||navi53.com^
-||navi53.ru^
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
@@ -611,7 +606,6 @@
 ||onlinevisa.com^
 ||onlinewideo.pl^
 ||onlyfanstake.pro^
-||onrunningshop.com^
 ||ontario-energy.com^
 ||orderquilt.com^
 ||oschad.easypayment.me^
@@ -715,7 +709,6 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
-||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||slimsyrups.ca^
@@ -729,6 +722,7 @@
 ||sodipi.com^
 ||softgetpc.com^
 ||software19797.blogspot.com^
+||softzspot.com^
 ||souhoney.com^
 ||source84.com^
 ||southernlife.net^
@@ -780,7 +774,6 @@
 ||tencheckit.org^
 ||terverystaio.info^
 ||teslatime.net^
-||the-north-face.gr^
 ||theeaglebrand.company.site^
 ||themountainwarehouse.com^
 ||theneurobalancetherapy.org^
@@ -796,6 +789,7 @@
 ||toko999.net^
 ||tomadamsenergy.com^
 ||torrenty-pl.cc^
+||touristvisaonline.com^
 ||toweragency.in^
 ||toyrube.com^
 ||tpqcywcx.page.link^
@@ -916,7 +910,6 @@
 ||yeswevibe.com^
 ||ygtube.xyz^
 ||yhdshop.com^
-||yofi-yofi.com^
 ||youdebrid.com^
 ||yoursecrethookup.com^
 ||youtubee.com^
