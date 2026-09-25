@@ -5,6 +5,7 @@
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
+||1n.yarrid.com^
 ||1stfinancefirm.wixsite.com^
 ||1stireland.com^
 ||1sttheworld.com^
@@ -34,7 +35,6 @@
 ||airup-romania.com^
 ||airupsrbija.com^
 ||aizipai.cn^
-||aldi-life.vip^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allcars.cn^
@@ -144,6 +144,7 @@
 ||cityofdream.co.uk^
 ||ckkebt.shop^
 ||cluckergifts.ecwid.com^
+||cma88.vip^
 ||cmoboy.com^
 ||cognatesyringe.com^
 ||coinaps.com^
@@ -274,6 +275,7 @@
 ||findglocal.com^
 ||finnews7.wordpress.com^
 ||fitgirl-repacks-site.org^
+||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -341,6 +343,7 @@
 ||hookahheroes.com^
 ||hostpoco.com^
 ||hotdebrid.com^
+||hotmod.eu^
 ||houselar.com.br^
 ||hubfiles.ws^
 ||hugetrump.com^
@@ -595,6 +598,7 @@
 ||official.olymptrade-my.com^
 ||officialkmspico.com^
 ||oflike.com^
+||ojlkimed.vip^
 ||okdebrid.com^
 ||oldcube.com^
 ||olive121407.studio.site^
@@ -606,6 +610,7 @@
 ||onlinevisa.com^
 ||onlinewideo.pl^
 ||onlyfanstake.pro^
+||onrunningshop.com^
 ||ontario-energy.com^
 ||orderquilt.com^
 ||oschad.easypayment.me^
@@ -642,6 +647,7 @@
 ||popeurope.com^
 ||porkbunrr.web.app^
 ||post-nachsenden.de^
+||prawdziwefilmy.pl^
 ||premiumqualityblanket.com^
 ||primeleech.com^
 ||primevod.pl^
@@ -668,7 +674,6 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
-||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
@@ -752,6 +757,7 @@
 ||streamboo.com^
 ||streamloot.co^
 ||streamvod.pl^
+||strefa-filmu.pl^
 ||successglossary.com^
 ||sugarandpearl.com^
 ||summersale.co^

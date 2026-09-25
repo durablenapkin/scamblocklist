@@ -1,11 +1,12 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2186
+# Domains: 2198
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
+0.0.0.0 1n.yarrid.com
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 www.1stfinancefirm.wixsite.com
 0.0.0.0 store.1stfinancefirm.wixsite.com
@@ -69,7 +70,6 @@
 0.0.0.0 store.airupsrbija.com
 0.0.0.0 aizipai.cn
 0.0.0.0 www.aizipai.cn
-0.0.0.0 aldi-life.vip
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 www.alindflepkaty14.pages.dev
 0.0.0.0 store.alindflepkaty14.pages.dev
@@ -332,6 +332,8 @@
 0.0.0.0 cluckergifts.ecwid.com
 0.0.0.0 www.cluckergifts.ecwid.com
 0.0.0.0 store.cluckergifts.ecwid.com
+0.0.0.0 www.cma88.vip
+0.0.0.0 store.cma88.vip
 0.0.0.0 cmoboy.com
 0.0.0.0 www.cmoboy.com
 0.0.0.0 store.cmoboy.com
@@ -397,8 +399,6 @@
 0.0.0.0 d.slowmitter.top
 0.0.0.0 www.d.slowmitter.top
 0.0.0.0 store.d.slowmitter.top
-0.0.0.0 danainstan.xyz
-0.0.0.0 www.danainstan.xyz
 0.0.0.0 store.danainstan.xyz
 0.0.0.0 danylevych.com
 0.0.0.0 www.danylevych.com
@@ -636,6 +636,7 @@
 0.0.0.0 www.finnews7.wordpress.com
 0.0.0.0 store.finnews7.wordpress.com
 0.0.0.0 fitgirl-repacks-site.org
+0.0.0.0 fitgirl-repacks.vip
 0.0.0.0 fiusps.com
 0.0.0.0 www.fiusps.com
 0.0.0.0 fixpub.com
@@ -786,6 +787,8 @@
 0.0.0.0 www.hostpoco.com
 0.0.0.0 hotdebrid.com
 0.0.0.0 www.hotdebrid.com
+0.0.0.0 hotmod.eu
+0.0.0.0 www.hotmod.eu
 0.0.0.0 houselar.com.br
 0.0.0.0 www.houselar.com.br
 0.0.0.0 hubfiles.ws
@@ -1118,6 +1121,7 @@
 0.0.0.0 muskusa.com
 0.0.0.0 www.muskusa.com
 0.0.0.0 store.muskusa.com
+0.0.0.0 mybestautologin567.com
 0.0.0.0 www.mybestautologin567.com
 0.0.0.0 store.mybestautologin567.com
 0.0.0.0 myblogshop.top
@@ -1367,6 +1371,7 @@
 0.0.0.0 oflike.com
 0.0.0.0 www.oflike.com
 0.0.0.0 store.oflike.com
+0.0.0.0 store.ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 www.okdebrid.com
 0.0.0.0 oldcube.com
@@ -1396,6 +1401,8 @@
 0.0.0.0 onlyfanstake.pro
 0.0.0.0 www.onlyfanstake.pro
 0.0.0.0 store.onlyfanstake.pro
+0.0.0.0 onrunningshop.com
+0.0.0.0 www.onrunningshop.com
 0.0.0.0 ontario-energy.com
 0.0.0.0 www.ontario-energy.com
 0.0.0.0 orderquilt.com
@@ -1479,6 +1486,9 @@
 0.0.0.0 store.porkbunrr.web.app
 0.0.0.0 post-nachsenden.de
 0.0.0.0 www.post-nachsenden.de
+0.0.0.0 prawdziwefilmy.pl
+0.0.0.0 www.prawdziwefilmy.pl
+0.0.0.0 store.prawdziwefilmy.pl
 0.0.0.0 premiumqualityblanket.com
 0.0.0.0 www.premiumqualityblanket.com
 0.0.0.0 primeleech.com
@@ -1543,7 +1553,6 @@
 0.0.0.0 store.robalmeister.workers.dev
 0.0.0.0 robinmooreband.com
 0.0.0.0 www.robinmooreband.com
-0.0.0.0 robuxmenu.vip
 0.0.0.0 rockchief.com
 0.0.0.0 www.rockchief.com
 0.0.0.0 rosateeshop.com
@@ -1732,6 +1741,8 @@
 0.0.0.0 streamvod.pl
 0.0.0.0 www.streamvod.pl
 0.0.0.0 store.streamvod.pl
+0.0.0.0 strefa-filmu.pl
+0.0.0.0 www.strefa-filmu.pl
 0.0.0.0 successglossary.com
 0.0.0.0 sugarandpearl.com
 0.0.0.0 www.sugarandpearl.com
@@ -2107,6 +2118,7 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
+0.0.0.0 yandex.avito.booking.com-id20341.info
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
 0.0.0.0 yeezysofficial.us.com
