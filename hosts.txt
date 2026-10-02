@@ -1,12 +1,11 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2212
+# Domains: 2187
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
 # Contribute: https://github.com/durablenapkin/scamblocklist/issues
 # License: MIT (https://mit-license.org/)
 
-0.0.0.0 store.1bmo-reactivemyaccount0.com
 0.0.0.0 1stfinancefirm.wixsite.com
 0.0.0.0 www.1stfinancefirm.wixsite.com
 0.0.0.0 store.1stfinancefirm.wixsite.com
@@ -16,6 +15,7 @@
 0.0.0.0 www.1sttheworld.com
 0.0.0.0 270278609-2020004278-462904544-440202503325--570202500372x-usps.com
 0.0.0.0 www.270278609-2020004278-462904544-440202503325--570202500372x-usps.com
+0.0.0.0 store.270278609-2020004278-462904544-440202503325--570202500372x-usps.com
 0.0.0.0 365analytics.xyz
 0.0.0.0 www.365analytics.xyz
 0.0.0.0 store.365analytics.xyz
@@ -27,7 +27,6 @@
 0.0.0.0 store.3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net
 0.0.0.0 42gixk.98kk89.com
 0.0.0.0 4556.de
-0.0.0.0 www.4556.de
 0.0.0.0 47n78xprrvp1.top
 0.0.0.0 www.47n78xprrvp1.top
 0.0.0.0 store.47n78xprrvp1.top
@@ -41,11 +40,8 @@
 0.0.0.0 www.93mobiles.com
 0.0.0.0 9vyzdk8.lvditoys.com
 0.0.0.0 9vzn29.98kk89.com
-0.0.0.0 store.a6u.uk
-0.0.0.0 aadirone.cc
 0.0.0.0 accbing.com
 0.0.0.0 www.accbing.com
-0.0.0.0 store.accfiverif.com
 0.0.0.0 adflowtube.com
 0.0.0.0 www.adflowtube.com
 0.0.0.0 adidasko.com
@@ -95,7 +91,6 @@
 0.0.0.0 allupdatenow.com
 0.0.0.0 www.allupdatenow.com
 0.0.0.0 store.allupdatenow.com
-0.0.0.0 store.alphatowercompany.in
 0.0.0.0 altruetech.com
 0.0.0.0 www.altruetech.com
 0.0.0.0 altwi-zgs.com
@@ -112,9 +107,6 @@
 0.0.0.0 www.anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 www.aoptee.com
-0.0.0.0 appdrive.info
-0.0.0.0 www.appdrive.info
-0.0.0.0 store.appdrive.info
 0.0.0.0 arduino.uk.eu.org
 0.0.0.0 www.arduino.uk.eu.org
 0.0.0.0 army-shop.onshopbase.com
@@ -146,7 +138,6 @@
 0.0.0.0 avarik.web.app
 0.0.0.0 www.avarik.web.app
 0.0.0.0 store.avarik.web.app
-0.0.0.0 store.avito.pay.sber.com-id20341.info
 0.0.0.0 azfancy.com
 0.0.0.0 www.azfancy.com
 0.0.0.0 azsolver.com
@@ -210,7 +201,8 @@
 0.0.0.0 www.binomo.in
 0.0.0.0 binomo.info
 0.0.0.0 www.binomo.info
-0.0.0.0 www.binomo.vip
+0.0.0.0 binomo.vip
+0.0.0.0 store.binomo.vip
 0.0.0.0 binomo1.com
 0.0.0.0 www.binomo1.com
 0.0.0.0 binomo2.zendesk.com
@@ -288,9 +280,6 @@
 0.0.0.0 bwpkizpfms.funnelish.com
 0.0.0.0 www.bwpkizpfms.funnelish.com
 0.0.0.0 store.bwpkizpfms.funnelish.com
-0.0.0.0 by-emmamuller.de
-0.0.0.0 www.by-emmamuller.de
-0.0.0.0 store.by-emmamuller.de
 0.0.0.0 c0nt4ct-me.pages.dev
 0.0.0.0 www.c0nt4ct-me.pages.dev
 0.0.0.0 store.c0nt4ct-me.pages.dev
@@ -311,8 +300,6 @@
 0.0.0.0 www.cda-zalukaj.prv.pl
 0.0.0.0 chat-o-live.com
 0.0.0.0 cheat-on.com
-0.0.0.0 www.cheat-on.com
-0.0.0.0 store.cheat-on.com
 0.0.0.0 check-update-today.me
 0.0.0.0 www.check-update-today.me
 0.0.0.0 store.check-update-today.me
@@ -408,7 +395,7 @@
 0.0.0.0 d.slowmitter.top
 0.0.0.0 www.d.slowmitter.top
 0.0.0.0 store.d.slowmitter.top
-0.0.0.0 www.danainstan.xyz
+0.0.0.0 store.danainstan.xyz
 0.0.0.0 danylevych.com
 0.0.0.0 www.danylevych.com
 0.0.0.0 dash.pocketuniverse.app
@@ -428,16 +415,11 @@
 0.0.0.0 www.deergift.com
 0.0.0.0 dein-rundfunkbeitrag.de
 0.0.0.0 www.dein-rundfunkbeitrag.de
-0.0.0.0 desiupload.in
-0.0.0.0 www.desiupload.in
 0.0.0.0 store.desiupload.in
 0.0.0.0 devifoodgrains.com
 0.0.0.0 www.devifoodgrains.com
 0.0.0.0 dezpez.com
 0.0.0.0 www.dezpez.com
-0.0.0.0 discounthoneywell.com
-0.0.0.0 www.discounthoneywell.com
-0.0.0.0 store.discounthoneywell.com
 0.0.0.0 displaymovies.pl
 0.0.0.0 www.displaymovies.pl
 0.0.0.0 distrochooser.snehit.dev
@@ -588,7 +570,6 @@
 0.0.0.0 www.faze2.com
 0.0.0.0 store.faze2.com
 0.0.0.0 faze3.com
-0.0.0.0 www.faze3.com
 0.0.0.0 store.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
@@ -603,7 +584,6 @@
 0.0.0.0 store.faze8.com
 0.0.0.0 faze9.com
 0.0.0.0 www.faze9.com
-0.0.0.0 store.faze91.com
 0.0.0.0 fazpowerdenet.tumblr.com
 0.0.0.0 www.fazpowerdenet.tumblr.com
 0.0.0.0 store.fazpowerdenet.tumblr.com
@@ -651,6 +631,7 @@
 0.0.0.0 www.finnews7.wordpress.com
 0.0.0.0 store.finnews7.wordpress.com
 0.0.0.0 fitgirl-repacks-site.org
+0.0.0.0 www.fitgirl-repacks.vip
 0.0.0.0 fiusps.com
 0.0.0.0 www.fiusps.com
 0.0.0.0 fixpub.com
@@ -905,8 +886,6 @@
 0.0.0.0 store.indiavisa.org
 0.0.0.0 industower.org
 0.0.0.0 www.industower.org
-0.0.0.0 infinityto.com
-0.0.0.0 www.infinityto.com
 0.0.0.0 store.infinityto.com
 0.0.0.0 info-flirtme.com
 0.0.0.0 www.info-flirtme.com
@@ -1039,8 +1018,6 @@
 0.0.0.0 www.linkshe.com
 0.0.0.0 linostee.com
 0.0.0.0 www.linostee.com
-0.0.0.0 lisabuddy.com
-0.0.0.0 www.lisabuddy.com
 0.0.0.0 store.lisabuddy.com
 0.0.0.0 litcomplex.com
 0.0.0.0 www.litcomplex.com
@@ -1063,7 +1040,6 @@
 0.0.0.0 luckyhomie.com
 0.0.0.0 www.luckyhomie.com
 0.0.0.0 store.luckyhomie.com
-0.0.0.0 lucysstyle.com
 0.0.0.0 www.lucysstyle.com
 0.0.0.0 store.lucysstyle.com
 0.0.0.0 luxsgear.com
@@ -1088,7 +1064,6 @@
 0.0.0.0 www.mayor4london.com
 0.0.0.0 mcds100.com
 0.0.0.0 www.mcds100.com
-0.0.0.0 store.mcds100.com
 0.0.0.0 meaningift.com
 0.0.0.0 www.meaningift.com
 0.0.0.0 store.meaningift.com
@@ -1254,7 +1229,6 @@
 0.0.0.0 navi72.ru
 0.0.0.0 www.navi72.ru
 0.0.0.0 store.navi72.ru
-0.0.0.0 store.navi74.ru
 0.0.0.0 navi77.com
 0.0.0.0 www.navi77.com
 0.0.0.0 store.navi77.com
@@ -1444,13 +1418,11 @@
 0.0.0.0 pages.tempisite.com
 0.0.0.0 www.pages.tempisite.com
 0.0.0.0 store.pages.tempisite.com
-0.0.0.0 pambi.tech
-0.0.0.0 www.pambi.tech
-0.0.0.0 store.pambi.tech
 0.0.0.0 www.pandzee.com
 0.0.0.0 paradisevs.com
 0.0.0.0 www.paradisevs.com
 0.0.0.0 path2zillion.com
+0.0.0.0 store.pay.www.www42.com-id23901.info
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
 0.0.0.0 penguinnow.com
@@ -1473,9 +1445,6 @@
 0.0.0.0 phirussacmush.net
 0.0.0.0 www.phirussacmush.net
 0.0.0.0 store.phirussacmush.net
-0.0.0.0 pinjamanelit.top
-0.0.0.0 www.pinjamanelit.top
-0.0.0.0 store.pinjamanelit.top
 0.0.0.0 pinjamanrupiah.xyz
 0.0.0.0 www.pinjamanrupiah.xyz
 0.0.0.0 store.pinjamanrupiah.xyz
@@ -1572,7 +1541,7 @@
 0.0.0.0 store.robalmeister.workers.dev
 0.0.0.0 robinmooreband.com
 0.0.0.0 www.robinmooreband.com
-0.0.0.0 www.robuxmenu.vip
+0.0.0.0 robuxmenu.vip
 0.0.0.0 rockchief.com
 0.0.0.0 www.rockchief.com
 0.0.0.0 rosateeshop.com
@@ -1604,6 +1573,8 @@
 0.0.0.0 store.saveeeee.myshopify.com
 0.0.0.0 seagulltee.com
 0.0.0.0 www.seagulltee.com
+0.0.0.0 seans24.com.pl
+0.0.0.0 www.seans24.com.pl
 0.0.0.0 seasonsofficial.com
 0.0.0.0 www.seasonsofficial.com
 0.0.0.0 store.seasonsofficial.com
@@ -1734,6 +1705,7 @@
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 www.stingcool-com.myshopify.com
 0.0.0.0 store.stingcool-com.myshopify.com
+0.0.0.0 store.stoeki.com
 0.0.0.0 storagestory.com
 0.0.0.0 www.storagestory.com
 0.0.0.0 store.storagestory.com
@@ -1794,6 +1766,7 @@
 0.0.0.0 tatatowers.com
 0.0.0.0 www.tatatowers.com
 0.0.0.0 tbao684tryo.com
+0.0.0.0 store.tdgrop168.vip
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
 0.0.0.0 telegramweb.vercel.app
@@ -1802,8 +1775,6 @@
 0.0.0.0 telemarktalk.com
 0.0.0.0 www.telemarktalk.com
 0.0.0.0 tencheckit.org
-0.0.0.0 www.tencheckit.org
-0.0.0.0 store.tencheckit.org
 0.0.0.0 terverystaio.info
 0.0.0.0 www.terverystaio.info
 0.0.0.0 store.terverystaio.info
@@ -1840,6 +1811,8 @@
 0.0.0.0 store.tiranaaquapark-eg.com
 0.0.0.0 tlstoreonline.com
 0.0.0.0 www.tlstoreonline.com
+0.0.0.0 toko999.net
+0.0.0.0 www.toko999.net
 0.0.0.0 tomadamsenergy.com
 0.0.0.0 www.tomadamsenergy.com
 0.0.0.0 torrenty-pl.cc
@@ -2094,8 +2067,10 @@
 0.0.0.0 store.webvod.pl
 0.0.0.0 whbinder.com
 0.0.0.0 www.whbinder.com
+0.0.0.0 www.whliksrvlj.webtool.sk
 0.0.0.0 wikeb.com
 0.0.0.0 www.wikeb.com
+0.0.0.0 www.wind88.shop
 0.0.0.0 wintexfashions.com
 0.0.0.0 www.wintexfashions.com
 0.0.0.0 wisdomganga.com
