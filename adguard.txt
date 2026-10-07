@@ -7,7 +7,6 @@
 
 ||1stfinancefirm.wixsite.com^
 ||1stireland.com^
-||1sttheglobal.com^
 ||1sttheworld.com^
 ||270278609-2020004278-462904544-440202503325--570202500372x-usps.com^
 ||365analytics.xyz^
@@ -74,6 +73,7 @@
 ||balticpipe.wordpress.com^
 ||bcb.game^
 ||bccnerty.com^
+||bcm8.shop^
 ||beautysolution24.com^
 ||beeaar.com^
 ||beecrave.com^
@@ -320,7 +320,6 @@
 ||glitchy.go2cloud.org^
 ||gload.info^
 ||globalvisacorp.com^
-||goexpressparcel.com^
 ||goglle.com^
 ||goindiavisa.com^
 ||gossvibe.com^
@@ -459,6 +458,7 @@
 ||lozly.com^
 ||lp.voucheras.com^
 ||lucatee.com^
+||lucchesesale.shop^
 ||lucidtiger.com^
 ||luckyhomie.com^
 ||lucysstyle.com^
@@ -467,6 +467,7 @@
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
 ||mail.zalukaj.cc^
+||malgorzataschlegel.click^
 ||mango-desert-09ebb4010.4.azurestaticapps.net^
 ||maxdebrid.com^
 ||mayor4london.com^
@@ -585,7 +586,6 @@
 ||nofotballshop.com^
 ||nonofy.com^
 ||norfotball.com^
-||norgefotball.com^
 ||norgeshoes.com^
 ||notify-user-adjustments.vercel.app^
 ||novabeds.ca^
@@ -614,7 +614,6 @@
 ||ontario-energy.com^
 ||orderquilt.com^
 ||oschad.easypayment.me^
-||otakupuzzle.com^
 ||outel.abmarketworks.com^
 ||outlet-alfresco.com^
 ||own3d.tv^
@@ -656,7 +655,6 @@
 ||pumb.easypayment.me^
 ||punchonsol.top^
 ||q3i5q2r6.stackpathcdn.com^
-||qooraa.com^
 ||qq51f.short.gy^
 ||quitasueno.com^
 ||quotex.com.in^
@@ -714,7 +712,6 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
-||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||slimsyrups.ca^
@@ -739,7 +736,6 @@
 ||sportswearforfans.com^
 ||spotgee.com^
 ||stableuniswap.xyz^
-||stage3sale2024.site^
 ||staging.zendrop.com^
 ||stallioncredit.com^
 ||startuplatte.com^
@@ -775,6 +771,7 @@
 ||tartannewzealand.myshopify.com^
 ||tatatowers.com^
 ||tbao684tryo.com^
+||tdgrop168.vip^
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
@@ -789,7 +786,6 @@
 ||thevitic.onshopbase.com^
 ||thewindowsactivator.com^
 ||thuthuatxiaomi.com^
-||ti-yo.com^
 ||tikgeeker.com^
 ||tinkleo.com^
 ||tiranaaquapark-eg.com^
@@ -896,7 +892,6 @@
 ||webvod.pl^
 ||whbinder.com^
 ||wikeb.com^
-||wind88.shop^
 ||wintexfashions.com^
 ||wisdomganga.com^
 ||withyotta.com^
