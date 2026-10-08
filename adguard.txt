@@ -8,6 +8,7 @@
 ||1stfinancefirm.wixsite.com^
 ||1stireland.com^
 ||1sttheworld.com^
+||23elon.pro^
 ||270278609-2020004278-462904544-440202503325--570202500372x-usps.com^
 ||365analytics.xyz^
 ||3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev^
@@ -35,6 +36,7 @@
 ||airup-romania.com^
 ||airupsrbija.com^
 ||aizipai.cn^
+||aldi-life.vip^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allcars.cn^
@@ -73,7 +75,6 @@
 ||balticpipe.wordpress.com^
 ||bcb.game^
 ||bccnerty.com^
-||bcm8.shop^
 ||beautysolution24.com^
 ||beeaar.com^
 ||beecrave.com^
@@ -145,6 +146,7 @@
 ||cityofdream.co.uk^
 ||ckkebt.shop^
 ||cluckergifts.ecwid.com^
+||cma88.vip^
 ||cmoboy.com^
 ||cognatesyringe.com^
 ||coinaps.com^
@@ -171,6 +173,8 @@
 ||czasnakino.pl^
 ||czwcvfbc.page.link^
 ||d.slowmitter.top^
+||dailygiftstore.com^
+||danainstan.xyz^
 ||danylevych.com^
 ||dash.pocketuniverse.app^
 ||dashracegear.net^
@@ -193,6 +197,7 @@
 ||dolomiteoutlet.com^
 ||dolystore.com^
 ||dopestore.pl^
+||drakternorge.com^
 ||drama-queen.cc^
 ||draxu.com^
 ||dreamgreenshoe.com^
@@ -275,6 +280,7 @@
 ||findglocal.com^
 ||finnews7.wordpress.com^
 ||fitgirl-repacks-site.org^
+||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -458,11 +464,11 @@
 ||lozly.com^
 ||lp.voucheras.com^
 ||lucatee.com^
-||lucchesesale.shop^
 ||lucidtiger.com^
 ||luckyhomie.com^
 ||lucysstyle.com^
 ||luxsgear.com^
+||m.coinexeu.vip^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -592,7 +598,6 @@
 ||nowefilmyonline.pl^
 ||nzxsxn.98kk89.com^
 ||oablages.org.br^
-||obejrzyj-to.pl^
 ||ocycling.com^
 ||odinpc.com^
 ||official.olymptrade-id-dk.com^
@@ -671,7 +676,6 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
-||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
@@ -771,7 +775,6 @@
 ||tartannewzealand.myshopify.com^
 ||tatatowers.com^
 ||tbao684tryo.com^
-||tdgrop168.vip^
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
@@ -836,6 +839,7 @@
 ||uniswaplender.xyz^
 ||uniswaplending.xyz^
 ||uniswapnft.xyz^
+||uniswaps-v3.net^
 ||uniswapstake.xyz^
 ||uniswapstaking.xyz^
 ||uniswaptoken.xyz^
