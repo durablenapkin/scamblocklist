@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2235
+# Domains: 2237
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -71,7 +71,7 @@
 0.0.0.0 store.airupsrbija.com
 0.0.0.0 aizipai.cn
 0.0.0.0 www.aizipai.cn
-0.0.0.0 store.aldi-life.vip
+0.0.0.0 aldi-life.vip
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 www.alindflepkaty14.pages.dev
 0.0.0.0 store.alindflepkaty14.pages.dev
@@ -142,7 +142,12 @@
 0.0.0.0 avarik.web.app
 0.0.0.0 www.avarik.web.app
 0.0.0.0 store.avarik.web.app
-0.0.0.0 store.avito.avito.avito.www.booking.com-id20341.info
+0.0.0.0 store.avito.avito.avito.avito.booking.com-id90123.info
+0.0.0.0 avito.avito.avito.pay.com-id02349.info
+0.0.0.0 avito.booking.com-id01251.info
+0.0.0.0 www.avito.booking.com-id16313.info
+0.0.0.0 avito.sberbank.www.booking.com-id123251.info
+0.0.0.0 avito.www.pay.pay.booking.com-id20341.info
 0.0.0.0 azfancy.com
 0.0.0.0 www.azfancy.com
 0.0.0.0 azsolver.com
@@ -209,6 +214,7 @@
 0.0.0.0 www.binomo.in
 0.0.0.0 binomo.info
 0.0.0.0 www.binomo.info
+0.0.0.0 www.binomo.vip
 0.0.0.0 binomo1.com
 0.0.0.0 www.binomo1.com
 0.0.0.0 binomo2.zendesk.com
@@ -254,9 +260,6 @@
 0.0.0.0 store.bnidigital.com
 0.0.0.0 bombardina.pl
 0.0.0.0 www.bombardina.pl
-0.0.0.0 botsuanah.com
-0.0.0.0 www.botsuanah.com
-0.0.0.0 store.botsuanah.com
 0.0.0.0 boutiqueondemand.com
 0.0.0.0 bradcroninnapo82.myshopify.com
 0.0.0.0 www.bradcroninnapo82.myshopify.com
@@ -341,7 +344,7 @@
 0.0.0.0 cluckergifts.ecwid.com
 0.0.0.0 www.cluckergifts.ecwid.com
 0.0.0.0 store.cluckergifts.ecwid.com
-0.0.0.0 store.cma88.vip
+0.0.0.0 cma88.vip
 0.0.0.0 cmoboy.com
 0.0.0.0 www.cmoboy.com
 0.0.0.0 store.cmoboy.com
@@ -423,11 +426,10 @@
 0.0.0.0 davidsmovingco.com
 0.0.0.0 www.davidsmovingco.com
 0.0.0.0 debridlink.com
-0.0.0.0 www.debridlink.com
+0.0.0.0 store.debridlink.com
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
-0.0.0.0 store.deergift.com
 0.0.0.0 dein-rundfunkbeitrag.de
 0.0.0.0 www.dein-rundfunkbeitrag.de
 0.0.0.0 desiupload.in
@@ -478,6 +480,8 @@
 0.0.0.0 www.dresseslovesootd.com
 0.0.0.0 duitpanas.top
 0.0.0.0 www.duitpanas.top
+0.0.0.0 store.duitpanas.top
+0.0.0.0 www.dunkansp.info
 0.0.0.0 e-indianvisa.com
 0.0.0.0 www.e-indianvisa.com
 0.0.0.0 e-touristvisa.com
@@ -507,6 +511,7 @@
 0.0.0.0 www.edwardjhutley107375938786edwardjrhutley70205433153583usps.com
 0.0.0.0 elaka.lk
 0.0.0.0 www.elaka.lk
+0.0.0.0 store.elonspace.org
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 store.emberio.com
@@ -653,7 +658,6 @@
 0.0.0.0 finnews7.wordpress.com
 0.0.0.0 www.finnews7.wordpress.com
 0.0.0.0 store.finnews7.wordpress.com
-0.0.0.0 www.firest.info
 0.0.0.0 fitgirl-repacks-site.org
 0.0.0.0 fiusps.com
 0.0.0.0 www.fiusps.com
@@ -755,7 +759,7 @@
 0.0.0.0 glitchy.go2cloud.org
 0.0.0.0 www.glitchy.go2cloud.org
 0.0.0.0 store.glitchy.go2cloud.org
-0.0.0.0 www.gload.info
+0.0.0.0 store.gload.info
 0.0.0.0 globalvisacorp.com
 0.0.0.0 www.globalvisacorp.com
 0.0.0.0 goglle.com
@@ -903,8 +907,6 @@
 0.0.0.0 www.indiavisa.co.uk
 0.0.0.0 indiavisa.com
 0.0.0.0 www.indiavisa.com
-0.0.0.0 indiavisa.com.sg
-0.0.0.0 www.indiavisa.com.sg
 0.0.0.0 indiavisa.my
 0.0.0.0 www.indiavisa.my
 0.0.0.0 indiavisa.org
@@ -1047,7 +1049,6 @@
 0.0.0.0 load.365analytics.xyz
 0.0.0.0 www.load.365analytics.xyz
 0.0.0.0 store.load.365analytics.xyz
-0.0.0.0 store.lodrat.org
 0.0.0.0 look-like-star.myshopify.com
 0.0.0.0 www.look-like-star.myshopify.com
 0.0.0.0 store.look-like-star.myshopify.com
@@ -1086,7 +1087,7 @@
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
 0.0.0.0 www.mango-desert-09ebb4010.4.azurestaticapps.net
 0.0.0.0 store.mango-desert-09ebb4010.4.azurestaticapps.net
-0.0.0.0 store.mansion-xenarthran.info
+0.0.0.0 mansion-xenarthran.info
 0.0.0.0 maxdebrid.com
 0.0.0.0 www.maxdebrid.com
 0.0.0.0 mayor4london.com
@@ -1399,7 +1400,6 @@
 0.0.0.0 oflike.com
 0.0.0.0 www.oflike.com
 0.0.0.0 store.oflike.com
-0.0.0.0 ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 www.okdebrid.com
 0.0.0.0 oldcube.com
@@ -1457,9 +1457,13 @@
 0.0.0.0 paradisevs.com
 0.0.0.0 www.paradisevs.com
 0.0.0.0 path2zillion.com
-0.0.0.0 www.pay.avito.avito.www.booking.com-id3212341.info
-0.0.0.0 store.pay.avito.avito.www.booking.com-id3212341.info
-0.0.0.0 store.pay.avito.bo0klng.com-id16313.info
+0.0.0.0 pay.avito.avito.avito.avito.com-id20341.info
+0.0.0.0 pay.avito.avito.avito.booking.com-id15421.info
+0.0.0.0 store.pay.avito.avito.bo0king.com-id16313.info
+0.0.0.0 store.pay.avito.com-id129041.info
+0.0.0.0 store.pay.avito.pay.com-id20341.info
+0.0.0.0 www.pay.avito.pay.com-id3212341.info
+0.0.0.0 pay.www.booking.com-id23901.info
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
 0.0.0.0 penguinnow.com
@@ -1482,7 +1486,6 @@
 0.0.0.0 phirussacmush.net
 0.0.0.0 www.phirussacmush.net
 0.0.0.0 store.phirussacmush.net
-0.0.0.0 store.phototan-cdirect.info
 0.0.0.0 pinjamanrupiah.xyz
 0.0.0.0 www.pinjamanrupiah.xyz
 0.0.0.0 store.pinjamanrupiah.xyz
@@ -1539,7 +1542,6 @@
 0.0.0.0 qq51f.short.gy
 0.0.0.0 www.qq51f.short.gy
 0.0.0.0 store.qq51f.short.gy
-0.0.0.0 www.queenscattery.com
 0.0.0.0 quitasueno.com
 0.0.0.0 www.quitasueno.com
 0.0.0.0 quotex.com.in
@@ -1576,6 +1578,8 @@
 0.0.0.0 store.robalmeister.workers.dev
 0.0.0.0 robinmooreband.com
 0.0.0.0 www.robinmooreband.com
+0.0.0.0 robuxmenu.vip
+0.0.0.0 store.robuxmenu.vip
 0.0.0.0 rockchief.com
 0.0.0.0 www.rockchief.com
 0.0.0.0 rosateeshop.com
@@ -1607,13 +1611,16 @@
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
-0.0.0.0 www.sber.avito.avito.pay.com-id20341.info
-0.0.0.0 store.sber.avito.pay.www.booking.com-id02349.info
-0.0.0.0 www.sber.pay.avito.avito.avito.avito.sber.com-id02349.info
-0.0.0.0 sber.pay.www.booking.com-id23901.info
-0.0.0.0 sberbank.avito.avito.avito.www.booking.com-id20341.info
-0.0.0.0 store.sberbank.avito.sber.www42.com-id23901.info
-0.0.0.0 store.sberbank.www.www.id19045617.info
+0.0.0.0 www.sber.avito.pay.booking.com-id3212341.info
+0.0.0.0 store.sber.pay.com-id01251.info
+0.0.0.0 store.sberbank.avito.avito.avito.avito.avito.avito.com-id20341.info
+0.0.0.0 www.sberbank.avito.avito.avito.avito.avito.booking.com-id02349.info
+0.0.0.0 www.sberbank.avito.avito.avito.sberbank.booking.com-id90123.info
+0.0.0.0 store.sberbank.avito.booklng.com-id16313.info
+0.0.0.0 store.sberbank.avito.pay.com-id02349.info
+0.0.0.0 sberbank.avito.pay.com-id20341.info
+0.0.0.0 www.sberbank.pay.booking.com-id2435141.info
+0.0.0.0 store.sberbank.sberbank.com-id123251.info
 0.0.0.0 seagulltee.com
 0.0.0.0 www.seagulltee.com
 0.0.0.0 seans24.com.pl
@@ -1621,9 +1628,6 @@
 0.0.0.0 seasonsofficial.com
 0.0.0.0 www.seasonsofficial.com
 0.0.0.0 store.seasonsofficial.com
-0.0.0.0 secrity2redline.com
-0.0.0.0 www.secrity2redline.com
-0.0.0.0 store.secrity2redline.com
 0.0.0.0 securevault.top
 0.0.0.0 www.securevault.top
 0.0.0.0 store.securevault.top
@@ -1675,6 +1679,7 @@
 0.0.0.0 store.skincheap.com
 0.0.0.0 skinszone.net
 0.0.0.0 www.skinszone.net
+0.0.0.0 store.skipped.vip
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 www.skyfollowerbridge.com
 0.0.0.0 sligen.com
@@ -1743,7 +1748,6 @@
 0.0.0.0 steamunlock.com
 0.0.0.0 www.steamunlock.com
 0.0.0.0 stellara.de
-0.0.0.0 www.stellara.de
 0.0.0.0 store.stellara.de
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 www.stingcool-com.myshopify.com
@@ -1810,7 +1814,6 @@
 0.0.0.0 tatatowers.com
 0.0.0.0 www.tatatowers.com
 0.0.0.0 tbao684tryo.com
-0.0.0.0 www.teesunshine.com
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
 0.0.0.0 telegramweb.vercel.app
@@ -2097,7 +2100,6 @@
 0.0.0.0 www.wadahlapak.top
 0.0.0.0 wallpaperflare.com
 0.0.0.0 www.wallpaperflare.com
-0.0.0.0 store.wareeb.pk
 0.0.0.0 waronsol.top
 0.0.0.0 www.waronsol.top
 0.0.0.0 store.waronsol.top
@@ -2153,9 +2155,9 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
-0.0.0.0 yandex.avito.avito.pay.www.booking.com-id01251.info
-0.0.0.0 yandex.avito.sberbank.com-id90123.info
-0.0.0.0 store.yandex.pay.com-id3212341.info
+0.0.0.0 store.yandex.avito.avito.avito.avito.avito.booking.com-id23901.info
+0.0.0.0 store.yandex.avito.avito.avito.avito.booking.com-id02349.info
+0.0.0.0 www.yandex.avito.avito.avito.booking.com-id23901.info
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
 0.0.0.0 yeezysofficial.us.com
