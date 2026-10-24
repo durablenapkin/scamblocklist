@@ -92,6 +92,7 @@
 ||binomo.com^
 ||binomo.in^
 ||binomo.info^
+||binomo.vip^
 ||binomo1.com^
 ||binomo2.zendesk.com^
 ||binomoidr.com^
@@ -104,6 +105,7 @@
 ||bitiiy.com^
 ||bitsoft360.com^
 ||bitsoft360.io^
+||bitsoft360.net^
 ||blackabdo.company.site^
 ||blackoutarchertender.com^
 ||blsindiavisa.kr^
@@ -280,6 +282,7 @@
 ||findglocal.com^
 ||finnews7.wordpress.com^
 ||fitgirl-repacks-site.org^
+||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -288,7 +291,6 @@
 ||food-network.fwh.is^
 ||freebitcoin.pages.dev^
 ||freedom-5g.com^
-||freedom.invoice5g-bill.com^
 ||freedom.invoiceid-bill.com^
 ||friday99.com^
 ||frostgoddess.com^
@@ -350,6 +352,7 @@
 ||hotmod.eu^
 ||houselar.com.br^
 ||hubfiles.ws^
+||hudson-bay.com^
 ||hugetrump.com^
 ||hushlove.com^
 ||hyndtren25.pages.dev^
@@ -370,7 +373,6 @@
 ||india-visa-online.com^
 ||india-visa-online.org^
 ||india-visas.org^
-||india.evisa-agency.com^
 ||india.travisa.com^
 ||indiae-visa.com^
 ||indiaeta.com^
@@ -485,7 +487,6 @@
 ||miles.plumenetwork.xyz^
 ||milgenial.uy^
 ||millabay.com^
-||missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop^
 ||miucart.com^
 ||modalsaya.xyz^
 ||moddetail.com^
@@ -606,7 +607,6 @@
 ||officialkmspico.com^
 ||officialyeti.com^
 ||oflike.com^
-||ojlkimed.vip^
 ||okdebrid.com^
 ||oldcube.com^
 ||olive121407.studio.site^
@@ -620,7 +620,6 @@
 ||onlyfanstake.pro^
 ||onrunningshop.com^
 ||ontario-energy.com^
-||orderquilt.com^
 ||oschad.easypayment.me^
 ||outel.abmarketworks.com^
 ||outlet-alfresco.com^
@@ -673,13 +672,11 @@
 ||request.report^
 ||resources4gaming.com^
 ||revanced-extended.com^
-||reviewshirts.com^
 ||rewardsgiantca.com^
 ||ringtoperfection.com^
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
-||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
@@ -720,7 +717,6 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
-||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||slimsyrups.ca^
@@ -745,6 +741,7 @@
 ||sportswearforfans.com^
 ||spotgee.com^
 ||stableuniswap.xyz^
+||stage3-last.club^
 ||staging.zendrop.com^
 ||stallioncredit.com^
 ||startuplatte.com^
@@ -814,6 +811,7 @@
 ||tripinpremiumsnacks.com^
 ||trivo.uk^
 ||trkucibqy.com^
+||tronilnk.com^
 ||turtleclient.xyz^
 ||twiiiter.com^
 ||twinsbio.com^
