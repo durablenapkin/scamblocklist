@@ -39,7 +39,6 @@
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allcars.cn^
 ||allergyfl.com^
-||allnewsready.com^
 ||allstarshirt.com^
 ||allupdatenow.com^
 ||alohazing.com^
@@ -92,7 +91,6 @@
 ||binomo.com^
 ||binomo.in^
 ||binomo.info^
-||binomo.vip^
 ||binomo1.com^
 ||binomo2.zendesk.com^
 ||binomoidr.com^
@@ -194,6 +192,7 @@
 ||distrochooser.snehit.dev^
 ||dkfodboldstore.com^
 ||dleggere.com^
+||doaapodewils.buzz^
 ||doh-gov.ph^
 ||dolystore.com^
 ||dopestore.pl^
@@ -352,7 +351,6 @@
 ||hotmod.eu^
 ||houselar.com.br^
 ||hubfiles.ws^
-||hudson-bay.com^
 ||hugetrump.com^
 ||hushlove.com^
 ||hyndtren25.pages.dev^
@@ -443,11 +441,14 @@
 ||kopisusu.co.id^
 ||kra18.com^
 ||kuyhaa.cc^
+||lamotee.com^
 ||lasercutjewelry.net^
 ||lds.xyz^
 ||ledgerslive.org^
 ||lemstore.com^
+||leonoremanry.sa.com^
 ||lericettedifrancy74.com^
+||lesliespracklen.sa.com^
 ||letteringift.com^
 ||levath.com^
 ||levelbash.com^
@@ -541,6 +542,7 @@
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
+||navi63.ru^
 ||navi65.com^
 ||navi66.ru^
 ||navi69.com^
@@ -654,7 +656,6 @@
 ||prawdziwefilmy.pl^
 ||premiumqualityblanket.com^
 ||primeleech.com^
-||primevod.pl^
 ||promo-offer.com^
 ||promotion40-form.com^
 ||prpages.com^
@@ -677,6 +678,7 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
+||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
@@ -740,8 +742,8 @@
 ||sportswearfanatics.com^
 ||sportswearforfans.com^
 ||spotgee.com^
+||squest.info^
 ||stableuniswap.xyz^
-||stage3-last.club^
 ||staging.zendrop.com^
 ||stallioncredit.com^
 ||startuplatte.com^
@@ -784,9 +786,9 @@
 ||terverystaio.info^
 ||teslatime.net^
 ||theeaglebrand.company.site^
-||themountainwarehouse.com^
 ||theneurobalancetherapy.org^
 ||theonepercentcommunity.com^
+||theoutdoorsgear.com^
 ||theshirtyouneed.com^
 ||thevitic.com^
 ||thevitic.onshopbase.com^
@@ -828,6 +830,7 @@
 ||unifully.com^
 ||uniswap.host^
 ||uniswap.ro^
+||uniswap2.buzz^
 ||uniswapagent.com^
 ||uniswapai.xyz^
 ||uniswapapp.xyz^
@@ -896,7 +899,6 @@
 ||wavetshirt.com^
 ||wazofurniture.com^
 ||weathly.com^
-||webvod.pl^
 ||whbinder.com^
 ||wikeb.com^
 ||wintexfashions.com^
