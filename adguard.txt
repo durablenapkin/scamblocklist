@@ -39,6 +39,7 @@
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allcars.cn^
 ||allergyfl.com^
+||allnewsready.com^
 ||allstarshirt.com^
 ||allupdatenow.com^
 ||alohazing.com^
@@ -91,6 +92,7 @@
 ||binomo.com^
 ||binomo.in^
 ||binomo.info^
+||binomo.vip^
 ||binomo1.com^
 ||binomo2.zendesk.com^
 ||binomoidr.com^
@@ -151,6 +153,7 @@
 ||coinaps.com^
 ||coinreq.com^
 ||colorandcotton.com^
+||com-id16313.info^
 ||compoundexotics.com^
 ||confira.io^
 ||containably.com^
@@ -192,8 +195,8 @@
 ||distrochooser.snehit.dev^
 ||dkfodboldstore.com^
 ||dleggere.com^
-||doaapodewils.buzz^
 ||doh-gov.ph^
+||doint.info^
 ||dolystore.com^
 ||dopestore.pl^
 ||drakternorge.com^
@@ -281,7 +284,6 @@
 ||findglocal.com^
 ||finnews7.wordpress.com^
 ||fitgirl-repacks-site.org^
-||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -324,7 +326,6 @@
 ||gjseep.com^
 ||gladiadormalas.com.br^
 ||glitchy.go2cloud.org^
-||gload.info^
 ||globalvisacorp.com^
 ||goglle.com^
 ||goindiavisa.com^
@@ -441,14 +442,11 @@
 ||kopisusu.co.id^
 ||kra18.com^
 ||kuyhaa.cc^
-||lamotee.com^
 ||lasercutjewelry.net^
 ||lds.xyz^
 ||ledgerslive.org^
 ||lemstore.com^
-||leonoremanry.sa.com^
 ||lericettedifrancy74.com^
-||lesliespracklen.sa.com^
 ||letteringift.com^
 ||levath.com^
 ||levelbash.com^
@@ -470,6 +468,7 @@
 ||luckyhomie.com^
 ||lucysstyle.com^
 ||luxsgear.com^
+||m.coinexeu.vip^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -542,7 +541,6 @@
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
-||navi63.ru^
 ||navi65.com^
 ||navi66.ru^
 ||navi69.com^
@@ -692,6 +690,7 @@
 ||sakuradate.com^
 ||salimusic.com^
 ||saveeeee.myshopify.com^
+||scanoe.info^
 ||seagulltee.com^
 ||seans24.com.pl^
 ||seasonsofficial.com^
@@ -719,6 +718,7 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
+||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||slimsyrups.ca^
@@ -742,13 +742,11 @@
 ||sportswearfanatics.com^
 ||sportswearforfans.com^
 ||spotgee.com^
-||squest.info^
 ||stableuniswap.xyz^
 ||staging.zendrop.com^
 ||stallioncredit.com^
 ||startuplatte.com^
 ||steamgateways.com^
-||steampowered.cn.com^
 ||steamunlock.com^
 ||stellara.de^
 ||stingcool-com.myshopify.com^
@@ -780,6 +778,7 @@
 ||tartannewzealand.myshopify.com^
 ||tatatowers.com^
 ||tbao684tryo.com^
+||tdgrop168.vip^
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
@@ -788,7 +787,6 @@
 ||theeaglebrand.company.site^
 ||theneurobalancetherapy.org^
 ||theonepercentcommunity.com^
-||theoutdoorsgear.com^
 ||theshirtyouneed.com^
 ||thevitic.com^
 ||thevitic.onshopbase.com^
@@ -830,12 +828,13 @@
 ||unifully.com^
 ||uniswap.host^
 ||uniswap.ro^
-||uniswap2.buzz^
+||uniswap5.work^
 ||uniswapagent.com^
 ||uniswapai.xyz^
 ||uniswapapp.xyz^
 ||uniswapbot.xyz^
 ||uniswapcapital.xyz^
+||uniswapcriterion.org^
 ||uniswapdao.xyz^
 ||uniswapdefi.xyz^
 ||uniswapetf.xyz^
