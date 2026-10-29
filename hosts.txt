@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2206
+# Domains: 2234
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -144,7 +144,7 @@
 0.0.0.0 avarik.web.app
 0.0.0.0 www.avarik.web.app
 0.0.0.0 store.avarik.web.app
-0.0.0.0 store.avito.sberbank.booking.com-id90123.info
+0.0.0.0 store.avito.pay.com-id129041.info
 0.0.0.0 azfancy.com
 0.0.0.0 www.azfancy.com
 0.0.0.0 azsolver.com
@@ -211,6 +211,7 @@
 0.0.0.0 www.binomo.in
 0.0.0.0 binomo.info
 0.0.0.0 www.binomo.info
+0.0.0.0 www.binomo.vip
 0.0.0.0 binomo1.com
 0.0.0.0 www.binomo1.com
 0.0.0.0 binomo2.zendesk.com
@@ -342,6 +343,7 @@
 0.0.0.0 cluckergifts.ecwid.com
 0.0.0.0 www.cluckergifts.ecwid.com
 0.0.0.0 store.cluckergifts.ecwid.com
+0.0.0.0 store.cma88.vip
 0.0.0.0 cmoboy.com
 0.0.0.0 www.cmoboy.com
 0.0.0.0 store.cmoboy.com
@@ -393,7 +395,6 @@
 0.0.0.0 customurink.com
 0.0.0.0 www.customurink.com
 0.0.0.0 store.customurink.com
-0.0.0.0 www.cutty.app
 0.0.0.0 store.cutty.app
 0.0.0.0 cycle100percent.com
 0.0.0.0 www.cycle100percent.com
@@ -407,9 +408,6 @@
 0.0.0.0 store.d.slowmitter.top
 0.0.0.0 dailygiftstore.com
 0.0.0.0 www.dailygiftstore.com
-0.0.0.0 danainstan.xyz
-0.0.0.0 www.danainstan.xyz
-0.0.0.0 store.danainstan.xyz
 0.0.0.0 danylevych.com
 0.0.0.0 www.danylevych.com
 0.0.0.0 dash.pocketuniverse.app
@@ -441,6 +439,7 @@
 0.0.0.0 store.discounthoneywell.com
 0.0.0.0 distrochooser.snehit.dev
 0.0.0.0 www.distrochooser.snehit.dev
+0.0.0.0 diytsi.shop
 0.0.0.0 dkfodboldstore.com
 0.0.0.0 www.dkfodboldstore.com
 0.0.0.0 dleggere.com
@@ -478,6 +477,7 @@
 0.0.0.0 store.duitpanas.top
 0.0.0.0 e-indianvisa.com
 0.0.0.0 www.e-indianvisa.com
+0.0.0.0 store.e-indianvisa.com
 0.0.0.0 e-touristvisa.com
 0.0.0.0 www.e-touristvisa.com
 0.0.0.0 e-touristvisaindia.com
@@ -493,6 +493,7 @@
 0.0.0.0 easypayment.me
 0.0.0.0 www.easypayment.me
 0.0.0.0 store.easypayment.me
+0.0.0.0 easyshopper.org
 0.0.0.0 ecomicrolab.com
 0.0.0.0 www.ecomicrolab.com
 0.0.0.0 ecs-online.ffm.to
@@ -508,8 +509,6 @@
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
 0.0.0.0 store.emberio.com
-0.0.0.0 en-trezor.io
-0.0.0.0 www.en-trezor.io
 0.0.0.0 enchantestore.myshopify.com
 0.0.0.0 www.enchantestore.myshopify.com
 0.0.0.0 store.enchantestore.myshopify.com
@@ -652,6 +651,7 @@
 0.0.0.0 www.finnews7.wordpress.com
 0.0.0.0 store.finnews7.wordpress.com
 0.0.0.0 fitgirl-repacks-site.org
+0.0.0.0 fitgirl-repacks.vip
 0.0.0.0 fiusps.com
 0.0.0.0 www.fiusps.com
 0.0.0.0 fixpub.com
@@ -746,12 +746,14 @@
 0.0.0.0 gimp.zendesk.com
 0.0.0.0 www.gimp.zendesk.com
 0.0.0.0 store.gimp.zendesk.com
+0.0.0.0 gizmos.lastchancefishingadventures.com
 0.0.0.0 gjseep.com
 0.0.0.0 gladiadormalas.com.br
 0.0.0.0 www.gladiadormalas.com.br
 0.0.0.0 glitchy.go2cloud.org
 0.0.0.0 www.glitchy.go2cloud.org
 0.0.0.0 store.glitchy.go2cloud.org
+0.0.0.0 gload.info
 0.0.0.0 globalvisacorp.com
 0.0.0.0 www.globalvisacorp.com
 0.0.0.0 goglle.com
@@ -827,7 +829,6 @@
 0.0.0.0 iagadvanced.com
 0.0.0.0 www.iagadvanced.com
 0.0.0.0 iaqorwr.com
-0.0.0.0 iceao.shop
 0.0.0.0 icelandclothing.myshopify.com
 0.0.0.0 www.icelandclothing.myshopify.com
 0.0.0.0 store.icelandclothing.myshopify.com
@@ -1153,7 +1154,6 @@
 0.0.0.0 store.myhandshops.myshopify.com
 0.0.0.0 mypuregaming.com
 0.0.0.0 www.mypuregaming.com
-0.0.0.0 nabaza.shop
 0.0.0.0 nalzahqp.page.link
 0.0.0.0 www.nalzahqp.page.link
 0.0.0.0 store.nalzahqp.page.link
@@ -1399,6 +1399,8 @@
 0.0.0.0 oflike.com
 0.0.0.0 www.oflike.com
 0.0.0.0 store.oflike.com
+0.0.0.0 ojlkimed.vip
+0.0.0.0 store.ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 www.okdebrid.com
 0.0.0.0 oldcube.com
@@ -1454,7 +1456,11 @@
 0.0.0.0 paradisevs.com
 0.0.0.0 www.paradisevs.com
 0.0.0.0 path2zillion.com
-0.0.0.0 pay.avito.avito.avito.avito.avito.booking.com-id15421.info
+0.0.0.0 store.pay.avito.avito.avito.avito.com-id90123.info
+0.0.0.0 store.pay.avito.pay.com-id3212341.info
+0.0.0.0 store.pay.avito.sber.sber.booking.com-id90123.info
+0.0.0.0 www.pay.id3410894.com
+0.0.0.0 store.pay.www.booking.com-id23901.info
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
 0.0.0.0 penguinnow.com
@@ -1530,6 +1536,7 @@
 0.0.0.0 qq51f.short.gy
 0.0.0.0 www.qq51f.short.gy
 0.0.0.0 store.qq51f.short.gy
+0.0.0.0 qriedf.info
 0.0.0.0 quitasueno.com
 0.0.0.0 www.quitasueno.com
 0.0.0.0 quotex.com.in
@@ -1577,6 +1584,7 @@
 0.0.0.0 rsaonlinenow.com.au
 0.0.0.0 www.rsaonlinenow.com.au
 0.0.0.0 store.rsaonlinenow.com.au
+0.0.0.0 rupiahsaku.com
 0.0.0.0 rustdesk.io
 0.0.0.0 www.rustdesk.io
 0.0.0.0 rustdesk.pl
@@ -1595,6 +1603,16 @@
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
+0.0.0.0 sber.avito.sberbank.booking.com-id123251.info
+0.0.0.0 www.sber.www.sberbank.com-id123251.info
+0.0.0.0 www.sberbank.avito.avito.avito.avito.com-id02349.info
+0.0.0.0 store.sberbank.avito.avito.avito.com-id2435141.info
+0.0.0.0 store.sberbank.avito.avito.sber.avito.www.booking.com-id809702.com
+0.0.0.0 sberbank.avito.avito.sber.booking.com-id01251.info
+0.0.0.0 store.sberbank.avito.avito.www.booking.com-id809702.com
+0.0.0.0 store.sberbank.avito.b0oklng.com-id16313.info
+0.0.0.0 www.sberbank.avito.pay.com-id20341.info
+0.0.0.0 sberbank.id11853502.date
 0.0.0.0 seagulltee.com
 0.0.0.0 www.seagulltee.com
 0.0.0.0 seans24.com.pl
@@ -1792,6 +1810,7 @@
 0.0.0.0 tatatowers.com
 0.0.0.0 www.tatatowers.com
 0.0.0.0 tbao684tryo.com
+0.0.0.0 www.tdgrop168.vip
 0.0.0.0 teezill.com
 0.0.0.0 www.teezill.com
 0.0.0.0 telegramweb.vercel.app
@@ -1903,7 +1922,6 @@
 0.0.0.0 store.ultra-cda.pl
 0.0.0.0 ultrasonica.info
 0.0.0.0 www.ultrasonica.info
-0.0.0.0 www.unho.unhesiss.shop
 0.0.0.0 uni-swap.online
 0.0.0.0 www.uni-swap.online
 0.0.0.0 unifully.com
@@ -2007,6 +2025,7 @@
 0.0.0.0 store.vider-pl.pl
 0.0.0.0 vider.cc
 0.0.0.0 www.vider.cc
+0.0.0.0 store.vider.cc
 0.0.0.0 vider.com.pl
 0.0.0.0 www.vider.com.pl
 0.0.0.0 vider.info.pl
@@ -2018,6 +2037,7 @@
 0.0.0.0 www.vindhuisdieren.com
 0.0.0.0 vinisay.com
 0.0.0.0 www.vinisay.com
+0.0.0.0 store.vinisay.com
 0.0.0.0 vip100.cc
 0.0.0.0 www.vip100.cc
 0.0.0.0 store.vip100.cc
@@ -2076,6 +2096,7 @@
 0.0.0.0 www.wadahlapak.top
 0.0.0.0 wallpaperflare.com
 0.0.0.0 www.wallpaperflare.com
+0.0.0.0 www.walmartchina.top
 0.0.0.0 waronsol.top
 0.0.0.0 www.waronsol.top
 0.0.0.0 store.waronsol.top
@@ -2128,9 +2149,14 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
-0.0.0.0 store.yandex.avito.avito.avito.www.com-id1800853.com
+0.0.0.0 store.yandex.avito.avito.pay.www.booking.com-id01251.info
+0.0.0.0 store.yandex.avito.pay.booking.com-id20341.info
+0.0.0.0 www.yandex.pay.booking.com-id809712.com
+0.0.0.0 store.yandex.pay.com-id129041.info
+0.0.0.0 yandex.pay.sberbank.avito.com-id23901.info
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
+0.0.0.0 www.yeahteesmile.com
 0.0.0.0 yeswevibe.com
 0.0.0.0 www.yeswevibe.com
 0.0.0.0 ygtube.xyz
@@ -2206,9 +2232,11 @@
 0.0.0.0 www.zhongda.info
 0.0.0.0 zlibrary.to
 0.0.0.0 www.zlibrary.to
+0.0.0.0 store.zltst.shop
 0.0.0.0 zobaczfilm.com
 0.0.0.0 www.zobaczfilm.com
 0.0.0.0 store.zobaczfilm.com
 0.0.0.0 zolrqw.palatlaldate.com
 0.0.0.0 www.zolrqw.palatlaldate.com
 0.0.0.0 store.zolrqw.palatlaldate.com
+0.0.0.0 www.zumam.us
