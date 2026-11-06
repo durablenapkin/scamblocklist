@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2190
+# Domains: 2186
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -72,8 +72,6 @@
 0.0.0.0 store.airupsrbija.com
 0.0.0.0 aizipai.cn
 0.0.0.0 www.aizipai.cn
-0.0.0.0 aldi-life.vip
-0.0.0.0 store.aldi-life.vip
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 www.alindflepkaty14.pages.dev
 0.0.0.0 store.alindflepkaty14.pages.dev
@@ -261,7 +259,6 @@
 0.0.0.0 store.bnidigital.com
 0.0.0.0 bombardina.pl
 0.0.0.0 www.bombardina.pl
-0.0.0.0 booking.com-id329712.com
 0.0.0.0 boutiqueondemand.com
 0.0.0.0 bradcroninnapo82.myshopify.com
 0.0.0.0 www.bradcroninnapo82.myshopify.com
@@ -349,6 +346,7 @@
 0.0.0.0 cmoboy.com
 0.0.0.0 www.cmoboy.com
 0.0.0.0 store.cmoboy.com
+0.0.0.0 cnhnotificou.co
 0.0.0.0 cognatesyringe.com
 0.0.0.0 www.cognatesyringe.com
 0.0.0.0 store.cognatesyringe.com
@@ -396,6 +394,7 @@
 0.0.0.0 store.customizerbox.com
 0.0.0.0 cutty.app
 0.0.0.0 www.cutty.app
+0.0.0.0 store.cutty.app
 0.0.0.0 cycle100percent.com
 0.0.0.0 www.cycle100percent.com
 0.0.0.0 czasnakino.pl
@@ -930,7 +929,6 @@
 0.0.0.0 jasper-lilac-van.glitch.me
 0.0.0.0 www.jasper-lilac-van.glitch.me
 0.0.0.0 store.jasper-lilac-van.glitch.me
-0.0.0.0 store.jellyfishstat.live
 0.0.0.0 jellystores.com
 0.0.0.0 www.jellystores.com
 0.0.0.0 store.jellystores.com
@@ -1090,6 +1088,9 @@
 0.0.0.0 mega-kino.pl
 0.0.0.0 www.mega-kino.pl
 0.0.0.0 store.mega-kino.pl
+0.0.0.0 meshcore.co.uk
+0.0.0.0 www.meshcore.co.uk
+0.0.0.0 store.meshcore.co.uk
 0.0.0.0 microngroup.pro
 0.0.0.0 www.microngroup.pro
 0.0.0.0 microsoft-notifcation.com
@@ -1446,7 +1447,6 @@
 0.0.0.0 www.pandzee.com
 0.0.0.0 paradisevs.com
 0.0.0.0 www.paradisevs.com
-0.0.0.0 www.parcelprocessingredelivery1.info
 0.0.0.0 path2zillion.com
 0.0.0.0 peekpok.com
 0.0.0.0 www.peekpok.com
@@ -1582,7 +1582,7 @@
 0.0.0.0 saveeeee.myshopify.com
 0.0.0.0 www.saveeeee.myshopify.com
 0.0.0.0 store.saveeeee.myshopify.com
-0.0.0.0 sberbank.sberbank.avito.avito.avito.avito.com-id20341.info
+0.0.0.0 sberbank.avito.sber.booking.com-id809702.com
 0.0.0.0 seagulltee.com
 0.0.0.0 www.seagulltee.com
 0.0.0.0 seans24.com.pl
@@ -1642,7 +1642,6 @@
 0.0.0.0 store.skincheap.com
 0.0.0.0 skinszone.net
 0.0.0.0 www.skinszone.net
-0.0.0.0 skipped.vip
 0.0.0.0 skyfollowerbridge.com
 0.0.0.0 www.skyfollowerbridge.com
 0.0.0.0 sligen.com
@@ -1755,7 +1754,6 @@
 0.0.0.0 supercutestuff.com
 0.0.0.0 www.supercutestuff.com
 0.0.0.0 store.supercutestuff.com
-0.0.0.0 store.superofferte.shop
 0.0.0.0 superuniswap.xyz
 0.0.0.0 www.superuniswap.xyz
 0.0.0.0 store.superuniswap.xyz
@@ -1812,6 +1810,7 @@
 0.0.0.0 tikgeeker.com
 0.0.0.0 www.tikgeeker.com
 0.0.0.0 store.tikgeeker.com
+0.0.0.0 tiles.meshcore.co.uk
 0.0.0.0 tinkleo.com
 0.0.0.0 www.tinkleo.com
 0.0.0.0 store.tinkleo.com
@@ -2112,9 +2111,6 @@
 0.0.0.0 yahhhoo.com
 0.0.0.0 www.yahhhoo.com
 0.0.0.0 store.yahhhoo.com
-0.0.0.0 store.yandex.avito.sber.avito.www.booking.com-id20341.info
-0.0.0.0 yandex.com-id8439141.info
-0.0.0.0 yandex.sber.booking.com-id20341.info
 0.0.0.0 yasir252.com
 0.0.0.0 www.yasir252.com
 0.0.0.0 yeswevibe.com
