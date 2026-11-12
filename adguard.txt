@@ -100,6 +100,7 @@
 ||binomoweblogin.com^
 ||binorobot.com^
 ||bisertravel.com.mk^
+||bitcompay.org^
 ||bite-life.com^
 ||bitiiy.com^
 ||bitsoft360.com^
@@ -144,7 +145,6 @@
 ||cipustar.com^
 ||cityofdream.co.uk^
 ||ckkebt.shop^
-||claimcoderz.live^
 ||clemoa.com^
 ||cluckergifts.ecwid.com^
 ||cma88.vip^
@@ -167,6 +167,7 @@
 ||crackedpc.org^
 ||cracksway.com^
 ||cryptot.net^
+||cual3up029pc73fi5jug.ucapsidop.info^
 ||customizerbox.com^
 ||cutty.app^
 ||cycle100percent.com^
@@ -203,6 +204,7 @@
 ||dressesloves.com^
 ||dresseslovesootd.com^
 ||duitpanas.top^
+||dunkansp.info^
 ||e-indianvisa.com^
 ||e-touristvisa.com^
 ||e-touristvisaindia.com^
@@ -277,19 +279,20 @@
 ||findglocal.com^
 ||finnews7.wordpress.com^
 ||fitgirl-repacks-site.org^
+||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
 ||flwzen.com^
 ||folkrbvi.pages.dev^
 ||food-network.fwh.is^
-||foryourdears.com^
 ||freebitcoin.pages.dev^
 ||freedom-5g.com^
 ||freedom.invoiceid-bill.com^
-||freser.info^
+||freegiftscards.shop^
 ||friday89.com^
 ||friday99.com^
+||frogspring.life^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fumekart.com^
@@ -349,6 +352,7 @@
 ||hubfiles.ws^
 ||hugetrump.com^
 ||hushlove.com^
+||husqvarnaoutlet.shop^
 ||hyndtren25.pages.dev^
 ||i-grade.online^
 ||i-visaindia.com^
@@ -358,7 +362,6 @@
 ||icelandclothing.myshopify.com^
 ||igloaptopto.net^
 ||ikiha.com^
-||ikoee.com^
 ||imagemotorcycles.co.nz^
 ||imlb2c.com^
 ||improtants.space^
@@ -621,8 +624,9 @@
 ||pages.tempisite.com^
 ||pandzee.com^
 ||paradisevs.com^
+||parcelprocessingredelivery1.info^
 ||path2zillion.com^
-||pay.avito.booklng.id-7144893.com^
+||pay.www.mvideo.id19045617.info^
 ||peekpok.com^
 ||penguinnow.com^
 ||peppatees.com^
@@ -646,7 +650,10 @@
 ||post-nachsenden.de^
 ||prawdziwefilmy.pl^
 ||premiumqualityblanket.com^
+||primakovreadings.info^
 ||primeleech.com^
+||produktretter.org^
+||produkttester-werden.org^
 ||promo-offer.com^
 ||promotion40-form.com^
 ||prpages.com^
@@ -679,6 +686,7 @@
 ||rustdesk.pl^
 ||rustdesk.secure-box.de^
 ||sakuradate.com^
+||sale-friday.info^
 ||salimusic.com^
 ||saveeeee.myshopify.com^
 ||seagulltee.com^
@@ -735,7 +743,6 @@
 ||staging.zendrop.com^
 ||stallioncredit.com^
 ||startuplatte.com^
-||static.processing-transaction.info^
 ||steamgateways.com^
 ||steamunlock.com^
 ||stellara.de^
@@ -803,13 +810,11 @@
 ||trivo.uk^
 ||trkucibqy.com^
 ||tronilnk.com^
-||tslaeth.live^
 ||turtleclient.xyz^
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitchlogger.robalmeister.workers.dev^
 ||twitterr.com^
-||ucapsidop.info^
 ||ucureo.com^
 ||udemy-creators.com^
 ||udrop.com^
@@ -835,7 +840,6 @@
 ||uniswaplender.xyz^
 ||uniswaplending.xyz^
 ||uniswapnft.xyz^
-||uniswaps-v3.org^
 ||uniswapstake.xyz^
 ||uniswapstaking.xyz^
 ||uniswaptoken.xyz^
@@ -872,7 +876,6 @@
 ||visagov.com^
 ||visasimple.com^
 ||visatoindia.org^
-||visoedifica.com^
 ||visumbuitenland.nl^
 ||vizjer-pl.pl^
 ||vizjer.com.pl^
@@ -891,7 +894,6 @@
 ||wazofurniture.com^
 ||weathly.com^
 ||whbinder.com^
-||wichky.info^
 ||wikeb.com^
 ||wintexfashions.com^
 ||wisdomganga.com^
