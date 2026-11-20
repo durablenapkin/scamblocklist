@@ -110,7 +110,6 @@
 ||bncentertainment.com^
 ||bnidigital.com^
 ||bombardina.pl^
-||bonuspulsefortune.life^
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
 ||breakshirts.com^
@@ -146,6 +145,7 @@
 ||ckkebt.shop^
 ||clemoa.com^
 ||cluckergifts.ecwid.com^
+||cma88.vip^
 ||cmoboy.com^
 ||cognatesyringe.com^
 ||coinaps.com^
@@ -215,6 +215,7 @@
 ||emberio.com^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
+||equiwarmpro.co^
 ||eset.co.il^
 ||esl-gaming.com^
 ||estiloserena.com.br^
@@ -247,6 +248,7 @@
 ||faze1.com^
 ||faze10.com^
 ||faze2.com^
+||faze3.com^
 ||faze4.com^
 ||faze47.com^
 ||faze5.com^
@@ -273,7 +275,6 @@
 ||findglocal.com^
 ||finnews7.wordpress.com^
 ||fitgirl-repacks-site.org^
-||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -289,7 +290,6 @@
 ||fumekart.com^
 ||fundanemt.org^
 ||furnishmyhome.ca^
-||furoshop.com^
 ||furykms.com^
 ||fveco.com^
 ||gamedrive.org^
@@ -567,7 +567,6 @@
 ||nip6.com^
 ||nip7.com^
 ||nip8.com^
-||nip84.com^
 ||nip9.com^
 ||nip98.com^
 ||nirvezal.com^
@@ -588,12 +587,10 @@
 ||officialkmspico.com^
 ||officialyeti.com^
 ||oflike.com^
-||ojlkimed.vip^
 ||okdebrid.com^
 ||oldcube.com^
 ||olive121407.studio.site^
 ||olymptrade-qid.com^
-||oncloudrun.shop^
 ||online-binomo.com^
 ||onlinecda.pl^
 ||onlinefilmy.pl^
@@ -624,6 +621,7 @@
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
 ||phirussacmush.net^
+||photo-reaktivieren.org^
 ||pinjamanrupiah.xyz^
 ||pinjamteman.top^
 ||pinjamuang.top^
@@ -670,7 +668,6 @@
 ||rustdesk.secure-box.de^
 ||sakuradate.com^
 ||saveeeee.myshopify.com^
-||sberbank.www.sber.id19845672.info^
 ||seagulltee.com^
 ||seans24.com.pl^
 ||seasonsofficial.com^
@@ -697,6 +694,7 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
+||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||slimsyrups.ca^
@@ -756,7 +754,6 @@
 ||tartannewzealand.myshopify.com^
 ||tatatowers.com^
 ||tbao684tryo.com^
-||tdgrop168.vip^
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
@@ -804,7 +801,6 @@
 ||ultrasonica.info^
 ||uni-swap.online^
 ||unifully.com^
-||uniqueshirt.shop^
 ||uniswap.host^
 ||uniswap.ro^
 ||uniswapagent.com^
@@ -899,7 +895,6 @@
 ||yhdshop.com^
 ||youdebrid.com^
 ||yoursecrethookup.com^
-||youthfy.shop^
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
@@ -925,7 +920,6 @@
 ||zerorolex.com^
 ||zhongda.info^
 ||zlibrary.to^
-||zltst.shop^
 ||zobaczfilm.com^
 ||zolrqw.palatlaldate.com^
 ! Optimized Expressions, thx DandelionSprout
