@@ -102,7 +102,6 @@
 ||bite-life.com^
 ||bitiiy.com^
 ||bitsoft360.com^
-||bitsoft360.io^
 ||bitsoft360.net^
 ||blackabdo.company.site^
 ||blsindiavisa.kr^
@@ -122,12 +121,14 @@
 ||buzzazone.com^
 ||bwpkizpfms.funnelish.com^
 ||by-emmamuller.de^
+||byeuys.shop^
 ||c0nt4ct-me.pages.dev^
 ||campingsurfshop.com^
 ||candlesbymadison.com^
 ||canjaume.com^
 ||caraci.it^
 ||casha.xyz^
+||cashspacex.org^
 ||casualdating1.com^
 ||cda-zalukaj.prv.pl^
 ||chat-o-live.com^
@@ -141,11 +142,11 @@
 ||cibtvisas.com^
 ||cinemak.pl^
 ||cipustar.com^
+||cition.info^
 ||cityofdream.co.uk^
 ||ckkebt.shop^
 ||clemoa.com^
 ||cluckergifts.ecwid.com^
-||cma88.vip^
 ||cmoboy.com^
 ||cognatesyringe.com^
 ||coinaps.com^
@@ -444,11 +445,11 @@
 ||look-like-star.myshopify.com^
 ||lozly.com^
 ||lp.voucheras.com^
+||lucchesestore.online^
 ||lucidtiger.com^
 ||luckyhomie.com^
 ||lucysstyle.com^
 ||luxsgear.com^
-||m.coinexeu.vip^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -585,7 +586,6 @@
 ||official.olymptrade-id-dk.com^
 ||official.olymptrade-my.com^
 ||officialkmspico.com^
-||officialyeti.com^
 ||oflike.com^
 ||okdebrid.com^
 ||oldcube.com^
@@ -621,7 +621,6 @@
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
 ||phirussacmush.net^
-||photo-reaktivieren.org^
 ||pinjamanrupiah.xyz^
 ||pinjamteman.top^
 ||pinjamuang.top^
@@ -650,6 +649,7 @@
 ||re-captha-version-3-277.buzz^
 ||reanimando.org^
 ||reforest-iita.org^
+||reschedulepostca.info^
 ||resources4gaming.com^
 ||revanced-extended.com^
 ||rewardsgiantca.com^
@@ -668,6 +668,8 @@
 ||rustdesk.secure-box.de^
 ||sakuradate.com^
 ||saveeeee.myshopify.com^
+||sberbank.avito.id19045617.info^
+||sberbank.id19845672.info^
 ||seagulltee.com^
 ||seans24.com.pl^
 ||seasonsofficial.com^
@@ -683,7 +685,6 @@
 ||shoeaddic.com^
 ||shopraidlight.com^
 ||shopsyracuseonline.com^
-||shopyourturn.com^
 ||showapparels.com^
 ||showplax.com^
 ||shy-boat-90ce.jiko728928922.workers.dev^
@@ -694,7 +695,6 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
-||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||slimsyrups.ca^
